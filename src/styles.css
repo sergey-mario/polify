@@ -171,6 +171,13 @@ body { min-height: 100vh; }
 }
 .word-card__value { flex: 1 1 auto; }
 
+.word-card__meta {
+  margin: 4px 0 0;
+  font-size: 11px;
+  color: var(--text-muted);
+  letter-spacing: 0.02em;
+}
+
 /* Badges */
 .badge {
   font-size: 11px;

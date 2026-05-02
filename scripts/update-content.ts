@@ -44,12 +44,19 @@ async function main(): Promise<void> {
   );
 
   // Apply cache: each base word inherits the most recent enrichment we have for it.
-  const merged = baseWords.map((w) =>
-    applyEnrichment(
+  // Also stamp firstSeenAt: cached value if present, otherwise today's date.
+  const todayIso = new Date().toISOString().slice(0, 10);
+  const firstSeenById = buildFirstSeenById(previous);
+  const firstSeenByPolish = buildFirstSeenByPolish(previous);
+  const merged = baseWords.map((w) => {
+    const enriched = applyEnrichment(
       w,
       cacheById.get(w.id) ?? cacheByPolish.get(w.polish) ?? manualByPolish.get(w.polish),
-    ),
-  );
+    );
+    const firstSeenAt =
+      firstSeenById.get(w.id) ?? firstSeenByPolish.get(w.polish) ?? todayIso;
+    return { ...enriched, firstSeenAt };
+  });
 
   // Daily set: prefer fully-valid (translation + synonym/example, status != uncertain).
   const yesterdayIds = new Set(previous?.dailyPractice?.words?.map((w) => w.id) ?? []);
@@ -151,6 +158,24 @@ function buildCacheById(prev: Content | null): Map<string, Enrichment> {
         aiStatus: w.aiStatus,
       });
     }
+  }
+  return map;
+}
+
+function buildFirstSeenById(prev: Content | null): Map<string, string> {
+  if (!prev?.allWords) return new Map();
+  const map = new Map<string, string>();
+  for (const w of prev.allWords) {
+    if (w.firstSeenAt) map.set(w.id, w.firstSeenAt);
+  }
+  return map;
+}
+
+function buildFirstSeenByPolish(prev: Content | null): Map<string, string> {
+  if (!prev?.allWords) return new Map();
+  const map = new Map<string, string>();
+  for (const w of prev.allWords) {
+    if (w.firstSeenAt && !map.has(w.polish)) map.set(w.polish, w.firstSeenAt);
   }
   return map;
 }

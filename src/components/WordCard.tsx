@@ -33,6 +33,9 @@ export function WordCard({ word }: WordCardProps) {
           <span className="word-card__value">{word.example}</span>
         </p>
       )}
+      {word.firstSeenAt && (
+        <p className="word-card__meta">Dodano: {word.firstSeenAt}</p>
+      )}
     </article>
   );
 }

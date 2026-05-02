@@ -7,6 +7,8 @@ export interface Word {
   example?: string;
   translationRu?: string;
   aiStatus: AiStatus;
+  /** ISO date (YYYY-MM-DD) the word first appeared in the pipeline output. */
+  firstSeenAt?: string;
 }
 
 export interface GrammarRule {
