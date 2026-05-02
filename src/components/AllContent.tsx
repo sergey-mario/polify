@@ -6,8 +6,6 @@ type StatusFilter = 'all' | AiStatus;
 type SortKey =
   | 'sheet'
   | 'sheet-desc'
-  | 'added-desc'
-  | 'added-asc'
   | 'polish-asc'
   | 'polish-desc'
   | 'russian-asc'
@@ -74,8 +72,6 @@ export function AllContent({ words, metadata }: Props) {
         >
           <option value="sheet">Po kolejności (najstarsze → najnowsze)</option>
           <option value="sheet-desc">Po kolejności (najnowsze → najstarsze)</option>
-          <option value="added-desc">Data dodania: najnowsze</option>
-          <option value="added-asc">Data dodania: najstarsze</option>
           <option value="polish-asc">Polski: A → Z</option>
           <option value="polish-desc">Polski: Z → A</option>
           <option value="russian-asc">Rosyjski: А → Я</option>
@@ -119,12 +115,6 @@ function sortWords(words: Word[], key: SortKey): Word[] {
     case 'russian-desc':
       indexed.sort((a, b) => compareRussian(a.w, b.w, -1));
       break;
-    case 'added-desc':
-      indexed.sort((a, b) => compareAdded(a.w, b.w, -1) || b.i - a.i);
-      break;
-    case 'added-asc':
-      indexed.sort((a, b) => compareAdded(a.w, b.w, 1) || a.i - b.i);
-      break;
   }
   return indexed.map((x) => x.w);
 }
@@ -139,12 +129,3 @@ function compareRussian(a: Word, b: Word, dir: 1 | -1): number {
   return dir * RU_COLLATOR.compare(ar, br);
 }
 
-function compareAdded(a: Word, b: Word, dir: 1 | -1): number {
-  // Words without firstSeenAt sink to the bottom of either sort direction.
-  const aD = a.firstSeenAt ?? '';
-  const bD = b.firstSeenAt ?? '';
-  if (!aD && !bD) return 0;
-  if (!aD) return 1;
-  if (!bD) return -1;
-  return dir * aD.localeCompare(bD);
-}
