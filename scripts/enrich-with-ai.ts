@@ -1,8 +1,13 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import type { AiStatus, GrammarRule, Word } from './types.js';
 
-const MODEL = process.env.GEMINI_MODEL ?? 'gemini-2.0-flash';
+// gemini-2.5-flash has free-tier quota for new AI Studio projects (10 RPM, 250 RPD).
+// gemini-2.0-flash often returns 429 with limit:0 on free tier despite being listed.
+const MODEL = process.env.GEMINI_MODEL ?? 'gemini-2.5-flash';
 const BATCH_SIZE = 20;
+// Pace batches at 7s to stay under 10 RPM (~8.5 effective RPM with request time).
+const BATCH_DELAY_MS = Number(process.env.GEMINI_BATCH_DELAY_MS ?? 7000);
+const MAX_RETRIES = 4;
 
 interface EnrichInput {
   id: string;
@@ -66,7 +71,9 @@ export async function enrichWords(words: Word[], apiKey: string): Promise<Word[]
   });
 
   const enriched = new Map<string, EnrichOutput>();
+  const totalBatches = Math.ceil(words.length / BATCH_SIZE);
   for (let i = 0; i < words.length; i += BATCH_SIZE) {
+    const batchNum = i / BATCH_SIZE + 1;
     const batch = words.slice(i, i + BATCH_SIZE);
     const input: EnrichInput[] = batch.map((w) => ({
       id: w.id,
@@ -74,15 +81,20 @@ export async function enrichWords(words: Word[], apiKey: string): Promise<Word[]
       synonym: w.synonym,
       example: w.example,
     }));
-    try {
-      const result = await model.generateContent(JSON.stringify(input));
-      const text = result.response.text();
-      const parsed = parseEnrichResponse(text);
-      for (const item of parsed) enriched.set(item.id, item);
-      console.log(`[enrich] batch ${i / BATCH_SIZE + 1}: enriched ${parsed.length}/${batch.length}`);
-    } catch (err) {
-      console.warn(`[enrich] batch ${i / BATCH_SIZE + 1} failed:`, err);
+    const result = await callWithRetry(
+      () => model.generateContent(JSON.stringify(input)),
+      `enrich batch ${batchNum}/${totalBatches}`,
+    );
+    if (result) {
+      try {
+        const parsed = parseEnrichResponse(result.response.text());
+        for (const item of parsed) enriched.set(item.id, item);
+        console.log(`[enrich] batch ${batchNum}/${totalBatches}: enriched ${parsed.length}/${batch.length}`);
+      } catch (err) {
+        console.warn(`[enrich] batch ${batchNum} parse failed:`, err);
+      }
     }
+    if (i + BATCH_SIZE < words.length) await sleep(BATCH_DELAY_MS);
   }
 
   return words.map((w) => mergeEnrichment(w, enriched.get(w.id)));
@@ -110,10 +122,13 @@ export async function generateGrammarRule(words: Word[], apiKey: string): Promis
     translationRu: w.translationRu,
   }));
 
+  const result = await callWithRetry(
+    () => model.generateContent(JSON.stringify(input)),
+    'grammar rule',
+  );
+  if (!result) return fallback;
   try {
-    const result = await model.generateContent(JSON.stringify(input));
-    const text = result.response.text();
-    const parsed = JSON.parse(text);
+    const parsed = JSON.parse(result.response.text());
     if (
       typeof parsed?.title === 'string' &&
       typeof parsed?.explanation === 'string' &&
@@ -128,9 +143,53 @@ export async function generateGrammarRule(words: Word[], apiKey: string): Promis
     console.warn('[grammar] response did not match expected shape');
     return fallback;
   } catch (err) {
-    console.warn('[grammar] generation failed:', err);
+    console.warn('[grammar] parse failed:', err);
     return fallback;
   }
+}
+
+async function callWithRetry<T>(fn: () => Promise<T>, label: string): Promise<T | null> {
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    try {
+      return await fn();
+    } catch (err) {
+      const status = (err as { status?: number })?.status;
+      if (status === 429 && attempt < MAX_RETRIES) {
+        const delaySec = parseRetryDelaySec(err) ?? Math.min(60, 5 * 2 ** (attempt - 1));
+        console.warn(`[${label}] 429, retrying in ${delaySec}s (attempt ${attempt}/${MAX_RETRIES})`);
+        await sleep(delaySec * 1000);
+        continue;
+      }
+      console.warn(`[${label}] failed:`, errorSummary(err));
+      return null;
+    }
+  }
+  return null;
+}
+
+function parseRetryDelaySec(err: unknown): number | null {
+  const details = (err as { errorDetails?: Array<{ '@type'?: string; retryDelay?: string }> })
+    ?.errorDetails;
+  if (!Array.isArray(details)) return null;
+  for (const d of details) {
+    if (typeof d?.retryDelay === 'string') {
+      const m = d.retryDelay.match(/^(\d+)(?:\.\d+)?s$/);
+      if (m) return Number(m[1]) + 1; // small buffer
+    }
+  }
+  return null;
+}
+
+function errorSummary(err: unknown): string {
+  if (err instanceof Error) {
+    const status = (err as { status?: number }).status;
+    return status ? `[${status}] ${err.message.split('\n')[0]}` : err.message.split('\n')[0];
+  }
+  return String(err);
+}
+
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 function parseEnrichResponse(text: string): EnrichOutput[] {
