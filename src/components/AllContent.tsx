@@ -36,30 +36,30 @@ export function AllContent({ words, metadata }: Props) {
         <input
           type="search"
           className="all-content__search"
-          placeholder="Search Polish or Russian…"
+          placeholder="Szukaj po polsku lub rosyjsku…"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          aria-label="Search"
+          aria-label="Szukaj"
         />
         <select
           className="all-content__filter"
           value={status}
           onChange={(e) => setStatus(e.target.value as StatusFilter)}
-          aria-label="Status filter"
+          aria-label="Filtr statusu"
         >
-          <option value="all">All ({metadata.totalWords})</option>
-          <option value="complete">Complete ({metadata.validWords})</option>
-          <option value="partial">Partial ({metadata.partialWords})</option>
-          <option value="uncertain">Uncertain ({metadata.uncertainWords})</option>
+          <option value="all">Wszystkie ({metadata.totalWords})</option>
+          <option value="complete">Kompletne ({metadata.validWords})</option>
+          <option value="partial">Częściowe ({metadata.partialWords})</option>
+          <option value="uncertain">Niepewne ({metadata.uncertainWords})</option>
         </select>
       </div>
 
       <div className="all-content__count">
-        Showing {filtered.length} of {words.length}
+        Wyświetlono {filtered.length} z {words.length}
       </div>
 
       {filtered.length === 0 ? (
-        <div className="empty-state">No matches.</div>
+        <div className="empty-state">Brak wyników.</div>
       ) : (
         <div className="word-grid">
           {filtered.map((w) => (

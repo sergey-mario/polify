@@ -11,14 +11,14 @@ export function DailyPractice({ practice, generatedLabel }: Props) {
   return (
     <section className="daily">
       <div className="daily__meta">
-        <span>Daily set: {date}</span>
-        <span>Generated at {generatedLabel}</span>
+        <span>Zestaw na dzień: {date}</span>
+        <span>Wygenerowano {generatedLabel}</span>
       </div>
 
       {words.length === 0 ? (
         <div className="empty-state">
-          No words available yet. Once the pipeline runs with AI enrichment, your
-          daily set will appear here.
+          Brak dostępnych słów. Po uruchomieniu pipeline'u z włączonym AI
+          codzienny zestaw pojawi się tutaj.
         </div>
       ) : (
         <div className="word-grid">

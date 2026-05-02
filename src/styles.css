@@ -121,22 +121,22 @@ body { min-height: 100vh; }
   color: var(--text-muted);
 }
 
-/* Word grid */
+/* Word list — single-column stacked layout */
 .word-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
 }
 
 .word-card {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  padding: 14px 16px;
+  padding: 12px 16px;
   box-shadow: var(--shadow);
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 4px;
 }
 .word-card--partial { border-left: 3px solid var(--warning-border); }
 .word-card--uncertain { border-left: 3px solid var(--danger-border); }

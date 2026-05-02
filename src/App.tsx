@@ -7,8 +7,8 @@ import { AllContent } from './components/AllContent.js';
 type TabKey = 'daily' | 'all';
 
 const TABS: { key: TabKey; label: string }[] = [
-  { key: 'daily', label: 'Daily Practice' },
-  { key: 'all', label: 'All Content' },
+  { key: 'daily', label: 'Codzienna praktyka' },
+  { key: 'all', label: 'Cały słownik' },
 ];
 
 const CONTENT_URL = `${import.meta.env.BASE_URL}data/content.json`;
@@ -49,16 +49,16 @@ export default function App() {
     <div className="app">
       <header className="app__header">
         <h1 className="app__title">Polify</h1>
-        <p className="app__subtitle">Polish learning · personal practice</p>
+        <p className="app__subtitle">Nauka polskiego · praktyka osobista</p>
       </header>
       <Tabs tabs={TABS} active={tab} onChange={setTab} />
       <main className="app__main">
         {error && (
           <div className="empty-state">
-            Could not load content: {error}
+            Nie udało się wczytać treści: {error}
           </div>
         )}
-        {!error && !content && <div className="empty-state">Loading…</div>}
+        {!error && !content && <div className="empty-state">Wczytywanie…</div>}
         {content && tab === 'daily' && (
           <DailyPractice
             practice={content.dailyPractice}
@@ -71,9 +71,9 @@ export default function App() {
       </main>
       {content && (
         <footer className="app__footer">
-          Generated at {generatedLabel} · {content.metadata.totalWords} words ·{' '}
-          {content.metadata.validWords} complete · {content.metadata.partialWords} partial ·{' '}
-          {content.metadata.uncertainWords} uncertain
+          Wygenerowano {generatedLabel} · {content.metadata.totalWords} słów ·{' '}
+          {content.metadata.validWords} kompletnych · {content.metadata.partialWords} częściowych ·{' '}
+          {content.metadata.uncertainWords} niepewnych
         </footer>
       )}
     </div>
