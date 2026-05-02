@@ -3,6 +3,7 @@ import type { Content } from './types.js';
 import { Tabs } from './components/Tabs.js';
 import { DailyPractice } from './components/DailyPractice.js';
 import { AllContent } from './components/AllContent.js';
+import { Logo } from './components/Logo.js';
 
 type TabKey = 'daily' | 'all';
 
@@ -48,7 +49,10 @@ export default function App() {
   return (
     <div className="app">
       <header className="app__header">
-        <h1 className="app__title">Polify</h1>
+        <div className="app__brand">
+          <Logo />
+          <h1 className="app__title">Polify</h1>
+        </div>
         <p className="app__subtitle">Nauka polskiego · praktyka osobista</p>
       </header>
       <Tabs tabs={TABS} active={tab} onChange={setTab} />

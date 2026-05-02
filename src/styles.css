@@ -41,7 +41,8 @@ body { min-height: 100vh; }
   gap: 20px;
 }
 
-.app__header { display: flex; flex-direction: column; gap: 4px; }
+.app__header { display: flex; flex-direction: column; gap: 6px; }
+.app__brand { display: flex; align-items: center; gap: 12px; }
 .app__title {
   font-family: var(--font-serif);
   font-size: 32px;
@@ -49,6 +50,12 @@ body { min-height: 100vh; }
   letter-spacing: -0.01em;
 }
 .app__subtitle { margin: 0; color: var(--text-muted); font-size: 14px; }
+.logo {
+  display: block;
+  flex: 0 0 auto;
+  border-radius: 13px;
+  box-shadow: 0 1px 3px rgba(20, 20, 20, 0.08);
+}
 
 .app__main { display: flex; flex-direction: column; gap: 24px; }
 
