@@ -1,0 +1,2238 @@
+{
+  "generatedAt": "2026-05-02T09:02:16.558Z",
+  "dailyPractice": {
+    "date": "2026-05-02",
+    "words": [],
+    "grammarRule": {
+      "title": "Powtórka słownictwa",
+      "explanation": "Tryb bez AI: reguła gramatyczna zostanie wygenerowana przy następnym uruchomieniu pipeline z kluczem GEMINI_API_KEY.",
+      "examples": []
+    }
+  },
+  "allWords": [
+    {
+      "id": "przeprowadzka",
+      "polish": "przeprowadzka",
+      "aiStatus": "partial",
+      "example": "po przeprowadzce"
+    },
+    {
+      "id": "zamieszkania",
+      "polish": "zamieszkania",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "tlumaczyc",
+      "polish": "tłumaczyć",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "tlumaczyc-sie",
+      "polish": "tłumaczyć się",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "widziec",
+      "polish": "widzieć",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wiedziec",
+      "polish": "wiedzieć",
+      "aiStatus": "partial",
+      "synonym": "że/ jak/"
+    },
+    {
+      "id": "znac",
+      "polish": "znać",
+      "aiStatus": "partial",
+      "synonym": "kogo /co"
+    },
+    {
+      "id": "nowoczesny",
+      "polish": "nowoczesny",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "istniec",
+      "polish": "istnieć",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wygodniej",
+      "polish": "wygodniej",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "decydowac",
+      "polish": "decydować",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "podejmowac-decyzje",
+      "polish": "podejmować decyzję",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "miasto",
+      "polish": "miasto",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "nawet",
+      "polish": "nawet",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "nadzienie",
+      "polish": "nadzienie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "przesada",
+      "polish": "przesada",
+      "aiStatus": "partial",
+      "synonym": "mieć już dojśc"
+    },
+    {
+      "id": "nie-moge-sie-doczekac",
+      "polish": "Nie mogę się doczekać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "natychmiast",
+      "polish": "natychmiast",
+      "aiStatus": "partial",
+      "synonym": "od razu",
+      "example": "natychmiast wstali z kanapy"
+    },
+    {
+      "id": "narzeczony",
+      "polish": "narzeczony",
+      "aiStatus": "partial",
+      "synonym": "partner, chłopak",
+      "example": "przyjechała z narzeczonym"
+    },
+    {
+      "id": "serca-obojga",
+      "polish": "Serca obojga",
+      "aiStatus": "partial",
+      "example": "Serca obojga biły tak głośno"
+    },
+    {
+      "id": "zmarznac",
+      "polish": "zmarznąć",
+      "aiStatus": "partial",
+      "synonym": "odczuwać mróz",
+      "example": "Chyba bardzo zmarzliście!"
+    },
+    {
+      "id": "udawac",
+      "polish": "udawać",
+      "aiStatus": "partial",
+      "synonym": "symulować",
+      "example": "Darek udawał, że nic nie rozumie"
+    },
+    {
+      "id": "puchar-swiata",
+      "polish": "Puchar Świata",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "piegi",
+      "polish": "piegi",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wtracic-sie",
+      "polish": "wtrącić się",
+      "aiStatus": "partial",
+      "synonym": "brać udział",
+      "example": "Do rozmowy wtrąciła się Beata"
+    },
+    {
+      "id": "lzy-lza",
+      "polish": "łzy / łza",
+      "aiStatus": "partial",
+      "example": "Miała łzy w oczach"
+    },
+    {
+      "id": "sklamac",
+      "polish": "skłamać",
+      "aiStatus": "partial",
+      "synonym": "mówić nieprawde\noszukać",
+      "example": "Skłamała Thomasowi, że była zła"
+    },
+    {
+      "id": "wstydzic-sie",
+      "polish": "wstydzić się",
+      "aiStatus": "partial",
+      "synonym": "czuć wstyd",
+      "example": "jak bardzo się za niego wstydzi"
+    },
+    {
+      "id": "zazdrosny",
+      "polish": "zazdrosny",
+      "aiStatus": "partial",
+      "synonym": "zawistny\nnieufny\npodejrzliwy",
+      "example": "Czy ty jesteś może zazdrosny"
+    },
+    {
+      "id": "wspanialy",
+      "polish": "wspaniały",
+      "aiStatus": "partial",
+      "synonym": "\"mega\" dobry",
+      "example": "Jest pani wspaniałą kucharką"
+    },
+    {
+      "id": "lizus",
+      "polish": "lizus",
+      "aiStatus": "partial",
+      "synonym": "podlizywacz",
+      "example": "Sandra i Beata śmiały się głośno i nazywały go lizusem"
+    },
+    {
+      "id": "przyzwyczac",
+      "polish": "przyzwyczać",
+      "aiStatus": "partial",
+      "synonym": "meć nawyk",
+      "example": "Może się przyzwyczaisz za kilka lat"
+    },
+    {
+      "id": "zdanie",
+      "polish": "zdanie",
+      "aiStatus": "partial",
+      "synonym": "opinie",
+      "example": "Miała nadzieję, że zmieni zdanie"
+    },
+    {
+      "id": "tesknic",
+      "polish": "tęsknić",
+      "aiStatus": "partial",
+      "synonym": "sumować",
+      "example": "tęsknił za swoją córką"
+    },
+    {
+      "id": "grzejnik",
+      "polish": "grzejnik",
+      "aiStatus": "partial",
+      "example": "grzejnik elektryczny"
+    },
+    {
+      "id": "podekscytowany",
+      "polish": "podekscytowany",
+      "aiStatus": "partial",
+      "synonym": "zachwyceni\nradosny",
+      "example": "Dzieci były podekscytowane przed wycieczką"
+    },
+    {
+      "id": "zaskoczony",
+      "polish": "zaskoczony",
+      "aiStatus": "partial",
+      "synonym": "zdziwieny",
+      "example": "Byli zaskoczeni nagłą wiadomością"
+    },
+    {
+      "id": "sprzet",
+      "polish": "sprzęt",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wynajmowac",
+      "polish": "wynajmować",
+      "aiStatus": "partial",
+      "synonym": "wynająć"
+    },
+    {
+      "id": "wspinac-sie",
+      "polish": "wspinać się",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "szczyt",
+      "polish": "szczyt",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "maz",
+      "polish": "mąż",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "na-nia-ja",
+      "polish": "na nią- ją",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wspina",
+      "polish": "wspina",
+      "aiStatus": "partial",
+      "synonym": "j/p"
+    },
+    {
+      "id": "zaskoczyc",
+      "polish": "zaskoczyć",
+      "aiStatus": "partial",
+      "synonym": "zdziwić"
+    },
+    {
+      "id": "przyzwaczejenie",
+      "polish": "przyzwaczejenie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "przekonanie",
+      "polish": "przekonanie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "stereotyp",
+      "polish": "stereotyp",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "spotkac",
+      "polish": "spotkać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "spotkac-sie",
+      "polish": "spotkać się",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "nie-dawaj-wszystkich-do-jednego-worka",
+      "polish": "nie dawaj wszystkich do jednego worka",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zachowywac-sie",
+      "polish": "zachowywać się",
+      "aiStatus": "partial",
+      "synonym": "zachowanie"
+    },
+    {
+      "id": "szacowac",
+      "polish": "szacować",
+      "aiStatus": "partial",
+      "synonym": "szacunek"
+    },
+    {
+      "id": "relacje",
+      "polish": "relację",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "uderzyc",
+      "polish": "uderzyć",
+      "aiStatus": "partial",
+      "synonym": "najechać na",
+      "example": "uderzyć w kogoś"
+    },
+    {
+      "id": "przytomnosc",
+      "polish": "przytomność",
+      "aiStatus": "partial",
+      "example": "straciła przytomność"
+    },
+    {
+      "id": "poddawac-sie",
+      "polish": "poddawać się",
+      "aiStatus": "partial",
+      "synonym": "rezygnować\ntracić nadzieję",
+      "example": "Rehabilitacja trwała miesiącami, ale Mariola się nie poddawała"
+    },
+    {
+      "id": "sfrustrowany",
+      "polish": "sfrustrowany",
+      "aiStatus": "partial",
+      "synonym": "rozczarowany",
+      "example": "Jestem sfrustrowana tą sytuacją"
+    },
+    {
+      "id": "zdala-sobie-sprawe-ze",
+      "polish": "zdała sobie sprawę (że …)",
+      "aiStatus": "partial",
+      "synonym": "zorientować się\nzrozumieć\nskapnąć się (разговорное) - допереть",
+      "example": "Nagle zdałem sobie sprawę, że nie mam telefonu"
+    },
+    {
+      "id": "zasieg",
+      "polish": "zasięg",
+      "aiStatus": "partial",
+      "synonym": "sygnał",
+      "example": "Nie mam zasięgu w górach"
+    },
+    {
+      "id": "potknac-sie",
+      "polish": "potknąć się",
+      "aiStatus": "partial",
+      "synonym": "stracić równowagę",
+      "example": "Potknął się o kamień"
+    },
+    {
+      "id": "lapac-autostop",
+      "polish": "łapać autostop",
+      "aiStatus": "partial",
+      "example": "Mogła jeszcze próbować łapać autostop"
+    },
+    {
+      "id": "zapiac-pas",
+      "polish": "zapiąć pas",
+      "aiStatus": "partial",
+      "example": "Zapięła pas i była gotowa do jazdy"
+    },
+    {
+      "id": "prawdziwa",
+      "polish": "prawdziwa",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "do-jednej-kawiarni",
+      "polish": "do jednej kawiarni",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "pomnik",
+      "polish": "pomnik",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "pamiatka",
+      "polish": "pamiątka",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "popierac",
+      "polish": "popierać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "sprawic-wrazenie",
+      "polish": "sprawić wrażenie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "robic-wrazenie",
+      "polish": "robić wrażenie",
+      "aiStatus": "partial",
+      "synonym": "wywrzeć wrażenie",
+      "example": "wywołać pozytywną reakcję, zaimponować, np. \"Ich występ naprawdę zrobił na mnie wrażenie"
+    },
+    {
+      "id": "silna-wola",
+      "polish": "silna wola",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "w-lesie",
+      "polish": "w lesie",
+      "aiStatus": "partial",
+      "synonym": "w lasie"
+    },
+    {
+      "id": "zrozumiec",
+      "polish": "zrozumieć",
+      "aiStatus": "partial",
+      "synonym": "kumać/zakumać- j/p"
+    },
+    {
+      "id": "zlapac",
+      "polish": "złapać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "przegapic",
+      "polish": "przegapić",
+      "aiStatus": "partial",
+      "synonym": "nie zdążyć"
+    },
+    {
+      "id": "olac",
+      "polish": "olać",
+      "aiStatus": "partial",
+      "synonym": "ignorowaċ"
+    },
+    {
+      "id": "zlekcewazyc",
+      "polish": "zlekceważyć",
+      "aiStatus": "partial",
+      "synonym": "celowo nie zauważyć czegoś"
+    },
+    {
+      "id": "zapiac-zapinac",
+      "polish": "zapiąć / zapinać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "szczegolnie",
+      "polish": "szczególnie",
+      "aiStatus": "partial",
+      "synonym": "zwłaszcza/głównie/ osobliwie/"
+    },
+    {
+      "id": "sprobowalbym-zrobilbym-napisalbym",
+      "polish": "sprobowałbym\nzrobiłbym\nnapisałbym",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "ukrasc",
+      "polish": "ukraść",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "ktos-moze",
+      "polish": "ktoś - może",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "chorowac",
+      "polish": "chorować",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "harmonogram",
+      "polish": "harmonogram",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "statystyka",
+      "polish": "statystyka",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "grafik",
+      "polish": "grafik",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zadnego",
+      "polish": "żadnego",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "sprobowac",
+      "polish": "spróbować",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zul",
+      "polish": "żul",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "muzea",
+      "polish": "muzea",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "muzeum",
+      "polish": "muzeum",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "otwartym",
+      "polish": "otwartym",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "jest",
+      "polish": "jest",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "przeprowadzka-2",
+      "polish": "przeprowadzka",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "mit",
+      "polish": "mit",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "nie-znam-angielskiego",
+      "polish": "nie znam angielskiego",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "ludzie-ktorzy",
+      "polish": "ludzie którzy",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "ci",
+      "polish": "Ci",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "te",
+      "polish": "Te",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "niewatpliwy",
+      "polish": "niewątpliwy",
+      "aiStatus": "partial",
+      "synonym": "oczywisty, pewny",
+      "example": "ma wiele niewątpliwych zalet"
+    },
+    {
+      "id": "znajduja-sie-w-czolowkach",
+      "polish": "znajdują się w czołówkach",
+      "aiStatus": "partial",
+      "synonym": "wśród najlepszych",
+      "example": "znajdują się w czołówkach nielubianych przez nas profesji"
+    },
+    {
+      "id": "wywrzec",
+      "polish": "wywrzeć",
+      "aiStatus": "partial",
+      "synonym": "wpłynąć, mieć wpływ",
+      "example": "wywrzeć na nas jakiś wpływ"
+    },
+    {
+      "id": "komornik",
+      "polish": "komornik",
+      "aiStatus": "partial",
+      "synonym": "egzekutor sądowy",
+      "example": "Komornik przyszedł do mieszkania dłużnika"
+    },
+    {
+      "id": "odrzucenie",
+      "polish": "odrzucenie",
+      "aiStatus": "partial",
+      "synonym": "odmowa",
+      "example": "Przed odrzuceniem wniosku urząd musi go dokładnie sprawdzić"
+    },
+    {
+      "id": "windykator",
+      "polish": "windykator",
+      "aiStatus": "partial",
+      "example": "Windykator zadzwonił do mnie w sprawie długu"
+    },
+    {
+      "id": "kanar",
+      "polish": "kanar",
+      "aiStatus": "partial",
+      "synonym": "kontroler biletów",
+      "example": "Kanar złapał mnie bez biletu"
+    },
+    {
+      "id": "zaledwie-garstka",
+      "polish": "Zaledwie garstka",
+      "aiStatus": "partial",
+      "synonym": "niewielka liczba",
+      "example": "Zaledwie garstka ludzi przyszła na spotkanie"
+    },
+    {
+      "id": "dowpcip",
+      "polish": "dowpcip",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "swieto",
+      "polish": "swięto",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "obchodzic",
+      "polish": "obchodzić",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "nie-obchodzi-mnie-to",
+      "polish": "Nie obchodzi mnie to",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "jest-zakaz",
+      "polish": "jest zakaz",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "kwota",
+      "polish": "kwota",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "dane-osobowe",
+      "polish": "dane osobowe",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "moc",
+      "polish": "móc",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "program",
+      "polish": "program",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "widok",
+      "polish": "widok",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "kierowac",
+      "polish": "kierować",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "spoleczenstwo",
+      "polish": "społeczeństwo",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "znam-kogo-co-duzo-przykladow",
+      "polish": "znam (kogo?co?) dużo przykładów",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wiem-ze",
+      "polish": "wiem - że",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "nagrywac",
+      "polish": "nagrywać",
+      "aiStatus": "partial",
+      "synonym": "filmować"
+    },
+    {
+      "id": "rzucac",
+      "polish": "rzucać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "nie-fer",
+      "polish": "nie fer",
+      "aiStatus": "partial",
+      "synonym": "coś jest nieuczciwe, niesprawiedliwe lub niezgodne z zasadami"
+    },
+    {
+      "id": "widok-2",
+      "polish": "widok",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "obraniac",
+      "polish": "obraniać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "ofiara",
+      "polish": "ofiara",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "ten-system",
+      "polish": "ten system",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wyobrazic",
+      "polish": "wyobrazić",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "ten-problem",
+      "polish": "ten problem",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "dyspozycja",
+      "polish": "dyspozycja",
+      "aiStatus": "partial",
+      "example": "Masz do dyspozycji trzy pokoje"
+    },
+    {
+      "id": "zbyt-wysokie-wymagania",
+      "polish": "zbyt wysokie wymagania",
+      "aiStatus": "partial",
+      "synonym": "warunki, standardy",
+      "example": "praca ma wysokie wymagania"
+    },
+    {
+      "id": "slup",
+      "polish": "słup",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "rura",
+      "polish": "rura",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "odbitek",
+      "polish": "odbitek",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "slad",
+      "polish": "ślad",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "ujawnic",
+      "polish": "ujawnić",
+      "aiStatus": "partial",
+      "synonym": "wykryć"
+    },
+    {
+      "id": "wyluzowac",
+      "polish": "wyluzować",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "ale-luz",
+      "polish": "ale luz",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "jednakowe",
+      "polish": "jednakowe",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "podobne",
+      "polish": "podobne",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "selektywny",
+      "polish": "selektywny",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wyrazisty",
+      "polish": "wyrazisty",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "prawdziwy",
+      "polish": "prawdziwy",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "promocja",
+      "polish": "promocja",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "przewleka",
+      "polish": "przewleka",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zwracac-sie",
+      "polish": "zwracać się",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wracac-sie",
+      "polish": "wracać się",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wyzwanie",
+      "polish": "wyzwanie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "odwazni",
+      "polish": "odważni",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "na-marsie",
+      "polish": "na Marsie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "odpady",
+      "polish": "odpady",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "czasem-czasami",
+      "polish": "czasem/czasami",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "podjac-podejmowac",
+      "polish": "podjąć/podejmować",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "cofnac-sie",
+      "polish": "cofnąc się",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "kozacka-kozacki",
+      "polish": "kozacka/ kozacki",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "pyszny",
+      "polish": "pyszny",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "przenikac",
+      "polish": "przenikać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "na-gorze",
+      "polish": "na górze",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "dach",
+      "polish": "dach",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "na-dachu",
+      "polish": "na dachu",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "pilot",
+      "polish": "pilot",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "stopien-stopni",
+      "polish": "stopień/ stopni",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "dobry",
+      "polish": "dobry",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "dobrze",
+      "polish": "dobrze",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "dobra",
+      "polish": "dobra",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zakladac",
+      "polish": "zakładać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "producenci",
+      "polish": "producenci",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "po-raz-trzeci",
+      "polish": "po raz trzeci",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "znany",
+      "polish": "znany",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "jakosciowe",
+      "polish": "jakościowe",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "konsument",
+      "polish": "konsument",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "konsumpcja",
+      "polish": "konsumpcja",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "rolnicy",
+      "polish": "rolnicy",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wplywac",
+      "polish": "wpływać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wystepy-publiczne",
+      "polish": "występy publiczne",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "ci-ludzie",
+      "polish": "ci ludzie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wech",
+      "polish": "węch",
+      "aiStatus": "partial",
+      "example": "Mam dobry węch / mieć dobry węch do czegoś"
+    },
+    {
+      "id": "dotyk",
+      "polish": "dotyk",
+      "aiStatus": "partial",
+      "synonym": "kontakt, dotknięcie",
+      "example": "Dotyk jest bardzo ważny dla człowieka"
+    },
+    {
+      "id": "odwiedzic-odwiedzac",
+      "polish": "odwiedzić/ odwiedzać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "ubiezpieczyc",
+      "polish": "ubiezpieczyć",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zwolennik",
+      "polish": "zwolennik",
+      "aiStatus": "partial",
+      "synonym": "osoba, która jest przekonana o słuszności jakiejś idei, koncepcji lub jakiegoś działania."
+    },
+    {
+      "id": "przeciwnik",
+      "polish": "przeciwnik",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wspinac-sie-2",
+      "polish": "wspinać się",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wspierac",
+      "polish": "wspierać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "drzwi-okulary-sanie-usta",
+      "polish": "drzwi / okulary/ sanie / usta",
+      "aiStatus": "partial",
+      "synonym": "zawsze l.m."
+    },
+    {
+      "id": "sztuka",
+      "polish": "sztuka",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "sposob",
+      "polish": "sposób",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "sposoby",
+      "polish": "sposoby",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "reklama-podprogowa",
+      "polish": "reklama podprogowa",
+      "aiStatus": "partial",
+      "synonym": "technika marketingowa wykorzystująca ukryte bodźce wzrokowe lub dźwiękowe, prezentowane poniżej progu świadomej percepcji"
+    },
+    {
+      "id": "skojarzenie",
+      "polish": "skojarzenie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "istniec-2",
+      "polish": "istnieć",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "kreowac",
+      "polish": "kreować",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "media-spolecznosciowe",
+      "polish": "media społecznosciowe",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "prestiz",
+      "polish": "prestiż",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zakupy-impulsywne",
+      "polish": "zakupy impulsywne",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "pulapka",
+      "polish": "pułapka",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "prowadzic-samochod",
+      "polish": "prowadzić samochód",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "czynnik",
+      "polish": "czynnik",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "cecha",
+      "polish": "cecha",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "dotykac-dotknac",
+      "polish": "dotykać/ dotknąć",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "regula",
+      "polish": "reguła",
+      "aiStatus": "partial",
+      "synonym": "ona"
+    },
+    {
+      "id": "chec",
+      "polish": "chęć",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "utracic",
+      "polish": "utracić",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "teto",
+      "polish": "tęto",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "na-czas",
+      "polish": "na czas",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "okropni-ludzie",
+      "polish": "okropni ludzie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "przytyla-kilka-kilo",
+      "polish": "Przytyła kilka kilo",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "jaka-podekscytowana-byla-pelagia",
+      "polish": "jaka podekscytowana była Pelagia",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "mamy-wiele-wspolnego",
+      "polish": "mamy wiele wspólnego",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wymowki",
+      "polish": "wymówki",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wszedzie",
+      "polish": "wszędzie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "otylosc",
+      "polish": "otyłość",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "przytyc",
+      "polish": "przytyć",
+      "aiStatus": "partial",
+      "synonym": "nabrać masy"
+    },
+    {
+      "id": "obrzek",
+      "polish": "obrzęk",
+      "aiStatus": "partial",
+      "synonym": "napuchnięcie/nabrzęknięcie"
+    },
+    {
+      "id": "bochater",
+      "polish": "bochater",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "pada",
+      "polish": "pada",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "schudnac",
+      "polish": "schudnąć",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "nabial",
+      "polish": "nabiał",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "rzeczy-sporzywcze",
+      "polish": "rzeczy sporzywcze",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "cel-on",
+      "polish": "cel - on",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "ranking",
+      "polish": "ranking",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "czy-to-sie-oplaca",
+      "polish": "czy to się opłaca",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zwarjowac",
+      "polish": "zwarjować",
+      "aiStatus": "partial",
+      "synonym": "oszaleć/zidiocieć"
+    },
+    {
+      "id": "niektorzy",
+      "polish": "niektórzy",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "obrazic",
+      "polish": "obrazić",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "opinia-ona",
+      "polish": "opinia - ona",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "w-tej-samej-druzynie",
+      "polish": "w tej samej drużynie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "irytowac",
+      "polish": "irytować",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "oszusta",
+      "polish": "oszusta",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "ufac",
+      "polish": "ufać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "publikowac",
+      "polish": "publikować",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wyswietlenie",
+      "polish": "wyświetlenie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zakazane",
+      "polish": "zakazane",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "ukryta",
+      "polish": "ukryta",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "takie-same-zdanie",
+      "polish": "takie same zdanie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "blat",
+      "polish": "blat",
+      "aiStatus": "partial",
+      "synonym": "powierzchnia robocza",
+      "example": "nawet miejsce na blacie na mikrofalówkę"
+    },
+    {
+      "id": "przeboj",
+      "polish": "przebój",
+      "aiStatus": "partial",
+      "synonym": "hit, bestseller",
+      "example": "przesłuchali kilkadziesiąt starych przebojów"
+    },
+    {
+      "id": "wariatka",
+      "polish": "wariatka",
+      "aiStatus": "partial",
+      "synonym": "szalona",
+      "example": "Ona jest wariatką"
+    },
+    {
+      "id": "obsesja",
+      "polish": "obsesja",
+      "aiStatus": "partial",
+      "synonym": "mania",
+      "example": "mój mąż ma obsesję"
+    },
+    {
+      "id": "wizjer",
+      "polish": "wizjer",
+      "aiStatus": "partial",
+      "example": "Spojrzałem przez wizjer (Дверной глазок)"
+    },
+    {
+      "id": "na-wszelki-wypadek",
+      "polish": "na wszelki wypadek",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "rodacy",
+      "polish": "rodacy",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "ja-sie-myle",
+      "polish": "ja się mylę",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "msza",
+      "polish": "msza",
+      "aiStatus": "partial",
+      "synonym": "ona"
+    },
+    {
+      "id": "jajko-jajka",
+      "polish": "jajko - jajka",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "krewni",
+      "polish": "krewni",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "cofnac-sie-w-czasie",
+      "polish": "cofnąć się w czasie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zarzadzac",
+      "polish": "zarządzać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "jest-pod-patronatem",
+      "polish": "jest pod patronatem",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zdziwiony",
+      "polish": "zdziwiony",
+      "aiStatus": "partial",
+      "synonym": "zaskoczony"
+    },
+    {
+      "id": "zasieg-2",
+      "polish": "zasięg",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "satelita",
+      "polish": "satelita",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "gospodarstwo-domowe",
+      "polish": "gospodarstwo domowe",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "gospodarka",
+      "polish": "gospodarka",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "hodowac",
+      "polish": "hodować",
+      "aiStatus": "partial",
+      "synonym": "hodaować kwiaty"
+    },
+    {
+      "id": "podroz",
+      "polish": "podróż",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "podroze",
+      "polish": "podróże",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "trudno",
+      "polish": "trudno",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "trudnie",
+      "polish": "trudnie",
+      "aiStatus": "partial",
+      "synonym": "jak?"
+    },
+    {
+      "id": "zwidzac",
+      "polish": "zwidzać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wyobrazac",
+      "polish": "wyobrażać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "skok-ze-spadochronem",
+      "polish": "skok ze spadochronem",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zyc",
+      "polish": "żyć",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "mieszkac",
+      "polish": "mieszkać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "mez-maz",
+      "polish": "męż- mąż",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "brzmiec",
+      "polish": "brzmieć",
+      "aiStatus": "partial",
+      "synonym": "to brzmi dziwnie"
+    },
+    {
+      "id": "czuc",
+      "polish": "czuć",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "szaro-jak",
+      "polish": "szaro - jak",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "pilnie",
+      "polish": "pilnie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "pilnowac",
+      "polish": "pilnować",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "oprawca",
+      "polish": "oprawca",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "kat",
+      "polish": "kat",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "drogie",
+      "polish": "drogie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "byc-na-biezaco",
+      "polish": "być na bieżąco",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "skuteczny",
+      "polish": "skuteczny",
+      "aiStatus": "partial",
+      "synonym": "efektywny"
+    },
+    {
+      "id": "byc-na-czasie",
+      "polish": "być na czasie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "programista-programisci",
+      "polish": "programista - programisci",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "krok-etap-poziom",
+      "polish": "krok - etap - poziom",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "obserwowac",
+      "polish": "obserwować",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "nowoczesny-2",
+      "polish": "nowoczesny",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "narzedzie",
+      "polish": "narzędzie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "spedzilbym",
+      "polish": "spędziłbym",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "starszy-starsi",
+      "polish": "starszy - starsi",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "fala",
+      "polish": "fala",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wyobrazac-2",
+      "polish": "wyobrażać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "ujawnij-sie",
+      "polish": "ujawnij się",
+      "aiStatus": "partial",
+      "synonym": "wychodzić na jaw\ndać o sobie znać"
+    },
+    {
+      "id": "nastolatki-nastoletek",
+      "polish": "nastolatki- nastoletek",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "pozwalac",
+      "polish": "pozwalać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wiekszosc",
+      "polish": "większość",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "mniejszisc",
+      "polish": "mniejsziść",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "znajomosci",
+      "polish": "znajomości",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "mlody-mlodzi",
+      "polish": "młody - młodzi",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "mlodziez",
+      "polish": "młodzież",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "grzybobranie",
+      "polish": "grzybobranie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "podac-przyklad",
+      "polish": "podać przykład",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "osiadnac",
+      "polish": "osiądnąć",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "pokonac",
+      "polish": "pokonać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "kojarzyc",
+      "polish": "kojarzyć",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "system-on",
+      "polish": "system - on",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "bzdura",
+      "polish": "bzdura",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "przeciwienstwo",
+      "polish": "przeciwieństwo",
+      "aiStatus": "partial",
+      "synonym": "osoba, rzecz lub zjawisko całkowicie różne od innego, stanowiące jego kontrast, odwrotność lub sprzeczność (antonim)"
+    },
+    {
+      "id": "kwestia",
+      "polish": "kwestia",
+      "aiStatus": "partial",
+      "synonym": "problem"
+    },
+    {
+      "id": "sprawny",
+      "polish": "sprawny",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "niekomfortowo",
+      "polish": "niekomfortowo",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "przyzwyczajenie",
+      "polish": "przyzwyczajenie",
+      "aiStatus": "partial",
+      "synonym": "nawyk, zwyczaj, maniera"
+    },
+    {
+      "id": "lot-z",
+      "polish": "lot z",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "podrozowac-z-kim-czym-przyjaciolmi",
+      "polish": "podróżować z (kim?czym?) przyjaciółmi",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "co-zobaczyc-zwiedzic",
+      "polish": "co zobaczyć/ zwiedzić",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "znamy-sie",
+      "polish": "znamy się",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "napieta",
+      "polish": "napięta",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "odmow",
+      "polish": "odmów",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "rezygnowac",
+      "polish": "rezygnować",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zrezygnowac",
+      "polish": "zrezygnować",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "duzo-malo-wiekszosc-mniejszosc",
+      "polish": "dużo/mało/ większość/ mniejszość",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "jezyk-hebrajski",
+      "polish": "język hebrajski",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "w-koszyku",
+      "polish": "w koszyku",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wszystko-gra",
+      "polish": "wszystko gra",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "kombinowac",
+      "polish": "kombinować",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "sciagac",
+      "polish": "ściągać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "pineska",
+      "polish": "pineska",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "niezbedne",
+      "polish": "niezbędne",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "kac",
+      "polish": "kac",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "katar",
+      "polish": "katar",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "bardzo-mi-przykro",
+      "polish": "Bardzo mi przykro",
+      "aiStatus": "partial",
+      "synonym": "szkoda, niestety",
+      "example": "Bardzo mi przykro, że nie możesz przyjść"
+    },
+    {
+      "id": "wsciekly",
+      "polish": "wściekły",
+      "aiStatus": "partial",
+      "synonym": "zdenerwowana",
+      "example": "Jestem wściekły, bo znowu się spóźniłeś"
+    },
+    {
+      "id": "wypowiedziec",
+      "polish": "wypowiedzieć",
+      "aiStatus": "partial",
+      "synonym": "rozwiązaċ",
+      "example": "wypowiedzieć umowę"
+    },
+    {
+      "id": "irytujacy",
+      "polish": "irytujący",
+      "aiStatus": "partial",
+      "synonym": "denerwujący",
+      "example": "To być bardzo irytujący klient"
+    },
+    {
+      "id": "pojsc-z-torbami",
+      "polish": "pójść z torbami",
+      "aiStatus": "partial",
+      "synonym": "stracić wszystko",
+      "example": "Prowadzić firmę źle i szybko pójść z torbami"
+    },
+    {
+      "id": "szopa",
+      "polish": "szopa",
+      "aiStatus": "partial",
+      "synonym": "schowek",
+      "example": "Trzymać rower w szopie"
+    },
+    {
+      "id": "narzedzie-2",
+      "polish": "narzędzie",
+      "aiStatus": "partial",
+      "synonym": "sprzęt",
+      "example": "Mieć szopę z narzędziami za domem"
+    },
+    {
+      "id": "poprzedzac",
+      "polish": "poprzedzać",
+      "aiStatus": "partial",
+      "synonym": "być przed czymś",
+      "example": "Burza poprzedzać silny wiatr"
+    },
+    {
+      "id": "poddawac-sie-2",
+      "polish": "poddawać się",
+      "aiStatus": "partial",
+      "synonym": "rezygnować, kapitulować",
+      "example": "Warto walczyć i nie poddawać się"
+    },
+    {
+      "id": "wszystko-na-nic",
+      "polish": "Wszystko na nic",
+      "aiStatus": "partial",
+      "synonym": "bez efektu"
+    },
+    {
+      "id": "okolo-pieciu-siedmiu",
+      "polish": "około pięciu/siedmiu",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "pobierac-pobrac",
+      "polish": "pobierać / pobrać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "przeprowadzalismy",
+      "polish": "przeprowadzaliśmy",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "przeprowadzilismy",
+      "polish": "przeprowadziliśmy",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "gust",
+      "polish": "gust",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "niebo-w-gebie",
+      "polish": "niebo w gębie",
+      "aiStatus": "partial",
+      "synonym": "Palce lizać\nMiód w gębie\nPychota / Pyszoty\nRozpływa się w ustach"
+    },
+    {
+      "id": "klopsik-klopsiki",
+      "polish": "klopsik/ klopsiki",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wszystkie",
+      "polish": "wszystkie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "prawie",
+      "polish": "prawie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "ksztalt",
+      "polish": "ksztalt",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "dotknac-sie",
+      "polish": "dotknąć się",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "dotykac-sie",
+      "polish": "dotykać się",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "duzo-malo",
+      "polish": "dużo/ mało /",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "nasi",
+      "polish": "nasi",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "niektorze",
+      "polish": "niektórze",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "byc-slynnym-z-czegos",
+      "polish": "być słynnym z czegoś",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "walizka-ona",
+      "polish": "walizka - ona",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "odpowiedni",
+      "polish": "odpowiedni",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wzruszyc-ramionami",
+      "polish": "wzruszyć ramionami",
+      "aiStatus": "partial",
+      "synonym": "podnieść ramiona / nie wiedzieć, co powiedzieć",
+      "example": "Na pytanie tylko wzruszyć ramionami"
+    },
+    {
+      "id": "dziedzina",
+      "polish": "dziedzina",
+      "aiStatus": "partial",
+      "synonym": "branża, sfera, zakres",
+      "example": "Pracować w dziedzinie marketingu"
+    },
+    {
+      "id": "pogotowie",
+      "polish": "pogotowie",
+      "aiStatus": "partial",
+      "synonym": "karetka, ambulans",
+      "example": "Wezwać pogotowie"
+    },
+    {
+      "id": "przetwor",
+      "polish": "przetwór",
+      "aiStatus": "partial",
+      "synonym": "konserwa",
+      "example": "Robić przetwory na zimę"
+    },
+    {
+      "id": "przerazony",
+      "polish": "przerażony",
+      "aiStatus": "partial",
+      "synonym": "zszokowany",
+      "example": "Być przerażony wiadomością"
+    },
+    {
+      "id": "bluszcz",
+      "polish": "bluszcz",
+      "aiStatus": "partial",
+      "synonym": "roślina",
+      "example": "Lubić stare budynki z bluszczem"
+    },
+    {
+      "id": "gatunek",
+      "polish": "gatunek",
+      "aiStatus": "partial",
+      "synonym": "rodzaj, typ",
+      "example": "Lubić ten gatunek muzyki"
+    },
+    {
+      "id": "watpic-sie",
+      "polish": "wątpić się",
+      "aiStatus": "partial",
+      "synonym": "nie być pewnym",
+      "example": "Wątpić w czyjeś słowa"
+    },
+    {
+      "id": "zostawic-kogos-na-lodzie",
+      "polish": "zostawić kogoś na lodzie",
+      "aiStatus": "partial",
+      "synonym": "zostawić bez pomocy"
+    },
+    {
+      "id": "produktywny",
+      "polish": "produktywny",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "przedluzac",
+      "polish": "przedłużać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "brac-leki",
+      "polish": "brać leki",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "objawy-objawa",
+      "polish": "objawy/objawa",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "rasa",
+      "polish": "rasa",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "okolo-dwoch-tszech-czterech-pieciu-czternastu-dwudziestu",
+      "polish": "około dwóch/tszech/czterech/pięciu/czternastu/dwudziestu",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "bardzo-mi-przykro-2",
+      "polish": "bardzo mi przykro",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wyobrazic-2",
+      "polish": "wyobrażić",
+      "aiStatus": "partial",
+      "synonym": "ujawnić"
+    },
+    {
+      "id": "przedstawic",
+      "polish": "przedstawić",
+      "aiStatus": "partial",
+      "synonym": "zaprezentować"
+    },
+    {
+      "id": "pozegnac-sie",
+      "polish": "pożegnać się",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "pozegnanie",
+      "polish": "pożegnanie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "klatka-w-klatce",
+      "polish": "klatka - w klatce",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "organizm",
+      "polish": "orgAnizm",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "one-psy",
+      "polish": "one - psy",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "psy-j-p-policja",
+      "polish": "psy j.p - policja",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "miec-na-celu",
+      "polish": "mieć na celu",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zachowywac-sie-2",
+      "polish": "zachowywać się",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "chronic",
+      "polish": "chronić",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "chronisko",
+      "polish": "chronisko",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "hodowla",
+      "polish": "hodowla",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zachowywac-sie-3",
+      "polish": "zachowywać się",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "glupio",
+      "polish": "głupio",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "powodzie",
+      "polish": "powodzie",
+      "aiStatus": "partial",
+      "synonym": "tymczasowe zalanie terenów normalnie suchych przez wody rzeczne, morskie lub z opadów"
+    },
+    {
+      "id": "mi-powiodlo",
+      "polish": "mi powiodło",
+      "aiStatus": "partial",
+      "synonym": "udało mi się, poszczęściło mi się, osiągnąłem sukces, wyszło mi, zrealizowałem cel, dopisało mi szczęście, wygrałem"
+    },
+    {
+      "id": "podjac-decyzje-podejmowac",
+      "polish": "podjąć decyzję/ podejmować",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "cos-sie-wydarzy",
+      "polish": "coś się wydarzy",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wizja",
+      "polish": "wizja",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wapienie",
+      "polish": "wąpienie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "dopiero-po-przejsciu-najciezszych-prob",
+      "polish": "Dopiero po przejściu najcięższych prób",
+      "aiStatus": "partial",
+      "synonym": "tylko"
+    },
+    {
+      "id": "obok-najwyzszych-kwalifikacji-fachowych",
+      "polish": "Obok najwyższych kwalifikacji fachowych",
+      "aiStatus": "partial",
+      "synonym": "oprócz"
+    },
+    {
+      "id": "wymaganie",
+      "polish": "Wymaganie",
+      "aiStatus": "partial",
+      "synonym": "warunek",
+      "example": "Czytać wymaganie oferty pracy"
+    },
+    {
+      "id": "fachowy",
+      "polish": "fachowy",
+      "aiStatus": "partial",
+      "synonym": "profesjonalny",
+      "example": "Mieć fachowe doświadczenie"
+    },
+    {
+      "id": "na-tyle",
+      "polish": "na tyle",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "jednoczesnie",
+      "polish": "jednocześnie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "czy-trudno-przyzwyczaic-sie",
+      "polish": "czy trudno przyzwyczaić się",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "od-domu",
+      "polish": "od domu",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wszystkie-2",
+      "polish": "wszystkie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "co-roku",
+      "polish": "co roku",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zaciagac",
+      "polish": "zaciągać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "osiagnac",
+      "polish": "osiągnąć",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "dostszec",
+      "polish": "dostszeć",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "dotarlo",
+      "polish": "dotarło",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zapomnialem",
+      "polish": "zapomniałem",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "bac-sie",
+      "polish": "bać się",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zasada",
+      "polish": "zasada",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "przekonanie-2",
+      "polish": "przekonanie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "wyslychac",
+      "polish": "wysłychać",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "zlecenie",
+      "polish": "zlecenie",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "we-wloszech",
+      "polish": "we Włoszech",
+      "aiStatus": "partial"
+    },
+    {
+      "id": "na-biezaco",
+      "polish": "na bieżąco",
+      "aiStatus": "partial"
+    }
+  ],
+  "metadata": {
+    "source": "google-sheets-csv",
+    "totalWords": 411,
+    "validWords": 0,
+    "partialWords": 411,
+    "uncertainWords": 0
+  }
+}
