@@ -49,10 +49,15 @@ async function main(): Promise<void> {
   const firstSeenById = buildFirstSeenById(previous);
   const firstSeenByPolish = buildFirstSeenByPolish(previous);
   const merged = baseWords.map((w) => {
-    const enriched = applyEnrichment(
-      w,
-      cacheById.get(w.id) ?? cacheByPolish.get(w.polish) ?? manualByPolish.get(w.polish),
-    );
+    const cached = cacheById.get(w.id) ?? cacheByPolish.get(w.polish);
+    const manual = manualByPolish.get(w.polish);
+    // Manual seed fills in synonym/example even when the word is already cached with
+    // just a translation — otherwise a cached translationRu-only entry permanently
+    // shadows manual seed additions for that word.
+    const enrichment = cached
+      ? { ...cached, synonym: cached.synonym ?? manual?.synonym, example: cached.example ?? manual?.example }
+      : manual;
+    const enriched = applyEnrichment(w, enrichment);
     const firstSeenAt =
       firstSeenById.get(w.id) ?? firstSeenByPolish.get(w.polish) ?? todayIso;
     return { ...enriched, firstSeenAt };
