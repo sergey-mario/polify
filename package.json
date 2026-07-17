@@ -8,6 +8,7 @@
     "build": "tsc -b && vite build",
     "preview": "vite preview",
     "update-content": "tsx scripts/update-content.ts",
+    "refresh-daily": "tsx scripts/refresh-daily.ts",
     "typecheck": "tsc -b --noEmit"
   },
   "dependencies": {
