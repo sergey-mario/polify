@@ -1,96 +1,108 @@
 {
-  "generatedAt": "2026-07-17T07:22:53.226Z",
+  "generatedAt": "2026-07-17T07:47:52.976Z",
   "dailyPractice": {
     "date": "2026-07-17",
     "words": [
       {
-        "id": "zwolennik-2",
-        "polish": "zwolennik",
+        "id": "dopiero-po-przejsciu-najciezszych-prob",
+        "polish": "Dopiero po przejściu najcięższych prób",
         "aiStatus": "complete",
-        "translationRu": "сторонник",
-        "synonym": "osoba, która jest przekonana o słuszności jakiejś idei, koncepcji lub jakiegoś działania.",
+        "synonym": "tylko",
+        "translationRu": "Только после прохождения самых тяжёлых испытаний",
+        "example": "Dopiero po przejściu najcięższych prób człowiek poznaje swoją prawdziwą siłę.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "uczyc-sie",
-        "polish": "uczyć się",
+        "id": "wtracic-sie",
+        "polish": "wtrącić się",
         "aiStatus": "complete",
-        "translationRu": "учиться",
-        "example": "Uczę się polskiego od roku.",
+        "synonym": "brać udział",
+        "example": "Do rozmowy wtrąciła się Beata",
+        "translationRu": "вмешаться (в разговор)",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "komornik",
+        "polish": "komornik",
+        "aiStatus": "complete",
+        "synonym": "egzekutor sądowy",
+        "example": "Komornik przyszedł do mieszkania dłużnika",
+        "translationRu": "судебный пристав",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "grafik",
+        "polish": "grafik",
+        "aiStatus": "complete",
+        "translationRu": "график (работ, дежурств); график-художник",
+        "synonym": "harmonogram",
+        "example": "Sprawdź grafik dyżurów w tym tygodniu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zapominam",
+        "polish": "zapominam",
+        "aiStatus": "complete",
+        "translationRu": "я забываю",
+        "synonym": "nie pamiętam",
+        "example": "Zawsze zapominam parasola.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "dach",
-        "polish": "dach",
+        "id": "natychmiast",
+        "polish": "natychmiast",
         "aiStatus": "complete",
-        "translationRu": "крыша",
-        "example": "Naprawiamy dach domu.",
+        "synonym": "od razu",
+        "example": "natychmiast wstali z kanapy",
+        "translationRu": "немедленно, сразу",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "byc-na-biezaco",
-        "polish": "być na bieżąco",
+        "id": "podejmowac",
+        "polish": "podejmować",
         "aiStatus": "complete",
-        "translationRu": "быть в курсе",
-        "example": "Czytam wiadomości, żeby być na bieżąco.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "trafny",
-        "polish": "trafny",
-        "aiStatus": "complete",
-        "synonym": "dokładny",
-        "example": "trafne zdanie, trafna uwaga",
-        "translationRu": "меткий, точный",
+        "translationRu": "предпринимать, принимать",
+        "synonym": "przedsiębrać",
+        "example": "Musimy podejmować trudne decyzje.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wokol",
-        "polish": "wokół",
+        "id": "obserwac",
+        "polish": "obserwać",
         "aiStatus": "complete",
-        "synonym": "dokoła, naokoło",
-        "translationRu": "вокруг",
-        "example": "Wokół domu rosną drzewa.",
+        "translationRu": "наблюдать (опечатка от obserwować)",
+        "synonym": "śledzić",
+        "example": "Naukowcy obserwują zachowanie zwierząt.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "pokonac",
-        "polish": "pokonać",
+        "id": "uwielbiac",
+        "polish": "uwielbiać",
         "aiStatus": "complete",
-        "translationRu": "победить, преодолеть",
-        "example": "Pokonał wszystkie trudności.",
-        "firstSeenAt": "2026-05-02"
+        "synonym": "bardzo lubić",
+        "example": "Większość uwielbiała jej świeży, dynamiczny styl",
+        "translationRu": "обожать",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zdziwiony",
-        "polish": "zdziwiony",
+        "id": "brzmiec",
+        "polish": "brzmieć",
         "aiStatus": "complete",
-        "synonym": "zaskoczony",
-        "translationRu": "удивлённый",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "sklamac",
-        "polish": "skłamać",
-        "aiStatus": "complete",
-        "synonym": "mówić nieprawde\noszukać",
-        "example": "Skłamała Thomasowi, że była zła",
-        "translationRu": "солгать, обмануть",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "windykator",
-        "polish": "windykator",
-        "aiStatus": "complete",
-        "example": "Windykator zadzwonił do mnie w sprawie długu",
-        "translationRu": "взыскатель долгов, коллектор",
+        "synonym": "to brzmi dziwnie",
+        "translationRu": "звучать",
+        "example": "To brzmi dobrze.",
         "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
-      "title": "Powtórka słownictwa",
-      "explanation": "Tryb bez AI: reguła gramatyczna zostanie wygenerowana przy następnym uruchomieniu pipeline z kluczem GEMINI_API_KEY.",
-      "examples": []
+      "title": "Czasowniki niedokonane na -ować/-ać",
+      "explanation": "Czasowniki takie jak \"podejmować\", \"obserwować\" i \"uwielbiać\" to czasowniki niedokonane — opisują czynność trwającą lub powtarzającą się, a nie jednorazowy skutek. W czasie teraźniejszym odmieniamy je przez osoby, np. \"ja zapominam\" (1 os. l.poj. od \"zapominać\").",
+      "examples": [
+        "Musimy podejmować trudne decyzje.",
+        "Naukowcy obserwują zachowanie zwierząt.",
+        "Zawsze zapominam parasola.",
+        "Większość uwielbiała jej świeży, dynamiczny styl."
+      ]
     }
   },
   "allWords": [
@@ -100,6 +112,7 @@
       "aiStatus": "complete",
       "example": "po przeprowadzce",
       "translationRu": "переезд",
+      "synonym": "przenosiny",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -107,6 +120,8 @@
       "polish": "zamieszkania",
       "aiStatus": "partial",
       "translationRu": "проживания (род. п. от zamieszkanie)",
+      "synonym": "pobytu",
+      "example": "Musisz podać adres miejsca zamieszkania.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -123,6 +138,7 @@
       "polish": "tłumaczyć się",
       "aiStatus": "complete",
       "translationRu": "оправдываться",
+      "synonym": "usprawiedliwiać się",
       "example": "Nie musisz mi się tłumaczyć.",
       "firstSeenAt": "2026-05-02"
     },
@@ -131,6 +147,7 @@
       "polish": "widzieć",
       "aiStatus": "complete",
       "translationRu": "видеть",
+      "synonym": "dostrzegać",
       "example": "Czy widzisz tę górę?",
       "firstSeenAt": "2026-05-02"
     },
@@ -166,6 +183,7 @@
       "polish": "istnieć",
       "aiStatus": "complete",
       "translationRu": "существовать",
+      "synonym": "być",
       "example": "Czy duchy naprawdę istnieją?",
       "firstSeenAt": "2026-05-02"
     },
@@ -174,6 +192,7 @@
       "polish": "wygodniej",
       "aiStatus": "complete",
       "translationRu": "удобнее",
+      "synonym": "przyjemniej",
       "example": "Tak będzie nam wygodniej.",
       "firstSeenAt": "2026-05-02"
     },
@@ -182,6 +201,7 @@
       "polish": "decydować",
       "aiStatus": "complete",
       "translationRu": "решать, принимать решение",
+      "synonym": "postanawiać",
       "example": "Sam decyduję o swoim życiu.",
       "firstSeenAt": "2026-05-02"
     },
@@ -190,6 +210,7 @@
       "polish": "podejmować decyzję",
       "aiStatus": "complete",
       "translationRu": "принимать решение",
+      "synonym": "decydować",
       "example": "Trudno mi podejmować decyzje pod presją.",
       "firstSeenAt": "2026-05-02"
     },
@@ -198,6 +219,7 @@
       "polish": "miasto",
       "aiStatus": "complete",
       "translationRu": "город",
+      "synonym": "miejscowość",
       "example": "Warszawa to duże miasto.",
       "firstSeenAt": "2026-05-02"
     },
@@ -206,6 +228,7 @@
       "polish": "nawet",
       "aiStatus": "complete",
       "translationRu": "даже",
+      "synonym": "wręcz",
       "example": "Nawet ja tego nie rozumiem.",
       "firstSeenAt": "2026-05-02"
     },
@@ -214,6 +237,7 @@
       "polish": "nadzienie",
       "aiStatus": "complete",
       "translationRu": "начинка",
+      "synonym": "farsz",
       "example": "Pierogi z mięsnym nadzieniem.",
       "firstSeenAt": "2026-05-02"
     },
@@ -231,6 +255,7 @@
       "polish": "Nie mogę się doczekać",
       "aiStatus": "complete",
       "translationRu": "Не могу дождаться",
+      "synonym": "z niecierpliwością czekam",
       "example": "Nie mogę się doczekać wakacji.",
       "firstSeenAt": "2026-05-02"
     },
@@ -283,6 +308,7 @@
       "polish": "Puchar Świata",
       "aiStatus": "complete",
       "translationRu": "Кубок мира",
+      "synonym": "Mundial",
       "example": "Polacy zdobyli Puchar Świata.",
       "firstSeenAt": "2026-05-02"
     },
@@ -309,6 +335,7 @@
       "aiStatus": "complete",
       "example": "Miała łzy w oczach",
       "translationRu": "слёзы / слеза",
+      "synonym": "płacz",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -415,6 +442,7 @@
       "polish": "sprzęt",
       "aiStatus": "complete",
       "translationRu": "оборудование, техника",
+      "synonym": "urządzenie",
       "example": "Sprzęt sportowy jest drogi.",
       "firstSeenAt": "2026-05-02"
     },
@@ -432,6 +460,7 @@
       "polish": "wspinać się",
       "aiStatus": "complete",
       "translationRu": "взбираться, карабкаться",
+      "synonym": "piąć się",
       "example": "Wspinamy się na szczyt.",
       "firstSeenAt": "2026-05-02"
     },
@@ -440,6 +469,7 @@
       "polish": "szczyt",
       "aiStatus": "complete",
       "translationRu": "вершина, пик",
+      "synonym": "wierzchołek",
       "example": "Dotarliśmy na szczyt góry.",
       "firstSeenAt": "2026-05-02"
     },
@@ -448,6 +478,7 @@
       "polish": "mąż",
       "aiStatus": "complete",
       "translationRu": "муж",
+      "synonym": "małżonek",
       "example": "Mój mąż pracuje w banku.",
       "firstSeenAt": "2026-05-02"
     },
@@ -456,6 +487,7 @@
       "polish": "na nią- ją",
       "aiStatus": "partial",
       "translationRu": "на неё / её (вин. падеж)",
+      "example": "Patrzę na nią i widzę ją z daleka.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -464,6 +496,7 @@
       "aiStatus": "partial",
       "synonym": "j/p",
       "translationRu": "взбирается (3 л. ед., от wspinać się)",
+      "example": "Ona szybko wspina się po drabinie.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -472,6 +505,7 @@
       "aiStatus": "complete",
       "synonym": "zdziwić",
       "translationRu": "удивить, застать врасплох",
+      "example": "Ta wiadomość mnie zaskoczyła.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -479,6 +513,8 @@
       "polish": "przyzwaczejenie",
       "aiStatus": "partial",
       "translationRu": "привычка (опечатка от przyzwyczajenie)",
+      "synonym": "nawyk",
+      "example": "Palenie to zły nawyk, trudno się go pozbyć.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -486,6 +522,7 @@
       "polish": "przekonanie",
       "aiStatus": "complete",
       "translationRu": "убеждение",
+      "synonym": "pogląd",
       "example": "Mam głębokie przekonanie, że to jest słuszne.",
       "firstSeenAt": "2026-05-02"
     },
@@ -494,6 +531,7 @@
       "polish": "stereotyp",
       "aiStatus": "complete",
       "translationRu": "стереотип",
+      "synonym": "uprzedzenie",
       "example": "To tylko stereotyp.",
       "firstSeenAt": "2026-05-02"
     },
@@ -502,6 +540,7 @@
       "polish": "spotkać",
       "aiStatus": "complete",
       "translationRu": "встретить",
+      "synonym": "napotkać",
       "example": "Spotkałem go wczoraj.",
       "firstSeenAt": "2026-05-02"
     },
@@ -510,6 +549,7 @@
       "polish": "spotkać się",
       "aiStatus": "complete",
       "translationRu": "встретиться",
+      "synonym": "zobaczyć się",
       "example": "Spotkajmy się jutro.",
       "firstSeenAt": "2026-05-02"
     },
@@ -518,6 +558,8 @@
       "polish": "nie dawaj wszystkich do jednego worka",
       "aiStatus": "complete",
       "translationRu": "не суй всех в один мешок (= не стриги под одну гребёнку)",
+      "synonym": "nie generalizuj",
+      "example": "Nie dawaj wszystkich do jednego worka, każdy jest inny.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -535,6 +577,7 @@
       "aiStatus": "complete",
       "synonym": "szacunek",
       "translationRu": "оценивать (стоимость, размер)",
+      "example": "Trudno oszacować dokładny koszt remontu.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -542,6 +585,8 @@
       "polish": "relację",
       "aiStatus": "complete",
       "translationRu": "отношения (вин. падеж от relacja)",
+      "synonym": "związek",
+      "example": "Opisz swoją relację z rodzicami.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -559,6 +604,7 @@
       "aiStatus": "complete",
       "example": "straciła przytomność",
       "translationRu": "сознание",
+      "synonym": "świadomość",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -612,6 +658,7 @@
       "aiStatus": "complete",
       "example": "Mogła jeszcze próbować łapać autostop",
       "translationRu": "ловить попутку",
+      "synonym": "autostopować",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -620,6 +667,7 @@
       "aiStatus": "complete",
       "example": "Zapięła pas i była gotowa do jazdy",
       "translationRu": "пристегнуть ремень",
+      "synonym": "zapiąć pasy",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -627,6 +675,7 @@
       "polish": "prawdziwa",
       "aiStatus": "complete",
       "translationRu": "настоящая, истинная",
+      "synonym": "autentyczna",
       "example": "To jest prawdziwa historia.",
       "firstSeenAt": "2026-05-02"
     },
@@ -635,6 +684,7 @@
       "polish": "do jednej kawiarni",
       "aiStatus": "partial",
       "translationRu": "в одно кафе (фрагмент)",
+      "example": "Poszliśmy do jednej kawiarni na rogu ulicy.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -642,6 +692,7 @@
       "polish": "pomnik",
       "aiStatus": "complete",
       "translationRu": "памятник",
+      "synonym": "monument",
       "example": "Postawili pomnik na rynku.",
       "firstSeenAt": "2026-05-02"
     },
@@ -650,6 +701,7 @@
       "polish": "pamiątka",
       "aiStatus": "complete",
       "translationRu": "сувенир, память (на память)",
+      "synonym": "upominek",
       "example": "Kupiłem pamiątkę z Krakowa.",
       "firstSeenAt": "2026-05-02"
     },
@@ -658,6 +710,7 @@
       "polish": "popierać",
       "aiStatus": "complete",
       "translationRu": "поддерживать (мнение, кандидата)",
+      "synonym": "wspierać",
       "example": "Popieram twój pomysł.",
       "firstSeenAt": "2026-05-02"
     },
@@ -666,6 +719,7 @@
       "polish": "sprawić wrażenie",
       "aiStatus": "complete",
       "translationRu": "произвести впечатление",
+      "synonym": "zaimponować",
       "example": "Sprawił na mnie dobre wrażenie.",
       "firstSeenAt": "2026-05-02"
     },
@@ -683,6 +737,7 @@
       "polish": "silna wola",
       "aiStatus": "complete",
       "translationRu": "сильная воля",
+      "synonym": "determinacja",
       "example": "Ma silną wolę i osiągnie cel.",
       "firstSeenAt": "2026-05-02"
     },
@@ -709,6 +764,7 @@
       "polish": "złapać",
       "aiStatus": "complete",
       "translationRu": "поймать, схватить",
+      "synonym": "schwytać",
       "example": "Złapał piłkę w locie.",
       "firstSeenAt": "2026-05-02"
     },
@@ -736,6 +792,7 @@
       "aiStatus": "complete",
       "synonym": "celowo nie zauważyć czegoś",
       "translationRu": "пренебречь, проигнорировать",
+      "example": "Nie wolno lekceważyć objawów choroby.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -743,6 +800,7 @@
       "polish": "zapiąć / zapinać",
       "aiStatus": "complete",
       "translationRu": "застегнуть / застёгивать",
+      "synonym": "spinać",
       "example": "Zapnij kurtkę, jest zimno.",
       "firstSeenAt": "2026-05-02"
     },
@@ -760,6 +818,8 @@
       "polish": "sprobowałbym\nzrobiłbym\nnapisałbym",
       "aiStatus": "partial",
       "translationRu": "я бы попробовал / сделал / написал (условное наклонение)",
+      "synonym": "chciałbym spróbować/zrobić/napisać",
+      "example": "Na twoim miejscu spróbowałbym czegoś nowego.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -767,6 +827,7 @@
       "polish": "ukraść",
       "aiStatus": "complete",
       "translationRu": "украсть",
+      "synonym": "skraść",
       "example": "Ktoś ukradł mi rower.",
       "firstSeenAt": "2026-05-02"
     },
@@ -775,6 +836,7 @@
       "polish": "ktoś - może",
       "aiStatus": "uncertain",
       "translationRu": "кто-то — может (фрагмент)",
+      "example": "Ktoś może zadzwonić później.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -782,6 +844,7 @@
       "polish": "chorować",
       "aiStatus": "complete",
       "translationRu": "болеть",
+      "synonym": "być chorym",
       "example": "Często choruję zimą.",
       "firstSeenAt": "2026-05-02"
     },
@@ -790,6 +853,7 @@
       "polish": "harmonogram",
       "aiStatus": "complete",
       "translationRu": "расписание, график",
+      "synonym": "plan",
       "example": "Mam napięty harmonogram.",
       "firstSeenAt": "2026-05-02"
     },
@@ -798,6 +862,7 @@
       "polish": "statystyka",
       "aiStatus": "complete",
       "translationRu": "статистика",
+      "synonym": "dane statystyczne",
       "example": "Według statystyk, Polacy żyją coraz dłużej.",
       "firstSeenAt": "2026-05-02"
     },
@@ -806,6 +871,8 @@
       "polish": "grafik",
       "aiStatus": "complete",
       "translationRu": "график (работ, дежурств); график-художник",
+      "synonym": "harmonogram",
+      "example": "Sprawdź grafik dyżurów w tym tygodniu.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -813,6 +880,7 @@
       "polish": "żadnego",
       "aiStatus": "partial",
       "translationRu": "никакого (род. падеж от żaden)",
+      "example": "Nie mam żadnego pomysłu.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -820,6 +888,7 @@
       "polish": "spróbować",
       "aiStatus": "complete",
       "translationRu": "попробовать",
+      "synonym": "wypróbować",
       "example": "Spróbuj jeszcze raz.",
       "firstSeenAt": "2026-05-02"
     },
@@ -828,6 +897,8 @@
       "polish": "żul",
       "aiStatus": "complete",
       "translationRu": "пьяница, бомж (разг.)",
+      "synonym": "menel",
+      "example": "Pod sklepem siedział żul z butelką.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -835,6 +906,7 @@
       "polish": "muzea",
       "aiStatus": "complete",
       "translationRu": "музеи (мн. ч.)",
+      "synonym": "galerie",
       "example": "Lubię chodzić do muzeów.",
       "firstSeenAt": "2026-05-02"
     },
@@ -843,6 +915,7 @@
       "polish": "muzeum",
       "aiStatus": "complete",
       "translationRu": "музей",
+      "synonym": "galeria",
       "example": "W tym muzeum są obrazy Picassa.",
       "firstSeenAt": "2026-05-02"
     },
@@ -851,6 +924,7 @@
       "polish": "otwartym",
       "aiStatus": "partial",
       "translationRu": "открытым (твор. падеж от otwarty)",
+      "example": "Rozmawialiśmy szczerym, otwartym tonem.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -858,6 +932,7 @@
       "polish": "jest",
       "aiStatus": "partial",
       "translationRu": "есть, является (3 л. ед.)",
+      "example": "On jest lekarzem.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -865,6 +940,7 @@
       "polish": "przeprowadzka",
       "aiStatus": "complete",
       "translationRu": "переезд",
+      "synonym": "przenosiny",
       "example": "Po przeprowadzce muszę kupić nowe meble.",
       "firstSeenAt": "2026-05-02"
     },
@@ -873,6 +949,7 @@
       "polish": "mit",
       "aiStatus": "complete",
       "translationRu": "миф",
+      "synonym": "legenda",
       "example": "To tylko mit, nie prawda.",
       "firstSeenAt": "2026-05-02"
     },
@@ -881,6 +958,7 @@
       "polish": "nie znam angielskiego",
       "aiStatus": "complete",
       "translationRu": "я не знаю английского",
+      "example": "Niestety nie znam angielskiego zbyt dobrze.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -888,6 +966,7 @@
       "polish": "ludzie którzy",
       "aiStatus": "partial",
       "translationRu": "люди, которые (фрагмент)",
+      "example": "Ludzie, którzy dużo pracują, bywają zmęczeni.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -895,6 +974,7 @@
       "polish": "Ci",
       "aiStatus": "partial",
       "translationRu": "эти (мужчины-лица, мн. ч.)",
+      "example": "Ci mężczyźni są moimi sąsiadami.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -902,6 +982,7 @@
       "polish": "Te",
       "aiStatus": "partial",
       "translationRu": "эти (немужчины-лица, мн. ч.)",
+      "example": "Te kobiety pracują w szpitalu.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -955,6 +1036,7 @@
       "aiStatus": "complete",
       "example": "Windykator zadzwonił do mnie w sprawie długu",
       "translationRu": "взыскатель долгов, коллектор",
+      "synonym": "komornik",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -980,6 +1062,8 @@
       "polish": "dowpcip",
       "aiStatus": "partial",
       "translationRu": "анекдот, шутка (опечатка от dowcip)",
+      "synonym": "żart",
+      "example": "Opowiedział świetny dowcip na imprezie.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -987,6 +1071,8 @@
       "polish": "swięto",
       "aiStatus": "partial",
       "translationRu": "праздник (опечатка от święto)",
+      "synonym": "uroczystość",
+      "example": "W niedzielę mamy święto państwowe.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -994,6 +1080,7 @@
       "polish": "obchodzić",
       "aiStatus": "complete",
       "translationRu": "праздновать; интересовать ('me obchodzi')",
+      "synonym": "świętować",
       "example": "Obchodzimy urodziny w sobotę.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1002,6 +1089,8 @@
       "polish": "Nie obchodzi mnie to",
       "aiStatus": "complete",
       "translationRu": "Мне всё равно",
+      "synonym": "Wszystko mi jedno",
+      "example": "Możesz robić co chcesz, nie obchodzi mnie to.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1009,6 +1098,8 @@
       "polish": "jest zakaz",
       "aiStatus": "complete",
       "translationRu": "есть запрет, запрещено",
+      "synonym": "jest zabronione",
+      "example": "Tu jest zakaz palenia.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1016,6 +1107,7 @@
       "polish": "kwota",
       "aiStatus": "complete",
       "translationRu": "сумма (денег)",
+      "synonym": "suma",
       "example": "To duża kwota pieniędzy.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1024,6 +1116,8 @@
       "polish": "dane osobowe",
       "aiStatus": "complete",
       "translationRu": "личные данные",
+      "synonym": "informacje osobiste",
+      "example": "Firma chroni nasze dane osobowe.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1031,6 +1125,7 @@
       "polish": "móc",
       "aiStatus": "complete",
       "translationRu": "мочь",
+      "synonym": "potrafić",
       "example": "Czy mogę zadać pytanie?",
       "firstSeenAt": "2026-05-02"
     },
@@ -1039,6 +1134,7 @@
       "polish": "program",
       "aiStatus": "complete",
       "translationRu": "программа",
+      "synonym": "plan",
       "example": "Co oglądasz w telewizji? — Mój ulubiony program.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1047,6 +1143,7 @@
       "polish": "widok",
       "aiStatus": "complete",
       "translationRu": "вид (пейзаж, на что-то)",
+      "synonym": "krajobraz",
       "example": "Z balkonu jest piękny widok.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1055,6 +1152,7 @@
       "polish": "kierować",
       "aiStatus": "complete",
       "translationRu": "управлять, направлять",
+      "synonym": "prowadzić",
       "example": "Kieruje firmą od dziesięciu lat.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1063,6 +1161,7 @@
       "polish": "społeczeństwo",
       "aiStatus": "complete",
       "translationRu": "общество",
+      "synonym": "społeczność",
       "example": "Społeczeństwo się starzeje.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1071,6 +1170,7 @@
       "polish": "znam (kogo?co?) dużo przykładów",
       "aiStatus": "partial",
       "translationRu": "знаю (кого/что?) много примеров",
+      "example": "Znam dużo przykładów takich sytuacji.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1078,6 +1178,7 @@
       "polish": "wiem - że",
       "aiStatus": "partial",
       "translationRu": "знаю — что (фрагмент)",
+      "example": "Wiem, że to prawda.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1094,6 +1195,7 @@
       "polish": "rzucać",
       "aiStatus": "complete",
       "translationRu": "бросать, кидать",
+      "synonym": "ciskać",
       "example": "Rzucam piłkę psu.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1103,6 +1205,7 @@
       "aiStatus": "complete",
       "synonym": "coś jest nieuczciwe, niesprawiedliwe lub niezgodne z zasadami",
       "translationRu": "нечестно (англицизм от 'not fair')",
+      "example": "To nie fer, że on dostał więcej niż ja.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1110,6 +1213,7 @@
       "polish": "widok",
       "aiStatus": "complete",
       "translationRu": "вид (пейзаж, на что-то)",
+      "synonym": "krajobraz",
       "example": "Z balkonu jest piękny widok.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1118,6 +1222,7 @@
       "polish": "obraniać",
       "aiStatus": "uncertain",
       "translationRu": "защищать / обижать (неясно из контекста — возможно опечатка)",
+      "example": "Musiał obraniać swoje stanowisko.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1125,6 +1230,7 @@
       "polish": "ofiara",
       "aiStatus": "complete",
       "translationRu": "жертва",
+      "synonym": "poszkodowany",
       "example": "Był ofiarą wypadku.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1133,6 +1239,7 @@
       "polish": "ten system",
       "aiStatus": "partial",
       "translationRu": "эта система (грам.)",
+      "example": "Ten system działa bardzo sprawnie.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1140,6 +1247,7 @@
       "polish": "wyobrazić",
       "aiStatus": "complete",
       "translationRu": "представить (себе)",
+      "synonym": "uzmysłowić sobie",
       "example": "Wyobraź sobie, że jesteś w Paryżu.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1148,6 +1256,7 @@
       "polish": "ten problem",
       "aiStatus": "partial",
       "translationRu": "эта проблема (грам.)",
+      "example": "Musimy szybko rozwiązać ten problem.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1156,6 +1265,7 @@
       "aiStatus": "complete",
       "example": "Masz do dyspozycji trzy pokoje",
       "translationRu": "распоряжение, диспозиция",
+      "synonym": "polecenie",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1172,6 +1282,7 @@
       "polish": "słup",
       "aiStatus": "complete",
       "translationRu": "столб",
+      "synonym": "słupek",
       "example": "Samochód uderzył w słup.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1180,6 +1291,7 @@
       "polish": "rura",
       "aiStatus": "complete",
       "translationRu": "труба (водопроводная)",
+      "synonym": "przewód",
       "example": "Pęknięta rura zalewa łazienkę.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1188,6 +1300,7 @@
       "polish": "odbitek",
       "aiStatus": "uncertain",
       "translationRu": "отпечаток / оттиск (возможно опечатка)",
+      "example": "Zrobiłem odbitkę zdjęcia w studiu.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1195,6 +1308,7 @@
       "polish": "ślad",
       "aiStatus": "complete",
       "translationRu": "след",
+      "synonym": "trop",
       "example": "Zostawiłeś ślady na podłodze.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1212,6 +1326,7 @@
       "polish": "wyluzować",
       "aiStatus": "complete",
       "translationRu": "расслабиться (разг.)",
+      "synonym": "zrelaksować się",
       "example": "Wyluzuj, wszystko będzie dobrze.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1220,6 +1335,8 @@
       "polish": "ale luz",
       "aiStatus": "complete",
       "translationRu": "ну расслабон, классно (разг.)",
+      "synonym": "luzik, spokojnie",
+      "example": "Ale luz, nie musisz się tak stresować.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1227,6 +1344,7 @@
       "polish": "jednakowe",
       "aiStatus": "complete",
       "translationRu": "одинаковые",
+      "synonym": "takie same",
       "example": "Te dwa pudełka są jednakowe.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1235,6 +1353,7 @@
       "polish": "podobne",
       "aiStatus": "complete",
       "translationRu": "похожие",
+      "synonym": "zbliżone",
       "example": "Mamy podobne zainteresowania.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1243,6 +1362,8 @@
       "polish": "selektywny",
       "aiStatus": "complete",
       "translationRu": "избирательный, селективный",
+      "synonym": "wybiórczy",
+      "example": "Segregacja odpadów jest teraz selektywna w każdym mieście.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1250,6 +1371,8 @@
       "polish": "wyrazisty",
       "aiStatus": "complete",
       "translationRu": "выразительный",
+      "synonym": "ekspresyjny",
+      "example": "Miała wyrazisty głos, który trudno było zapomnieć.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1257,6 +1380,7 @@
       "polish": "prawdziwy",
       "aiStatus": "complete",
       "translationRu": "настоящий, подлинный",
+      "synonym": "autentyczny",
       "example": "To prawdziwy diament.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1265,6 +1389,7 @@
       "polish": "promocja",
       "aiStatus": "complete",
       "translationRu": "акция, скидка; продвижение",
+      "synonym": "zniżka",
       "example": "Te buty są na promocji.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1273,6 +1398,8 @@
       "polish": "przewleka",
       "aiStatus": "partial",
       "translationRu": "затягивает (3 л. ед., от przewlekać)",
+      "synonym": "opóźnia",
+      "example": "On zawsze przewleka sprawy na później.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1280,6 +1407,7 @@
       "polish": "zwracać się",
       "aiStatus": "complete",
       "translationRu": "обращаться (к кому-то)",
+      "synonym": "kierować się (do kogoś)",
       "example": "Zwracam się do Pana z prośbą.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1288,6 +1416,8 @@
       "polish": "wracać się",
       "aiStatus": "partial",
       "translationRu": "возвращаться (нестанд.; обычно 'wracać')",
+      "synonym": "wracać",
+      "example": "Nie mogę się już wracać do przeszłości.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1295,6 +1425,7 @@
       "polish": "wyzwanie",
       "aiStatus": "complete",
       "translationRu": "вызов, испытание",
+      "synonym": "trudność",
       "example": "To dla mnie nowe wyzwanie.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1303,6 +1434,7 @@
       "polish": "odważni",
       "aiStatus": "complete",
       "translationRu": "храбрые, отважные",
+      "synonym": "dzielni",
       "example": "Tylko odważni odnoszą sukces.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1311,6 +1443,7 @@
       "polish": "na Marsie",
       "aiStatus": "complete",
       "translationRu": "на Марсе",
+      "synonym": "na czerwonej planecie",
       "example": "Życie na Marsie? Może kiedyś.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1319,6 +1452,7 @@
       "polish": "odpady",
       "aiStatus": "complete",
       "translationRu": "отходы, мусор",
+      "synonym": "śmieci",
       "example": "Sortujemy odpady do recyklingu.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1327,6 +1461,7 @@
       "polish": "czasem/czasami",
       "aiStatus": "complete",
       "translationRu": "иногда",
+      "synonym": "niekiedy",
       "example": "Czasem wracam do domu pieszo.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1335,6 +1470,8 @@
       "polish": "podjąć/podejmować",
       "aiStatus": "complete",
       "translationRu": "предпринять / предпринимать; принять решение",
+      "synonym": "przedsięwziąć",
+      "example": "Musimy podjąć decyzję jak najszybciej.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1342,6 +1479,8 @@
       "polish": "cofnąc się",
       "aiStatus": "partial",
       "translationRu": "отступить, попятиться (опечатка от cofnąć)",
+      "synonym": "wycofać się",
+      "example": "Musiał się cofnąć, gdy zobaczył niebezpieczeństwo.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1349,6 +1488,8 @@
       "polish": "kozacka/ kozacki",
       "aiStatus": "complete",
       "translationRu": "крутой, классный (разг.); казацкий",
+      "synonym": "super, świetny",
+      "example": "To była kozacka impreza!",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1356,6 +1497,7 @@
       "polish": "pyszny",
       "aiStatus": "complete",
       "translationRu": "вкусный",
+      "synonym": "smaczny",
       "example": "Ta zupa jest pyszna!",
       "firstSeenAt": "2026-05-02"
     },
@@ -1364,6 +1506,7 @@
       "polish": "przenikać",
       "aiStatus": "complete",
       "translationRu": "проникать",
+      "synonym": "wnikać",
       "example": "Zimno przenika przez ubranie.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1372,6 +1515,7 @@
       "polish": "na górze",
       "aiStatus": "complete",
       "translationRu": "наверху",
+      "synonym": "u góry",
       "example": "Sypialnia jest na górze.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1396,6 +1540,7 @@
       "polish": "pilot",
       "aiStatus": "complete",
       "translationRu": "пульт; пилот",
+      "synonym": "zdalne sterowanie",
       "example": "Gdzie jest pilot od telewizora?",
       "firstSeenAt": "2026-05-02"
     },
@@ -1404,6 +1549,7 @@
       "polish": "stopień/ stopni",
       "aiStatus": "complete",
       "translationRu": "степень, градус / градусов (род. мн.)",
+      "synonym": "poziom",
       "example": "Dziś jest dziesięć stopni.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1412,6 +1558,8 @@
       "polish": "dobry",
       "aiStatus": "complete",
       "translationRu": "хороший",
+      "synonym": "świetny",
+      "example": "To jest naprawdę dobry pomysł.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1419,6 +1567,8 @@
       "polish": "dobrze",
       "aiStatus": "complete",
       "translationRu": "хорошо",
+      "synonym": "świetnie",
+      "example": "Wszystko poszło dobrze.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1426,6 +1576,8 @@
       "polish": "dobra",
       "aiStatus": "complete",
       "translationRu": "хорошая; ладно (разг.)",
+      "synonym": "okej (разг.)",
+      "example": "Dobra, zrobię to jutro.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1433,6 +1585,7 @@
       "polish": "zakładać",
       "aiStatus": "complete",
       "translationRu": "закладывать; основывать; надевать (одежду)",
+      "synonym": "tworzyć",
       "example": "Zakładam okulary do czytania.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1441,6 +1594,8 @@
       "polish": "producenci",
       "aiStatus": "complete",
       "translationRu": "производители",
+      "synonym": "wytwórcy",
+      "example": "Producenci żywności muszą przestrzegać norm jakości.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1448,6 +1603,8 @@
       "polish": "po raz trzeci",
       "aiStatus": "complete",
       "translationRu": "в третий раз",
+      "synonym": "trzeci raz",
+      "example": "Po raz trzeci próbował zdać ten egzamin.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1455,6 +1612,7 @@
       "polish": "znany",
       "aiStatus": "complete",
       "translationRu": "известный",
+      "synonym": "sławny",
       "example": "To znany aktor.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1463,6 +1621,8 @@
       "polish": "jakościowe",
       "aiStatus": "complete",
       "translationRu": "качественные (мн.)",
+      "synonym": "wysokiej jakości",
+      "example": "Firma stawia na jakościowe produkty.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1470,6 +1630,8 @@
       "polish": "konsument",
       "aiStatus": "complete",
       "translationRu": "потребитель",
+      "synonym": "klient",
+      "example": "Konsument ma prawo do reklamacji towaru.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1477,6 +1639,8 @@
       "polish": "konsumpcja",
       "aiStatus": "complete",
       "translationRu": "потребление",
+      "synonym": "spożycie",
+      "example": "Konsumpcja mięsa w Polsce rośnie z roku na rok.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1484,6 +1648,8 @@
       "polish": "rolnicy",
       "aiStatus": "complete",
       "translationRu": "фермеры",
+      "synonym": "gospodarze",
+      "example": "Rolnicy protestowali przeciwko niskim cenom zboża.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1491,6 +1657,7 @@
       "polish": "wpływać",
       "aiStatus": "complete",
       "translationRu": "влиять, воздействовать",
+      "synonym": "oddziaływać",
       "example": "Pogoda wpływa na nastrój.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1499,6 +1666,8 @@
       "polish": "występy publiczne",
       "aiStatus": "complete",
       "translationRu": "публичные выступления",
+      "synonym": "przemówienia publiczne",
+      "example": "Boi się występów publicznych.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1506,6 +1675,7 @@
       "polish": "ci ludzie",
       "aiStatus": "partial",
       "translationRu": "эти люди",
+      "example": "Ci ludzie zawsze mi pomagają.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1514,6 +1684,7 @@
       "aiStatus": "complete",
       "example": "Mam dobry węch / mieć dobry węch do czegoś",
       "translationRu": "обоняние",
+      "synonym": "zmysł powonienia",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1530,6 +1701,7 @@
       "polish": "odwiedzić/ odwiedzać",
       "aiStatus": "complete",
       "translationRu": "посетить / посещать (кого-то)",
+      "synonym": "wpaść do kogoś",
       "example": "Odwiedzę babcię w niedzielę.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1538,6 +1710,8 @@
       "polish": "ubiezpieczyć",
       "aiStatus": "partial",
       "translationRu": "застраховать (опечатка от ubezpieczyć)",
+      "synonym": "wykupić ubezpieczenie",
+      "example": "Trzeba ubezpieczyć samochód przed wyjazdem.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1546,6 +1720,7 @@
       "aiStatus": "complete",
       "synonym": "osoba, która jest przekonana o słuszności jakiejś idei, koncepcji lub jakiegoś działania.",
       "translationRu": "сторонник",
+      "example": "Jest zagorzałym zwolennikiem tej reformy.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1553,6 +1728,8 @@
       "polish": "przeciwnik",
       "aiStatus": "complete",
       "translationRu": "противник, оппонент",
+      "synonym": "oponent",
+      "example": "Miał wielu przeciwników politycznych.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1560,6 +1737,7 @@
       "polish": "wspinać się",
       "aiStatus": "complete",
       "translationRu": "взбираться, карабкаться",
+      "synonym": "piąć się",
       "example": "Wspinamy się na szczyt.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1568,6 +1746,7 @@
       "polish": "wspierać",
       "aiStatus": "complete",
       "translationRu": "поддерживать",
+      "synonym": "pomagać",
       "example": "Rodzice mnie wspierają.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1577,6 +1756,7 @@
       "aiStatus": "complete",
       "synonym": "zawsze l.m.",
       "translationRu": "двери / очки / сани / уста (только мн. ч.)",
+      "example": "Drzwi były zamknięte na klucz.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1584,6 +1764,7 @@
       "polish": "sztuka",
       "aiStatus": "complete",
       "translationRu": "искусство; пьеса; штука",
+      "synonym": "dzieło",
       "example": "Idziemy na sztukę do teatru.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1592,6 +1773,7 @@
       "polish": "sposób",
       "aiStatus": "complete",
       "translationRu": "способ",
+      "synonym": "metoda",
       "example": "Znam dobry sposób na zmęczenie.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1600,6 +1782,8 @@
       "polish": "sposoby",
       "aiStatus": "complete",
       "translationRu": "способы (мн.)",
+      "synonym": "metody",
+      "example": "Istnieje wiele sposobów na rozwiązanie tego problemu.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1608,6 +1792,7 @@
       "aiStatus": "complete",
       "synonym": "technika marketingowa wykorzystująca ukryte bodźce wzrokowe lub dźwiękowe, prezentowane poniżej progu świadomej percepcji",
       "translationRu": "подсознательная реклама",
+      "example": "Reklama podprogowa wpływa na podświadomość konsumentów.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1615,6 +1800,7 @@
       "polish": "skojarzenie",
       "aiStatus": "complete",
       "translationRu": "ассоциация (мысленная)",
+      "synonym": "powiązanie",
       "example": "Co ci się kojarzy ze słowem 'wakacje'? Pierwsze skojarzenie?",
       "firstSeenAt": "2026-05-02"
     },
@@ -1623,6 +1809,7 @@
       "polish": "istnieć",
       "aiStatus": "complete",
       "translationRu": "существовать",
+      "synonym": "być",
       "example": "Czy duchy naprawdę istnieją?",
       "firstSeenAt": "2026-05-02"
     },
@@ -1631,6 +1818,8 @@
       "polish": "kreować",
       "aiStatus": "complete",
       "translationRu": "создавать (имидж, образ)",
+      "synonym": "tworzyć",
+      "example": "Marka stara się kreować pozytywny wizerunek.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1638,6 +1827,8 @@
       "polish": "media społecznosciowe",
       "aiStatus": "complete",
       "translationRu": "социальные сети",
+      "synonym": "social media",
+      "example": "Spędza codziennie kilka godzin na mediach społecznościowych.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1645,6 +1836,8 @@
       "polish": "prestiż",
       "aiStatus": "complete",
       "translationRu": "престиж",
+      "synonym": "renoma",
+      "example": "Praca w tej firmie ma duży prestiż.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1652,6 +1845,8 @@
       "polish": "zakupy impulsywne",
       "aiStatus": "complete",
       "translationRu": "импульсивные покупки",
+      "synonym": "nieprzemyślane zakupy",
+      "example": "Zakupy impulsywne często prowadzą do niepotrzebnych wydatków.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1659,6 +1854,7 @@
       "polish": "pułapka",
       "aiStatus": "complete",
       "translationRu": "ловушка",
+      "synonym": "sidła",
       "example": "Wpadłem w pułapkę.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1667,6 +1863,7 @@
       "polish": "prowadzić samochód",
       "aiStatus": "complete",
       "translationRu": "водить машину",
+      "synonym": "kierować samochodem",
       "example": "Prowadzę samochód od dwudziestu lat.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1675,6 +1872,7 @@
       "polish": "czynnik",
       "aiStatus": "complete",
       "translationRu": "фактор",
+      "synonym": "element",
       "example": "To ważny czynnik sukcesu.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1683,6 +1881,7 @@
       "polish": "cecha",
       "aiStatus": "complete",
       "translationRu": "черта, особенность",
+      "synonym": "właściwość",
       "example": "Cierpliwość to ważna cecha charakteru.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1691,6 +1890,7 @@
       "polish": "dotykać/ dotknąć",
       "aiStatus": "complete",
       "translationRu": "трогать / тронуть, касаться / коснуться",
+      "synonym": "muskać / musnąć",
       "example": "Nie dotykaj eksponatów w muzeum.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1708,6 +1908,7 @@
       "polish": "chęć",
       "aiStatus": "complete",
       "translationRu": "желание, охота",
+      "synonym": "ochota",
       "example": "Mam chęć na lody.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1716,6 +1917,8 @@
       "polish": "utracić",
       "aiStatus": "complete",
       "translationRu": "утратить, потерять",
+      "synonym": "stracić",
+      "example": "Bał się utracić zaufanie przyjaciół.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1723,6 +1926,8 @@
       "polish": "tęto",
       "aiStatus": "partial",
       "translationRu": "пульс (опечатка от tętno)",
+      "synonym": "puls",
+      "example": "Po biegu jego tętno było bardzo szybkie.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1730,6 +1935,7 @@
       "polish": "na czas",
       "aiStatus": "complete",
       "translationRu": "вовремя",
+      "synonym": "punktualnie",
       "example": "Przyszedłem na czas.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1738,6 +1944,8 @@
       "polish": "okropni ludzie",
       "aiStatus": "complete",
       "translationRu": "ужасные люди",
+      "synonym": "straszni ludzie",
+      "example": "Spotkałem dziś kilku okropnych ludzi w urzędzie.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1745,6 +1953,8 @@
       "polish": "Przytyła kilka kilo",
       "aiStatus": "complete",
       "translationRu": "Она поправилась на несколько кило",
+      "synonym": "Utyła kilka kilo",
+      "example": "Po świętach przytyła kilka kilo.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1752,6 +1962,7 @@
       "polish": "jaka podekscytowana była Pelagia",
       "aiStatus": "complete",
       "translationRu": "какой взволнованной была Пелагия",
+      "example": "Jaka podekscytowana była Pelagia, gdy usłyszała tę wiadomość!",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1759,6 +1970,8 @@
       "polish": "mamy wiele wspólnego",
       "aiStatus": "complete",
       "translationRu": "у нас много общего",
+      "synonym": "jesteśmy do siebie podobni",
+      "example": "Mamy wiele wspólnego, dlatego dobrze się dogadujemy.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1766,6 +1979,7 @@
       "polish": "wymówki",
       "aiStatus": "complete",
       "translationRu": "отговорки, оправдания",
+      "synonym": "usprawiedliwienia",
       "example": "Nie wymyślaj wymówek.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1774,6 +1988,7 @@
       "polish": "wszędzie",
       "aiStatus": "complete",
       "translationRu": "везде, всюду",
+      "synonym": "na każdym kroku",
       "example": "Szukałem cię wszędzie.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1782,6 +1997,8 @@
       "polish": "otyłość",
       "aiStatus": "complete",
       "translationRu": "ожирение",
+      "synonym": "nadwaga",
+      "example": "Otyłość jest coraz większym problemem zdrowotnym.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1790,6 +2007,7 @@
       "aiStatus": "complete",
       "synonym": "nabrać masy",
       "translationRu": "поправиться, набрать вес",
+      "example": "Po świętach zawsze trochę przytyję.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1798,6 +2016,7 @@
       "aiStatus": "complete",
       "synonym": "napuchnięcie/nabrzęknięcie",
       "translationRu": "отёк, опухание",
+      "example": "Po urazie pojawił się obrzęk kostki.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1805,6 +2024,8 @@
       "polish": "bochater",
       "aiStatus": "partial",
       "translationRu": "герой (опечатка от bohater)",
+      "synonym": "postać główna",
+      "example": "Był prawdziwym bohaterem tamtej wojny.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1812,6 +2033,7 @@
       "polish": "pada",
       "aiStatus": "complete",
       "translationRu": "идёт (о дожде/снеге); падает",
+      "synonym": "leje",
       "example": "Dziś pada deszcz.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1820,6 +2042,7 @@
       "polish": "schudnąć",
       "aiStatus": "complete",
       "translationRu": "похудеть",
+      "synonym": "zrzucić wagę",
       "example": "Chcę schudnąć pięć kilo.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1828,6 +2051,7 @@
       "polish": "nabiał",
       "aiStatus": "complete",
       "translationRu": "молочные продукты",
+      "synonym": "produkty mleczne",
       "example": "Nie jem nabiału.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1836,6 +2060,8 @@
       "polish": "rzeczy sporzywcze",
       "aiStatus": "partial",
       "translationRu": "продукты питания (опечатка от spożywcze)",
+      "synonym": "artykuły spożywcze",
+      "example": "W tym sklepie kupuję wszystkie rzeczy spożywcze.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1843,6 +2069,7 @@
       "polish": "cel - on",
       "aiStatus": "partial",
       "translationRu": "цель (он, грам. род)",
+      "example": "Nasz cel jest jasno określony.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1850,6 +2077,8 @@
       "polish": "ranking",
       "aiStatus": "complete",
       "translationRu": "рейтинг",
+      "synonym": "klasyfikacja",
+      "example": "Ta uczelnia zajęła wysokie miejsce w rankingu.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1857,6 +2086,8 @@
       "polish": "czy to się opłaca",
       "aiStatus": "complete",
       "translationRu": "стоит ли это того / выгодно ли это",
+      "synonym": "czy warto",
+      "example": "Zastanawiam się, czy to się opłaca.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1865,6 +2096,7 @@
       "aiStatus": "partial",
       "synonym": "oszaleć/zidiocieć",
       "translationRu": "сойти с ума (опечатка от zwariować)",
+      "example": "Chyba zwariował, skoro to zrobił.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1872,6 +2104,8 @@
       "polish": "niektórzy",
       "aiStatus": "complete",
       "translationRu": "некоторые (о людях, муж.)",
+      "synonym": "część ludzi",
+      "example": "Niektórzy wolą pracować zdalnie.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1879,6 +2113,8 @@
       "polish": "obrazić",
       "aiStatus": "complete",
       "translationRu": "оскорбить, обидеть",
+      "synonym": "urazić",
+      "example": "Nie chciałem cię obrazić tym żartem.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1886,6 +2122,8 @@
       "polish": "opinia - ona",
       "aiStatus": "partial",
       "translationRu": "мнение (она, грам. род)",
+      "synonym": "zdanie",
+      "example": "Jego opinia zawsze się liczy.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1893,6 +2131,8 @@
       "polish": "w tej samej drużynie",
       "aiStatus": "complete",
       "translationRu": "в той же команде",
+      "synonym": "w tym samym zespole",
+      "example": "Grają w tej samej drużynie od lat.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1900,6 +2140,7 @@
       "polish": "irytować",
       "aiStatus": "complete",
       "translationRu": "раздражать",
+      "synonym": "denerwować",
       "example": "Ten dźwięk mnie irytuje.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1908,6 +2149,8 @@
       "polish": "oszusta",
       "aiStatus": "partial",
       "translationRu": "мошенника (вин./род. от oszust)",
+      "synonym": "kanciarz",
+      "example": "Policja zatrzymała oszusta, który okradał starsze osoby.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1915,6 +2158,7 @@
       "polish": "ufać",
       "aiStatus": "complete",
       "translationRu": "доверять",
+      "synonym": "wierzyć komuś",
       "example": "Ufam swoim przyjaciołom.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1923,6 +2167,8 @@
       "polish": "publikować",
       "aiStatus": "complete",
       "translationRu": "публиковать",
+      "synonym": "wydawać",
+      "example": "Ona regularnie publikuje artykuły w internecie.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1930,6 +2176,7 @@
       "polish": "wyświetlenie",
       "aiStatus": "complete",
       "translationRu": "просмотр, отображение",
+      "synonym": "odsłona",
       "example": "Film ma milion wyświetleń.",
       "firstSeenAt": "2026-05-02"
     },
@@ -1938,6 +2185,8 @@
       "polish": "zakazane",
       "aiStatus": "complete",
       "translationRu": "запрещено, запрещённое",
+      "synonym": "zabronione",
+      "example": "Palenie w tym miejscu jest zakazane.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1945,6 +2194,8 @@
       "polish": "ukryta",
       "aiStatus": "complete",
       "translationRu": "скрытая, спрятанная",
+      "synonym": "schowana",
+      "example": "Kamera była ukryta za obrazem.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1952,6 +2203,8 @@
       "polish": "takie same zdanie",
       "aiStatus": "complete",
       "translationRu": "такое же мнение / то же предложение",
+      "synonym": "ta sama opinia",
+      "example": "Mamy takie same zdanie na ten temat.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -1996,6 +2249,7 @@
       "aiStatus": "complete",
       "example": "Spojrzałem przez wizjer (Дверной глазок)",
       "translationRu": "глазок (в двери)",
+      "synonym": "judasz",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2003,6 +2257,7 @@
       "polish": "na wszelki wypadek",
       "aiStatus": "complete",
       "translationRu": "на всякий случай",
+      "synonym": "dla bezpieczeństwa",
       "example": "Wezmę parasol na wszelki wypadek.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2011,6 +2266,8 @@
       "polish": "rodacy",
       "aiStatus": "complete",
       "translationRu": "соотечественники",
+      "synonym": "ziomkowie",
+      "example": "Spotkał swoich rodaków za granicą.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2018,6 +2275,8 @@
       "polish": "ja się mylę",
       "aiStatus": "complete",
       "translationRu": "я ошибаюсь",
+      "synonym": "nie mam racji",
+      "example": "Przyznaję, że czasem się mylę.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2026,6 +2285,7 @@
       "aiStatus": "complete",
       "synonym": "ona",
       "translationRu": "месса (католич. служба)",
+      "example": "W niedzielę poszliśmy na mszę.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2033,6 +2293,8 @@
       "polish": "jajko - jajka",
       "aiStatus": "complete",
       "translationRu": "яйцо — яйца",
+      "synonym": "jajo",
+      "example": "Kupiłem tuzin jajek.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2040,6 +2302,7 @@
       "polish": "krewni",
       "aiStatus": "complete",
       "translationRu": "родственники",
+      "synonym": "rodzina",
       "example": "Mam dużo krewnych w Polsce.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2048,6 +2311,8 @@
       "polish": "cofnąć się w czasie",
       "aiStatus": "complete",
       "translationRu": "вернуться во времени",
+      "synonym": "wrócić do przeszłości",
+      "example": "Gdybym mógł cofnąć się w czasie, zrobiłbym to inaczej.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2055,6 +2320,7 @@
       "polish": "zarządzać",
       "aiStatus": "complete",
       "translationRu": "управлять, руководить",
+      "synonym": "kierować",
       "example": "Zarządza dużym zespołem.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2063,6 +2329,8 @@
       "polish": "jest pod patronatem",
       "aiStatus": "complete",
       "translationRu": "находится под патронажем",
+      "synonym": "jest sponsorowany przez",
+      "example": "Wydarzenie jest pod patronatem prezydenta miasta.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2071,6 +2339,7 @@
       "aiStatus": "complete",
       "synonym": "zaskoczony",
       "translationRu": "удивлённый",
+      "example": "Był bardzo zdziwiony jej decyzją.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2085,6 +2354,7 @@
       "polish": "satelita",
       "aiStatus": "complete",
       "translationRu": "спутник",
+      "example": "Satelita krąży wokół Ziemi.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2092,6 +2362,8 @@
       "polish": "gospodarstwo domowe",
       "aiStatus": "complete",
       "translationRu": "домашнее хозяйство, домохозяйство",
+      "synonym": "dom",
+      "example": "Prowadzenie gospodarstwa domowego zajmuje dużo czasu.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2099,6 +2371,7 @@
       "polish": "gospodarka",
       "aiStatus": "complete",
       "translationRu": "экономика, хозяйство",
+      "synonym": "ekonomia",
       "example": "Polska gospodarka rozwija się szybko.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2108,6 +2381,7 @@
       "aiStatus": "complete",
       "synonym": "hodaować kwiaty",
       "translationRu": "разводить, выращивать (растения, животных)",
+      "example": "Moi dziadkowie hodują kury i krowy.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2115,6 +2389,7 @@
       "polish": "podróż",
       "aiStatus": "complete",
       "translationRu": "поездка, путешествие",
+      "synonym": "wycieczka",
       "example": "To była długa podróż.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2123,6 +2398,8 @@
       "polish": "podróże",
       "aiStatus": "complete",
       "translationRu": "путешествия (мн.)",
+      "synonym": "wycieczki",
+      "example": "Uwielbiam podróże do ciepłych krajów.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2130,6 +2407,7 @@
       "polish": "trudno",
       "aiStatus": "complete",
       "translationRu": "трудно, тяжело",
+      "synonym": "ciężko",
       "example": "Trudno mi to zrozumieć.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2139,6 +2417,7 @@
       "aiStatus": "partial",
       "synonym": "jak?",
       "translationRu": "трудно (опечатка/нестанд., правильно 'trudno')",
+      "example": "Trudno mi to teraz wytłumaczyć.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2146,6 +2425,8 @@
       "polish": "zwidzać",
       "aiStatus": "uncertain",
       "translationRu": "посещать (возможно опечатка от zwiedzać)",
+      "synonym": "odwiedzać",
+      "example": "Lubimy zwiedzać nowe miasta.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2153,6 +2434,7 @@
       "polish": "wyobrażać",
       "aiStatus": "complete",
       "translationRu": "представлять (себе)",
+      "synonym": "przedstawiać sobie",
       "example": "Wyobrażam sobie nasze wakacje.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2161,6 +2443,8 @@
       "polish": "skok ze spadochronem",
       "aiStatus": "complete",
       "translationRu": "прыжок с парашютом",
+      "synonym": "skok spadochronowy",
+      "example": "Zawsze marzył o skoku ze spadochronem.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2168,6 +2452,7 @@
       "polish": "żyć",
       "aiStatus": "complete",
       "translationRu": "жить",
+      "synonym": "istnieć",
       "example": "Żyję w Warszawie od dziesięciu lat.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2176,6 +2461,7 @@
       "polish": "mieszkać",
       "aiStatus": "complete",
       "translationRu": "проживать, жить (где-то)",
+      "synonym": "zamieszkiwać",
       "example": "Mieszkam w centrum miasta.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2184,6 +2470,8 @@
       "polish": "męż- mąż",
       "aiStatus": "partial",
       "translationRu": "муж (с поправкой опечатки)",
+      "synonym": "małżonek",
+      "example": "Jej mąż pracuje za granicą.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2200,6 +2488,7 @@
       "polish": "czuć",
       "aiStatus": "complete",
       "translationRu": "чувствовать",
+      "synonym": "odczuwać",
       "example": "Czuję się dobrze.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2208,6 +2497,7 @@
       "polish": "szaro - jak",
       "aiStatus": "uncertain",
       "translationRu": "серо — как (фрагмент)",
+      "example": "Na dworze jest szaro jak w listopadzie.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2215,6 +2505,7 @@
       "polish": "pilnie",
       "aiStatus": "complete",
       "translationRu": "срочно; прилежно",
+      "synonym": "natychmiast",
       "example": "Pilnie potrzebuję pomocy.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2223,6 +2514,7 @@
       "polish": "pilnować",
       "aiStatus": "complete",
       "translationRu": "следить, охранять, присматривать",
+      "synonym": "chronić",
       "example": "Pilnuj dziecka, proszę.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2231,6 +2523,8 @@
       "polish": "oprawca",
       "aiStatus": "complete",
       "translationRu": "мучитель, истязатель",
+      "synonym": "kat",
+      "example": "Ofiara rozpoznała swojego oprawcę.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2238,6 +2532,8 @@
       "polish": "kat",
       "aiStatus": "complete",
       "translationRu": "палач",
+      "synonym": "oprawca",
+      "example": "Kat wykonał wyrok o świcie.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2245,6 +2541,8 @@
       "polish": "drogie",
       "aiStatus": "complete",
       "translationRu": "дорогие (мн.)",
+      "synonym": "kosztowne",
+      "example": "Te buty są bardzo drogie.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2252,6 +2550,7 @@
       "polish": "być na bieżąco",
       "aiStatus": "complete",
       "translationRu": "быть в курсе",
+      "synonym": "śledzić nowości",
       "example": "Czytam wiadomości, żeby być na bieżąco.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2261,6 +2560,7 @@
       "aiStatus": "complete",
       "synonym": "efektywny",
       "translationRu": "эффективный, результативный",
+      "example": "To bardzo skuteczny sposób na naukę języka.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2268,6 +2568,8 @@
       "polish": "być na czasie",
       "aiStatus": "complete",
       "translationRu": "быть в тренде, идти в ногу со временем",
+      "synonym": "być modnym",
+      "example": "Ona zawsze jest na czasie, jeśli chodzi o modę.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2275,6 +2577,8 @@
       "polish": "programista - programisci",
       "aiStatus": "complete",
       "translationRu": "программист — программисты",
+      "synonym": "deweloper",
+      "example": "Programiści pracują nad nową aplikacją.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2282,6 +2586,7 @@
       "polish": "krok - etap - poziom",
       "aiStatus": "complete",
       "translationRu": "шаг — этап — уровень",
+      "example": "To pierwszy etap dużego projektu.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2289,6 +2594,7 @@
       "polish": "obserwować",
       "aiStatus": "complete",
       "translationRu": "наблюдать",
+      "synonym": "śledzić",
       "example": "Obserwuję ptaki w parku.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2306,6 +2612,7 @@
       "polish": "narzędzie",
       "aiStatus": "complete",
       "translationRu": "инструмент",
+      "synonym": "przyrząd",
       "example": "Młotek to przydatne narzędzie.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2314,6 +2621,8 @@
       "polish": "spędziłbym",
       "aiStatus": "complete",
       "translationRu": "я бы провёл (время) — условное наклонение",
+      "synonym": "poświęciłbym czas",
+      "example": "Spędziłbym cały dzień na czytaniu książek.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2321,6 +2630,7 @@
       "polish": "starszy - starsi",
       "aiStatus": "complete",
       "translationRu": "старший — старшие",
+      "example": "Starsi ludzie często mają więcej cierpliwości.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2336,6 +2646,7 @@
       "polish": "wyobrażać",
       "aiStatus": "complete",
       "translationRu": "представлять (себе)",
+      "synonym": "przedstawiać sobie",
       "example": "Wyobrażam sobie nasze wakacje.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2345,6 +2656,7 @@
       "aiStatus": "complete",
       "synonym": "wychodzić na jaw\ndać o sobie znać",
       "translationRu": "выдай себя, раскройся (повелит.)",
+      "example": "Jeśli wiesz coś na ten temat, ujawnij się.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2352,6 +2664,8 @@
       "polish": "nastolatki- nastoletek",
       "aiStatus": "partial",
       "translationRu": "подростки (опечатка от nastolatek)",
+      "synonym": "młodzież",
+      "example": "Nastolatki spędzają dużo czasu w internecie.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2359,6 +2673,7 @@
       "polish": "pozwalać",
       "aiStatus": "complete",
       "translationRu": "позволять, разрешать",
+      "synonym": "zezwalać",
       "example": "Rodzice nie pozwalają mu palić.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2367,6 +2682,7 @@
       "polish": "większość",
       "aiStatus": "complete",
       "translationRu": "большинство",
+      "synonym": "przeważająca część",
       "example": "Większość Polaków lubi pierogi.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2375,6 +2691,8 @@
       "polish": "mniejsziść",
       "aiStatus": "partial",
       "translationRu": "меньшинство (опечатка от mniejszość)",
+      "synonym": "mniejsza część",
+      "example": "Tylko mniejszość zagłosowała na tego kandydata.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2382,6 +2700,7 @@
       "polish": "znajomości",
       "aiStatus": "complete",
       "translationRu": "знакомства, связи",
+      "synonym": "kontakty",
       "example": "Praca przez znajomości.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2390,6 +2709,7 @@
       "polish": "młody - młodzi",
       "aiStatus": "complete",
       "translationRu": "молодой — молодые (мужчины-лица, мн.)",
+      "example": "Młodzi ludzie często podróżują sami.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2397,6 +2717,7 @@
       "polish": "młodzież",
       "aiStatus": "complete",
       "translationRu": "молодёжь",
+      "synonym": "młodzi ludzie",
       "example": "Współczesna młodzież dużo siedzi w telefonach.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2405,6 +2726,7 @@
       "polish": "grzybobranie",
       "aiStatus": "complete",
       "translationRu": "сбор грибов",
+      "synonym": "zbieranie grzybów",
       "example": "Pojechaliśmy na grzybobranie do lasu.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2413,6 +2735,8 @@
       "polish": "podać przykład",
       "aiStatus": "complete",
       "translationRu": "привести пример",
+      "synonym": "przytoczyć przykład",
+      "example": "Czy możesz podać przykład tego zjawiska?",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2420,6 +2744,8 @@
       "polish": "osiądnąć",
       "aiStatus": "uncertain",
       "translationRu": "достичь / осесть (неясная форма; возможно osiągnąć)",
+      "synonym": "osiągnąć",
+      "example": "Udało mu się osiągnąć sukces po latach pracy.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2427,6 +2753,7 @@
       "polish": "pokonać",
       "aiStatus": "complete",
       "translationRu": "победить, преодолеть",
+      "synonym": "zwyciężyć",
       "example": "Pokonał wszystkie trudności.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2435,6 +2762,7 @@
       "polish": "kojarzyć",
       "aiStatus": "complete",
       "translationRu": "ассоциировать, связывать (мысленно)",
+      "synonym": "łączyć mentalnie",
       "example": "Z czym kojarzy ci się Polska?",
       "firstSeenAt": "2026-05-02"
     },
@@ -2443,6 +2771,7 @@
       "polish": "system - on",
       "aiStatus": "partial",
       "translationRu": "система (он, грам. род)",
+      "example": "System działa bez zarzutu.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2450,6 +2779,7 @@
       "polish": "bzdura",
       "aiStatus": "complete",
       "translationRu": "чушь, ерунда",
+      "synonym": "nonsens",
       "example": "To kompletna bzdura!",
       "firstSeenAt": "2026-05-02"
     },
@@ -2459,6 +2789,7 @@
       "aiStatus": "complete",
       "synonym": "osoba, rzecz lub zjawisko całkowicie różne od innego, stanowiące jego kontrast, odwrotność lub sprzeczność (antonim)",
       "translationRu": "противоположность",
+      "example": "Miłość to przeciwieństwo nienawiści.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2475,6 +2806,7 @@
       "polish": "sprawny",
       "aiStatus": "complete",
       "translationRu": "исправный; ловкий, проворный",
+      "synonym": "działający",
       "example": "Mój samochód jest jeszcze sprawny.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2483,6 +2815,8 @@
       "polish": "niekomfortowo",
       "aiStatus": "complete",
       "translationRu": "некомфортно",
+      "synonym": "nieprzyjemnie",
+      "example": "Czułem się niekomfortowo w tej sytuacji.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2499,6 +2833,7 @@
       "polish": "lot z",
       "aiStatus": "partial",
       "translationRu": "рейс из (фрагмент)",
+      "example": "Lot z Warszawy do Londynu trwa dwie godziny.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2506,6 +2841,7 @@
       "polish": "podróżować z (kim?czym?) przyjaciółmi",
       "aiStatus": "complete",
       "translationRu": "путешествовать с друзьями",
+      "example": "Lubię podróżować z przyjaciółmi.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2513,6 +2849,8 @@
       "polish": "co zobaczyć/ zwiedzić",
       "aiStatus": "complete",
       "translationRu": "что посмотреть / посетить",
+      "synonym": "co obejrzeć",
+      "example": "Podpowiedz mi, co zobaczyć w tym mieście.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2520,6 +2858,7 @@
       "polish": "znamy się",
       "aiStatus": "complete",
       "translationRu": "мы знакомы",
+      "synonym": "znamy się nawzajem",
       "example": "Znamy się od dzieciństwa.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2528,6 +2867,8 @@
       "polish": "napięta",
       "aiStatus": "complete",
       "translationRu": "напряжённая (атмосфера, ситуация)",
+      "synonym": "nerwowa",
+      "example": "Atmosfera na spotkaniu była bardzo napięta.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2535,6 +2876,8 @@
       "polish": "odmów",
       "aiStatus": "complete",
       "translationRu": "откажи (повелит.)",
+      "synonym": "odrzuć",
+      "example": "Jeśli nie masz czasu, po prostu odmów.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2542,6 +2885,8 @@
       "polish": "rezygnować",
       "aiStatus": "complete",
       "translationRu": "отказываться (от чего-то), сдаваться",
+      "synonym": "poddawać się",
+      "example": "Nie warto rezygnować po pierwszej porażce.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2549,6 +2894,8 @@
       "polish": "zrezygnować",
       "aiStatus": "complete",
       "translationRu": "отказаться (соверш. вид)",
+      "synonym": "poddać się",
+      "example": "Postanowił zrezygnować z pracy.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2556,6 +2903,7 @@
       "polish": "dużo/mało/ większość/ mniejszość",
       "aiStatus": "complete",
       "translationRu": "много/мало/большинство/меньшинство",
+      "example": "Dużo osób poparło projekt, mało było przeciw.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2563,6 +2911,8 @@
       "polish": "język hebrajski",
       "aiStatus": "complete",
       "translationRu": "иврит",
+      "synonym": "hebrajski",
+      "example": "Uczy się języka hebrajskiego od roku.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2570,6 +2920,8 @@
       "polish": "w koszyku",
       "aiStatus": "complete",
       "translationRu": "в корзине (продуктовой)",
+      "synonym": "w koszu",
+      "example": "W koszyku miała świeże warzywa.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2577,6 +2929,7 @@
       "polish": "wszystko gra",
       "aiStatus": "complete",
       "translationRu": "всё в порядке (разг.)",
+      "synonym": "wszystko w porządku",
       "example": "Jak tam? — Wszystko gra!",
       "firstSeenAt": "2026-05-02"
     },
@@ -2585,6 +2938,8 @@
       "polish": "kombinować",
       "aiStatus": "complete",
       "translationRu": "комбинировать; мудрить, выкручиваться",
+      "synonym": "wymyślać sposoby",
+      "example": "Zawsze coś kombinuje, żeby zaoszczędzić pieniądze.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2592,6 +2947,7 @@
       "polish": "ściągać",
       "aiStatus": "complete",
       "translationRu": "стягивать; скачивать; списывать (на экзамене)",
+      "synonym": "pobierać",
       "example": "Ściągam film z internetu.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2600,6 +2956,8 @@
       "polish": "pineska",
       "aiStatus": "complete",
       "translationRu": "канцелярская кнопка",
+      "synonym": "pinezka",
+      "example": "Przypiąłem kartkę pineską do tablicy.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2607,6 +2965,8 @@
       "polish": "niezbędne",
       "aiStatus": "complete",
       "translationRu": "необходимые, незаменимые",
+      "synonym": "konieczne",
+      "example": "Woda jest niezbędna do życia.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2614,6 +2974,7 @@
       "polish": "kac",
       "aiStatus": "complete",
       "translationRu": "похмелье",
+      "synonym": "kociokwik",
       "example": "Mam okropny kac.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2622,6 +2983,7 @@
       "polish": "katar",
       "aiStatus": "complete",
       "translationRu": "насморк",
+      "synonym": "nieżyt nosa",
       "example": "Mam katar i boli mnie głowa.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2712,6 +3074,7 @@
       "aiStatus": "complete",
       "synonym": "bez efektu",
       "translationRu": "Всё впустую, всё зря",
+      "example": "Ćwiczyłem cały miesiąc, ale wszystko na nic — i tak przegrałem.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2719,6 +3082,8 @@
       "polish": "około pięciu/siedmiu",
       "aiStatus": "complete",
       "translationRu": "около пяти / семи",
+      "synonym": "mniej więcej pięciu/siedmiu",
+      "example": "Przyjadę około piątej albo siódmej wieczorem.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2726,6 +3091,7 @@
       "polish": "pobierać / pobrać",
       "aiStatus": "complete",
       "translationRu": "скачивать / скачать; получать / получить",
+      "synonym": "ściągać / ściągnąć",
       "example": "Pobrałem aplikację z internetu.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2734,6 +3100,8 @@
       "polish": "przeprowadzaliśmy",
       "aiStatus": "complete",
       "translationRu": "мы проводили (исследование, разговор) — несоверш.",
+      "synonym": "prowadziliśmy",
+      "example": "Przeprowadzaliśmy wywiady z klientami przez cały tydzień.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2741,6 +3109,8 @@
       "polish": "przeprowadziliśmy",
       "aiStatus": "complete",
       "translationRu": "мы провели — соверш. вид",
+      "synonym": "zrealizowaliśmy",
+      "example": "Przeprowadziliśmy remont mieszkania w zeszłym roku.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2748,6 +3118,7 @@
       "polish": "gust",
       "aiStatus": "complete",
       "translationRu": "вкус (эстетический)",
+      "synonym": "upodobanie",
       "example": "Mamy podobny gust muzyczny.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2757,6 +3128,7 @@
       "aiStatus": "complete",
       "synonym": "Palce lizać\nMiód w gębie\nPychota / Pyszoty\nRozpływa się w ustach",
       "translationRu": "пальчики оближешь (букв. 'небо во рту')",
+      "example": "Spróbuj tego sernika, niebo w gębie!",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2764,6 +3136,8 @@
       "polish": "klopsik/ klopsiki",
       "aiStatus": "complete",
       "translationRu": "фрикаделька / фрикадельки",
+      "synonym": "kotlet mielony",
+      "example": "Mama zrobiła klopsiki w sosie pomidorowym.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2771,6 +3145,7 @@
       "polish": "wszystkie",
       "aiStatus": "complete",
       "translationRu": "все (немужчины-лица)",
+      "example": "Zjadłem wszystkie jabłka z koszyka.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2778,6 +3153,7 @@
       "polish": "prawie",
       "aiStatus": "complete",
       "translationRu": "почти",
+      "synonym": "niemal",
       "example": "Prawie zapomniałem.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2786,6 +3162,8 @@
       "polish": "ksztalt",
       "aiStatus": "partial",
       "translationRu": "форма (опечатка от kształt)",
+      "synonym": "forma",
+      "example": "Ten stół ma nietypowy kształt.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2793,6 +3171,7 @@
       "polish": "dotknąć się",
       "aiStatus": "complete",
       "translationRu": "коснуться (себя)",
+      "example": "Dotknąłem się w czoło, sprawdzając czy mam gorączkę.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2800,6 +3179,7 @@
       "polish": "dotykać się",
       "aiStatus": "complete",
       "translationRu": "касаться (друг друга)",
+      "example": "Zakochani często dotykają się delikatnie.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2807,6 +3187,7 @@
       "polish": "dużo/ mało /",
       "aiStatus": "partial",
       "translationRu": "много / мало",
+      "example": "W lodówce jest dużo jedzenia, ale mało napojów.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2814,6 +3195,8 @@
       "polish": "nasi",
       "aiStatus": "complete",
       "translationRu": "наши (мужчины-лица, мн.)",
+      "synonym": "swoi",
+      "example": "Nasi wygrali dzisiaj mecz.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2821,6 +3204,8 @@
       "polish": "niektórze",
       "aiStatus": "partial",
       "translationRu": "некоторые (опечатка/нестанд.)",
+      "synonym": "niektórzy",
+      "example": "Niektórzy ludzie wolą pracować rano.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2828,6 +3213,7 @@
       "polish": "być słynnym z czegoś",
       "aiStatus": "complete",
       "translationRu": "быть известным чем-то",
+      "synonym": "słynąć z czegoś",
       "example": "Polska jest słynna z pierogów.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2836,6 +3222,7 @@
       "polish": "walizka - ona",
       "aiStatus": "partial",
       "translationRu": "чемодан (она, грам. род)",
+      "example": "Walizka była tak ciężka, że ledwo ją uniosłem.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2843,6 +3230,7 @@
       "polish": "odpowiedni",
       "aiStatus": "complete",
       "translationRu": "подходящий, соответствующий",
+      "synonym": "właściwy",
       "example": "To odpowiedni moment, żeby zacząć.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2924,6 +3312,7 @@
       "aiStatus": "complete",
       "synonym": "zostawić bez pomocy",
       "translationRu": "бросить кого-то в беде (идиома)",
+      "example": "Obiecał pomoc, ale w ostatniej chwili zostawił mnie na lodzie.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2931,6 +3320,7 @@
       "polish": "produktywny",
       "aiStatus": "complete",
       "translationRu": "продуктивный",
+      "synonym": "wydajny",
       "example": "Mam dziś produktywny dzień.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2939,6 +3329,7 @@
       "polish": "przedłużać",
       "aiStatus": "complete",
       "translationRu": "продлевать",
+      "synonym": "przeciągać",
       "example": "Muszę przedłużyć paszport.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2947,6 +3338,7 @@
       "polish": "brać leki",
       "aiStatus": "complete",
       "translationRu": "принимать лекарства",
+      "synonym": "zażywać leki",
       "example": "Biorę leki na ciśnienie.",
       "firstSeenAt": "2026-05-02"
     },
@@ -2955,6 +3347,8 @@
       "polish": "objawy/objawa",
       "aiStatus": "partial",
       "translationRu": "симптомы (форма objawa нестандарт., обычно objaw)",
+      "synonym": "symptomy",
+      "example": "Objawy grypy to gorączka i kaszel.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2962,6 +3356,8 @@
       "polish": "rasa",
       "aiStatus": "complete",
       "translationRu": "раса; порода (животных)",
+      "synonym": "gatunek",
+      "example": "Jaka to jest rasa psa?",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2969,6 +3365,8 @@
       "polish": "około dwóch/tszech/czterech/pięciu/czternastu/dwudziestu",
       "aiStatus": "partial",
       "translationRu": "около двух / трёх / четырёх / пяти / четырнадцати / двадцати (опечатка tszech→trzech)",
+      "synonym": "mniej więcej",
+      "example": "Poczekaj tutaj około dwóch godzin.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2976,6 +3374,8 @@
       "polish": "bardzo mi przykro",
       "aiStatus": "complete",
       "translationRu": "мне очень жаль",
+      "synonym": "przepraszam",
+      "example": "Bardzo mi przykro z powodu twojej straty.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -2984,6 +3384,7 @@
       "aiStatus": "partial",
       "synonym": "ujawnić",
       "translationRu": "представить (опечатка от wyobrazić)",
+      "example": "Nie potrafię sobie wyobrazić życia bez internetu.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3000,6 +3401,8 @@
       "polish": "pożegnać się",
       "aiStatus": "complete",
       "translationRu": "попрощаться",
+      "synonym": "rozstać się",
+      "example": "Musieliśmy pożegnać się na dworcu.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3007,6 +3410,8 @@
       "polish": "pożegnanie",
       "aiStatus": "complete",
       "translationRu": "прощание",
+      "synonym": "rozstanie",
+      "example": "Pożegnanie było bardzo wzruszające.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3014,6 +3419,7 @@
       "polish": "klatka - w klatce",
       "aiStatus": "complete",
       "translationRu": "клетка — в клетке",
+      "example": "Ptak siedział smutno w klatce.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3021,6 +3427,8 @@
       "polish": "orgAnizm",
       "aiStatus": "partial",
       "translationRu": "организм (опечатка регистра)",
+      "synonym": "ciało",
+      "example": "Regularny sport wzmacnia organizm.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3028,6 +3436,7 @@
       "polish": "one - psy",
       "aiStatus": "partial",
       "translationRu": "они (собаки) — грам. род",
+      "example": "One są głodne — nakarm te psy.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3035,6 +3444,8 @@
       "polish": "psy j.p - policja",
       "aiStatus": "complete",
       "translationRu": "собаки (жарг.) — полиция (= 'менты')",
+      "synonym": "gliny",
+      "example": "Uważaj, jadą psy!",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3042,6 +3453,7 @@
       "polish": "mieć na celu",
       "aiStatus": "complete",
       "translationRu": "иметь целью, ставить целью",
+      "synonym": "zmierzać do",
       "example": "Ma na celu poprawę warunków.",
       "firstSeenAt": "2026-05-02"
     },
@@ -3058,6 +3470,7 @@
       "polish": "chronić",
       "aiStatus": "complete",
       "translationRu": "защищать, оберегать",
+      "synonym": "ochraniać",
       "example": "Krem chroni przed słońcem.",
       "firstSeenAt": "2026-05-02"
     },
@@ -3066,6 +3479,8 @@
       "polish": "chronisko",
       "aiStatus": "partial",
       "translationRu": "приют (для бездомных, животных) — опечатка от schronisko",
+      "synonym": "przytułek",
+      "example": "Adoptowaliśmy psa ze schroniska.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3073,6 +3488,8 @@
       "polish": "hodowla",
       "aiStatus": "complete",
       "translationRu": "разведение (животных), питомник",
+      "synonym": "chów",
+      "example": "Prowadzą hodowlę koni na wsi.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3088,6 +3505,8 @@
       "polish": "głupio",
       "aiStatus": "complete",
       "translationRu": "глупо",
+      "synonym": "niemądrze",
+      "example": "Czuję się głupio po tej pomyłce.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3096,6 +3515,7 @@
       "aiStatus": "complete",
       "synonym": "tymczasowe zalanie terenów normalnie suchych przez wody rzeczne, morskie lub z opadów",
       "translationRu": "наводнения",
+      "example": "Powodzie zniszczyły wiele domów w tym roku.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3104,6 +3524,7 @@
       "aiStatus": "partial",
       "synonym": "udało mi się, poszczęściło mi się, osiągnąłem sukces, wyszło mi, zrealizowałem cel, dopisało mi szczęście, wygrałem",
       "translationRu": "мне удалось (правильно: powiodło mi się)",
+      "example": "W końcu mi się powiodło i zdałem egzamin.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3111,6 +3532,8 @@
       "polish": "podjąć decyzję/ podejmować",
       "aiStatus": "complete",
       "translationRu": "принять / принимать решение",
+      "synonym": "zdecydować się",
+      "example": "Musimy podjąć decyzję jeszcze dziś.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3118,6 +3541,8 @@
       "polish": "coś się wydarzy",
       "aiStatus": "complete",
       "translationRu": "что-то случится",
+      "synonym": "coś się stanie",
+      "example": "Czuję, że wkrótce coś się wydarzy.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3125,6 +3550,7 @@
       "polish": "wizja",
       "aiStatus": "complete",
       "translationRu": "видение, образ",
+      "synonym": "koncepcja",
       "example": "Mam wizję naszej przyszłości.",
       "firstSeenAt": "2026-05-02"
     },
@@ -3133,6 +3559,8 @@
       "polish": "wąpienie",
       "aiStatus": "partial",
       "translationRu": "сомнение (опечатка от wątpienie)",
+      "synonym": "niepewność",
+      "example": "Ogarnęło mnie wątpienie, czy podjąłem dobrą decyzję.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3141,6 +3569,7 @@
       "aiStatus": "complete",
       "synonym": "tylko",
       "translationRu": "Только после прохождения самых тяжёлых испытаний",
+      "example": "Dopiero po przejściu najcięższych prób człowiek poznaje swoją prawdziwą siłę.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3149,6 +3578,7 @@
       "aiStatus": "complete",
       "synonym": "oprócz",
       "translationRu": "Помимо высших профессиональных квалификаций",
+      "example": "Obok najwyższych kwalifikacji fachowych liczy się także doświadczenie życiowe.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3174,6 +3604,7 @@
       "polish": "na tyle",
       "aiStatus": "complete",
       "translationRu": "настолько, в такой степени",
+      "synonym": "tak bardzo",
       "example": "Na tyle dobrze, żeby zrozumieć.",
       "firstSeenAt": "2026-05-02"
     },
@@ -3182,6 +3613,7 @@
       "polish": "jednocześnie",
       "aiStatus": "complete",
       "translationRu": "одновременно",
+      "synonym": "równocześnie",
       "example": "Nie mogę robić dwóch rzeczy jednocześnie.",
       "firstSeenAt": "2026-05-02"
     },
@@ -3190,6 +3622,7 @@
       "polish": "czy trudno przyzwyczaić się",
       "aiStatus": "complete",
       "translationRu": "трудно ли привыкнуть",
+      "example": "Czy trudno przyzwyczaić się do nowego miasta?",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3197,6 +3630,7 @@
       "polish": "od domu",
       "aiStatus": "partial",
       "translationRu": "от дома",
+      "example": "Szkoła jest niedaleko od domu.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3204,6 +3638,7 @@
       "polish": "wszystkie",
       "aiStatus": "complete",
       "translationRu": "все (немужчины-лица)",
+      "example": "Zjadłem wszystkie jabłka z koszyka.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3211,6 +3646,7 @@
       "polish": "co roku",
       "aiStatus": "complete",
       "translationRu": "каждый год",
+      "synonym": "corocznie",
       "example": "Co roku jeździmy nad morze.",
       "firstSeenAt": "2026-05-02"
     },
@@ -3219,6 +3655,8 @@
       "polish": "zaciągać",
       "aiStatus": "complete",
       "translationRu": "затягивать; брать (кредит); набирать",
+      "synonym": "wciągać",
+      "example": "Nie warto zaciągać kolejnej pożyczki.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3226,6 +3664,7 @@
       "polish": "osiągnąć",
       "aiStatus": "complete",
       "translationRu": "достичь (цели, результата)",
+      "synonym": "zdobyć",
       "example": "Osiągnął swój cel.",
       "firstSeenAt": "2026-05-02"
     },
@@ -3234,6 +3673,8 @@
       "polish": "dostszeć",
       "aiStatus": "partial",
       "translationRu": "заметить (опечатка от dostrzec)",
+      "synonym": "zauważyć",
+      "example": "Dopiero teraz dostrzegłem swój błąd.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3241,6 +3682,7 @@
       "polish": "dotarło",
       "aiStatus": "complete",
       "translationRu": "дошло (до меня), дошло до места",
+      "synonym": "zrozumiałem",
       "example": "Wreszcie do mnie dotarło, o co chodzi.",
       "firstSeenAt": "2026-05-02"
     },
@@ -3249,6 +3691,7 @@
       "polish": "zapomniałem",
       "aiStatus": "complete",
       "translationRu": "я забыл (м.р.)",
+      "synonym": "wyleciało mi z głowy",
       "example": "Zapomniałem klucze w domu.",
       "firstSeenAt": "2026-05-02"
     },
@@ -3257,6 +3700,7 @@
       "polish": "bać się",
       "aiStatus": "complete",
       "translationRu": "бояться",
+      "synonym": "obawiać się",
       "example": "Boję się ciemności.",
       "firstSeenAt": "2026-05-02"
     },
@@ -3265,6 +3709,7 @@
       "polish": "zasada",
       "aiStatus": "complete",
       "translationRu": "правило, принцип",
+      "synonym": "reguła",
       "example": "To podstawowa zasada.",
       "firstSeenAt": "2026-05-02"
     },
@@ -3273,6 +3718,7 @@
       "polish": "przekonanie",
       "aiStatus": "complete",
       "translationRu": "убеждение",
+      "synonym": "pogląd",
       "example": "Mam głębokie przekonanie, że to jest słuszne.",
       "firstSeenAt": "2026-05-02"
     },
@@ -3281,6 +3727,8 @@
       "polish": "wysłychać",
       "aiStatus": "partial",
       "translationRu": "выслушать (опечатка от wysłuchać)",
+      "synonym": "wysłuchać",
+      "example": "Warto wysłuchać opinii innych przed podjęciem decyzji.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3288,6 +3736,7 @@
       "polish": "zlecenie",
       "aiStatus": "complete",
       "translationRu": "заказ, поручение",
+      "synonym": "zadanie",
       "example": "Pracuję na zlecenie.",
       "firstSeenAt": "2026-05-02"
     },
@@ -3296,6 +3745,7 @@
       "polish": "we Włoszech",
       "aiStatus": "complete",
       "translationRu": "в Италии",
+      "synonym": "na terenie Włoch",
       "example": "Spędziłem wakacje we Włoszech.",
       "firstSeenAt": "2026-05-02"
     },
@@ -3304,6 +3754,7 @@
       "polish": "na bieżąco",
       "aiStatus": "complete",
       "translationRu": "в курсе (текущих дел)",
+      "synonym": "regularnie",
       "example": "Jestem na bieżąco z wiadomościami.",
       "firstSeenAt": "2026-05-02"
     },
@@ -3312,6 +3763,7 @@
       "polish": "przewlekła choroba",
       "aiStatus": "complete",
       "translationRu": "хроническая болезнь",
+      "synonym": "choroba chroniczna",
       "example": "Cukrzyca jest przewlekłą chorobą.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3320,6 +3772,7 @@
       "polish": "chciałbym",
       "aiStatus": "complete",
       "translationRu": "я хотел бы",
+      "synonym": "miałbym ochotę",
       "example": "Chciałbym kawę, proszę.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3328,6 +3781,7 @@
       "polish": "zrobiłbym",
       "aiStatus": "complete",
       "translationRu": "я бы сделал",
+      "synonym": "wykonałbym",
       "example": "Zrobiłbym to inaczej.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3336,6 +3790,7 @@
       "polish": "dodawałbym",
       "aiStatus": "complete",
       "translationRu": "я бы добавлял",
+      "synonym": "dokładałbym",
       "example": "Dodawałbym więcej cukru do herbaty.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3353,6 +3808,7 @@
       "polish": "więcej czasu",
       "aiStatus": "complete",
       "translationRu": "больше времени",
+      "synonym": "dodatkowy czas",
       "example": "Potrzebuję więcej czasu.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3421,6 +3877,7 @@
       "polish": "między",
       "aiStatus": "complete",
       "translationRu": "между",
+      "synonym": "pomiędzy",
       "example": "Siedziałem między nimi.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3438,6 +3895,7 @@
       "polish": "przytulnie",
       "aiStatus": "complete",
       "translationRu": "уютно",
+      "synonym": "swojsko",
       "example": "W tym pokoju jest przytulnie.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3480,6 +3938,7 @@
       "aiStatus": "complete",
       "translationRu": "сторонник",
       "synonym": "osoba, która jest przekonana o słuszności jakiejś idei, koncepcji lub jakiegoś działania.",
+      "example": "Jest zagorzałym zwolennikiem tej reformy.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -3487,6 +3946,7 @@
       "polish": "złapać",
       "aiStatus": "complete",
       "translationRu": "поймать, схватить",
+      "synonym": "schwytać",
       "example": "Złapał piłkę w locie.",
       "firstSeenAt": "2026-05-02"
     },
@@ -3495,6 +3955,7 @@
       "polish": "zaczęła się",
       "aiStatus": "complete",
       "translationRu": "началась",
+      "synonym": "rozpoczęła się",
       "example": "Lekcja zaczęła się o ósmej.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3538,6 +3999,7 @@
       "polish": "nawet",
       "aiStatus": "complete",
       "translationRu": "даже",
+      "synonym": "wręcz",
       "example": "Nawet ja tego nie rozumiem.",
       "firstSeenAt": "2026-05-02"
     },
@@ -3615,6 +4077,7 @@
       "polish": "próg",
       "aiStatus": "complete",
       "translationRu": "порог",
+      "synonym": "granica",
       "example": "Nie mogę przekroczyć tego progu.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3709,6 +4172,7 @@
       "polish": "ja zapomniałem",
       "aiStatus": "complete",
       "translationRu": "я забыл",
+      "synonym": "wyleciało mi z głowy",
       "example": "Ja zapomniałem parasola.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3735,6 +4199,7 @@
       "polish": "uczyć się",
       "aiStatus": "complete",
       "translationRu": "учиться",
+      "synonym": "studiować",
       "example": "Uczę się polskiego od roku.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3796,6 +4261,7 @@
       "polish": "grupa docelowa",
       "aiStatus": "complete",
       "translationRu": "целевая группа",
+      "synonym": "adresaci",
       "example": "Młodzież jest naszą grupą docelową.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3831,6 +4297,7 @@
       "polish": "po koncercie (koncert)",
       "aiStatus": "complete",
       "translationRu": "после концерта (концерт)",
+      "synonym": "po występie",
       "example": "Po koncercie poszliśmy na kolację.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3857,6 +4324,7 @@
       "polish": "przystować się",
       "aiStatus": "partial",
       "translationRu": "приспосабливаться (опечатка от przystosować się)",
+      "synonym": "dostosować się",
       "example": "Trudno mi się przystosować do nowego miejsca.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3892,6 +4360,7 @@
       "polish": "nie typowy",
       "aiStatus": "complete",
       "translationRu": "нетипичный",
+      "synonym": "niezwykły",
       "example": "To nietypowy przypadek.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3900,6 +4369,7 @@
       "polish": "wynalazki",
       "aiStatus": "complete",
       "translationRu": "изобретения",
+      "synonym": "innowacje",
       "example": "Edison stworzył wiele wynalazków.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3917,6 +4387,7 @@
       "polish": "ludzkość",
       "aiStatus": "complete",
       "translationRu": "человечество",
+      "synonym": "rodzaj ludzki",
       "example": "Ludzkość stoi przed wielkimi wyzwaniami.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3952,6 +4423,7 @@
       "polish": "zródło",
       "aiStatus": "complete",
       "translationRu": "источник (опечатка от źródło)",
+      "synonym": "początek",
       "example": "To jest wiarygodne źródło informacji.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3960,6 +4432,7 @@
       "polish": "intensywny",
       "aiStatus": "complete",
       "translationRu": "интенсивный",
+      "synonym": "silny",
       "example": "Mieliśmy intensywny tydzień pracy.",
       "firstSeenAt": "2026-07-17"
     },
@@ -3985,6 +4458,7 @@
       "polish": "zapominam",
       "aiStatus": "complete",
       "translationRu": "я забываю",
+      "synonym": "nie pamiętam",
       "example": "Zawsze zapominam parasola.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4011,6 +4485,7 @@
       "polish": "nie płynnie",
       "aiStatus": "complete",
       "translationRu": "не бегло",
+      "synonym": "z trudem",
       "example": "Mówię po polsku, ale nie płynnie.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4028,6 +4503,7 @@
       "polish": "wiedzieć o czymś",
       "aiStatus": "complete",
       "translationRu": "знать о чём-то",
+      "synonym": "mieć pojęcie o czymś",
       "example": "Nie wiedziałem o tym spotkaniu.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4091,6 +4567,7 @@
       "aiStatus": "partial",
       "synonym": "fajny system",
       "translationRu": "система (он, грам. род)",
+      "example": "System działa bez zarzutu.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -4107,6 +4584,7 @@
       "polish": "czynnik",
       "aiStatus": "complete",
       "translationRu": "фактор",
+      "synonym": "element",
       "example": "To ważny czynnik sukcesu.",
       "firstSeenAt": "2026-05-02"
     },
@@ -4115,6 +4593,7 @@
       "polish": "warunek konieczny",
       "aiStatus": "complete",
       "translationRu": "необходимое условие",
+      "synonym": "wymóg",
       "example": "Znajomość angielskiego jest warunkiem koniecznym tej pracy.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4159,6 +4638,7 @@
       "aiStatus": "complete",
       "example": "Musiałem zapłacić cło za paczkę z Chin",
       "translationRu": "заплатить пошлину",
+      "synonym": "uiścić opłatę celną",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -4184,6 +4664,7 @@
       "polish": "wspinać się",
       "aiStatus": "complete",
       "translationRu": "взбираться, карабкаться",
+      "synonym": "piąć się",
       "example": "Wspinamy się na szczyt.",
       "firstSeenAt": "2026-05-02"
     },
@@ -4192,6 +4673,7 @@
       "polish": "jechać / jeżdzić",
       "aiStatus": "complete",
       "translationRu": "ехать / ездить",
+      "synonym": "podróżować",
       "example": "Codziennie jeżdżę do pracy samochodem.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4200,6 +4682,7 @@
       "polish": "tańsze/ tanio/ tanie",
       "aiStatus": "complete",
       "translationRu": "дешевле / дёшево / дешёвые",
+      "synonym": "niedrogie",
       "example": "Te bilety są tańsze niż wczoraj.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4208,6 +4691,7 @@
       "polish": "jeśli",
       "aiStatus": "complete",
       "translationRu": "если",
+      "synonym": "o ile",
       "example": "Jeśli będzie padać, zostaniemy w domu.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4216,6 +4700,7 @@
       "polish": "dojść do wniosku",
       "aiStatus": "complete",
       "translationRu": "прийти к выводу",
+      "synonym": "uznać",
       "example": "Doszedłem do wniosku, że mam rację.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4224,6 +4709,7 @@
       "polish": "grupa badawcza",
       "aiStatus": "complete",
       "translationRu": "исследовательская группа",
+      "synonym": "zespół naukowy",
       "example": "Grupa badawcza opublikowała wyniki eksperymentu.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4241,6 +4727,7 @@
       "polish": "wpływ- wpływać",
       "aiStatus": "complete",
       "translationRu": "влияние - влиять",
+      "synonym": "oddziaływać",
       "example": "Muzyka wpływa na nasz nastrój.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4249,6 +4736,8 @@
       "polish": "orgAnizm",
       "aiStatus": "partial",
       "translationRu": "организм (опечатка регистра)",
+      "synonym": "ciało",
+      "example": "Regularny sport wzmacnia organizm.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -4256,6 +4745,7 @@
       "polish": "na czas",
       "aiStatus": "complete",
       "translationRu": "вовремя",
+      "synonym": "punktualnie",
       "example": "Przyszedłem na czas.",
       "firstSeenAt": "2026-05-02"
     },
@@ -4264,6 +4754,7 @@
       "polish": "udowodnić/ udowadniać",
       "aiStatus": "complete",
       "translationRu": "доказать / доказывать",
+      "synonym": "wykazać",
       "example": "Musisz to udowodnić w sądzie.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4281,6 +4772,7 @@
       "polish": "wąska",
       "aiStatus": "complete",
       "translationRu": "узкая",
+      "synonym": "ciasna",
       "example": "To bardzo wąska ulica.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4316,6 +4808,7 @@
       "polish": "socjalizaja",
       "aiStatus": "complete",
       "translationRu": "социализация (опечатка от socjalizacja)",
+      "synonym": "integracja społeczna",
       "example": "Socjalizacja dzieci zaczyna się w przedszkolu.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4324,6 +4817,7 @@
       "polish": "budować otoczenie",
       "aiStatus": "complete",
       "translationRu": "строить окружение, среду",
+      "synonym": "kształtować otoczenie",
       "example": "Staramy się budować przyjazne otoczenie w pracy.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4332,6 +4826,7 @@
       "polish": "wiek",
       "aiStatus": "complete",
       "translationRu": "возраст, век",
+      "synonym": "epoka",
       "example": "Jaki jest twój wiek?",
       "firstSeenAt": "2026-07-17"
     },
@@ -4340,6 +4835,7 @@
       "polish": "wyzwanie",
       "aiStatus": "complete",
       "translationRu": "вызов, испытание",
+      "synonym": "trudność",
       "example": "To dla mnie nowe wyzwanie.",
       "firstSeenAt": "2026-05-02"
     },
@@ -4348,6 +4844,7 @@
       "polish": "kontywać",
       "aiStatus": "complete",
       "translationRu": "продолжать (опечатка от kontynuować)",
+      "synonym": "prowadzić dalej",
       "example": "Musimy kontynuować tę rozmowę później.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4356,6 +4853,7 @@
       "polish": "w taki sposób",
       "aiStatus": "complete",
       "translationRu": "таким образом",
+      "synonym": "w ten sposób",
       "example": "Zrobił to w taki sposób, że nikt nie zauważył.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4364,6 +4862,7 @@
       "polish": "czynnik",
       "aiStatus": "complete",
       "translationRu": "фактор",
+      "synonym": "element",
       "example": "To ważny czynnik sukcesu.",
       "firstSeenAt": "2026-05-02"
     },
@@ -4416,6 +4915,7 @@
       "polish": "zastrzyk",
       "aiStatus": "complete",
       "translationRu": "укол, инъекция",
+      "synonym": "iniekcja",
       "example": "Lekarz zrobił mi zastrzyk.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4442,6 +4942,7 @@
       "polish": "rolnictwo",
       "aiStatus": "complete",
       "translationRu": "сельское хозяйство",
+      "synonym": "gospodarka rolna",
       "example": "Rolnictwo jest ważną branżą tego regionu.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4477,6 +4978,7 @@
       "polish": "społeczeństwo",
       "aiStatus": "complete",
       "translationRu": "общество",
+      "synonym": "społeczność",
       "example": "Społeczeństwo się starzeje.",
       "firstSeenAt": "2026-05-02"
     },
@@ -4485,6 +4987,7 @@
       "polish": "to się nie nadaje",
       "aiStatus": "complete",
       "translationRu": "это не годится",
+      "synonym": "to nie pasuje",
       "example": "To się nie nadaje do jedzenia.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4520,6 +5023,7 @@
       "polish": "się nie udało",
       "aiStatus": "complete",
       "translationRu": "не получилось",
+      "synonym": "nie wyszło",
       "example": "Plan się nie udał.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4555,6 +5059,7 @@
       "polish": "kontynent",
       "aiStatus": "complete",
       "translationRu": "континент",
+      "synonym": "ląd",
       "example": "Afryka jest kontynentem.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4563,6 +5068,7 @@
       "polish": "tłum",
       "aiStatus": "complete",
       "translationRu": "толпа",
+      "synonym": "mnóstwo ludzi",
       "example": "Na placu zebrał się ogromny tłum.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4588,6 +5094,7 @@
       "polish": "wyśminity",
       "aiStatus": "complete",
       "translationRu": "превосходный, отменный (опечатка от wyśmienity)",
+      "synonym": "znakomity",
       "example": "Ten tort był wyśmienity.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4623,6 +5130,7 @@
       "polish": "na łonie natury",
       "aiStatus": "complete",
       "translationRu": "на лоне природы",
+      "synonym": "na świeżym powietrzu",
       "example": "Spędziliśmy weekend na łonie natury.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4656,6 +5164,7 @@
       "polish": "wyrarzenie",
       "aiStatus": "complete",
       "translationRu": "выражение (опечатка от wyrażenie)",
+      "synonym": "zwrot",
       "example": "To dziwne wyrażenie w języku polskim.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4664,6 +5173,7 @@
       "polish": "zarządzać",
       "aiStatus": "complete",
       "translationRu": "управлять, руководить",
+      "synonym": "kierować",
       "example": "Zarządza dużym zespołem.",
       "firstSeenAt": "2026-05-02"
     },
@@ -4681,6 +5191,7 @@
       "polish": "sztućce",
       "aiStatus": "complete",
       "translationRu": "столовые приборы",
+      "synonym": "przybory stołowe",
       "example": "Proszę podać mi sztućce.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4707,6 +5218,7 @@
       "polish": "kawusia",
       "aiStatus": "complete",
       "translationRu": "кофеёк (ласк.)",
+      "synonym": "kawka",
       "example": "Zrobię sobie małą kawusię.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4725,6 +5237,7 @@
       "aiStatus": "complete",
       "translationRu": "разводить, выращивать (растения, животных)",
       "synonym": "hodaować kwiaty",
+      "example": "Moi dziadkowie hodują kury i krowy.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -4750,6 +5263,7 @@
       "polish": "widok",
       "aiStatus": "complete",
       "translationRu": "вид (пейзаж, на что-то)",
+      "synonym": "krajobraz",
       "example": "Z balkonu jest piękny widok.",
       "firstSeenAt": "2026-05-02"
     },
@@ -4758,6 +5272,7 @@
       "polish": "dojazd",
       "aiStatus": "complete",
       "translationRu": "подъезд, доступ (транспортом)",
+      "synonym": "dotarcie",
       "example": "Dojazd do centrum zajmuje pół godziny.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4775,6 +5290,7 @@
       "polish": "bez śpiechu",
       "aiStatus": "complete",
       "translationRu": "не спеша (опечатка от bez pośpiechu)",
+      "synonym": "powoli",
       "example": "Zrób to bez pośpiechu.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4825,6 +5341,7 @@
       "polish": "przystosowanie",
       "aiStatus": "complete",
       "translationRu": "приспособление",
+      "synonym": "adaptacja",
       "example": "Przystosowanie do nowej kultury zajęło mi rok.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4833,6 +5350,7 @@
       "polish": "zAmiast",
       "aiStatus": "complete",
       "translationRu": "вместо (опечатка от zamiast)",
+      "synonym": "w miejsce",
       "example": "Zamiast kawy wypiłem herbatę.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4841,6 +5359,7 @@
       "polish": "ribione ręcznie",
       "aiStatus": "complete",
       "translationRu": "сделано вручную (опечатка от robione ręcznie)",
+      "synonym": "ręczna robota",
       "example": "Ten sweter jest robiony ręcznie.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4849,6 +5368,7 @@
       "polish": "od A do Z",
       "aiStatus": "complete",
       "translationRu": "от А до Я",
+      "synonym": "całkowicie",
       "example": "Znam ten temat od A do Z.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4857,6 +5377,7 @@
       "polish": "dobry przykład",
       "aiStatus": "complete",
       "translationRu": "хороший пример",
+      "synonym": "wzór",
       "example": "To jest dobry przykład na to, o czym mówię.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4883,6 +5404,7 @@
       "polish": "czujniki",
       "aiStatus": "complete",
       "translationRu": "датчики",
+      "synonym": "detektory",
       "example": "Dom jest wyposażony w czujniki dymu.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4891,6 +5413,7 @@
       "polish": "wygodne",
       "aiStatus": "complete",
       "translationRu": "удобные",
+      "synonym": "komfortowe",
       "example": "Te buty są bardzo wygodne.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4899,6 +5422,7 @@
       "polish": "przytulne",
       "aiStatus": "complete",
       "translationRu": "уютные",
+      "synonym": "kameralne",
       "example": "Mają małe, ale przytulne mieszkanie.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4923,6 +5447,7 @@
       "polish": "wieżowiec",
       "aiStatus": "complete",
       "translationRu": "небоскрёб",
+      "synonym": "drapacz chmur",
       "example": "W centrum miasta stoi wysoki wieżowiec.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4931,6 +5456,7 @@
       "polish": "o tym",
       "aiStatus": "complete",
       "translationRu": "об этом",
+      "synonym": "o tej sprawie",
       "example": "Nie mówmy więcej o tym.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4948,6 +5474,7 @@
       "polish": "na ten temat",
       "aiStatus": "complete",
       "translationRu": "на эту тему",
+      "synonym": "w tej kwestii",
       "example": "Mam inną opinię na ten temat.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4956,6 +5483,7 @@
       "polish": "powalić",
       "aiStatus": "complete",
       "translationRu": "повалить",
+      "synonym": "przewrócić",
       "example": "Wiatr powalił drzewo.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4991,6 +5519,7 @@
       "polish": "opocząć",
       "aiStatus": "complete",
       "translationRu": "отдохнуть (опечатка от odpocząć)",
+      "synonym": "wypocząć",
       "example": "Muszę trochę odpocząć po podróży.",
       "firstSeenAt": "2026-07-17"
     },
@@ -4999,6 +5528,7 @@
       "polish": "wybrzeże",
       "aiStatus": "complete",
       "translationRu": "побережье",
+      "synonym": "brzeg morski",
       "example": "Spędziliśmy urlop na wybrzeżu Bałtyku.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5007,6 +5537,7 @@
       "polish": "brzeg",
       "aiStatus": "complete",
       "translationRu": "берег",
+      "synonym": "krawędź",
       "example": "Usiedliśmy na brzegu rzeki.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5015,6 +5546,7 @@
       "polish": "oburzeni",
       "aiStatus": "complete",
       "translationRu": "возмущённые",
+      "synonym": "wściekli",
       "example": "Byli oburzeni tą decyzją.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5040,6 +5572,7 @@
       "polish": "jednocześnie",
       "aiStatus": "complete",
       "translationRu": "одновременно",
+      "synonym": "równocześnie",
       "example": "Nie mogę robić dwóch rzeczy jednocześnie.",
       "firstSeenAt": "2026-05-02"
     },
@@ -5048,6 +5581,7 @@
       "polish": "udar słoneczny",
       "aiStatus": "complete",
       "translationRu": "солнечный удар",
+      "synonym": "przegrzanie",
       "example": "Dostał udaru słonecznego na plaży.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5072,6 +5606,7 @@
       "polish": "osiągnąć",
       "aiStatus": "complete",
       "translationRu": "достичь (цели, результата)",
+      "synonym": "zdobyć",
       "example": "Osiągnął swój cel.",
       "firstSeenAt": "2026-05-02"
     },
@@ -5089,6 +5624,7 @@
       "polish": "przyjąć decycję",
       "aiStatus": "complete",
       "translationRu": "принять решение (опечатка от decyzję)",
+      "synonym": "podjąć decyzję",
       "example": "Musimy przyjąć decyzję jak najszybciej.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5097,6 +5633,7 @@
       "polish": "założycieł",
       "aiStatus": "complete",
       "translationRu": "основатель (опечатка от założyciel)",
+      "synonym": "twórca",
       "example": "Jest założycielem tej firmy.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5132,6 +5669,7 @@
       "polish": "żarówka",
       "aiStatus": "complete",
       "translationRu": "лампочка",
+      "synonym": "lampka",
       "example": "Trzeba zmienić żarówkę w kuchni.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5148,6 +5686,7 @@
       "polish": "w tej porze",
       "aiStatus": "complete",
       "translationRu": "в это время (года)",
+      "synonym": "w tym okresie",
       "example": "W tej porze roku jest bardzo ciepło.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5165,6 +5704,7 @@
       "polish": "ściąga",
       "aiStatus": "complete",
       "translationRu": "шпаргалка",
+      "synonym": "podpowiedź",
       "example": "Nauczyciel zabrał mu ściągę na egzaminie.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5173,6 +5713,7 @@
       "polish": "śągać",
       "aiStatus": "complete",
       "translationRu": "доставать, достигать (опечатка от sięgać)",
+      "synonym": "docierać",
       "example": "Nie mogę sięgać tak wysoko.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5181,6 +5722,7 @@
       "polish": "on robi",
       "aiStatus": "complete",
       "translationRu": "он делает",
+      "synonym": "on wykonuje",
       "example": "On robi obiad dla całej rodziny.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5189,6 +5731,7 @@
       "polish": "mineło",
       "aiStatus": "complete",
       "translationRu": "прошло (опечатка от minęło)",
+      "synonym": "upłynęło",
       "example": "Minęło już pięć lat od naszego ślubu.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5213,6 +5756,7 @@
       "polish": "u niego",
       "aiStatus": "complete",
       "translationRu": "у него",
+      "synonym": "w jego domu",
       "example": "Byliśmy u niego wczoraj wieczorem.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5239,6 +5783,7 @@
       "polish": "wystaczająco",
       "aiStatus": "complete",
       "translationRu": "достаточно (опечатка от wystarczająco)",
+      "synonym": "dosyć",
       "example": "Nie mam wystarczająco pieniędzy.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5247,6 +5792,7 @@
       "polish": "patsząc",
       "aiStatus": "complete",
       "translationRu": "глядя, смотря (опечатка от patrząc)",
+      "synonym": "spoglądając",
       "example": "Patrząc na to z boku, to był dobry wybór.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5255,6 +5801,7 @@
       "polish": "wschód",
       "aiStatus": "complete",
       "translationRu": "восток",
+      "synonym": "orient",
       "example": "Słońce wschodzi na wschodzie.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5263,6 +5810,7 @@
       "polish": "przytulić się",
       "aiStatus": "complete",
       "translationRu": "прижаться, обняться",
+      "synonym": "tulić się",
       "example": "Dzieci przytuliły się do mamy.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5288,6 +5836,7 @@
       "polish": "system",
       "aiStatus": "complete",
       "translationRu": "система",
+      "synonym": "układ",
       "example": "System komputerowy się zawiesił.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5305,6 +5854,7 @@
       "polish": "dzięki",
       "aiStatus": "complete",
       "translationRu": "благодаря",
+      "synonym": "za sprawą",
       "example": "Dzięki tobie zdałem egzamin.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5313,6 +5863,7 @@
       "polish": "urządzenie",
       "aiStatus": "complete",
       "translationRu": "устройство",
+      "synonym": "sprzęt",
       "example": "To urządzenie jest bardzo drogie.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5348,6 +5899,7 @@
       "polish": "rozumieją",
       "aiStatus": "complete",
       "translationRu": "(они) понимают",
+      "synonym": "pojmują",
       "example": "Oni rozumieją każde słowo.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5356,6 +5908,7 @@
       "polish": "na górze",
       "aiStatus": "complete",
       "translationRu": "наверху",
+      "synonym": "u góry",
       "example": "Sypialnia jest na górze.",
       "firstSeenAt": "2026-05-02"
     },
@@ -5373,6 +5926,7 @@
       "polish": "zszedł",
       "aiStatus": "complete",
       "translationRu": "сошёл, спустился",
+      "synonym": "zstąpił",
       "example": "Zszedł ze schodów bardzo szybko.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5390,6 +5944,7 @@
       "polish": "kwarantana",
       "aiStatus": "complete",
       "translationRu": "карантин (опечатка от kwarantanna)",
+      "synonym": "izolacja",
       "example": "Wróciliśmy z zagranicy i musieliśmy odbyć kwarantannę.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5398,6 +5953,7 @@
       "polish": "nietypowe",
       "aiStatus": "complete",
       "translationRu": "нетипичные",
+      "synonym": "niestandardowe",
       "example": "To były nietypowe okoliczności.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5406,6 +5962,7 @@
       "polish": "mieć to z głowy",
       "aiStatus": "complete",
       "translationRu": "разделаться с этим (идиома)",
+      "synonym": "uporać się z czymś",
       "example": "Chcę mieć to już z głowy.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5414,6 +5971,7 @@
       "polish": "z głową coś robić",
       "aiStatus": "partial",
       "translationRu": "делать что-то с умом (идиома, обрывок фразы)",
+      "synonym": "z rozsądkiem",
       "example": "Trzeba to zrobić z głową.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5422,6 +5980,7 @@
       "polish": "zmienić zdanie",
       "aiStatus": "complete",
       "translationRu": "передумать",
+      "synonym": "rozmyślić się",
       "example": "Zmieniłem zdanie w ostatniej chwili.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5430,6 +5989,7 @@
       "polish": "nie dawaj za wygraną",
       "aiStatus": "complete",
       "translationRu": "не сдавайся",
+      "synonym": "nie poddawaj się",
       "example": "Nie dawaj za wygraną, jeszcze możesz wygrać.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5447,6 +6007,7 @@
       "polish": "schodzę",
       "aiStatus": "complete",
       "translationRu": "я схожу, спускаюсь",
+      "synonym": "idę na dół",
       "example": "Już schodzę, czekaj chwilę.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5455,6 +6016,7 @@
       "polish": "nie wabi",
       "aiStatus": "partial",
       "translationRu": "не привлекает, не манит (обрывок фразы)",
+      "synonym": "nie kusi",
       "example": "Ta oferta mnie nie wabi.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5481,6 +6043,7 @@
       "polish": "miejsce docelowe",
       "aiStatus": "complete",
       "translationRu": "место назначения",
+      "synonym": "cel podróży",
       "example": "Nasze miejsce docelowe to Kraków.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5498,6 +6061,7 @@
       "polish": "zwracać",
       "aiStatus": "complete",
       "translationRu": "возвращать",
+      "synonym": "oddawać",
       "example": "Musisz zwrócić tę książkę do biblioteki.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5515,6 +6079,7 @@
       "polish": "wynajęłam",
       "aiStatus": "complete",
       "translationRu": "я сняла (жильё, ж.р.)",
+      "synonym": "wzięłam w najem",
       "example": "Wynajęłam mieszkanie na rok.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5531,6 +6096,7 @@
       "polish": "smakować",
       "aiStatus": "complete",
       "translationRu": "иметь вкус, пробовать на вкус",
+      "synonym": "próbować",
       "example": "Ta zupa smakuje wyśmienicie.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5539,6 +6105,7 @@
       "polish": "kojażyć",
       "aiStatus": "complete",
       "translationRu": "ассоциировать (опечатка от kojarzyć)",
+      "synonym": "łączyć się (skojarzeniowo)",
       "example": "To imię kojarzy mi się z moją babcią.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5556,6 +6123,7 @@
       "polish": "obserwać",
       "aiStatus": "complete",
       "translationRu": "наблюдать (опечатка от obserwować)",
+      "synonym": "śledzić",
       "example": "Naukowcy obserwują zachowanie zwierząt.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5572,6 +6140,7 @@
       "polish": "ciężki",
       "aiStatus": "complete",
       "translationRu": "тяжёлый",
+      "synonym": "masywny",
       "example": "Ta walizka jest bardzo ciężka.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5580,6 +6149,7 @@
       "polish": "wynależć",
       "aiStatus": "complete",
       "translationRu": "изобрести (опечатка от wynaleźć)",
+      "synonym": "stworzyć",
       "example": "Kto wynalazł telefon?",
       "firstSeenAt": "2026-07-17"
     },
@@ -5588,6 +6158,7 @@
       "polish": "teorie spiskowe",
       "aiStatus": "complete",
       "translationRu": "теории заговора",
+      "synonym": "spiskowe koncepcje",
       "example": "Internet jest pełen teorii spiskowych.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5604,6 +6175,7 @@
       "polish": "nic specjalnego",
       "aiStatus": "complete",
       "translationRu": "ничего особенного",
+      "synonym": "nic nadzwyczajnego",
       "example": "Nic specjalnego się nie stało.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5612,6 +6184,7 @@
       "polish": "przykuć uwagę",
       "aiStatus": "complete",
       "translationRu": "приковать внимание",
+      "synonym": "zwrócić uwagę",
       "example": "Ten plakat przykuł moją uwagę.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5620,6 +6193,7 @@
       "polish": "cel - on",
       "aiStatus": "partial",
       "translationRu": "цель (он, грам. род)",
+      "example": "Nasz cel jest jasno określony.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -5698,6 +6272,7 @@
       "polish": "wyłądować",
       "aiStatus": "complete",
       "translationRu": "приземлиться (опечатка от wylądować)",
+      "synonym": "osiąść",
       "example": "Samolot wylądował z opóźnieniem.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5706,6 +6281,7 @@
       "polish": "sztuka nowoczesna",
       "aiStatus": "complete",
       "translationRu": "современное искусство",
+      "synonym": "sztuka współczesna",
       "example": "Muzeum prezentuje sztukę nowoczesną.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5732,6 +6308,7 @@
       "polish": "mgła",
       "aiStatus": "complete",
       "translationRu": "туман",
+      "synonym": "zamglenie",
       "example": "Rano była gęsta mgła.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5785,6 +6362,7 @@
       "polish": "przystawki",
       "aiStatus": "complete",
       "translationRu": "закуски",
+      "synonym": "zakąski",
       "example": "Zamówiliśmy kilka przystawek na początek.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5794,6 +6372,7 @@
       "aiStatus": "complete",
       "synonym": "zaskoczony",
       "translationRu": "удивлённый",
+      "example": "Był bardzo zdziwiony jej decyzją.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -5828,6 +6407,7 @@
       "polish": "upływ",
       "aiStatus": "complete",
       "translationRu": "истечение (срока), течение (времени)",
+      "synonym": "bieg (czasu)",
       "example": "Z upływem czasu wszystko się zmienia.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5844,6 +6424,7 @@
       "polish": "klasyfikacja",
       "aiStatus": "complete",
       "translationRu": "классификация",
+      "synonym": "kategoryzacja",
       "example": "Klasyfikacja zwierząt jest skomplikowana.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5861,6 +6442,7 @@
       "polish": "odprawa",
       "aiStatus": "complete",
       "translationRu": "регистрация (на рейс), инструктаж",
+      "synonym": "rejestracja",
       "example": "Odprawa na lotnisku trwała godzinę.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5878,6 +6460,7 @@
       "polish": "podejmować",
       "aiStatus": "complete",
       "translationRu": "предпринимать, принимать",
+      "synonym": "przedsiębrać",
       "example": "Musimy podejmować trudne decyzje.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5886,6 +6469,7 @@
       "polish": "rozmawiać na temat",
       "aiStatus": "complete",
       "translationRu": "разговаривать на тему",
+      "synonym": "dyskutować o",
       "example": "Rozmawialiśmy na temat polityki.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5895,6 +6479,7 @@
       "aiStatus": "partial",
       "translationRu": "трудно (опечатка/нестанд., правильно 'trudno')",
       "synonym": "jak?",
+      "example": "Trudno mi to teraz wytłumaczyć.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -5911,6 +6496,7 @@
       "polish": "nie do zrozumienia",
       "aiStatus": "complete",
       "translationRu": "непонятно, непостижимо",
+      "synonym": "niezrozumiały",
       "example": "Jego zachowanie było nie do zrozumienia.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5961,6 +6547,7 @@
       "polish": "harmonogram",
       "aiStatus": "complete",
       "translationRu": "расписание, график",
+      "synonym": "plan",
       "example": "Mam napięty harmonogram.",
       "firstSeenAt": "2026-05-02"
     },
@@ -5969,6 +6556,7 @@
       "polish": "rezerwat",
       "aiStatus": "complete",
       "translationRu": "заповедник",
+      "synonym": "obszar chroniony",
       "example": "W rezerwacie żyją rzadkie gatunki zwierząt.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5986,6 +6574,7 @@
       "polish": "pozwilić",
       "aiStatus": "complete",
       "translationRu": "позволить (опечатка от pozwolić)",
+      "synonym": "zezwolić",
       "example": "Nie mogę pozwolić sobie na taki wydatek.",
       "firstSeenAt": "2026-07-17"
     },
@@ -5994,6 +6583,7 @@
       "polish": "dać zezwolenie",
       "aiStatus": "complete",
       "translationRu": "дать разрешение",
+      "synonym": "udzielić pozwolenia",
       "example": "Urząd dał nam zezwolenie na budowę.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6002,6 +6592,7 @@
       "polish": "ciemnieć",
       "aiStatus": "complete",
       "translationRu": "темнеть",
+      "synonym": "mrocznieć",
       "example": "Niebo zaczęło ciemnieć.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6028,6 +6619,7 @@
       "polish": "zachwyt",
       "aiStatus": "complete",
       "translationRu": "восхищение",
+      "synonym": "podziw",
       "example": "Wystawa wzbudziła powszechny zachwyt.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6063,6 +6655,7 @@
       "polish": "doprowadzić",
       "aiStatus": "complete",
       "translationRu": "довести, привести",
+      "synonym": "spowodować",
       "example": "To doprowadziło do konfliktu.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6089,6 +6682,7 @@
       "polish": "oni byli zaskoczeni",
       "aiStatus": "complete",
       "translationRu": "они были удивлены",
+      "synonym": "byli zdziwieni",
       "example": "Oni byli zaskoczeni wynikiem meczu.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6129,6 +6723,7 @@
       "polish": "Rusek",
       "aiStatus": "complete",
       "translationRu": "разговорное прозвище русского",
+      "synonym": "Ruski",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -6144,6 +6739,7 @@
       "polish": "bym powiedział",
       "aiStatus": "complete",
       "translationRu": "я бы сказал",
+      "synonym": "powiedziałbym",
       "example": "Ja bym powiedział, że to błąd.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6152,6 +6748,7 @@
       "polish": "zgasiło się",
       "aiStatus": "complete",
       "translationRu": "погасло (об экране, свете)",
+      "synonym": "wyłączyło się",
       "example": "Zgasiło się światło w całym budynku.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6160,6 +6757,7 @@
       "polish": "kwestionariusz",
       "aiStatus": "complete",
       "translationRu": "анкета, опросник",
+      "synonym": "ankieta",
       "example": "Proszę wypełnić ten kwestionariusz.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6185,6 +6783,7 @@
       "polish": "tłumaczyć się",
       "aiStatus": "complete",
       "translationRu": "оправдываться",
+      "synonym": "usprawiedliwiać się",
       "example": "Nie musisz mi się tłumaczyć.",
       "firstSeenAt": "2026-05-02"
     },
@@ -6202,6 +6801,7 @@
       "polish": "przy ladzie",
       "aiStatus": "complete",
       "translationRu": "у прилавка (опечатка от lada)",
+      "synonym": "przy kontuarze",
       "example": "Stałem przy ladzie i czekałem na kawę.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6210,6 +6810,7 @@
       "polish": "wyzwanie",
       "aiStatus": "complete",
       "translationRu": "вызов, испытание",
+      "synonym": "trudność",
       "example": "To dla mnie nowe wyzwanie.",
       "firstSeenAt": "2026-05-02"
     },
@@ -6245,6 +6846,7 @@
       "polish": "irytować",
       "aiStatus": "complete",
       "translationRu": "раздражать",
+      "synonym": "denerwować",
       "example": "Ten dźwięk mnie irytuje.",
       "firstSeenAt": "2026-05-02"
     },
@@ -6262,6 +6864,7 @@
       "polish": "przysięgam",
       "aiStatus": "complete",
       "translationRu": "клянусь",
+      "synonym": "daję słowo",
       "example": "Przysięgam, że mówię prawdę.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6376,6 +6979,7 @@
       "polish": "pojechAliśmy",
       "aiStatus": "complete",
       "translationRu": "мы поехали",
+      "synonym": "wyruszyliśmy",
       "example": "Pojechaliśmy nad morze na wakacje.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6384,6 +6988,7 @@
       "polish": "nieprzydzielona",
       "aiStatus": "complete",
       "translationRu": "невыделенная",
+      "synonym": "niewyznaczona",
       "example": "Ta sala jest nieprzydzielona żadnej grupie.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6392,6 +6997,7 @@
       "polish": "nieprzeznaczona",
       "aiStatus": "complete",
       "translationRu": "непредназначенная",
+      "synonym": "nieprzewidziana",
       "example": "Ta woda jest nieprzeznaczona do picia.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6400,6 +7006,7 @@
       "polish": "siedziba",
       "aiStatus": "complete",
       "translationRu": "резиденция, штаб-квартира",
+      "synonym": "centrala",
       "example": "Siedziba firmy znajduje się w Warszawie.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6417,6 +7024,7 @@
       "polish": "głusza",
       "aiStatus": "complete",
       "translationRu": "глушь",
+      "synonym": "pustkowie",
       "example": "Ich dom stoi na zupełnej głuszy.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6450,6 +7058,7 @@
       "polish": "dostać się",
       "aiStatus": "complete",
       "translationRu": "попасть (куда-то)",
+      "synonym": "dotrzeć",
       "example": "Trudno dostać się do centrum bez samochodu.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6458,6 +7067,7 @@
       "polish": "wbrew oczekiewaniom",
       "aiStatus": "complete",
       "translationRu": "вопреки ожиданиям (опечатка от oczekiwaniom)",
+      "synonym": "wbrew przewidywaniom",
       "example": "Wbrew oczekiwaniom, wygraliśmy ten mecz.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6466,6 +7076,7 @@
       "polish": "wbrew przewidywaniom",
       "aiStatus": "complete",
       "translationRu": "вопреки предсказаниям",
+      "synonym": "wbrew oczekiwaniom",
       "example": "Wbrew przewidywaniom, pogoda była piękna.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6474,6 +7085,7 @@
       "polish": "wbrew przypuszczeniom",
       "aiStatus": "complete",
       "translationRu": "вопреки предположениям",
+      "synonym": "wbrew domysłom",
       "example": "Wbrew przypuszczeniom, wszystko poszło dobrze.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6509,6 +7121,7 @@
       "polish": "osiągnąć",
       "aiStatus": "complete",
       "translationRu": "достичь (цели, результата)",
+      "synonym": "zdobyć",
       "example": "Osiągnął swój cel.",
       "firstSeenAt": "2026-05-02"
     },
@@ -6517,6 +7130,7 @@
       "polish": "doprowadzić do",
       "aiStatus": "complete",
       "translationRu": "привести к",
+      "synonym": "prowadzić do",
       "example": "To może doprowadzić do poważnych problemów.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6525,6 +7139,7 @@
       "polish": "księga opinii",
       "aiStatus": "complete",
       "translationRu": "книга отзывов",
+      "synonym": "księga gości",
       "example": "Klienci mogą wpisać się do księgi opinii.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6534,6 +7149,7 @@
       "aiStatus": "complete",
       "synonym": "przenieść się w czasie",
       "translationRu": "вернуться во времени",
+      "example": "Gdybym mógł cofnąć się w czasie, zrobiłbym to inaczej.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -6541,6 +7157,7 @@
       "polish": "samopoczucie",
       "aiStatus": "complete",
       "translationRu": "самочувствие",
+      "synonym": "kondycja psychiczna",
       "example": "Moje samopoczucie się poprawiło.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6558,6 +7175,7 @@
       "polish": "wykrakać",
       "aiStatus": "complete",
       "translationRu": "накаркать",
+      "synonym": "przepowiedzieć (złowieszczo)",
       "example": "Nie chcę tego wykrakać, ale wygląda dobrze.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6593,6 +7211,8 @@
       "polish": "niezbędne",
       "aiStatus": "complete",
       "translationRu": "необходимые, незаменимые",
+      "synonym": "konieczne",
+      "example": "Woda jest niezbędna do życia.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -6609,6 +7229,7 @@
       "polish": "dalibyśmy",
       "aiStatus": "complete",
       "translationRu": "мы бы дали",
+      "synonym": "oddalibyśmy",
       "example": "Dalibyśmy więcej, gdybyśmy mieli.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6617,6 +7238,7 @@
       "polish": "działka",
       "aiStatus": "complete",
       "translationRu": "участок (земли)",
+      "synonym": "parcela",
       "example": "Kupili działkę pod budowę domu.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6660,6 +7282,7 @@
       "polish": "na pierwszy rzut oka",
       "aiStatus": "complete",
       "translationRu": "на первый взгляд",
+      "synonym": "na pierwszy widok",
       "example": "Na pierwszy rzut oka wszystko wygląda dobrze.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6687,6 +7310,7 @@
       "aiStatus": "complete",
       "translationRu": "эффективный, результативный",
       "synonym": "efektywny",
+      "example": "To bardzo skuteczny sposób na naukę języka.",
       "firstSeenAt": "2026-05-02"
     },
     {
@@ -6694,6 +7318,7 @@
       "polish": "czynnik",
       "aiStatus": "complete",
       "translationRu": "фактор",
+      "synonym": "element",
       "example": "To ważny czynnik sukcesu.",
       "firstSeenAt": "2026-05-02"
     },
@@ -6711,6 +7336,7 @@
       "polish": "umrzeć",
       "aiStatus": "complete",
       "translationRu": "умереть",
+      "synonym": "skonać",
       "example": "Bał się umrzeć w samotności.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6719,6 +7345,7 @@
       "polish": "umarł",
       "aiStatus": "complete",
       "translationRu": "умер",
+      "synonym": "zmarł",
       "example": "Jego dziadek umarł w zeszłym roku.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6727,6 +7354,7 @@
       "polish": "rozproszeni po świecie",
       "aiStatus": "complete",
       "translationRu": "рассеянные по миру",
+      "synonym": "rozsiani po świecie",
       "example": "Jej krewni są rozproszeni po całym świecie.",
       "firstSeenAt": "2026-07-17"
     },
@@ -6735,6 +7363,7 @@
       "polish": "dmie",
       "aiStatus": "complete",
       "translationRu": "дует (от dąć)",
+      "synonym": "wieje",
       "example": "Wiatr dmie z północy.",
       "firstSeenAt": "2026-07-17"
     },
