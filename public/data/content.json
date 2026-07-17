@@ -1,91 +1,93 @@
 {
-  "generatedAt": "2026-05-02T10:08:56.106Z",
+  "generatedAt": "2026-07-17T06:21:01.236Z",
   "dailyPractice": {
-    "date": "2026-05-02",
+    "date": "2026-07-17",
     "words": [
       {
-        "id": "serca-obojga",
-        "polish": "Serca obojga",
+        "id": "widok-2",
+        "polish": "widok",
         "aiStatus": "complete",
-        "example": "Serca obojga biły tak głośno",
-        "translationRu": "Сердца обоих",
+        "translationRu": "вид (пейзаж, на что-то)",
+        "example": "Z balkonu jest piękny widok.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zaledwie-garstka",
-        "polish": "Zaledwie garstka",
+        "id": "narzeczony",
+        "polish": "narzeczony",
         "aiStatus": "complete",
-        "synonym": "niewielka liczba",
-        "example": "Zaledwie garstka ludzi przyszła na spotkanie",
-        "translationRu": "лишь горстка",
+        "synonym": "partner, chłopak",
+        "example": "przyjechała z narzeczonym",
+        "translationRu": "жених, парень (партнёр)",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "fachowy",
-        "polish": "fachowy",
+        "id": "brzmiec",
+        "polish": "brzmieć",
         "aiStatus": "complete",
-        "synonym": "profesjonalny",
-        "example": "Mieć fachowe doświadczenie",
-        "translationRu": "профессиональный, квалифицированный",
+        "synonym": "to brzmi dziwnie",
+        "translationRu": "звучать",
+        "example": "To brzmi dobrze.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "krewni",
-        "polish": "krewni",
+        "id": "irytujacy",
+        "polish": "irytujący",
         "aiStatus": "complete",
-        "translationRu": "родственники",
-        "example": "Mam dużo krewnych w Polsce.",
+        "synonym": "denerwujący",
+        "example": "To być bardzo irytujący klient",
+        "translationRu": "раздражающий",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "byc-na-biezaco",
-        "polish": "być na bieżąco",
+        "id": "istniec",
+        "polish": "istnieć",
         "aiStatus": "complete",
-        "translationRu": "быть в курсе",
-        "example": "Czytam wiadomości, żeby być na bieżąco.",
+        "translationRu": "существовать",
+        "example": "Czy duchy naprawdę istnieją?",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zyc",
-        "polish": "żyć",
+        "id": "przetwor",
+        "polish": "przetwór",
         "aiStatus": "complete",
-        "translationRu": "жить",
-        "example": "Żyję w Warszawie od dziesięciu lat.",
+        "synonym": "konserwa",
+        "example": "Robić przetwory na zimę",
+        "translationRu": "заготовка, консерва",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "bardzo-mi-przykro",
-        "polish": "Bardzo mi przykro",
+        "id": "zmarznac-2",
+        "polish": "zmarznąć",
         "aiStatus": "complete",
-        "synonym": "szkoda, niestety",
-        "example": "Bardzo mi przykro, że nie możesz przyjść",
-        "translationRu": "Мне очень жаль",
+        "translationRu": "замёрзнуть",
+        "synonym": "odczuwać mróz",
+        "example": "Chyba bardzo zmarzliście!",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "przegapic",
-        "polish": "przegapić",
+        "id": "przesada",
+        "polish": "przesada",
         "aiStatus": "complete",
-        "synonym": "nie zdążyć",
-        "translationRu": "упустить, прозевать",
-        "example": "Przegapiłem autobus.",
+        "synonym": "mieć już dojśc",
+        "translationRu": "преувеличение, перебор",
+        "example": "To już jest przesada!",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wynajmowac",
-        "polish": "wynajmować",
+        "id": "wyluzowac-2",
+        "polish": "wyluzować",
         "aiStatus": "complete",
-        "synonym": "wynająć",
-        "translationRu": "снимать (квартиру)",
-        "example": "Wynajmuję mieszkanie w centrum.",
+        "synonym": "j.p",
+        "translationRu": "расслабиться (разг.)",
+        "example": "Wyluzuj, wszystko będzie dobrze.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zapomnialem",
-        "polish": "zapomniałem",
+        "id": "we-wloszech",
+        "polish": "we Włoszech",
         "aiStatus": "complete",
-        "translationRu": "я забыл (м.р.)",
-        "example": "Zapomniałem klucze w domu.",
+        "translationRu": "в Италии",
+        "example": "Spędziłem wakacje we Włoszech.",
         "firstSeenAt": "2026-05-02"
       }
     ],
@@ -3308,13 +3310,2687 @@
       "translationRu": "в курсе (текущих дел)",
       "example": "Jestem na bieżąco z wiadomościami.",
       "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "przewlekla-choroba",
+      "polish": "przewlekła choroba",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "chcialbym",
+      "polish": "chciałbym",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zrobilbym",
+      "polish": "zrobiłbym",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "dodawalbym",
+      "polish": "dodawałbym",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "duzo",
+      "polish": "dużo",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wiecej-czasu",
+      "polish": "więcej czasu",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "pobierac-pobrac-2",
+      "polish": "pobierać/ pobrać",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "za-niedlugo",
+      "polish": "za niedługo",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "juz",
+      "polish": "już",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wprowadzic",
+      "polish": "wprowadzić",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "okolicznosci",
+      "polish": "okoliczności",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "ja-nie-moglem",
+      "polish": "ja - nie mogłem",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "on-nie-mogl",
+      "polish": "on - nie mógł",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "miedzy",
+      "polish": "między",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wygodnie",
+      "polish": "wygodnie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "przytulnie",
+      "polish": "przytulnie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "bede-mial",
+      "polish": "będę miał",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "bede-miec",
+      "polish": "będę mieć",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "on-ona-musi",
+      "polish": "on / ona musi",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "swiadczyc",
+      "polish": "świadczyć",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zwolennik-2",
+      "polish": "zwolennik",
+      "aiStatus": "complete",
+      "translationRu": "сторонник",
+      "synonym": "osoba, która jest przekonana o słuszności jakiejś idei, koncepcji lub jakiegoś działania.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "zlapac-2",
+      "polish": "złapać",
+      "aiStatus": "complete",
+      "translationRu": "поймать, схватить",
+      "example": "Złapał piłkę w locie.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "zaczela-sie",
+      "polish": "zaczęła się",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "mina",
+      "polish": "mina",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "relacje-2",
+      "polish": "relacje",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zaburzenie-psychologiczne",
+      "polish": "zaburzenie psychologiczne",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "duzo-malo-2",
+      "polish": "dużo /mało",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "nawet-2",
+      "polish": "nawet",
+      "aiStatus": "complete",
+      "translationRu": "даже",
+      "example": "Nawet ja tego nie rozumiem.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "zwariowany-czlowiek",
+      "polish": "zwariowany człowiek",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wtracac-sie",
+      "polish": "wtrącać się",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "szczerze-mowiac",
+      "polish": "szczerze mówiąc",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "4-zlote",
+      "polish": "4 złote",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "otwarte-kraje",
+      "polish": "otwarte kraje",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "otwarci-ludzie",
+      "polish": "otwarci ludzie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "filar",
+      "polish": "filar",
+      "aiStatus": "partial",
+      "synonym": "podstawa, fundament, opora",
+      "example": "Edukacja stanowi ważny filar państwa",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "irytowac-2",
+      "polish": "irytować",
+      "aiStatus": "complete",
+      "synonym": "denerwować",
+      "example": "irytują programy telewizyjne przerywane reklamami",
+      "translationRu": "раздражать",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "prog",
+      "polish": "próg",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zirytowany",
+      "polish": "zirytowany",
+      "aiStatus": "partial",
+      "synonym": "zirytowany człowiek/ niezadowolony",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "troche-zimno-jak",
+      "polish": "trochę zimno - jak",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "w-polsce",
+      "polish": "w Polsce",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "przeprowadzic-sie",
+      "polish": "przeprowadzić się",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zakazic-sie",
+      "polish": "zakazić się",
+      "aiStatus": "partial",
+      "synonym": "zarazić się",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "fala-2",
+      "polish": "fala",
+      "aiStatus": "complete",
+      "translationRu": "волна",
+      "example": "Wysokie fale uderzały o brzeg.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "kwarantanna",
+      "polish": "kwarantanna",
+      "aiStatus": "partial",
+      "synonym": "izolacja",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "choroba-zakazna",
+      "polish": "choroba zakaźna",
+      "aiStatus": "partial",
+      "synonym": "choroba infekcyjna/ choroba zaraźliwa",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "statek-pasazerski",
+      "polish": "statek pasażerski",
+      "aiStatus": "partial",
+      "synonym": "rejsowiec",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "ja-moglem",
+      "polish": "ja mogłem",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "ja-zapomnialem",
+      "polish": "ja zapomniałem",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "uzyteczny",
+      "polish": "użyteczny",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "bez-konca",
+      "polish": "bez końca",
+      "aiStatus": "partial",
+      "synonym": "bez przerwy",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "uczyc-sie",
+      "polish": "uczyć się",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "sposob-sposoby",
+      "polish": "sposób - sposoby",
+      "aiStatus": "partial",
+      "synonym": "samochód - samochdy",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "spoleczenstwo-2",
+      "polish": "społeczeństwo",
+      "aiStatus": "complete",
+      "synonym": "życie społeczne",
+      "translationRu": "общество",
+      "example": "Społeczeństwo się starzeje.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "reklamowac",
+      "polish": "reklamować",
+      "aiStatus": "partial",
+      "synonym": "promować",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wplyw-bedzie-lepszy",
+      "polish": "wpływ będzie lepszy",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "artysci",
+      "polish": "artyści",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zapoznac-sie",
+      "polish": "zapoznać się",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "grupa-docelowa",
+      "polish": "grupa docelowa",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "skupic-sie",
+      "polish": "skupić się",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "skupiac-sie",
+      "polish": "skupiać się",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "skupienie",
+      "polish": "skupienie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "po-koncercie-koncert",
+      "polish": "po koncercie (koncert)",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "porownywac",
+      "polish": "porównywać",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "formowac",
+      "polish": "formować",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "przystowac-sie",
+      "polish": "przystować się",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "porownywac-2",
+      "polish": "porównywać",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "walczyc",
+      "polish": "walczyć",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zezwolenie",
+      "polish": "zezwolenie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "nie-typowy",
+      "polish": "nie typowy",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wynalazki",
+      "polish": "wynalazki",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wywierac",
+      "polish": "wywierać",
+      "aiStatus": "partial",
+      "synonym": "wpływać",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "ludzkosc",
+      "polish": "ludzkość",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "okrywac",
+      "polish": "okrywać",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "odkrywca",
+      "polish": "odkrywca",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "producent",
+      "polish": "producent",
+      "aiStatus": "partial",
+      "synonym": "producenci",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zrodlo",
+      "polish": "zródło",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "intensywny",
+      "polish": "intensywny",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "fajny",
+      "polish": "fajny",
+      "aiStatus": "partial",
+      "synonym": "odlotowy/bombowy",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "auto-auta-l-m",
+      "polish": "auto- auta l/m",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zapominam",
+      "polish": "zapominam",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "git",
+      "polish": "git",
+      "aiStatus": "partial",
+      "synonym": "j/p",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "biegle",
+      "polish": "biegle",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "nie-plynnie",
+      "polish": "nie płynnie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "znac-jezyk",
+      "polish": "znac język",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wiedziec-o-czyms",
+      "polish": "wiedzieć o czymś",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "dowcip",
+      "polish": "dowcip",
+      "aiStatus": "partial",
+      "synonym": "żart, anegdota",
+      "example": "Śmiać się z dowcipu",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zerkniemy",
+      "polish": "zerkniemy",
+      "aiStatus": "partial",
+      "synonym": "spojrzeć przez chwilę",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wapic-sie",
+      "polish": "wąpić się",
+      "aiStatus": "partial",
+      "synonym": "nie dowierzać, nie ufać, być sceptycznym",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "bez-watpienia",
+      "polish": "bez wątpienia",
+      "aiStatus": "partial",
+      "synonym": "niechybnie,; niepodważalnie,; niewątpliwie",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wkurzac",
+      "polish": "wkurzać",
+      "aiStatus": "partial",
+      "synonym": "irytować,wnerwiać, drażnić, złościć",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "metropolia",
+      "polish": "metropolia",
+      "aiStatus": "partial",
+      "synonym": "duże, dominujące miasto lub zespół miejski",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "system-on-2",
+      "polish": "system - on",
+      "aiStatus": "partial",
+      "synonym": "fajny system",
+      "translationRu": "система (он, грам. род)",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "nagi",
+      "polish": "nagi",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "czynnik-2",
+      "polish": "czynnik",
+      "aiStatus": "complete",
+      "translationRu": "фактор",
+      "example": "To ważny czynnik sukcesu.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "warunek-konieczny",
+      "polish": "warunek konieczny",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "czlowiek-pajak",
+      "polish": "człowiek pająk",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wyemitowac",
+      "polish": "wyemitować",
+      "aiStatus": "partial",
+      "synonym": "stworzyć i wypuścić",
+      "example": "wyemitować nowe banknoty",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "w-obiegu-byc-w-obiegu",
+      "polish": "w obiegu / być w obiegu",
+      "aiStatus": "partial",
+      "synonym": "być używany / obrót",
+      "example": "banknot w obiegu / obieg dokumentów",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "natomiast",
+      "polish": "natomiast",
+      "aiStatus": "partial",
+      "synonym": "jednak",
+      "example": "Ja lubię kawę, natomiast moja siostra woli herbatę",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zaplacic-clo",
+      "polish": "zapłacić cło",
+      "aiStatus": "partial",
+      "example": "Musiałem zapłacić cło za paczkę z Chin",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zwlaszcza",
+      "polish": "zwłaszcza",
+      "aiStatus": "partial",
+      "synonym": "w szczególności, przede wszystkim",
+      "example": "Lubię polską kuchnię, zwłaszcza pierogi",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "grzywna",
+      "polish": "grzywna",
+      "aiStatus": "partial",
+      "synonym": "mandat",
+      "example": "Za przekroczenie prędkości dostał grzywnę",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wspinac-sie-3",
+      "polish": "wspinać się",
+      "aiStatus": "complete",
+      "translationRu": "взбираться, карабкаться",
+      "example": "Wspinamy się na szczyt.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "jechac-jezdzic",
+      "polish": "jechać / jeżdzić",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "tansze-tanio-tanie",
+      "polish": "tańsze/ tanio/ tanie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "jesli",
+      "polish": "jeśli",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "dojsc-do-wniosku",
+      "polish": "dojść do wniosku",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "grupa-badawcza",
+      "polish": "grupa badawcza",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "respondent",
+      "polish": "respondent",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wplyw-wplywac",
+      "polish": "wpływ- wpływać",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "organizm-2",
+      "polish": "orgAnizm",
+      "aiStatus": "partial",
+      "translationRu": "организм (опечатка регистра)",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "na-czas-2",
+      "polish": "na czas",
+      "aiStatus": "complete",
+      "translationRu": "вовремя",
+      "example": "Przyszedłem na czas.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "udowodnic-udowadniac",
+      "polish": "udowodnić/ udowadniać",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "klocic-sie",
+      "polish": "kłócić się",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "waska",
+      "polish": "wąska",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "rekreacja",
+      "polish": "rekreacja",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wydarzenie",
+      "polish": "wydarzenie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wydarzyc-sie",
+      "polish": "wydarzyć się",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "socjalizaja",
+      "polish": "socjalizaja",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "budowac-otoczenie",
+      "polish": "budować otoczenie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wiek",
+      "polish": "wiek",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wyzwanie-2",
+      "polish": "wyzwanie",
+      "aiStatus": "complete",
+      "translationRu": "вызов, испытание",
+      "example": "To dla mnie nowe wyzwanie.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "kontywac",
+      "polish": "kontywać",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "w-taki-sposob",
+      "polish": "w taki sposób",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "czynnik-3",
+      "polish": "czynnik",
+      "aiStatus": "complete",
+      "translationRu": "фактор",
+      "example": "To ważny czynnik sukcesu.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "ulepszyc",
+      "polish": "ulepszyć",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "polepszyc",
+      "polish": "polepszyć",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "im-tym",
+      "polish": "im//tym",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "dotrzec",
+      "polish": "dotrzeć",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "syf",
+      "polish": "syf",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zastrzyk",
+      "polish": "zastrzyk",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wizja-2",
+      "polish": "Wizja",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "walczyc-2",
+      "polish": "walczyć",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "rolnictwo",
+      "polish": "rolnictwo",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "obawa",
+      "polish": "obawa",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "obawiac-sie",
+      "polish": "obawiać się",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "spolecznosc",
+      "polish": "społeczność",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "spoleczenstwo-3",
+      "polish": "społeczeństwo",
+      "aiStatus": "complete",
+      "translationRu": "общество",
+      "example": "Społeczeństwo się starzeje.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "to-sie-nie-nadaje",
+      "polish": "to się nie nadaje",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zalozyc",
+      "polish": "założyć",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zwariowac",
+      "polish": "zwariować",
+      "aiStatus": "partial",
+      "synonym": "powariować, oszaleć, zbzikować",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "cierpiec-na-cos",
+      "polish": "cierpieć na coś",
+      "aiStatus": "partial",
+      "synonym": "cierpieć na bezsenność",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "sie-nie-udalo",
+      "polish": "się nie udało",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "nie-nadaje-sie-ktoc-do-czegos",
+      "polish": "nie nadaję się ktoć do czegoś",
+      "aiStatus": "partial",
+      "synonym": "nie do przyjęcia, nie nadający się, nieakceptowalny",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "gadac",
+      "polish": "gadać",
+      "aiStatus": "partial",
+      "synonym": "głupia gadka",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "przypominac",
+      "polish": "przypominać",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "kontynent",
+      "polish": "kontynent",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "tlum",
+      "polish": "tłum",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wszystkie-stoliki",
+      "polish": "wszystkie stoliki",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wyjatkowy",
+      "polish": "wyjątkowy",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wysminity",
+      "polish": "wyśminity",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "nietypowy",
+      "polish": "nietypowy",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "swoisty",
+      "polish": "swoisty",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "kameralny",
+      "polish": "kameralny",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "na-lonie-natury",
+      "polish": "na łonie natury",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "duzo-malo-kobiet-lubi-kwiaty",
+      "polish": "dużo / mało - kobiet lubi kwiaty",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zyskowac-zysk",
+      "polish": "zyskować - zysk",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "osiagnac-2",
+      "polish": "osiągnąc",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wyrarzenie",
+      "polish": "wyrarzenie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zarzadzac-2",
+      "polish": "zarządzać",
+      "aiStatus": "complete",
+      "translationRu": "управлять, руководить",
+      "example": "Zarządza dużym zespołem.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "prowadzic",
+      "polish": "prowadzić",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "sztucce",
+      "polish": "sztućce",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "luz-luzik",
+      "polish": "luz/ luzik",
+      "aiStatus": "partial",
+      "synonym": "j. p",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wyluzowac-2",
+      "polish": "wyluzować",
+      "aiStatus": "complete",
+      "synonym": "j.p",
+      "translationRu": "расслабиться (разг.)",
+      "example": "Wyluzuj, wszystko będzie dobrze.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "kawusia",
+      "polish": "kawusia",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "handlowac",
+      "polish": "handlować",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "hodowac-2",
+      "polish": "hodować",
+      "aiStatus": "complete",
+      "translationRu": "разводить, выращивать (растения, животных)",
+      "synonym": "hodaować kwiaty",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "czasami",
+      "polish": "czasami",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "okolicznosci-2",
+      "polish": "okoliczności",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "widok-3",
+      "polish": "widok",
+      "aiStatus": "complete",
+      "translationRu": "вид (пейзаж, на что-то)",
+      "example": "Z balkonu jest piękny widok.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "dojazd",
+      "polish": "dojazd",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "dotrzec-2",
+      "polish": "dotrzeć",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "bez-spiechu",
+      "polish": "bez śpiechu",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wytracic",
+      "polish": "wytracić",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wodor",
+      "polish": "wodór",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "praca-sie-zmienia",
+      "polish": "praca się zmienia",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "praza-sie-zmieni",
+      "polish": "praza się zmieni",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "przystosowac-sie",
+      "polish": "przystosować się",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "przystosowanie",
+      "polish": "przystosowanie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zamiast",
+      "polish": "zAmiast",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "ribione-recznie",
+      "polish": "ribione ręcznie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "od-a-do-z",
+      "polish": "od A do Z",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "dobry-przyklad",
+      "polish": "dobry przykład",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "22-06",
+      "polish": "22/06",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "z-przyjaciolmi",
+      "polish": "z przyjaciółmi",
+      "aiStatus": "partial",
+      "synonym": "z przyjaciółmi się nie nudzę",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "upal",
+      "polish": "upal",
+      "aiStatus": "partial",
+      "synonym": "skwar/spiekota",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "czujniki",
+      "polish": "czujniki",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wygodne",
+      "polish": "wygodne",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "przytulne",
+      "polish": "przytulne",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "codziennie-jak",
+      "polish": "codziennie - jak",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "codzienne-jakie",
+      "polish": "codzienne - jakie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wiezowiec",
+      "polish": "wieżowiec",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "o-tym",
+      "polish": "o tym",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "odnosnie-tego",
+      "polish": "odnośnie tego",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "na-ten-temat",
+      "polish": "na ten temat",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "powalic",
+      "polish": "powalić",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "przystosowac",
+      "polish": "przystosować",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zespol",
+      "polish": "zespół",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "rekreacja-2",
+      "polish": "rekreacja",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "opoczac",
+      "polish": "opocząć",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wybrzeze",
+      "polish": "wybrzeże",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "brzeg",
+      "polish": "brzeg",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "oburzeni",
+      "polish": "oburzeni",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "odwolany",
+      "polish": "odwołany",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "jest-2",
+      "polish": "jesT",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "jednoczesnie-2",
+      "polish": "jednocześnie",
+      "aiStatus": "complete",
+      "translationRu": "одновременно",
+      "example": "Nie mogę robić dwóch rzeczy jednocześnie.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "udar-sloneczny",
+      "polish": "udar słoneczny",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "w-zeszlym",
+      "polish": "w zeszłym",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "w-przyszlym",
+      "polish": "w przyszłym",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "osiagnac-3",
+      "polish": "osiągnąć",
+      "aiStatus": "complete",
+      "translationRu": "достичь (цели, результата)",
+      "example": "Osiągnął swój cel.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "spektakularny",
+      "polish": "spektakularny",
+      "aiStatus": "partial",
+      "synonym": "przyciągający wzrok, zwracający uwagę.",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "przyjac-decycje",
+      "polish": "przyjąć decycję",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zalozyciel",
+      "polish": "założycieł",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zazdrosc",
+      "polish": "zazdrość",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "przydatny",
+      "polish": "przydatny",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "uzyteczny-2",
+      "polish": "użyteczny",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zarowka",
+      "polish": "żarówka",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "26-06",
+      "polish": "26/06",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "jak-upalnie",
+      "polish": "jak- upalnie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "w-tej-porze",
+      "polish": "w tej porze",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "rozpraszac-sie",
+      "polish": "rozpraszać się",
+      "aiStatus": "partial",
+      "synonym": "dekoncentrować się",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "sciaga",
+      "polish": "ściąga",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "sagac",
+      "polish": "śągać",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "on-robi",
+      "polish": "on robi",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "minelo",
+      "polish": "mineło",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "odciagac-na-odstatni-dzien",
+      "polish": "odciągać na odstatni dzień",
+      "aiStatus": "partial",
+      "synonym": "przekładać/ odkładać",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "gwiadza-w-glowie",
+      "polish": "gwiadza w głowie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "u-niego",
+      "polish": "u niego",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "leniuchowac",
+      "polish": "leniuchować",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "leniuch",
+      "polish": "leniuch",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wystaczajaco",
+      "polish": "wystaczająco",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "patszac",
+      "polish": "patsząc",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wschod",
+      "polish": "wschód",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "przytulic-sie",
+      "polish": "przytulić się",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "im-tym-2",
+      "polish": "im///tym",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "szacunek",
+      "polish": "szacunek",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "system",
+      "polish": "system",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "za-pomoca",
+      "polish": "za pomocą",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "dzieki",
+      "polish": "dzięki",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "urzadzenie",
+      "polish": "urządzenie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "za-pomoca-2",
+      "polish": "za pomocą",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zasada-2",
+      "polish": "zasada",
+      "aiStatus": "complete",
+      "synonym": "głowne zasady",
+      "translationRu": "правило, принцип",
+      "example": "To podstawowa zasada.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "zasadniczo",
+      "polish": "zasadniczo",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "rozumieja",
+      "polish": "rozumieją",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "na-gorze-2",
+      "polish": "na górze",
+      "aiStatus": "complete",
+      "translationRu": "наверху",
+      "example": "Sypialnia jest na górze.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "w-biedzie",
+      "polish": "w biedzie",
+      "aiStatus": "partial",
+      "synonym": "chalepa",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zszedl",
+      "polish": "zszedł",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zmarznac-2",
+      "polish": "zmarznąć",
+      "aiStatus": "complete",
+      "translationRu": "замёрзнуть",
+      "synonym": "odczuwać mróz",
+      "example": "Chyba bardzo zmarzliście!",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "kwarantana",
+      "polish": "kwarantana",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "29-06",
+      "polish": "29/06",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "nietypowe",
+      "polish": "nietypowe",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "miec-to-z-glowy",
+      "polish": "mieć to z głowy",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "z-glowa-cos-robic",
+      "polish": "z głową coś robić",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zmienic-zdanie",
+      "polish": "zmienić zdanie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "nie-dawaj-za-wygrana",
+      "polish": "nie dawaj za wygraną",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "otworzyc",
+      "polish": "otworzyć",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "schodze",
+      "polish": "schodzę",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "nie-wabi",
+      "polish": "nie wabi",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "przepadac-za",
+      "polish": "przepadać za",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wywierac-wplyw",
+      "polish": "wywierać wpływ",
+      "aiStatus": "partial",
+      "synonym": "dawać wynik/ oddziaływać",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "miejsce-docelowe",
+      "polish": "miejsce docelowe",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wracac",
+      "polish": "wracać",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zwracac",
+      "polish": "zwracać",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "usterka",
+      "polish": "usterka",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wynajelam",
+      "polish": "wynajęłam",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "w-lazience-lazienka",
+      "polish": "w łazience - łazienka",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "smakowac",
+      "polish": "smakować",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "kojazyc",
+      "polish": "kojażyć",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "znani",
+      "polish": "znani",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "obserwac",
+      "polish": "obserwać",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "w-wadze",
+      "polish": "w wadzę",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "ciezki",
+      "polish": "ciężki",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wynalezc",
+      "polish": "wynależć",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "teorie-spiskowe",
+      "polish": "teorie spiskowe",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "umierac-umrzec",
+      "polish": "umierać - umrzeć",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "nic-specjalnego",
+      "polish": "nic specjalnego",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "przykuc-uwage",
+      "polish": "przykuć uwagę",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "cel-on-2",
+      "polish": "cel - on",
+      "aiStatus": "partial",
+      "translationRu": "цель (он, грам. род)",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "poganstwo",
+      "polish": "pogaństwo",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "06-07",
+      "polish": "06/07",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "jej-maz-nadal-zyl",
+      "polish": "jej mąż nadal żył",
+      "aiStatus": "partial",
+      "synonym": "wciąż",
+      "example": "Jej mąż wciąż żył.",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "uwielbiac",
+      "polish": "uwielbiać",
+      "aiStatus": "partial",
+      "synonym": "bardzo lubić",
+      "example": "Większość uwielbiała jej świeży, dynamiczny styl",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "dopiero",
+      "polish": "Dopiero",
+      "aiStatus": "partial",
+      "synonym": "tylko",
+      "example": "Dopiero kiedy Gabriela skończyła cztery lata",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "kreskowka",
+      "polish": "kreskówka",
+      "aiStatus": "partial",
+      "synonym": "film animowany, bajka",
+      "example": "Oglądała kreskówki",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "recytowac",
+      "polish": "recytować",
+      "aiStatus": "partial",
+      "synonym": "wygłaszać z pamięci, deklamować",
+      "example": "Dzieci recytują wiersze na konkursie",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "przecietny",
+      "polish": "przeciętny",
+      "aiStatus": "partial",
+      "synonym": "średni / zwyczajny",
+      "example": "Jej historie były przeciętne",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zaladowac",
+      "polish": "załadować",
+      "aiStatus": "partial",
+      "synonym": "wpakować",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wyladowac",
+      "polish": "wyłądować",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "sztuka-nowoczesna",
+      "polish": "sztuka nowoczesna",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "ekspozycja",
+      "polish": "ekspozycja",
+      "aiStatus": "partial",
+      "synonym": "wystawa",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "ksztalt-2",
+      "polish": "kształt",
+      "aiStatus": "partial",
+      "synonym": "forma",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "mgla",
+      "polish": "mgła",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wokol",
+      "polish": "wokół",
+      "aiStatus": "partial",
+      "synonym": "dokoła, naokoło",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "w-rzeczywistosci",
+      "polish": "w rzeczywistości",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zatrzymac-sie",
+      "polish": "zatrzymać się",
+      "aiStatus": "partial",
+      "synonym": "zatrzymywać się",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zastanawiac-sie",
+      "polish": "zastanawiać się",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "kojarzyc-sie",
+      "polish": "kojarzyć się",
+      "aiStatus": "partial",
+      "synonym": "kojarzenie",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "przystawki",
+      "polish": "przystawki",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zdziwiony-2",
+      "polish": "zdziwiony",
+      "aiStatus": "complete",
+      "synonym": "zaskoczony",
+      "translationRu": "удивлённый",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "tylko",
+      "polish": "tylko",
+      "aiStatus": "partial",
+      "synonym": "Mam tyko 10 złotych",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "dopiero-2",
+      "polish": "dopiero",
+      "aiStatus": "partial",
+      "synonym": "Dopiero przyszłam do domu",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "klocic-sie-2",
+      "polish": "kłócić się",
+      "aiStatus": "partial",
+      "synonym": "kłótnia",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "uplyw",
+      "polish": "upływ",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zaproszenie-dla",
+      "polish": "zaproszenie dla",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "klasyfikacja",
+      "polish": "klasyfikacja",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "kategoria",
+      "polish": "kategoria",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "odprawa",
+      "polish": "odprawa",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wyslac",
+      "polish": "wysłać",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "podejmowac",
+      "polish": "podejmować",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "rozmawiac-na-temat",
+      "polish": "rozmawiać na temat",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "trudnie-2",
+      "polish": "trudnie",
+      "aiStatus": "partial",
+      "translationRu": "трудно (опечатка/нестанд., правильно 'trudno')",
+      "synonym": "jak?",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "przetrwac",
+      "polish": "przetrwać",
+      "aiStatus": "partial",
+      "synonym": "przeżyć",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "nie-do-zrozumienia",
+      "polish": "nie do zrozumienia",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "o-filmie",
+      "polish": "o filmie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "10-07",
+      "polish": "10/07",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wynajelismy",
+      "polish": "wynajęliśmy",
+      "aiStatus": "partial",
+      "synonym": "wynajmowaliśmy",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "poltoraj",
+      "polish": "półtoraj",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "bliski",
+      "polish": "bliski",
+      "aiStatus": "partial",
+      "synonym": "najbliższy",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "czesc-ona",
+      "polish": "część - ona",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "harmonogram-2",
+      "polish": "harmonogram",
+      "aiStatus": "complete",
+      "translationRu": "расписание, график",
+      "example": "Mam napięty harmonogram.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "rezerwat",
+      "polish": "rezerwat",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "aktualizowac",
+      "polish": "aktualizować",
+      "aiStatus": "partial",
+      "synonym": "aktualizacja",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "pozwilic",
+      "polish": "pozwilić",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "dac-zezwolenie",
+      "polish": "dać zezwolenie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "ciemniec",
+      "polish": "ciemnieć",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wlasciciel",
+      "polish": "właściciel",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "ogolnie-mowiac",
+      "polish": "ogólnie mówiąc",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zachwyt",
+      "polish": "zachwyt",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zachwycac-sie",
+      "polish": "zachwycać się",
+      "aiStatus": "partial",
+      "synonym": "zachwycić się",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zlew",
+      "polish": "zlew",
+      "aiStatus": "partial",
+      "synonym": "zmywak",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "spotkac-2",
+      "polish": "spotkać",
+      "aiStatus": "complete",
+      "synonym": "spotykać",
+      "translationRu": "встретить",
+      "example": "Spotkałem go wczoraj.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "doprowadzic",
+      "polish": "doprowadzić",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wynajac",
+      "polish": "wynająć",
+      "aiStatus": "partial",
+      "synonym": "wynajmować",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zakwetorowac-sie",
+      "polish": "zakwetorować się",
+      "aiStatus": "partial",
+      "synonym": "wykwaterować się",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "oni-byli-zaskoczeni",
+      "polish": "oni byli zaskoczeni",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "murzyn",
+      "polish": "Murzyn",
+      "aiStatus": "partial",
+      "synonym": "czarnoskóry mężczyzna",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "ciapaty",
+      "polish": "Ciapaty",
+      "aiStatus": "partial",
+      "synonym": "arab/hindus/pakistańczyk",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zoltek",
+      "polish": "Żółtek",
+      "aiStatus": "partial",
+      "synonym": "azjata / chińczyk",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "brytol",
+      "polish": "Brytol",
+      "aiStatus": "partial",
+      "synonym": "brytyjczyk",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "rusek",
+      "polish": "Rusek",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "okolo-liczbnik-u",
+      "polish": "około + liczbnik + u",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "bym-powiedzial",
+      "polish": "bym powiedział",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "zgasilo-sie",
+      "polish": "zgasiło się",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "kwestionariusz",
+      "polish": "kwestionariusz",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "kwestia-tego-ze",
+      "polish": "kwestia tego///że",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "udowodnic",
+      "polish": "udowodnić",
+      "aiStatus": "partial",
+      "synonym": "udowadniać",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "tlumaczyc-sie-2",
+      "polish": "tłumaczyć się",
+      "aiStatus": "complete",
+      "translationRu": "оправдываться",
+      "example": "Nie musisz mi się tłumaczyć.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "ukrywac",
+      "polish": "ukrywać",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "przy-ladzie",
+      "polish": "przy ladzie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wyzwanie-3",
+      "polish": "wyzwanie",
+      "aiStatus": "complete",
+      "translationRu": "вызов, испытание",
+      "example": "To dla mnie nowe wyzwanie.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "zawolac",
+      "polish": "zawołać",
+      "aiStatus": "partial",
+      "synonym": "wołać",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wyzywac-kogos",
+      "polish": "wyzywać kogoś",
+      "aiStatus": "partial",
+      "synonym": "Nie wyzywaj mnie!",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "gwaltowne",
+      "polish": "gwałtowne",
+      "aiStatus": "partial",
+      "synonym": "gwałtowny wzrost cen",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "irytowac-3",
+      "polish": "irytować",
+      "aiStatus": "complete",
+      "translationRu": "раздражать",
+      "example": "Ten dźwięk mnie irytuje.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "olewac",
+      "polish": "olewać",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "przysiegam",
+      "polish": "przysięgam",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "14-07",
+      "polish": "14/07",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "nagi-2",
+      "polish": "nagi",
+      "aiStatus": "partial",
+      "synonym": "goły, obnażony",
+      "example": "Dziecko biegało nago po plaży",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "opanowac-przerazenie",
+      "polish": "opanować przerażenie",
+      "aiStatus": "partial",
+      "synonym": "opanować strach",
+      "example": "Próbowała opanować przerażenie i zachować spokój",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wsluchala-sie-we-wrzaski",
+      "polish": "Wsłuchała się we wrzaski",
+      "aiStatus": "partial",
+      "synonym": "uważnie słuchać krzyk",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wyjac",
+      "polish": "wyjąć",
+      "aiStatus": "partial",
+      "synonym": "wyciągnąć",
+      "example": "Wyjęła klucze z torebki",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "balet-byl-konkretny",
+      "polish": "balet był konkretny",
+      "aiStatus": "partial",
+      "synonym": "niesamowita impreza",
+      "example": "Wczoraj był konkretny balet",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "trafny",
+      "polish": "trafny",
+      "aiStatus": "partial",
+      "synonym": "dokładny",
+      "example": "trafne zdanie, trafna uwaga",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "szczyt-formy",
+      "polish": "szczyt formy",
+      "aiStatus": "partial",
+      "synonym": "najlepsza forma",
+      "example": "Sportowiec był u szczytu formy podczas mistrzostw",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wydostac-z-wody",
+      "polish": "wydostać z wody",
+      "aiStatus": "partial",
+      "synonym": "wyciągnąć z wody",
+      "example": "Ratownicy wydostali mężczyznę z wody",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "pomost-wedkarski-wedkarz-wedka",
+      "polish": "pomost wędkarski, wędkarz, wędka",
+      "aiStatus": "partial",
+      "example": "Usiedliśmy na pomoście wędkarskim i zaczęliśmy łowić ryby",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "byc-na-ostatnich-nogach",
+      "polish": "być na ostatnich nogach",
+      "aiStatus": "partial",
+      "synonym": "nie mieć siły",
+      "example": "Jestem na ostatnich nogach po tym maratonie",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "chrupniecie",
+      "polish": "chrupnięcie",
+      "aiStatus": "partial",
+      "synonym": "chrupiący",
+      "example": "Lubię chrupnięcie świeżego chleba",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "samotnosc-samotny",
+      "polish": "samotność, samotny",
+      "aiStatus": "partial",
+      "synonym": "izolacja",
+      "example": "Czuje samotność po przeprowadzce do innego miasta",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "14-07-2",
+      "polish": "14/07",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "pojechalismy",
+      "polish": "pojechAliśmy",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "nieprzydzielona",
+      "polish": "nieprzydzielona",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "nieprzeznaczona",
+      "polish": "nieprzeznaczona",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "siedziba",
+      "polish": "siedziba",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "w-poblizu",
+      "polish": "w pobliżu",
+      "aiStatus": "partial",
+      "synonym": "opodal",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "glusza",
+      "polish": "głusza",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "pustkowie",
+      "polish": "pustkowie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "relaksowac",
+      "polish": "relaksować",
+      "aiStatus": "partial",
+      "synonym": "odprężyć się/ regenerować siły",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "w-lesie-zobaczylismy-sarne",
+      "polish": "W lesie zobaczyliśmy sarnę.",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "dostac-sie",
+      "polish": "dostać się",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wbrew-oczekiewaniom",
+      "polish": "wbrew oczekiewaniom",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wbrew-przewidywaniom",
+      "polish": "wbrew przewidywaniom",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wbrew-przypuszczeniom",
+      "polish": "wbrew przypuszczeniom",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "trafic",
+      "polish": "trafić",
+      "aiStatus": "partial",
+      "synonym": "trafiać",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "dosc",
+      "polish": "dość",
+      "aiStatus": "partial",
+      "synonym": "Mam dość czekania",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "dotrzec-3",
+      "polish": "dotrzeć",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "osiagnac-4",
+      "polish": "osiągnąć",
+      "aiStatus": "complete",
+      "translationRu": "достичь (цели, результата)",
+      "example": "Osiągnął swój cel.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "doprowadzic-do",
+      "polish": "doprowadzić do",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "ksiega-opinii",
+      "polish": "księga opinii",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "cofnac-sie-w-czasie-2",
+      "polish": "cofnąć się w czasie",
+      "aiStatus": "complete",
+      "synonym": "przenieść się w czasie",
+      "translationRu": "вернуться во времени",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "samopoczucie",
+      "polish": "samopoczucie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "kondycja",
+      "polish": "kondycja",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "wykrakac",
+      "polish": "wykrakać",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "postrzegac",
+      "polish": "postrzegać",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "ewentualnie",
+      "polish": "ewentualnie",
+      "aiStatus": "partial",
+      "synonym": "w razie potrzeby/ w ostateczności/ alternatywnie",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "od-czasu-do-czasu",
+      "polish": "od czasu do czasu",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "niezbedne-2",
+      "polish": "niezbędne",
+      "aiStatus": "complete",
+      "translationRu": "необходимые, незаменимые",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "na-obrzezu",
+      "polish": "na obrzeżu",
+      "aiStatus": "partial",
+      "synonym": "za miastem",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "dalibysmy",
+      "polish": "dalibyśmy",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "dzialka",
+      "polish": "działka",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "do-niego",
+      "polish": "do niego",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "domyslac-sie",
+      "polish": "domyślać się",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "pustkowie-2",
+      "polish": "pustkowie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "polegac-na",
+      "polish": "polegać na",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "na-pierwszy-rzut-oka",
+      "polish": "na pierwszy rzut oka",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "istotny",
+      "polish": "istotny",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "znaczacy",
+      "polish": "znaczący",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "skuteczny-2",
+      "polish": "skuteczny",
+      "aiStatus": "complete",
+      "translationRu": "эффективный, результативный",
+      "synonym": "efektywny",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "czynnik-4",
+      "polish": "czynnik",
+      "aiStatus": "complete",
+      "translationRu": "фактор",
+      "example": "To ważny czynnik sukcesu.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "warunek",
+      "polish": "warunek",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "umrzec",
+      "polish": "umrzeć",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "umarl",
+      "polish": "umarł",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "rozproszeni-po-swiecie",
+      "polish": "rozproszeni po świecie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "dmie",
+      "polish": "dmie",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "dac",
+      "polish": "dąć",
+      "aiStatus": "partial",
+      "firstSeenAt": "2026-07-17"
     }
   ],
   "metadata": {
     "source": "google-sheets-csv",
-    "totalWords": 411,
-    "validWords": 352,
-    "partialWords": 53,
+    "totalWords": 826,
+    "validWords": 384,
+    "partialWords": 436,
     "uncertainWords": 6
   }
 }
