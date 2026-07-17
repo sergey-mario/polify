@@ -1,6 +1,6 @@
 ---
 name: update-content
-description: Refresh Polify's public/data/content.json from the Google Sheet, and yourself fill in Russian translations plus a synonym and example sentence for any Polish vocabulary that's missing them — without ever calling Gemini. Use this whenever the user asks to "update content," "sync the sheet," "add translations for new words," "add synonyms/examples," "run the pipeline," or mentions that words in the vocabulary sheet are missing a translation, synonym, or example. Also trigger if a run of `npm run update-content` reports words missing `translationRu`, `synonym`, or `example` and the user wants them filled in without burning Gemini's free-tier quota.
+description: Refresh Polify's public/data/content.json from the Google Sheet, and yourself fill in Russian translations, a synonym and example sentence for any Polish vocabulary that's missing them, and today's "Reguła gramatyczna" (grammar rule) for the daily practice set — without ever calling Gemini. Use this whenever the user asks to "update content," "sync the sheet," "add translations for new words," "add synonyms/examples," "write a grammar rule," "generate today's grammar rule," "run the pipeline," or mentions that words in the vocabulary sheet are missing a translation, synonym, or example, or that the grammar rule section needs filling in. Also trigger if a run of `npm run update-content` reports words missing `translationRu`, `synonym`, or `example`, or leaves the grammar rule as the generic placeholder, and the user wants it filled in without burning Gemini's free-tier quota.
 ---
 
 # Update content (manual translation, no Gemini)
@@ -138,7 +138,44 @@ adding them later, after a word already has a translation, works correctly.
    (manual seed fills in whichever fields the cache entry is missing), but it's worth this
    spot check since a silent no-op here is easy to miss.
 
-8. **Typecheck and sanity-check the diff** before considering this done:
+8. **Write today's grammar rule yourself.** `content.json`'s `dailyPractice.grammarRule`
+   (rendered in the app as "Reguła gramatyczna") is normally written by Gemini, tailored
+   to that day's 10 daily words — `SKIP_AI=1` skips that call and leaves a generic
+   placeholder (`"Powtórka słownictwa"` with an empty `examples` array) instead. Replace
+   that placeholder with a real rule, the same way a Polish teacher would build a mini
+   lesson around today's vocabulary:
+   - Read `dailyPractice.words` from the just-written `content.json` — that's the exact
+     set of 10 words/phrases you're building the rule around.
+   - Pick one grammar rule, tense, case, verb pattern, or syntactic construction that
+     several of those words actually illustrate (not all 10 need to fit — a rule that
+     genuinely connects 3-4 of them is better than a vague one stretched over all of
+     them). If nothing in the set suggests a clean rule, it's fine to cover a related
+     usage pattern (e.g. a group of reflexive verbs, or a comparative construction)
+     instead of a strict grammar-textbook rule.
+   - Write it in Polish, matching the shape the app expects:
+     ```json
+     {
+       "title": "Krótki tytuł reguły",
+       "explanation": "1-3 proste zdania po polsku, wyjaśniające regułę.",
+       "examples": ["Przykładowe zdanie 1.", "Przykładowe zdanie 2."]
+     }
+     ```
+     2-4 short example sentences, ideally reusing today's daily words where it reads
+     naturally rather than forcing every single one in.
+   - Patch it into `public/data/content.json` directly (rewriting `content.json` from
+     scratch would lose the words/translations you just wrote) — a small one-off Node
+     script that reads the file, sets `dailyPractice.grammarRule` to your object, and
+     writes it back is the safest way. Delete the scratch script afterward.
+   - This step is specific to `content.json`'s current `dailyPractice` — it does not
+     touch `data/manual-enrichments.json`, and it does not survive re-running
+     `update-content` (that regenerates `dailyPractice` and reverts to the placeholder,
+     since the grammar rule isn't cached/seeded like word data is). Do this step last,
+     after any translation/synonym/example work, so a later pipeline re-run doesn't wipe
+     it out. If the daily words get reshuffled later by `refresh-daily.yml`'s cron, that
+     workflow still writes the static placeholder — it has no Claude in the loop to
+     author a fresh rule for the new set, by design (see that workflow's own history).
+
+9. **Typecheck and sanity-check the diff** before considering this done:
    ```bash
    npm run typecheck
    git diff --stat data/manual-enrichments.json public/data/content.json
