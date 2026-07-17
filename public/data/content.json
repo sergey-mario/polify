@@ -1,93 +1,88 @@
 {
-  "generatedAt": "2026-07-17T06:21:01.236Z",
+  "generatedAt": "2026-07-17T06:36:02.447Z",
   "dailyPractice": {
     "date": "2026-07-17",
     "words": [
       {
-        "id": "widok-2",
-        "polish": "widok",
+        "id": "sprawic-wrazenie",
+        "polish": "sprawić wrażenie",
         "aiStatus": "complete",
-        "translationRu": "вид (пейзаж, на что-то)",
-        "example": "Z balkonu jest piękny widok.",
+        "translationRu": "произвести впечатление",
+        "example": "Sprawił na mnie dobre wrażenie.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "narzeczony",
-        "polish": "narzeczony",
+        "id": "produktywny",
+        "polish": "produktywny",
         "aiStatus": "complete",
-        "synonym": "partner, chłopak",
-        "example": "przyjechała z narzeczonym",
-        "translationRu": "жених, парень (партнёр)",
+        "translationRu": "продуктивный",
+        "example": "Mam dziś produktywny dzień.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "brzmiec",
-        "polish": "brzmieć",
+        "id": "zawolac",
+        "polish": "zawołać",
         "aiStatus": "complete",
-        "synonym": "to brzmi dziwnie",
-        "translationRu": "звучать",
-        "example": "To brzmi dobrze.",
+        "synonym": "wołać",
+        "translationRu": "позвать, окликнуть",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zakazic-sie",
+        "polish": "zakazić się",
+        "aiStatus": "complete",
+        "synonym": "zarazić się",
+        "translationRu": "заразиться",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "muzea",
+        "polish": "muzea",
+        "aiStatus": "complete",
+        "translationRu": "музеи (мн. ч.)",
+        "example": "Lubię chodzić do muzeów.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "irytujacy",
-        "polish": "irytujący",
+        "id": "zapiac-pas",
+        "polish": "zapiąć pas",
         "aiStatus": "complete",
-        "synonym": "denerwujący",
-        "example": "To być bardzo irytujący klient",
-        "translationRu": "раздражающий",
+        "example": "Zapięła pas i była gotowa do jazdy",
+        "translationRu": "пристегнуть ремень",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "istniec",
-        "polish": "istnieć",
+        "id": "zdala-sobie-sprawe-ze",
+        "polish": "zdała sobie sprawę (że …)",
         "aiStatus": "complete",
-        "translationRu": "существовать",
-        "example": "Czy duchy naprawdę istnieją?",
+        "synonym": "zorientować się\nzrozumieć\nskapnąć się (разговорное) - допереть",
+        "example": "Nagle zdałem sobie sprawę, że nie mam telefonu",
+        "translationRu": "осознала (что …)",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "przetwor",
-        "polish": "przetwór",
+        "id": "odrzucenie",
+        "polish": "odrzucenie",
         "aiStatus": "complete",
-        "synonym": "konserwa",
-        "example": "Robić przetwory na zimę",
-        "translationRu": "заготовка, консерва",
+        "synonym": "odmowa",
+        "example": "Przed odrzuceniem wniosku urząd musi go dokładnie sprawdzić",
+        "translationRu": "отклонение, отказ",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zmarznac-2",
-        "polish": "zmarznąć",
+        "id": "czynnik-2",
+        "polish": "czynnik",
         "aiStatus": "complete",
-        "translationRu": "замёрзнуть",
-        "synonym": "odczuwać mróz",
-        "example": "Chyba bardzo zmarzliście!",
+        "translationRu": "фактор",
+        "example": "To ważny czynnik sukcesu.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "przesada",
-        "polish": "przesada",
+        "id": "pulapka",
+        "polish": "pułapka",
         "aiStatus": "complete",
-        "synonym": "mieć już dojśc",
-        "translationRu": "преувеличение, перебор",
-        "example": "To już jest przesada!",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wyluzowac-2",
-        "polish": "wyluzować",
-        "aiStatus": "complete",
-        "synonym": "j.p",
-        "translationRu": "расслабиться (разг.)",
-        "example": "Wyluzuj, wszystko będzie dobrze.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "we-wloszech",
-        "polish": "we Włoszech",
-        "aiStatus": "complete",
-        "translationRu": "в Италии",
-        "example": "Spędziłem wakacje we Włoszech.",
+        "translationRu": "ловушка",
+        "example": "Wpadłem w pułapkę.",
         "firstSeenAt": "2026-05-02"
       }
     ],
@@ -3314,121 +3309,141 @@
     {
       "id": "przewlekla-choroba",
       "polish": "przewlekła choroba",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "хроническая болезнь",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "chcialbym",
       "polish": "chciałbym",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "я хотел бы",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zrobilbym",
       "polish": "zrobiłbym",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "я бы сделал",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "dodawalbym",
       "polish": "dodawałbym",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "я бы добавлял",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "duzo",
       "polish": "dużo",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "много",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wiecej-czasu",
       "polish": "więcej czasu",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "больше времени",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "pobierac-pobrac-2",
       "polish": "pobierać/ pobrać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "скачивать / скачать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "za-niedlugo",
       "polish": "za niedługo",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "совсем скоро",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "juz",
       "polish": "już",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "уже",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wprowadzic",
       "polish": "wprowadzić",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "ввести, внедрить",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "okolicznosci",
       "polish": "okoliczności",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "обстоятельства",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "ja-nie-moglem",
       "polish": "ja - nie mogłem",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "я не мог",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "on-nie-mogl",
       "polish": "on - nie mógł",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "он не мог",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "miedzy",
       "polish": "między",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "между",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wygodnie",
       "polish": "wygodnie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "удобно",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "przytulnie",
       "polish": "przytulnie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "уютно",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "bede-mial",
       "polish": "będę miał",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "у меня будет (м.р.)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "bede-miec",
       "polish": "będę mieć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "буду иметь",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "on-ona-musi",
       "polish": "on / ona musi",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "он / она должен / должна",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "swiadczyc",
       "polish": "świadczyć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "свидетельствовать",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -3450,31 +3465,36 @@
     {
       "id": "zaczela-sie",
       "polish": "zaczęła się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "началась",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "mina",
       "polish": "mina",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "выражение лица, мина",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "relacje-2",
       "polish": "relacje",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "отношения",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zaburzenie-psychologiczne",
       "polish": "zaburzenie psychologiczne",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "психологическое расстройство",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "duzo-malo-2",
       "polish": "dużo /mało",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "много / мало",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -3488,45 +3508,52 @@
     {
       "id": "zwariowany-czlowiek",
       "polish": "zwariowany człowiek",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "сумасшедший человек",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wtracac-sie",
       "polish": "wtrącać się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "вмешиваться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "szczerze-mowiac",
       "polish": "szczerze mówiąc",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "честно говоря",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "4-zlote",
       "polish": "4 złote",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "4 злотых",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "otwarte-kraje",
       "polish": "otwarte kraje",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "открытые страны",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "otwarci-ludzie",
       "polish": "otwarci ludzie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "открытые люди",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "filar",
       "polish": "filar",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "podstawa, fundament, opora",
       "example": "Edukacja stanowi ważny filar państwa",
+      "translationRu": "столп, опора",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -3541,39 +3568,45 @@
     {
       "id": "prog",
       "polish": "próg",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "порог",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zirytowany",
       "polish": "zirytowany",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "zirytowany człowiek/ niezadowolony",
+      "translationRu": "раздражённый",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "troche-zimno-jak",
       "polish": "trochę zimno - jak",
       "aiStatus": "partial",
+      "translationRu": "немного холодно - как (обрывок фразы)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "w-polsce",
       "polish": "w Polsce",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "в Польше",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "przeprowadzic-sie",
       "polish": "przeprowadzić się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "переехать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zakazic-sie",
       "polish": "zakazić się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "zarazić się",
+      "translationRu": "заразиться",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -3587,60 +3620,69 @@
     {
       "id": "kwarantanna",
       "polish": "kwarantanna",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "izolacja",
+      "translationRu": "карантин",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "choroba-zakazna",
       "polish": "choroba zakaźna",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "choroba infekcyjna/ choroba zaraźliwa",
+      "translationRu": "инфекционная болезнь",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "statek-pasazerski",
       "polish": "statek pasażerski",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "rejsowiec",
+      "translationRu": "пассажирское судно",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "ja-moglem",
       "polish": "ja mogłem",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "я мог",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "ja-zapomnialem",
       "polish": "ja zapomniałem",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "я забыл",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "uzyteczny",
       "polish": "użyteczny",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "полезный",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "bez-konca",
       "polish": "bez końca",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "bez przerwy",
+      "translationRu": "без конца, бесконечно",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "uczyc-sie",
       "polish": "uczyć się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "учиться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "sposob-sposoby",
       "polish": "sposób - sposoby",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "samochód - samochdy",
+      "translationRu": "способ - способы",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -3655,241 +3697,279 @@
     {
       "id": "reklamowac",
       "polish": "reklamować",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "promować",
+      "translationRu": "рекламировать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wplyw-bedzie-lepszy",
       "polish": "wpływ będzie lepszy",
       "aiStatus": "partial",
+      "translationRu": "влияние будет лучше (обрывок фразы)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "artysci",
       "polish": "artyści",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "артисты",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zapoznac-sie",
       "polish": "zapoznać się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "ознакомиться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "grupa-docelowa",
       "polish": "grupa docelowa",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "целевая группа",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "skupic-sie",
       "polish": "skupić się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "сосредоточиться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "skupiac-sie",
       "polish": "skupiać się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "сосредотачиваться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "skupienie",
       "polish": "skupienie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "сосредоточенность",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "po-koncercie-koncert",
       "polish": "po koncercie (koncert)",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "после концерта (концерт)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "porownywac",
       "polish": "porównywać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "сравнивать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "formowac",
       "polish": "formować",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "формировать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "przystowac-sie",
       "polish": "przystować się",
       "aiStatus": "partial",
+      "translationRu": "приспосабливаться (опечатка от przystosować się)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "porownywac-2",
       "polish": "porównywać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "сравнивать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "walczyc",
       "polish": "walczyć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "бороться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zezwolenie",
       "polish": "zezwolenie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "разрешение",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "nie-typowy",
       "polish": "nie typowy",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "нетипичный",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wynalazki",
       "polish": "wynalazki",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "изобретения",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wywierac",
       "polish": "wywierać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "wpływać",
+      "translationRu": "оказывать (влияние)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "ludzkosc",
       "polish": "ludzkość",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "человечество",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "okrywac",
       "polish": "okrywać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "укрывать, покрывать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "odkrywca",
       "polish": "odkrywca",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "первооткрыватель",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "producent",
       "polish": "producent",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "producenci",
+      "translationRu": "производитель",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zrodlo",
       "polish": "zródło",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "источник (опечатка от źródło)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "intensywny",
       "polish": "intensywny",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "интенсивный",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "fajny",
       "polish": "fajny",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "odlotowy/bombowy",
+      "translationRu": "классный, клёвый",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "auto-auta-l-m",
       "polish": "auto- auta l/m",
       "aiStatus": "partial",
+      "translationRu": "авто - автомобили (ед./мн. ч.)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zapominam",
       "polish": "zapominam",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "я забываю",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "git",
       "polish": "git",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "j/p",
+      "translationRu": "классно, ок (сленг)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "biegle",
       "polish": "biegle",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "бегло, свободно",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "nie-plynnie",
       "polish": "nie płynnie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "не бегло",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "znac-jezyk",
       "polish": "znac język",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "знать язык (опечатка от znać)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wiedziec-o-czyms",
       "polish": "wiedzieć o czymś",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "знать о чём-то",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "dowcip",
       "polish": "dowcip",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "żart, anegdota",
       "example": "Śmiać się z dowcipu",
+      "translationRu": "шутка, анекдот",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zerkniemy",
       "polish": "zerkniemy",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "spojrzeć przez chwilę",
+      "translationRu": "заглянем, взглянем",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wapic-sie",
       "polish": "wąpić się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "nie dowierzać, nie ufać, być sceptycznym",
+      "translationRu": "сомневаться (опечатка от wątpić)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "bez-watpienia",
       "polish": "bez wątpienia",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "niechybnie,; niepodważalnie,; niewątpliwie",
+      "translationRu": "без сомнения",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wkurzac",
       "polish": "wkurzać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "irytować,wnerwiać, drażnić, złościć",
+      "translationRu": "бесить, злить",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "metropolia",
       "polish": "metropolia",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "duże, dominujące miasto lub zespół miejski",
+      "translationRu": "мегаполис",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -3903,7 +3983,8 @@
     {
       "id": "nagi",
       "polish": "nagi",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "голый",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -3917,60 +3998,68 @@
     {
       "id": "warunek-konieczny",
       "polish": "warunek konieczny",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "необходимое условие",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "czlowiek-pajak",
       "polish": "człowiek pająk",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "человек-паук",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wyemitowac",
       "polish": "wyemitować",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "stworzyć i wypuścić",
       "example": "wyemitować nowe banknoty",
+      "translationRu": "выпустить в эфир, эмитировать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "w-obiegu-byc-w-obiegu",
       "polish": "w obiegu / być w obiegu",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "być używany / obrót",
       "example": "banknot w obiegu / obieg dokumentów",
+      "translationRu": "в обращении / быть в обращении",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "natomiast",
       "polish": "natomiast",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "jednak",
       "example": "Ja lubię kawę, natomiast moja siostra woli herbatę",
+      "translationRu": "однако, зато",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zaplacic-clo",
       "polish": "zapłacić cło",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "example": "Musiałem zapłacić cło za paczkę z Chin",
+      "translationRu": "заплатить пошлину",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zwlaszcza",
       "polish": "zwłaszcza",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "w szczególności, przede wszystkim",
       "example": "Lubię polską kuchnię, zwłaszcza pierogi",
+      "translationRu": "особенно",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "grzywna",
       "polish": "grzywna",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "mandat",
       "example": "Za przekroczenie prędkości dostał grzywnę",
+      "translationRu": "штраф",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -3984,43 +4073,50 @@
     {
       "id": "jechac-jezdzic",
       "polish": "jechać / jeżdzić",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "ехать / ездить",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "tansze-tanio-tanie",
       "polish": "tańsze/ tanio/ tanie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "дешевле / дёшево / дешёвые",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "jesli",
       "polish": "jeśli",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "если",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "dojsc-do-wniosku",
       "polish": "dojść do wniosku",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "прийти к выводу",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "grupa-badawcza",
       "polish": "grupa badawcza",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "исследовательская группа",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "respondent",
       "polish": "respondent",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "респондент",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wplyw-wplywac",
       "polish": "wpływ- wpływać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "влияние - влиять",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -4041,55 +4137,64 @@
     {
       "id": "udowodnic-udowadniac",
       "polish": "udowodnić/ udowadniać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "доказать / доказывать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "klocic-sie",
       "polish": "kłócić się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "ссориться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "waska",
       "polish": "wąska",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "узкая",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "rekreacja",
       "polish": "rekreacja",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "отдых, рекреация",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wydarzenie",
       "polish": "wydarzenie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "событие",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wydarzyc-sie",
       "polish": "wydarzyć się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "произойти",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "socjalizaja",
       "polish": "socjalizaja",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "социализация (опечатка от socjalizacja)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "budowac-otoczenie",
       "polish": "budować otoczenie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "строить окружение, среду",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wiek",
       "polish": "wiek",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "возраст, век",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -4103,13 +4208,15 @@
     {
       "id": "kontywac",
       "polish": "kontywać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "продолжать (опечатка от kontynuować)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "w-taki-sposob",
       "polish": "w taki sposób",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "таким образом",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -4123,73 +4230,85 @@
     {
       "id": "ulepszyc",
       "polish": "ulepszyć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "улучшить",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "polepszyc",
       "polish": "polepszyć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "улучшить, сделать лучше",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "im-tym",
       "polish": "im//tym",
       "aiStatus": "partial",
+      "translationRu": "чем ... тем (конструкция im ... tym)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "dotrzec",
       "polish": "dotrzeć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "добраться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "syf",
       "polish": "syf",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "грязь, бардак (сленг)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zastrzyk",
       "polish": "zastrzyk",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "укол, инъекция",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wizja-2",
       "polish": "Wizja",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "видение, замысел",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "walczyc-2",
       "polish": "walczyć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "бороться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "rolnictwo",
       "polish": "rolnictwo",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "сельское хозяйство",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "obawa",
       "polish": "obawa",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "опасение",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "obawiac-sie",
       "polish": "obawiać się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "опасаться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "spolecznosc",
       "polish": "społeczność",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "сообщество",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -4203,33 +4322,38 @@
     {
       "id": "to-sie-nie-nadaje",
       "polish": "to się nie nadaje",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "это не годится",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zalozyc",
       "polish": "założyć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "основать, надеть, предположить",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zwariowac",
       "polish": "zwariować",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "powariować, oszaleć, zbzikować",
+      "translationRu": "сойти с ума",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "cierpiec-na-cos",
       "polish": "cierpieć na coś",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "cierpieć na bezsenność",
+      "translationRu": "страдать от чего-то (болезни)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "sie-nie-udalo",
       "polish": "się nie udało",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "не получилось",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -4237,97 +4361,113 @@
       "polish": "nie nadaję się ktoć do czegoś",
       "aiStatus": "partial",
       "synonym": "nie do przyjęcia, nie nadający się, nieakceptowalny",
+      "translationRu": "не гожусь для чего-то (обрывок фразы)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "gadac",
       "polish": "gadać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "głupia gadka",
+      "translationRu": "болтать, разговаривать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "przypominac",
       "polish": "przypominać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "напоминать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "kontynent",
       "polish": "kontynent",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "континент",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "tlum",
       "polish": "tłum",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "толпа",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wszystkie-stoliki",
       "polish": "wszystkie stoliki",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "все столики",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wyjatkowy",
       "polish": "wyjątkowy",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "исключительный",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wysminity",
       "polish": "wyśminity",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "превосходный, отменный (опечатка от wyśmienity)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "nietypowy",
       "polish": "nietypowy",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "нетипичный",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "swoisty",
       "polish": "swoisty",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "своеобразный, специфический",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "kameralny",
       "polish": "kameralny",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "камерный, уютный",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "na-lonie-natury",
       "polish": "na łonie natury",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "на лоне природы",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "duzo-malo-kobiet-lubi-kwiaty",
       "polish": "dużo / mało - kobiet lubi kwiaty",
       "aiStatus": "partial",
+      "translationRu": "много / мало женщин любит цветы (обрывок фразы)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zyskowac-zysk",
       "polish": "zyskować - zysk",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "выигрывать, приобретать - выгода",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "osiagnac-2",
       "polish": "osiągnąc",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "достичь (опечатка от osiągnąć)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wyrarzenie",
       "polish": "wyrarzenie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "выражение (опечатка от wyrażenie)",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -4341,20 +4481,23 @@
     {
       "id": "prowadzic",
       "polish": "prowadzić",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "вести",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "sztucce",
       "polish": "sztućce",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "столовые приборы",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "luz-luzik",
       "polish": "luz/ luzik",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "j. p",
+      "translationRu": "расслабленность, непринуждённость (сленг)",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -4369,13 +4512,15 @@
     {
       "id": "kawusia",
       "polish": "kawusia",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "кофеёк (ласк.)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "handlowac",
       "polish": "handlować",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "торговать",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -4389,13 +4534,15 @@
     {
       "id": "czasami",
       "polish": "czasami",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "иногда",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "okolicznosci-2",
       "polish": "okoliczności",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "обстоятельства",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -4409,213 +4556,241 @@
     {
       "id": "dojazd",
       "polish": "dojazd",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "подъезд, доступ (транспортом)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "dotrzec-2",
       "polish": "dotrzeć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "добраться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "bez-spiechu",
       "polish": "bez śpiechu",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "не спеша (опечатка от bez pośpiechu)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wytracic",
       "polish": "wytracić",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "утратить, потерять (скорость)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wodor",
       "polish": "wodór",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "водород",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "praca-sie-zmienia",
       "polish": "praca się zmienia",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "работа меняется",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "praza-sie-zmieni",
       "polish": "praza się zmieni",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "работа изменится (опечатка от praca się zmieni)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "przystosowac-sie",
       "polish": "przystosować się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "приспособиться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "przystosowanie",
       "polish": "przystosowanie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "приспособление",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zamiast",
       "polish": "zAmiast",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "вместо (опечатка от zamiast)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "ribione-recznie",
       "polish": "ribione ręcznie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "сделано вручную (опечатка от robione ręcznie)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "od-a-do-z",
       "polish": "od A do Z",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "от А до Я",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "dobry-przyklad",
       "polish": "dobry przykład",
-      "aiStatus": "partial",
-      "firstSeenAt": "2026-07-17"
-    },
-    {
-      "id": "22-06",
-      "polish": "22/06",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "хороший пример",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "z-przyjaciolmi",
       "polish": "z przyjaciółmi",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "z przyjaciółmi się nie nudzę",
+      "translationRu": "с друзьями",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "upal",
       "polish": "upal",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "skwar/spiekota",
+      "translationRu": "жара (опечатка от upał)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "czujniki",
       "polish": "czujniki",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "датчики",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wygodne",
       "polish": "wygodne",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "удобные",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "przytulne",
       "polish": "przytulne",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "уютные",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "codziennie-jak",
       "polish": "codziennie - jak",
       "aiStatus": "partial",
+      "translationRu": "ежедневно - как (обрывок фразы)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "codzienne-jakie",
       "polish": "codzienne - jakie",
       "aiStatus": "partial",
+      "translationRu": "ежедневные - какие (обрывок фразы)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wiezowiec",
       "polish": "wieżowiec",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "небоскрёб",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "o-tym",
       "polish": "o tym",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "об этом",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "odnosnie-tego",
       "polish": "odnośnie tego",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "относительно этого",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "na-ten-temat",
       "polish": "na ten temat",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "на эту тему",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "powalic",
       "polish": "powalić",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "повалить",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "przystosowac",
       "polish": "przystosować",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "приспособить",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zespol",
       "polish": "zespół",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "команда, коллектив",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "rekreacja-2",
       "polish": "rekreacja",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "отдых, рекреация",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "opoczac",
       "polish": "opocząć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "отдохнуть (опечатка от odpocząć)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wybrzeze",
       "polish": "wybrzeże",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "побережье",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "brzeg",
       "polish": "brzeg",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "берег",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "oburzeni",
       "polish": "oburzeni",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "возмущённые",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "odwolany",
       "polish": "odwołany",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "отменённый",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "jest-2",
       "polish": "jesT",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "есть (форма глагола \"быть\")",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -4629,19 +4804,22 @@
     {
       "id": "udar-sloneczny",
       "polish": "udar słoneczny",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "солнечный удар",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "w-zeszlym",
       "polish": "w zeszłym",
       "aiStatus": "partial",
+      "translationRu": "в прошлом (обрывок, напр. w zeszłym roku)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "w-przyszlym",
       "polish": "w przyszłym",
       "aiStatus": "partial",
+      "translationRu": "в будущем (обрывок, напр. w przyszłym roku)",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -4655,190 +4833,214 @@
     {
       "id": "spektakularny",
       "polish": "spektakularny",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "przyciągający wzrok, zwracający uwagę.",
+      "translationRu": "впечатляющий, зрелищный",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "przyjac-decycje",
       "polish": "przyjąć decycję",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "принять решение (опечатка от decyzję)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zalozyciel",
       "polish": "założycieł",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "основатель (опечатка от założyciel)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zazdrosc",
       "polish": "zazdrość",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "зависть, ревность",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "przydatny",
       "polish": "przydatny",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "полезный",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "uzyteczny-2",
       "polish": "użyteczny",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "полезный",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zarowka",
       "polish": "żarówka",
-      "aiStatus": "partial",
-      "firstSeenAt": "2026-07-17"
-    },
-    {
-      "id": "26-06",
-      "polish": "26/06",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "лампочка",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "jak-upalnie",
       "polish": "jak- upalnie",
       "aiStatus": "partial",
+      "translationRu": "как - жарко (обрывок фразы)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "w-tej-porze",
       "polish": "w tej porze",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "в это время (года)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "rozpraszac-sie",
       "polish": "rozpraszać się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "dekoncentrować się",
+      "translationRu": "отвлекаться, рассеиваться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "sciaga",
       "polish": "ściąga",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "шпаргалка",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "sagac",
       "polish": "śągać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "доставать, достигать (опечатка от sięgać)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "on-robi",
       "polish": "on robi",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "он делает",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "minelo",
       "polish": "mineło",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "прошло (опечатка от minęło)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "odciagac-na-odstatni-dzien",
       "polish": "odciągać na odstatni dzień",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "przekładać/ odkładać",
+      "translationRu": "откладывать на последний день (опечатка от odkładać na ostatni dzień)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "gwiadza-w-glowie",
       "polish": "gwiadza w głowie",
       "aiStatus": "partial",
+      "translationRu": "звезда в голове (идиома, смысл неточен, опечатка)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "u-niego",
       "polish": "u niego",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "у него",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "leniuchowac",
       "polish": "leniuchować",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "лениться, бездельничать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "leniuch",
       "polish": "leniuch",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "лентяй",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wystaczajaco",
       "polish": "wystaczająco",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "достаточно (опечатка от wystarczająco)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "patszac",
       "polish": "patsząc",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "глядя, смотря (опечатка от patrząc)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wschod",
       "polish": "wschód",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "восток",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "przytulic-sie",
       "polish": "przytulić się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "прижаться, обняться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "im-tym-2",
       "polish": "im///tym",
       "aiStatus": "partial",
+      "translationRu": "чем ... тем (конструкция im ... tym)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "szacunek",
       "polish": "szacunek",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "уважение",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "system",
       "polish": "system",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "система",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "za-pomoca",
       "polish": "za pomocą",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "с помощью",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "dzieki",
       "polish": "dzięki",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "благодаря",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "urzadzenie",
       "polish": "urządzenie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "устройство",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "za-pomoca-2",
       "polish": "za pomocą",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "с помощью",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -4853,13 +5055,15 @@
     {
       "id": "zasadniczo",
       "polish": "zasadniczo",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "в принципе, по сути",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "rozumieja",
       "polish": "rozumieją",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "(они) понимают",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -4873,14 +5077,16 @@
     {
       "id": "w-biedzie",
       "polish": "w biedzie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "chalepa",
+      "translationRu": "в бедности, в беде",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zszedl",
       "polish": "zszedł",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "сошёл, спустился",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -4895,176 +5101,198 @@
     {
       "id": "kwarantana",
       "polish": "kwarantana",
-      "aiStatus": "partial",
-      "firstSeenAt": "2026-07-17"
-    },
-    {
-      "id": "29-06",
-      "polish": "29/06",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "карантин (опечатка от kwarantanna)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "nietypowe",
       "polish": "nietypowe",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "нетипичные",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "miec-to-z-glowy",
       "polish": "mieć to z głowy",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "разделаться с этим (идиома)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "z-glowa-cos-robic",
       "polish": "z głową coś robić",
       "aiStatus": "partial",
+      "translationRu": "делать что-то с умом (идиома, обрывок фразы)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zmienic-zdanie",
       "polish": "zmienić zdanie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "передумать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "nie-dawaj-za-wygrana",
       "polish": "nie dawaj za wygraną",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "не сдавайся",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "otworzyc",
       "polish": "otworzyć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "открыть",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "schodze",
       "polish": "schodzę",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "я схожу, спускаюсь",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "nie-wabi",
       "polish": "nie wabi",
       "aiStatus": "partial",
+      "translationRu": "не привлекает, не манит (обрывок фразы)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "przepadac-za",
       "polish": "przepadać za",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "обожать (что-то), быть без ума от",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wywierac-wplyw",
       "polish": "wywierać wpływ",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "dawać wynik/ oddziaływać",
+      "translationRu": "оказывать влияние",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "miejsce-docelowe",
       "polish": "miejsce docelowe",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "место назначения",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wracac",
       "polish": "wracać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "возвращаться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zwracac",
       "polish": "zwracać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "возвращать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "usterka",
       "polish": "usterka",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "неисправность",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wynajelam",
       "polish": "wynajęłam",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "я сняла (жильё, ж.р.)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "w-lazience-lazienka",
       "polish": "w łazience - łazienka",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "в ванной - ванная",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "smakowac",
       "polish": "smakować",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "иметь вкус, пробовать на вкус",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "kojazyc",
       "polish": "kojażyć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "ассоциировать (опечатка от kojarzyć)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "znani",
       "polish": "znani",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "известные",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "obserwac",
       "polish": "obserwać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "наблюдать (опечатка от obserwować)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "w-wadze",
       "polish": "w wadzę",
       "aiStatus": "partial",
+      "translationRu": "в весе (обрывок фразы, опечатка от w wadze)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "ciezki",
       "polish": "ciężki",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "тяжёлый",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wynalezc",
       "polish": "wynależć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "изобрести (опечатка от wynaleźć)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "teorie-spiskowe",
       "polish": "teorie spiskowe",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "теории заговора",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "umierac-umrzec",
       "polish": "umierać - umrzeć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "умирать - умереть",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "nic-specjalnego",
       "polish": "nic specjalnego",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "ничего особенного",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "przykuc-uwage",
       "polish": "przykuć uwagę",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "приковать внимание",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -5077,139 +5305,152 @@
     {
       "id": "poganstwo",
       "polish": "pogaństwo",
-      "aiStatus": "partial",
-      "firstSeenAt": "2026-07-17"
-    },
-    {
-      "id": "06-07",
-      "polish": "06/07",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "язычество",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "jej-maz-nadal-zyl",
       "polish": "jej mąż nadal żył",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "wciąż",
       "example": "Jej mąż wciąż żył.",
+      "translationRu": "её муж всё ещё был жив",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "uwielbiac",
       "polish": "uwielbiać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "bardzo lubić",
       "example": "Większość uwielbiała jej świeży, dynamiczny styl",
+      "translationRu": "обожать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "dopiero",
       "polish": "Dopiero",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "tylko",
       "example": "Dopiero kiedy Gabriela skończyła cztery lata",
+      "translationRu": "только (что), лишь",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "kreskowka",
       "polish": "kreskówka",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "film animowany, bajka",
       "example": "Oglądała kreskówki",
+      "translationRu": "мультфильм",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "recytowac",
       "polish": "recytować",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "wygłaszać z pamięci, deklamować",
       "example": "Dzieci recytują wiersze na konkursie",
+      "translationRu": "декламировать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "przecietny",
       "polish": "przeciętny",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "średni / zwyczajny",
       "example": "Jej historie były przeciętne",
+      "translationRu": "средний, заурядный",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zaladowac",
       "polish": "załadować",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "wpakować",
+      "translationRu": "загрузить",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wyladowac",
       "polish": "wyłądować",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "приземлиться (опечатка от wylądować)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "sztuka-nowoczesna",
       "polish": "sztuka nowoczesna",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "современное искусство",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "ekspozycja",
       "polish": "ekspozycja",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "wystawa",
+      "translationRu": "экспозиция",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "ksztalt-2",
       "polish": "kształt",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "forma",
+      "translationRu": "форма",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "mgla",
       "polish": "mgła",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "туман",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wokol",
       "polish": "wokół",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "dokoła, naokoło",
+      "translationRu": "вокруг",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "w-rzeczywistosci",
       "polish": "w rzeczywistości",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "на самом деле",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zatrzymac-sie",
       "polish": "zatrzymać się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "zatrzymywać się",
+      "translationRu": "остановиться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zastanawiac-sie",
       "polish": "zastanawiać się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "задумываться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "kojarzyc-sie",
       "polish": "kojarzyć się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "kojarzenie",
+      "translationRu": "ассоциироваться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "przystawki",
       "polish": "przystawki",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "закуски",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -5223,70 +5464,81 @@
     {
       "id": "tylko",
       "polish": "tylko",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "Mam tyko 10 złotych",
+      "translationRu": "только",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "dopiero-2",
       "polish": "dopiero",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "Dopiero przyszłam do domu",
+      "translationRu": "только (что), лишь",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "klocic-sie-2",
       "polish": "kłócić się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "kłótnia",
+      "translationRu": "ссориться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "uplyw",
       "polish": "upływ",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "истечение (срока), течение (времени)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zaproszenie-dla",
       "polish": "zaproszenie dla",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "приглашение для",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "klasyfikacja",
       "polish": "klasyfikacja",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "классификация",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "kategoria",
       "polish": "kategoria",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "категория",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "odprawa",
       "polish": "odprawa",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "регистрация (на рейс), инструктаж",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wyslac",
       "polish": "wysłać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "отправить",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "podejmowac",
       "polish": "podejmować",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "предпринимать, принимать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "rozmawiac-na-temat",
       "polish": "rozmawiać na temat",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "разговаривать на тему",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -5300,52 +5552,53 @@
     {
       "id": "przetrwac",
       "polish": "przetrwać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "przeżyć",
+      "translationRu": "выжить, пережить",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "nie-do-zrozumienia",
       "polish": "nie do zrozumienia",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "непонятно, непостижимо",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "o-filmie",
       "polish": "o filmie",
-      "aiStatus": "partial",
-      "firstSeenAt": "2026-07-17"
-    },
-    {
-      "id": "10-07",
-      "polish": "10/07",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "о фильме",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wynajelismy",
       "polish": "wynajęliśmy",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "wynajmowaliśmy",
+      "translationRu": "мы сняли, арендовали",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "poltoraj",
       "polish": "półtoraj",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "полтора (опечатка от półtora)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "bliski",
       "polish": "bliski",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "najbliższy",
+      "translationRu": "близкий",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "czesc-ona",
       "polish": "część - ona",
       "aiStatus": "partial",
+      "translationRu": "часть - она (грамматическая заметка о роде слова)",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -5359,64 +5612,74 @@
     {
       "id": "rezerwat",
       "polish": "rezerwat",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "заповедник",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "aktualizowac",
       "polish": "aktualizować",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "aktualizacja",
+      "translationRu": "обновлять",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "pozwilic",
       "polish": "pozwilić",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "позволить (опечатка от pozwolić)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "dac-zezwolenie",
       "polish": "dać zezwolenie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "дать разрешение",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "ciemniec",
       "polish": "ciemnieć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "темнеть",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wlasciciel",
       "polish": "właściciel",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "владелец",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "ogolnie-mowiac",
       "polish": "ogólnie mówiąc",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "вообще говоря",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zachwyt",
       "polish": "zachwyt",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "восхищение",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zachwycac-sie",
       "polish": "zachwycać się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "zachwycić się",
+      "translationRu": "восхищаться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zlew",
       "polish": "zlew",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "zmywak",
+      "translationRu": "раковина",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -5431,14 +5694,16 @@
     {
       "id": "doprowadzic",
       "polish": "doprowadzić",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "довести, привести",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wynajac",
       "polish": "wynająć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "wynajmować",
+      "translationRu": "снять, арендовать",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -5446,83 +5711,96 @@
       "polish": "zakwetorować się",
       "aiStatus": "partial",
       "synonym": "wykwaterować się",
+      "translationRu": "поселиться, разместиться (опечатка от zakwaterować się)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "oni-byli-zaskoczeni",
       "polish": "oni byli zaskoczeni",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "они были удивлены",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "murzyn",
       "polish": "Murzyn",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "czarnoskóry mężczyzna",
+      "translationRu": "чернокожий (разг., исторически нейтральное в польском, сейчас спорное слово)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "ciapaty",
       "polish": "Ciapaty",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "arab/hindus/pakistańczyk",
+      "translationRu": "уничижительное прозвище для выходцев из Южной Азии (сленг)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zoltek",
       "polish": "Żółtek",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "azjata / chińczyk",
+      "translationRu": "уничижительное прозвище для азиата, букв. \"желтоватый\" (сленг)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "brytol",
       "polish": "Brytol",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "brytyjczyk",
+      "translationRu": "разговорное прозвище британца",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "rusek",
       "polish": "Rusek",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "разговорное прозвище русского",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "okolo-liczbnik-u",
       "polish": "około + liczbnik + u",
       "aiStatus": "partial",
+      "translationRu": "грамматическая заметка: \"около\" + числительное + родительный падеж",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "bym-powiedzial",
       "polish": "bym powiedział",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "я бы сказал",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "zgasilo-sie",
       "polish": "zgasiło się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "погасло (об экране, свете)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "kwestionariusz",
       "polish": "kwestionariusz",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "анкета, опросник",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "kwestia-tego-ze",
       "polish": "kwestia tego///że",
       "aiStatus": "partial",
+      "translationRu": "вопрос в том, что...",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "udowodnic",
       "polish": "udowodnić",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "udowadniać",
+      "translationRu": "доказать",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -5536,13 +5814,15 @@
     {
       "id": "ukrywac",
       "polish": "ukrywać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "скрывать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "przy-ladzie",
       "polish": "przy ladzie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "у прилавка (опечатка от lada)",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -5556,22 +5836,25 @@
     {
       "id": "zawolac",
       "polish": "zawołać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "wołać",
+      "translationRu": "позвать, окликнуть",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wyzywac-kogos",
       "polish": "wyzywać kogoś",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "Nie wyzywaj mnie!",
+      "translationRu": "оскорблять кого-то, обзывать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "gwaltowne",
       "polish": "gwałtowne",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "gwałtowny wzrost cen",
+      "translationRu": "резкий, бурный",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -5585,50 +5868,50 @@
     {
       "id": "olewac",
       "polish": "olewać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "забивать (на что-то), игнорировать (сленг)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "przysiegam",
       "polish": "przysięgam",
-      "aiStatus": "partial",
-      "firstSeenAt": "2026-07-17"
-    },
-    {
-      "id": "14-07",
-      "polish": "14/07",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "клянусь",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "nagi-2",
       "polish": "nagi",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "goły, obnażony",
       "example": "Dziecko biegało nago po plaży",
+      "translationRu": "голый",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "opanowac-przerazenie",
       "polish": "opanować przerażenie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "opanować strach",
       "example": "Próbowała opanować przerażenie i zachować spokój",
+      "translationRu": "справиться с ужасом",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wsluchala-sie-we-wrzaski",
       "polish": "Wsłuchała się we wrzaski",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "uważnie słuchać krzyk",
+      "translationRu": "она вслушалась в крики",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wyjac",
       "polish": "wyjąć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "wyciągnąć",
       "example": "Wyjęła klucze z torebki",
+      "translationRu": "вынуть, достать",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -5637,167 +5920,185 @@
       "aiStatus": "partial",
       "synonym": "niesamowita impreza",
       "example": "Wczoraj był konkretny balet",
+      "translationRu": "балет был впечатляющим (обрывок фразы, сленговое \"konkretny\")",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "trafny",
       "polish": "trafny",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "dokładny",
       "example": "trafne zdanie, trafna uwaga",
+      "translationRu": "меткий, точный",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "szczyt-formy",
       "polish": "szczyt formy",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "najlepsza forma",
       "example": "Sportowiec był u szczytu formy podczas mistrzostw",
+      "translationRu": "пик формы",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wydostac-z-wody",
       "polish": "wydostać z wody",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "wyciągnąć z wody",
       "example": "Ratownicy wydostali mężczyznę z wody",
+      "translationRu": "вытащить из воды",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "pomost-wedkarski-wedkarz-wedka",
       "polish": "pomost wędkarski, wędkarz, wędka",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "example": "Usiedliśmy na pomoście wędkarskim i zaczęliśmy łowić ryby",
+      "translationRu": "рыболовный мостик, рыбак, удочка",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "byc-na-ostatnich-nogach",
       "polish": "być na ostatnich nogach",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "nie mieć siły",
       "example": "Jestem na ostatnich nogach po tym maratonie",
+      "translationRu": "быть при последнем издыхании (идиома)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "chrupniecie",
       "polish": "chrupnięcie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "chrupiący",
       "example": "Lubię chrupnięcie świeżego chleba",
+      "translationRu": "хруст",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "samotnosc-samotny",
       "polish": "samotność, samotny",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "izolacja",
       "example": "Czuje samotność po przeprowadzce do innego miasta",
-      "firstSeenAt": "2026-07-17"
-    },
-    {
-      "id": "14-07-2",
-      "polish": "14/07",
-      "aiStatus": "partial",
+      "translationRu": "одиночество, одинокий",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "pojechalismy",
       "polish": "pojechAliśmy",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "мы поехали",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "nieprzydzielona",
       "polish": "nieprzydzielona",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "невыделенная",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "nieprzeznaczona",
       "polish": "nieprzeznaczona",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "непредназначенная",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "siedziba",
       "polish": "siedziba",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "резиденция, штаб-квартира",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "w-poblizu",
       "polish": "w pobliżu",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "opodal",
+      "translationRu": "поблизости",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "glusza",
       "polish": "głusza",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "глушь",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "pustkowie",
       "polish": "pustkowie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "пустошь, безлюдная местность",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "relaksowac",
       "polish": "relaksować",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "odprężyć się/ regenerować siły",
+      "translationRu": "расслаблять(ся)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "w-lesie-zobaczylismy-sarne",
       "polish": "W lesie zobaczyliśmy sarnę.",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "В лесу мы увидели косулю.",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "dostac-sie",
       "polish": "dostać się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "попасть (куда-то)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wbrew-oczekiewaniom",
       "polish": "wbrew oczekiewaniom",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "вопреки ожиданиям (опечатка от oczekiwaniom)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wbrew-przewidywaniom",
       "polish": "wbrew przewidywaniom",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "вопреки предсказаниям",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wbrew-przypuszczeniom",
       "polish": "wbrew przypuszczeniom",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "вопреки предположениям",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "trafic",
       "polish": "trafić",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "trafiać",
+      "translationRu": "попасть",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "dosc",
       "polish": "dość",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "Mam dość czekania",
+      "translationRu": "достаточно, довольно",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "dotrzec-3",
       "polish": "dotrzeć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "добраться",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -5811,13 +6112,15 @@
     {
       "id": "doprowadzic-do",
       "polish": "doprowadzić do",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "привести к",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "ksiega-opinii",
       "polish": "księga opinii",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "книга отзывов",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -5831,38 +6134,44 @@
     {
       "id": "samopoczucie",
       "polish": "samopoczucie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "самочувствие",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "kondycja",
       "polish": "kondycja",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "физическая форма, состояние",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "wykrakac",
       "polish": "wykrakać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "накаркать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "postrzegac",
       "polish": "postrzegać",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "воспринимать",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "ewentualnie",
       "polish": "ewentualnie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "w razie potrzeby/ w ostateczności/ alternatywnie",
+      "translationRu": "возможно, в крайнем случае",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "od-czasu-do-czasu",
       "polish": "od czasu do czasu",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "время от времени",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -5875,62 +6184,72 @@
     {
       "id": "na-obrzezu",
       "polish": "na obrzeżu",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
       "synonym": "za miastem",
+      "translationRu": "на окраине",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "dalibysmy",
       "polish": "dalibyśmy",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "мы бы дали",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "dzialka",
       "polish": "działka",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "участок (земли)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "do-niego",
       "polish": "do niego",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "к нему",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "domyslac-sie",
       "polish": "domyślać się",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "догадываться",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "pustkowie-2",
       "polish": "pustkowie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "пустошь, безлюдная местность",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "polegac-na",
       "polish": "polegać na",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "полагаться на",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "na-pierwszy-rzut-oka",
       "polish": "na pierwszy rzut oka",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "на первый взгляд",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "istotny",
       "polish": "istotny",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "существенный",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "znaczacy",
       "polish": "znaczący",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "значимый",
       "firstSeenAt": "2026-07-17"
     },
     {
@@ -5952,45 +6271,51 @@
     {
       "id": "warunek",
       "polish": "warunek",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "условие",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "umrzec",
       "polish": "umrzeć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "умереть",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "umarl",
       "polish": "umarł",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "умер",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "rozproszeni-po-swiecie",
       "polish": "rozproszeni po świecie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "рассеянные по миру",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "dmie",
       "polish": "dmie",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "дует (от dąć)",
       "firstSeenAt": "2026-07-17"
     },
     {
       "id": "dac",
       "polish": "dąć",
-      "aiStatus": "partial",
+      "aiStatus": "complete",
+      "translationRu": "дуть",
       "firstSeenAt": "2026-07-17"
     }
   ],
   "metadata": {
     "source": "google-sheets-csv",
-    "totalWords": 826,
-    "validWords": 384,
-    "partialWords": 436,
+    "totalWords": 819,
+    "validWords": 734,
+    "partialWords": 79,
     "uncertainWords": 6
   }
 }

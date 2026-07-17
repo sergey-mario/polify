@@ -6,7 +6,7 @@ interface RawRow {
   example: string;
 }
 
-const DATE_ROW = /^\d{1,2}\.\d{1,2}\.\d{2,4}$/;
+const DATE_ROW = /^\d{1,2}[./]\d{1,2}([./]\d{2,4})?$/;
 
 export async function fetchSheetCsv(url: string): Promise<string> {
   const res = await fetch(url, { redirect: 'follow' });
