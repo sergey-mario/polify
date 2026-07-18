@@ -1,108 +1,102 @@
 {
-  "generatedAt": "2026-07-17T07:47:52.976Z",
+  "generatedAt": "2026-07-18T07:45:48.232Z",
   "dailyPractice": {
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "words": [
       {
-        "id": "dopiero-po-przejsciu-najciezszych-prob",
-        "polish": "Dopiero po przejściu najcięższych prób",
+        "id": "wiek",
+        "polish": "wiek",
         "aiStatus": "complete",
-        "synonym": "tylko",
-        "translationRu": "Только после прохождения самых тяжёлых испытаний",
-        "example": "Dopiero po przejściu najcięższych prób człowiek poznaje swoją prawdziwą siłę.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wtracic-sie",
-        "polish": "wtrącić się",
-        "aiStatus": "complete",
-        "synonym": "brać udział",
-        "example": "Do rozmowy wtrąciła się Beata",
-        "translationRu": "вмешаться (в разговор)",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "komornik",
-        "polish": "komornik",
-        "aiStatus": "complete",
-        "synonym": "egzekutor sądowy",
-        "example": "Komornik przyszedł do mieszkania dłużnika",
-        "translationRu": "судебный пристав",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "grafik",
-        "polish": "grafik",
-        "aiStatus": "complete",
-        "translationRu": "график (работ, дежурств); график-художник",
-        "synonym": "harmonogram",
-        "example": "Sprawdź grafik dyżurów w tym tygodniu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zapominam",
-        "polish": "zapominam",
-        "aiStatus": "complete",
-        "translationRu": "я забываю",
-        "synonym": "nie pamiętam",
-        "example": "Zawsze zapominam parasola.",
+        "translationRu": "возраст, век",
+        "synonym": "epoka",
+        "example": "Jaki jest twój wiek?",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "natychmiast",
-        "polish": "natychmiast",
+        "id": "spedzilbym",
+        "polish": "spędziłbym",
         "aiStatus": "complete",
-        "synonym": "od razu",
-        "example": "natychmiast wstali z kanapy",
-        "translationRu": "немедленно, сразу",
+        "translationRu": "я бы провёл (время) — условное наклонение",
+        "synonym": "poświęciłbym czas",
+        "example": "Spędziłbym cały dzień na czytaniu książek.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "podejmowac",
-        "polish": "podejmować",
+        "id": "zoltek",
+        "polish": "Żółtek",
         "aiStatus": "complete",
-        "translationRu": "предпринимать, принимать",
-        "synonym": "przedsiębrać",
-        "example": "Musimy podejmować trudne decyzje.",
+        "synonym": "azjata / chińczyk",
+        "translationRu": "уничижительное прозвище для азиата, букв. \"желтоватый\" (сленг)",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "obserwac",
-        "polish": "obserwać",
+        "id": "usterka",
+        "polish": "usterka",
         "aiStatus": "complete",
-        "translationRu": "наблюдать (опечатка от obserwować)",
-        "synonym": "śledzić",
-        "example": "Naukowcy obserwują zachowanie zwierząt.",
+        "translationRu": "неисправность",
+        "synonym": "wada",
+        "example": "W samochodzie wykryto usterkę.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "uwielbiac",
-        "polish": "uwielbiać",
+        "id": "podac-przyklad",
+        "polish": "podać przykład",
         "aiStatus": "complete",
-        "synonym": "bardzo lubić",
-        "example": "Większość uwielbiała jej świeży, dynamiczny styl",
-        "translationRu": "обожать",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "brzmiec",
-        "polish": "brzmieć",
-        "aiStatus": "complete",
-        "synonym": "to brzmi dziwnie",
-        "translationRu": "звучать",
-        "example": "To brzmi dobrze.",
+        "translationRu": "привести пример",
+        "synonym": "przytoczyć przykład",
+        "example": "Czy możesz podać przykład tego zjawiska?",
         "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zszedl",
+        "polish": "zszedł",
+        "aiStatus": "complete",
+        "translationRu": "сошёл, спустился",
+        "synonym": "zstąpił",
+        "example": "Zszedł ze schodów bardzo szybko.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zlew",
+        "polish": "zlew",
+        "aiStatus": "complete",
+        "synonym": "zmywak",
+        "translationRu": "раковина",
+        "example": "Naczynia leżały w zlewie.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "watpic-sie",
+        "polish": "wątpić się",
+        "aiStatus": "partial",
+        "synonym": "nie być pewnym",
+        "example": "Wątpić w czyjeś słowa",
+        "translationRu": "сомневаться (нестанд.; обычно 'wątpić w coś')",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "rozumieja",
+        "polish": "rozumieją",
+        "aiStatus": "complete",
+        "translationRu": "(они) понимают",
+        "synonym": "pojmują",
+        "example": "Oni rozumieją każde słowo.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "gwaltowne",
+        "polish": "gwałtowne",
+        "aiStatus": "complete",
+        "synonym": "gwałtowny wzrost cen",
+        "translationRu": "резкий, бурный",
+        "example": "Nastąpiła gwałtowna zmiana pogody.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
-      "title": "Czasowniki niedokonane na -ować/-ać",
-      "explanation": "Czasowniki takie jak \"podejmować\", \"obserwować\" i \"uwielbiać\" to czasowniki niedokonane — opisują czynność trwającą lub powtarzającą się, a nie jednorazowy skutek. W czasie teraźniejszym odmieniamy je przez osoby, np. \"ja zapominam\" (1 os. l.poj. od \"zapominać\").",
-      "examples": [
-        "Musimy podejmować trudne decyzje.",
-        "Naukowcy obserwują zachowanie zwierząt.",
-        "Zawsze zapominam parasola.",
-        "Większość uwielbiała jej świeży, dynamiczny styl."
-      ]
+      "title": "Powtórka słownictwa",
+      "explanation": "Dziś koncentrujemy się na praktyce wybranych słów i wyrażeń w naturalnych zdaniach.",
+      "examples": []
     }
   },
   "allWords": [
