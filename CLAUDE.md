@@ -28,10 +28,11 @@ Google Sheet (CSV) ──▶ GitHub Actions ──▶ Gemini Flash ──▶ pub
 
 The browser bundle has no AI keys, no backend, no auth. All enrichment happens in CI; the browser only reads the static JSON.
 
-### Two GitHub Actions workflows form a self-perpetuating loop
+### Three GitHub Actions workflows form a self-perpetuating loop
 
-- `update-content.yml` — daily cron + manual; runs the pipeline and **commits a fresh `public/data/content.json` to `main`** as the github-actions bot
-- `deploy.yml` — runs on every push to `main`; rebuilds Vite and publishes to Pages
+- `refresh-daily.yml` — cron at `0 4 * * *` UTC (06:00 CEST; runs 07:00 during CET winter since Actions cron doesn't follow DST) + manual; reshuffles `dailyPractice` and **commits `public/data/content.json` to `main`** as the github-actions bot
+- `update-content.yml` — manual only; runs the full enrich-on-demand pipeline (Gemini calls) and commits `public/data/content.json` as the github-actions bot
+- `deploy.yml` — rebuilds Vite and publishes to Pages. Triggers on `push` to `main` **and** on `workflow_run` completion of the two workflows above — the `workflow_run` fallback exists because bot commits made with the default `GITHUB_TOKEN` don't trigger other workflows' `push` events (GitHub's anti-recursion rule), so relying on `push` alone silently skipped deploys for bot commits
 
 So the daily cron commit auto-triggers a redeploy. Don't break this contract: `public/data/content.json` is intentionally committed to git (it's the cache *and* the build artifact).
 

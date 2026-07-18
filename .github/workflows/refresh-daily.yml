@@ -2,8 +2,9 @@ name: Refresh daily practice
 
 on:
   schedule:
-    # Every day at 06:00 UTC. Adjust to taste.
-    - cron: '0 6 * * *'
+    # 06:00 CEST (UTC+2). Fixed UTC offset, so this runs at 07:00 local during
+    # CET (winter) since GitHub Actions cron doesn't follow DST.
+    - cron: '0 4 * * *'
   workflow_dispatch:
 
 permissions:

@@ -4,6 +4,12 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  workflow_run:
+    # Commits made by github-actions[bot] (refresh-daily.yml, update-content.yml) use the
+    # default GITHUB_TOKEN, which GitHub excludes from triggering `push` events on other
+    # workflows. Falling back to workflow_run so those commits still get deployed.
+    workflows: ['Refresh daily practice', 'Update content']
+    types: [completed]
 
 permissions:
   contents: read
@@ -16,10 +22,13 @@ concurrency:
 
 jobs:
   build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha || github.ref }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
