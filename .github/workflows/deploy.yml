@@ -28,7 +28,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.workflow_run.head_sha || github.ref }}
+          # No explicit ref: for workflow_run this checks out the default branch's
+          # current tip, which already includes the bot commit made during that run
+          # (workflow_run.head_sha is the commit that TRIGGERED the run, not commits
+          # it created afterward — pinning to it deployed one commit behind).
+          ref: main
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
