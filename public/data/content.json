@@ -1,95 +1,95 @@
 {
-  "generatedAt": "2026-07-19T06:27:30.605Z",
+  "generatedAt": "2026-07-19T07:40:41.495Z",
   "dailyPractice": {
     "date": "2026-07-19",
     "words": [
       {
-        "id": "spektakularny",
-        "polish": "spektakularny",
+        "id": "widok-2",
+        "polish": "widok",
         "aiStatus": "complete",
-        "synonym": "przyciągający wzrok, zwracający uwagę.",
-        "translationRu": "впечатляющий, зрелищный",
-        "example": "To był spektakularny sukces.",
+        "translationRu": "вид (пейзаж, на что-то)",
+        "synonym": "krajobraz",
+        "example": "Z balkonu jest piękny widok.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "trudno",
+        "polish": "trudno",
+        "aiStatus": "complete",
+        "translationRu": "трудно, тяжело",
+        "synonym": "ciężko",
+        "example": "Trudno mi to zrozumieć.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "uczyc-sie",
+        "polish": "uczyć się",
+        "aiStatus": "complete",
+        "translationRu": "учиться",
+        "synonym": "studiować",
+        "example": "Uczę się polskiego od roku.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "cel-on-2",
-        "polish": "cel - on",
+        "id": "krewni",
+        "polish": "krewni",
+        "aiStatus": "complete",
+        "translationRu": "родственники",
+        "synonym": "rodzina",
+        "example": "Mam dużo krewnych w Polsce.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wykrakac",
+        "polish": "wykrakać",
+        "aiStatus": "complete",
+        "translationRu": "накаркать",
+        "synonym": "przepowiedzieć (złowieszczo)",
+        "example": "Nie chcę tego wykrakać, ale wygląda dobrze.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "one-psy",
+        "polish": "one - psy",
         "aiStatus": "partial",
-        "translationRu": "цель (он, грам. род)",
-        "example": "Nasz cel jest jasno określony.",
+        "translationRu": "они (собаки) — грам. род",
+        "example": "One są głodne — nakarm te psy.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wbrew-przypuszczeniom",
-        "polish": "wbrew przypuszczeniom",
+        "id": "kat",
+        "polish": "kat",
         "aiStatus": "complete",
-        "translationRu": "вопреки предположениям",
-        "synonym": "wbrew domysłom",
-        "example": "Wbrew przypuszczeniom, wszystko poszło dobrze.",
+        "translationRu": "палач",
+        "synonym": "oprawca",
+        "example": "Kat wykonał wyrok o świcie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "na-lonie-natury",
+        "polish": "na łonie natury",
+        "aiStatus": "complete",
+        "translationRu": "на лоне природы",
+        "synonym": "na świeżym powietrzu",
+        "example": "Spędziliśmy weekend na łonie natury.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wiekszosc",
-        "polish": "większość",
+        "id": "programista-programisci",
+        "polish": "programista - programisci",
         "aiStatus": "complete",
-        "translationRu": "большинство",
-        "synonym": "przeważająca część",
-        "example": "Większość Polaków lubi pierogi.",
+        "translationRu": "программист — программисты",
+        "synonym": "deweloper",
+        "example": "Programiści pracują nad nową aplikacją.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zdala-sobie-sprawe-ze",
-        "polish": "zdała sobie sprawę (że …)",
+        "id": "cos-sie-wydarzy",
+        "polish": "coś się wydarzy",
         "aiStatus": "complete",
-        "synonym": "zorientować się\nzrozumieć\nskapnąć się (разговорное) - допереть",
-        "example": "Nagle zdałem sobie sprawę, że nie mam telefonu",
-        "translationRu": "осознала (что …)",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "niezbedne-2",
-        "polish": "niezbędne",
-        "aiStatus": "complete",
-        "translationRu": "необходимые, незаменимые",
-        "synonym": "konieczne",
-        "example": "Woda jest niezbędna do życia.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "hodowac",
-        "polish": "hodować",
-        "aiStatus": "complete",
-        "synonym": "hodaować kwiaty",
-        "translationRu": "разводить, выращивать (растения, животных)",
-        "example": "Moi dziadkowie hodują kury i krowy.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wbrew-przewidywaniom",
-        "polish": "wbrew przewidywaniom",
-        "aiStatus": "complete",
-        "translationRu": "вопреки предсказаниям",
-        "synonym": "wbrew oczekiwaniom",
-        "example": "Wbrew przewidywaniom, pogoda była piękna.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "okolo-pieciu-siedmiu",
-        "polish": "około pięciu/siedmiu",
-        "aiStatus": "complete",
-        "translationRu": "около пяти / семи",
-        "synonym": "mniej więcej pięciu/siedmiu",
-        "example": "Przyjadę około piątej albo siódmej wieczorem.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "ranking",
-        "polish": "ranking",
-        "aiStatus": "complete",
-        "translationRu": "рейтинг",
-        "synonym": "klasyfikacja",
-        "example": "Ta uczelnia zajęła wysokie miejsce w rankingu.",
+        "translationRu": "что-то случится",
+        "synonym": "coś się stanie",
+        "example": "Czuję, że wkrótce coś się wydarzy.",
         "firstSeenAt": "2026-05-02"
       }
     ],
