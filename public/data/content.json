@@ -1,96 +1,96 @@
 {
-  "generatedAt": "2026-07-18T07:45:48.232Z",
+  "generatedAt": "2026-07-19T06:27:30.605Z",
   "dailyPractice": {
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "words": [
       {
-        "id": "wiek",
-        "polish": "wiek",
+        "id": "spektakularny",
+        "polish": "spektakularny",
         "aiStatus": "complete",
-        "translationRu": "возраст, век",
-        "synonym": "epoka",
-        "example": "Jaki jest twój wiek?",
+        "synonym": "przyciągający wzrok, zwracający uwagę.",
+        "translationRu": "впечатляющий, зрелищный",
+        "example": "To był spektakularny sukces.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "spedzilbym",
-        "polish": "spędziłbym",
-        "aiStatus": "complete",
-        "translationRu": "я бы провёл (время) — условное наклонение",
-        "synonym": "poświęciłbym czas",
-        "example": "Spędziłbym cały dzień na czytaniu książek.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zoltek",
-        "polish": "Żółtek",
-        "aiStatus": "complete",
-        "synonym": "azjata / chińczyk",
-        "translationRu": "уничижительное прозвище для азиата, букв. \"желтоватый\" (сленг)",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "usterka",
-        "polish": "usterka",
-        "aiStatus": "complete",
-        "translationRu": "неисправность",
-        "synonym": "wada",
-        "example": "W samochodzie wykryto usterkę.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "podac-przyklad",
-        "polish": "podać przykład",
-        "aiStatus": "complete",
-        "translationRu": "привести пример",
-        "synonym": "przytoczyć przykład",
-        "example": "Czy możesz podać przykład tego zjawiska?",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zszedl",
-        "polish": "zszedł",
-        "aiStatus": "complete",
-        "translationRu": "сошёл, спустился",
-        "synonym": "zstąpił",
-        "example": "Zszedł ze schodów bardzo szybko.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zlew",
-        "polish": "zlew",
-        "aiStatus": "complete",
-        "synonym": "zmywak",
-        "translationRu": "раковина",
-        "example": "Naczynia leżały w zlewie.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "watpic-sie",
-        "polish": "wątpić się",
+        "id": "cel-on-2",
+        "polish": "cel - on",
         "aiStatus": "partial",
-        "synonym": "nie być pewnym",
-        "example": "Wątpić w czyjeś słowa",
-        "translationRu": "сомневаться (нестанд.; обычно 'wątpić w coś')",
+        "translationRu": "цель (он, грам. род)",
+        "example": "Nasz cel jest jasno określony.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "rozumieja",
-        "polish": "rozumieją",
+        "id": "wbrew-przypuszczeniom",
+        "polish": "wbrew przypuszczeniom",
         "aiStatus": "complete",
-        "translationRu": "(они) понимают",
-        "synonym": "pojmują",
-        "example": "Oni rozumieją każde słowo.",
+        "translationRu": "вопреки предположениям",
+        "synonym": "wbrew domysłom",
+        "example": "Wbrew przypuszczeniom, wszystko poszło dobrze.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "gwaltowne",
-        "polish": "gwałtowne",
+        "id": "wiekszosc",
+        "polish": "większość",
         "aiStatus": "complete",
-        "synonym": "gwałtowny wzrost cen",
-        "translationRu": "резкий, бурный",
-        "example": "Nastąpiła gwałtowna zmiana pogody.",
+        "translationRu": "большинство",
+        "synonym": "przeważająca część",
+        "example": "Większość Polaków lubi pierogi.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zdala-sobie-sprawe-ze",
+        "polish": "zdała sobie sprawę (że …)",
+        "aiStatus": "complete",
+        "synonym": "zorientować się\nzrozumieć\nskapnąć się (разговорное) - допереть",
+        "example": "Nagle zdałem sobie sprawę, że nie mam telefonu",
+        "translationRu": "осознала (что …)",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "niezbedne-2",
+        "polish": "niezbędne",
+        "aiStatus": "complete",
+        "translationRu": "необходимые, незаменимые",
+        "synonym": "konieczne",
+        "example": "Woda jest niezbędna do życia.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "hodowac",
+        "polish": "hodować",
+        "aiStatus": "complete",
+        "synonym": "hodaować kwiaty",
+        "translationRu": "разводить, выращивать (растения, животных)",
+        "example": "Moi dziadkowie hodują kury i krowy.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wbrew-przewidywaniom",
+        "polish": "wbrew przewidywaniom",
+        "aiStatus": "complete",
+        "translationRu": "вопреки предсказаниям",
+        "synonym": "wbrew oczekiwaniom",
+        "example": "Wbrew przewidywaniom, pogoda była piękna.",
         "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "okolo-pieciu-siedmiu",
+        "polish": "około pięciu/siedmiu",
+        "aiStatus": "complete",
+        "translationRu": "около пяти / семи",
+        "synonym": "mniej więcej pięciu/siedmiu",
+        "example": "Przyjadę około piątej albo siódmej wieczorem.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "ranking",
+        "polish": "ranking",
+        "aiStatus": "complete",
+        "translationRu": "рейтинг",
+        "synonym": "klasyfikacja",
+        "example": "Ta uczelnia zajęła wysokie miejsce w rankingu.",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
