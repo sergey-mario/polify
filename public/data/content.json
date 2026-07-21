@@ -1,95 +1,95 @@
 {
-  "generatedAt": "2026-07-20T06:42:29.471Z",
+  "generatedAt": "2026-07-21T06:25:19.126Z",
   "dailyPractice": {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
     "words": [
       {
-        "id": "wzruszyc-ramionami",
-        "polish": "wzruszyć ramionami",
-        "aiStatus": "complete",
-        "synonym": "podnieść ramiona / nie wiedzieć, co powiedzieć",
-        "example": "Na pytanie tylko wzruszyć ramionami",
-        "translationRu": "пожать плечами",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "ciezki",
-        "polish": "ciężki",
-        "aiStatus": "complete",
-        "translationRu": "тяжёлый",
-        "synonym": "masywny",
-        "example": "Ta walizka jest bardzo ciężka.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "dobry-przyklad",
-        "polish": "dobry przykład",
-        "aiStatus": "complete",
-        "translationRu": "хороший пример",
-        "synonym": "wzór",
-        "example": "To jest dobry przykład na to, o czym mówię.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wspierac",
-        "polish": "wspierać",
-        "aiStatus": "complete",
-        "translationRu": "поддерживать",
-        "synonym": "pomagać",
-        "example": "Rodzice mnie wspierają.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "nie-plynnie",
-        "polish": "nie płynnie",
-        "aiStatus": "complete",
-        "translationRu": "не бегло",
-        "synonym": "z trudem",
-        "example": "Mówię po polsku, ale nie płynnie.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "umrzec",
-        "polish": "umrzeć",
-        "aiStatus": "complete",
-        "translationRu": "умереть",
-        "synonym": "skonać",
-        "example": "Bał się umrzeć w samotności.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "blat",
-        "polish": "blat",
-        "aiStatus": "complete",
-        "synonym": "powierzchnia robocza",
-        "example": "nawet miejsce na blacie na mikrofalówkę",
-        "translationRu": "столешница",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "4-zlote",
-        "polish": "4 złote",
-        "aiStatus": "complete",
-        "translationRu": "4 злотых",
-        "example": "To kosztuje 4 złote.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "im-tym-2",
-        "polish": "im///tym",
+        "id": "auto-auta-l-m",
+        "polish": "auto- auta l/m",
         "aiStatus": "partial",
-        "translationRu": "чем ... тем (конструкция im ... tym)",
-        "example": "Im szybciej, tym lepiej.",
+        "translationRu": "авто - автомобили (ед./мн. ч.)",
+        "example": "Mam jedno auto, a moi sąsiedzi mają dwa auta.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wyslac",
-        "polish": "wysłać",
+        "id": "nietypowy",
+        "polish": "nietypowy",
         "aiStatus": "complete",
-        "translationRu": "отправить",
-        "synonym": "przesłać",
-        "example": "Wysłałem list wczoraj.",
+        "translationRu": "нетипичный",
+        "synonym": "niezwykły",
+        "example": "Miał nietypowe podejście do problemu.",
         "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "nagrywac",
+        "polish": "nagrywać",
+        "aiStatus": "complete",
+        "synonym": "filmować",
+        "translationRu": "записывать (видео, аудио)",
+        "example": "Nagrywam ten koncert.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wyobrazic",
+        "polish": "wyobrazić",
+        "aiStatus": "complete",
+        "translationRu": "представить (себе)",
+        "synonym": "uzmysłowić sobie",
+        "example": "Wyobraź sobie, że jesteś w Paryżu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "spotkac-sie",
+        "polish": "spotkać się",
+        "aiStatus": "complete",
+        "translationRu": "встретиться",
+        "synonym": "zobaczyć się",
+        "example": "Spotkajmy się jutro.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "w-zeszlym",
+        "polish": "w zeszłym",
+        "aiStatus": "partial",
+        "translationRu": "в прошлом (обрывок, напр. w zeszłym roku)",
+        "example": "W zeszłym roku byliśmy w Grecji.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zaledwie-garstka",
+        "polish": "Zaledwie garstka",
+        "aiStatus": "complete",
+        "synonym": "niewielka liczba",
+        "example": "Zaledwie garstka ludzi przyszła na spotkanie",
+        "translationRu": "лишь горстка",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "odpady",
+        "polish": "odpady",
+        "aiStatus": "complete",
+        "translationRu": "отходы, мусор",
+        "synonym": "śmieci",
+        "example": "Sortujemy odpady do recyklingu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "samotnosc-samotny",
+        "polish": "samotność, samotny",
+        "aiStatus": "complete",
+        "synonym": "izolacja",
+        "example": "Czuje samotność po przeprowadzce do innego miasta",
+        "translationRu": "одиночество, одинокий",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "konsument",
+        "polish": "konsument",
+        "aiStatus": "complete",
+        "translationRu": "потребитель",
+        "synonym": "klient",
+        "example": "Konsument ma prawo do reklamacji towaru.",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
