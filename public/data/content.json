@@ -1,95 +1,97 @@
 {
-  "generatedAt": "2026-07-21T06:25:19.126Z",
+  "generatedAt": "2026-07-22T06:25:26.763Z",
   "dailyPractice": {
-    "date": "2026-07-21",
+    "date": "2026-07-22",
     "words": [
       {
-        "id": "auto-auta-l-m",
-        "polish": "auto- auta l/m",
-        "aiStatus": "partial",
-        "translationRu": "авто - автомобили (ед./мн. ч.)",
-        "example": "Mam jedno auto, a moi sąsiedzi mają dwa auta.",
+        "id": "komornik",
+        "polish": "komornik",
+        "aiStatus": "complete",
+        "synonym": "egzekutor sądowy",
+        "example": "Komornik przyszedł do mieszkania dłużnika",
+        "translationRu": "судебный пристав",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "przypominac",
+        "polish": "przypominać",
+        "aiStatus": "complete",
+        "translationRu": "напоминать",
+        "synonym": "kojarzyć się z",
+        "example": "Ten zapach przypomina mi dzieciństwo.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "nietypowy",
-        "polish": "nietypowy",
+        "id": "statystyka",
+        "polish": "statystyka",
         "aiStatus": "complete",
-        "translationRu": "нетипичный",
-        "synonym": "niezwykły",
-        "example": "Miał nietypowe podejście do problemu.",
+        "translationRu": "статистика",
+        "synonym": "dane statystyczne",
+        "example": "Według statystyk, Polacy żyją coraz dłużej.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zrobilbym",
+        "polish": "zrobiłbym",
+        "aiStatus": "complete",
+        "translationRu": "я бы сделал",
+        "synonym": "wykonałbym",
+        "example": "Zrobiłbym to inaczej.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "nagrywac",
-        "polish": "nagrywać",
+        "id": "doprowadzic-do",
+        "polish": "doprowadzić do",
         "aiStatus": "complete",
-        "synonym": "filmować",
-        "translationRu": "записывать (видео, аудио)",
-        "example": "Nagrywam ten koncert.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wyobrazic",
-        "polish": "wyobrazić",
-        "aiStatus": "complete",
-        "translationRu": "представить (себе)",
-        "synonym": "uzmysłowić sobie",
-        "example": "Wyobraź sobie, że jesteś w Paryżu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "spotkac-sie",
-        "polish": "spotkać się",
-        "aiStatus": "complete",
-        "translationRu": "встретиться",
-        "synonym": "zobaczyć się",
-        "example": "Spotkajmy się jutro.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "w-zeszlym",
-        "polish": "w zeszłym",
-        "aiStatus": "partial",
-        "translationRu": "в прошлом (обрывок, напр. w zeszłym roku)",
-        "example": "W zeszłym roku byliśmy w Grecji.",
+        "translationRu": "привести к",
+        "synonym": "prowadzić do",
+        "example": "To może doprowadzić do poważnych problemów.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zaledwie-garstka",
-        "polish": "Zaledwie garstka",
+        "id": "zrodlo",
+        "polish": "zródło",
         "aiStatus": "complete",
-        "synonym": "niewielka liczba",
-        "example": "Zaledwie garstka ludzi przyszła na spotkanie",
-        "translationRu": "лишь горстка",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "odpady",
-        "polish": "odpady",
-        "aiStatus": "complete",
-        "translationRu": "отходы, мусор",
-        "synonym": "śmieci",
-        "example": "Sortujemy odpady do recyklingu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "samotnosc-samotny",
-        "polish": "samotność, samotny",
-        "aiStatus": "complete",
-        "synonym": "izolacja",
-        "example": "Czuje samotność po przeprowadzce do innego miasta",
-        "translationRu": "одиночество, одинокий",
+        "translationRu": "источник (опечатка от źródło)",
+        "synonym": "początek",
+        "example": "To jest wiarygodne źródło informacji.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "konsument",
-        "polish": "konsument",
+        "id": "klasyfikacja",
+        "polish": "klasyfikacja",
         "aiStatus": "complete",
-        "translationRu": "потребитель",
-        "synonym": "klient",
-        "example": "Konsument ma prawo do reklamacji towaru.",
+        "translationRu": "классификация",
+        "synonym": "kategoryzacja",
+        "example": "Klasyfikacja zwierząt jest skomplikowana.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "byc-na-biezaco",
+        "polish": "być na bieżąco",
+        "aiStatus": "complete",
+        "translationRu": "быть в курсе",
+        "synonym": "śledzić nowości",
+        "example": "Czytam wiadomości, żeby być na bieżąco.",
         "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "kreowac",
+        "polish": "kreować",
+        "aiStatus": "complete",
+        "translationRu": "создавать (имидж, образ)",
+        "synonym": "tworzyć",
+        "example": "Marka stara się kreować pozytywny wizerunek.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "po-koncercie-koncert",
+        "polish": "po koncercie (koncert)",
+        "aiStatus": "complete",
+        "translationRu": "после концерта (концерт)",
+        "synonym": "po występie",
+        "example": "Po koncercie poszliśmy na kolację.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
