@@ -1,97 +1,97 @@
 {
-  "generatedAt": "2026-07-22T06:25:26.763Z",
+  "generatedAt": "2026-07-23T06:27:44.259Z",
   "dailyPractice": {
-    "date": "2026-07-22",
+    "date": "2026-07-23",
     "words": [
       {
-        "id": "komornik",
-        "polish": "komornik",
+        "id": "wyjatkowy",
+        "polish": "wyjątkowy",
         "aiStatus": "complete",
-        "synonym": "egzekutor sądowy",
-        "example": "Komornik przyszedł do mieszkania dłużnika",
-        "translationRu": "судебный пристав",
+        "translationRu": "исключительный",
+        "synonym": "niezwykły",
+        "example": "To był wyjątkowy dzień.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "ludzkosc",
+        "polish": "ludzkość",
+        "aiStatus": "complete",
+        "translationRu": "человечество",
+        "synonym": "rodzaj ludzki",
+        "example": "Ludzkość stoi przed wielkimi wyzwaniami.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "brzeg",
+        "polish": "brzeg",
+        "aiStatus": "complete",
+        "translationRu": "берег",
+        "synonym": "krawędź",
+        "example": "Usiedliśmy na brzegu rzeki.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "podejmowac-decyzje",
+        "polish": "podejmować decyzję",
+        "aiStatus": "complete",
+        "translationRu": "принимать решение",
+        "synonym": "decydować",
+        "example": "Trudno mi podejmować decyzje pod presją.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "przypominac",
-        "polish": "przypominać",
+        "id": "drzwi-okulary-sanie-usta",
+        "polish": "drzwi / okulary/ sanie / usta",
         "aiStatus": "complete",
-        "translationRu": "напоминать",
-        "synonym": "kojarzyć się z",
-        "example": "Ten zapach przypomina mi dzieciństwo.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "statystyka",
-        "polish": "statystyka",
-        "aiStatus": "complete",
-        "translationRu": "статистика",
-        "synonym": "dane statystyczne",
-        "example": "Według statystyk, Polacy żyją coraz dłużej.",
+        "synonym": "zawsze l.m.",
+        "translationRu": "двери / очки / сани / уста (только мн. ч.)",
+        "example": "Drzwi były zamknięte na klucz.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zrobilbym",
-        "polish": "zrobiłbym",
+        "id": "przytomnosc",
+        "polish": "przytomność",
         "aiStatus": "complete",
-        "translationRu": "я бы сделал",
-        "synonym": "wykonałbym",
-        "example": "Zrobiłbym to inaczej.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "doprowadzic-do",
-        "polish": "doprowadzić do",
-        "aiStatus": "complete",
-        "translationRu": "привести к",
-        "synonym": "prowadzić do",
-        "example": "To może doprowadzić do poważnych problemów.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zrodlo",
-        "polish": "zródło",
-        "aiStatus": "complete",
-        "translationRu": "источник (опечатка от źródło)",
-        "synonym": "początek",
-        "example": "To jest wiarygodne źródło informacji.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "klasyfikacja",
-        "polish": "klasyfikacja",
-        "aiStatus": "complete",
-        "translationRu": "классификация",
-        "synonym": "kategoryzacja",
-        "example": "Klasyfikacja zwierząt jest skomplikowana.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "byc-na-biezaco",
-        "polish": "być na bieżąco",
-        "aiStatus": "complete",
-        "translationRu": "быть в курсе",
-        "synonym": "śledzić nowości",
-        "example": "Czytam wiadomości, żeby być na bieżąco.",
+        "example": "straciła przytomność",
+        "translationRu": "сознание",
+        "synonym": "świadomość",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "kreowac",
-        "polish": "kreować",
+        "id": "hodowla",
+        "polish": "hodowla",
         "aiStatus": "complete",
-        "translationRu": "создавать (имидж, образ)",
-        "synonym": "tworzyć",
-        "example": "Marka stara się kreować pozytywny wizerunek.",
+        "translationRu": "разведение (животных), питомник",
+        "synonym": "chów",
+        "example": "Prowadzą hodowlę koni na wsi.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "po-koncercie-koncert",
-        "polish": "po koncercie (koncert)",
+        "id": "gust",
+        "polish": "gust",
         "aiStatus": "complete",
-        "translationRu": "после концерта (концерт)",
-        "synonym": "po występie",
-        "example": "Po koncercie poszliśmy na kolację.",
-        "firstSeenAt": "2026-07-17"
+        "translationRu": "вкус (эстетический)",
+        "synonym": "upodobanie",
+        "example": "Mamy podobny gust muzyczny.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "dobrze",
+        "polish": "dobrze",
+        "aiStatus": "complete",
+        "translationRu": "хорошо",
+        "synonym": "świetnie",
+        "example": "Wszystko poszło dobrze.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "rzeczy-sporzywcze",
+        "polish": "rzeczy sporzywcze",
+        "aiStatus": "partial",
+        "translationRu": "продукты питания (опечатка от spożywcze)",
+        "synonym": "artykuły spożywcze",
+        "example": "W tym sklepie kupuję wszystkie rzeczy spożywcze.",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
