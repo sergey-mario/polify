@@ -1,97 +1,96 @@
 {
-  "generatedAt": "2026-07-23T06:27:44.259Z",
+  "generatedAt": "2026-07-24T06:22:40.067Z",
   "dailyPractice": {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "words": [
       {
-        "id": "wyjatkowy",
-        "polish": "wyjątkowy",
-        "aiStatus": "complete",
-        "translationRu": "исключительный",
-        "synonym": "niezwykły",
-        "example": "To był wyjątkowy dzień.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "ludzkosc",
-        "polish": "ludzkość",
-        "aiStatus": "complete",
-        "translationRu": "человечество",
-        "synonym": "rodzaj ludzki",
-        "example": "Ludzkość stoi przed wielkimi wyzwaniami.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "brzeg",
-        "polish": "brzeg",
-        "aiStatus": "complete",
-        "translationRu": "берег",
-        "synonym": "krawędź",
-        "example": "Usiedliśmy na brzegu rzeki.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "podejmowac-decyzje",
-        "polish": "podejmować decyzję",
-        "aiStatus": "complete",
-        "translationRu": "принимать решение",
-        "synonym": "decydować",
-        "example": "Trudno mi podejmować decyzje pod presją.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "drzwi-okulary-sanie-usta",
-        "polish": "drzwi / okulary/ sanie / usta",
-        "aiStatus": "complete",
-        "synonym": "zawsze l.m.",
-        "translationRu": "двери / очки / сани / уста (только мн. ч.)",
-        "example": "Drzwi były zamknięte na klucz.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "przytomnosc",
-        "polish": "przytomność",
-        "aiStatus": "complete",
-        "example": "straciła przytomność",
-        "translationRu": "сознание",
-        "synonym": "świadomość",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "hodowla",
-        "polish": "hodowla",
-        "aiStatus": "complete",
-        "translationRu": "разведение (животных), питомник",
-        "synonym": "chów",
-        "example": "Prowadzą hodowlę koni na wsi.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "gust",
-        "polish": "gust",
-        "aiStatus": "complete",
-        "translationRu": "вкус (эстетический)",
-        "synonym": "upodobanie",
-        "example": "Mamy podobny gust muzyczny.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "dobrze",
-        "polish": "dobrze",
-        "aiStatus": "complete",
-        "translationRu": "хорошо",
-        "synonym": "świetnie",
-        "example": "Wszystko poszło dobrze.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "rzeczy-sporzywcze",
-        "polish": "rzeczy sporzywcze",
+        "id": "ci",
+        "polish": "Ci",
         "aiStatus": "partial",
-        "translationRu": "продукты питания (опечатка от spożywcze)",
-        "synonym": "artykuły spożywcze",
-        "example": "W tym sklepie kupuję wszystkie rzeczy spożywcze.",
+        "translationRu": "эти (мужчины-лица, мн. ч.)",
+        "example": "Ci mężczyźni są moimi sąsiadami.",
         "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "trafic",
+        "polish": "trafić",
+        "aiStatus": "complete",
+        "synonym": "trafiać",
+        "translationRu": "попасть",
+        "example": "Trafiłem strzałą prosto w cel.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "organizm",
+        "polish": "orgAnizm",
+        "aiStatus": "partial",
+        "translationRu": "организм (опечатка регистра)",
+        "synonym": "ciało",
+        "example": "Regularny sport wzmacnia organizm.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "jakosciowe",
+        "polish": "jakościowe",
+        "aiStatus": "complete",
+        "translationRu": "качественные (мн.)",
+        "synonym": "wysokiej jakości",
+        "example": "Firma stawia na jakościowe produkty.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zaciagac",
+        "polish": "zaciągać",
+        "aiStatus": "complete",
+        "translationRu": "затягивать; брать (кредит); набирать",
+        "synonym": "wciągać",
+        "example": "Nie warto zaciągać kolejnej pożyczki.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "niektorze",
+        "polish": "niektórze",
+        "aiStatus": "partial",
+        "translationRu": "некоторые (опечатка/нестанд.)",
+        "synonym": "niektórzy",
+        "example": "Niektórzy ludzie wolą pracować rano.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "decydowac",
+        "polish": "decydować",
+        "aiStatus": "complete",
+        "translationRu": "решать, принимать решение",
+        "synonym": "postanawiać",
+        "example": "Sam decyduję o swoim życiu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "puchar-swiata",
+        "polish": "Puchar Świata",
+        "aiStatus": "complete",
+        "translationRu": "Кубок мира",
+        "synonym": "Mundial",
+        "example": "Polacy zdobyli Puchar Świata.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wyslac",
+        "polish": "wysłać",
+        "aiStatus": "complete",
+        "translationRu": "отправить",
+        "synonym": "przesłać",
+        "example": "Wysłałem list wczoraj.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zrobilbym",
+        "polish": "zrobiłbym",
+        "aiStatus": "complete",
+        "translationRu": "я бы сделал",
+        "synonym": "wykonałbym",
+        "example": "Zrobiłbym to inaczej.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
