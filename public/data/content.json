@@ -1,96 +1,95 @@
 {
-  "generatedAt": "2026-07-24T06:22:40.067Z",
+  "generatedAt": "2026-07-25T06:14:03.446Z",
   "dailyPractice": {
-    "date": "2026-07-24",
+    "date": "2026-07-25",
     "words": [
       {
-        "id": "ci",
-        "polish": "Ci",
-        "aiStatus": "partial",
-        "translationRu": "эти (мужчины-лица, мн. ч.)",
-        "example": "Ci mężczyźni są moimi sąsiadami.",
+        "id": "byc-na-czasie",
+        "polish": "być na czasie",
+        "aiStatus": "complete",
+        "translationRu": "быть в тренде, идти в ногу со временем",
+        "synonym": "być modnym",
+        "example": "Ona zawsze jest na czasie, jeśli chodzi o modę.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "trafic",
-        "polish": "trafić",
+        "id": "miejsce-docelowe",
+        "polish": "miejsce docelowe",
         "aiStatus": "complete",
-        "synonym": "trafiać",
-        "translationRu": "попасть",
-        "example": "Trafiłem strzałą prosto w cel.",
+        "translationRu": "место назначения",
+        "synonym": "cel podróży",
+        "example": "Nasze miejsce docelowe to Kraków.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "organizm",
-        "polish": "orgAnizm",
-        "aiStatus": "partial",
-        "translationRu": "организм (опечатка регистра)",
-        "synonym": "ciało",
-        "example": "Regularny sport wzmacnia organizm.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "jakosciowe",
-        "polish": "jakościowe",
+        "id": "ukrywac",
+        "polish": "ukrywać",
         "aiStatus": "complete",
-        "translationRu": "качественные (мн.)",
-        "synonym": "wysokiej jakości",
-        "example": "Firma stawia na jakościowe produkty.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zaciagac",
-        "polish": "zaciągać",
-        "aiStatus": "complete",
-        "translationRu": "затягивать; брать (кредит); набирать",
-        "synonym": "wciągać",
-        "example": "Nie warto zaciągać kolejnej pożyczki.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "niektorze",
-        "polish": "niektórze",
-        "aiStatus": "partial",
-        "translationRu": "некоторые (опечатка/нестанд.)",
-        "synonym": "niektórzy",
-        "example": "Niektórzy ludzie wolą pracować rano.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "decydowac",
-        "polish": "decydować",
-        "aiStatus": "complete",
-        "translationRu": "решать, принимать решение",
-        "synonym": "postanawiać",
-        "example": "Sam decyduję o swoim życiu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "puchar-swiata",
-        "polish": "Puchar Świata",
-        "aiStatus": "complete",
-        "translationRu": "Кубок мира",
-        "synonym": "Mundial",
-        "example": "Polacy zdobyli Puchar Świata.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wyslac",
-        "polish": "wysłać",
-        "aiStatus": "complete",
-        "translationRu": "отправить",
-        "synonym": "przesłać",
-        "example": "Wysłałem list wczoraj.",
+        "translationRu": "скрывать",
+        "synonym": "chować",
+        "example": "Nie chcę nic ukrywać przed tobą.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zrobilbym",
-        "polish": "zrobiłbym",
+        "id": "wapic-sie",
+        "polish": "wąpić się",
         "aiStatus": "complete",
-        "translationRu": "я бы сделал",
-        "synonym": "wykonałbym",
-        "example": "Zrobiłbym to inaczej.",
+        "synonym": "nie dowierzać, nie ufać, być sceptycznym",
+        "translationRu": "сомневаться (опечатка от wątpić)",
+        "example": "Zaczynam się wątpić, czy to dobry plan.",
         "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "skuteczny",
+        "polish": "skuteczny",
+        "aiStatus": "complete",
+        "synonym": "efektywny",
+        "translationRu": "эффективный, результативный",
+        "example": "To bardzo skuteczny sposób na naukę języka.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "praza-sie-zmieni",
+        "polish": "praza się zmieni",
+        "aiStatus": "complete",
+        "translationRu": "работа изменится (опечатка от praca się zmieni)",
+        "example": "Wierzę, że praca się zmieni na lepsze.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "dojazd",
+        "polish": "dojazd",
+        "aiStatus": "complete",
+        "translationRu": "подъезд, доступ (транспортом)",
+        "synonym": "dotarcie",
+        "example": "Dojazd do centrum zajmuje pół godziny.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "wszystko-gra",
+        "polish": "wszystko gra",
+        "aiStatus": "complete",
+        "translationRu": "всё в порядке (разг.)",
+        "synonym": "wszystko w porządku",
+        "example": "Jak tam? — Wszystko gra!",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wynajac",
+        "polish": "wynająć",
+        "aiStatus": "complete",
+        "synonym": "wynajmować",
+        "translationRu": "снять, арендовать",
+        "example": "Wynajęliśmy pokój na wakacje.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "te",
+        "polish": "Te",
+        "aiStatus": "partial",
+        "translationRu": "эти (немужчины-лица, мн. ч.)",
+        "example": "Te kobiety pracują w szpitalu.",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
