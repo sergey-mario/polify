@@ -1,95 +1,96 @@
 {
-  "generatedAt": "2026-07-25T06:14:03.446Z",
+  "generatedAt": "2026-07-26T06:32:40.155Z",
   "dailyPractice": {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "words": [
       {
-        "id": "byc-na-czasie",
-        "polish": "być na czasie",
+        "id": "muzeum",
+        "polish": "muzeum",
         "aiStatus": "complete",
-        "translationRu": "быть в тренде, идти в ногу со временем",
-        "synonym": "być modnym",
-        "example": "Ona zawsze jest na czasie, jeśli chodzi o modę.",
+        "translationRu": "музей",
+        "synonym": "galeria",
+        "example": "W tym muzeum są obrazy Picassa.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "miejsce-docelowe",
-        "polish": "miejsce docelowe",
+        "id": "na-ten-temat",
+        "polish": "na ten temat",
         "aiStatus": "complete",
-        "translationRu": "место назначения",
-        "synonym": "cel podróży",
-        "example": "Nasze miejsce docelowe to Kraków.",
+        "translationRu": "на эту тему",
+        "synonym": "w tej kwestii",
+        "example": "Mam inną opinię na ten temat.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "ukrywac",
-        "polish": "ukrywać",
+        "id": "odmow",
+        "polish": "odmów",
         "aiStatus": "complete",
-        "translationRu": "скрывать",
-        "synonym": "chować",
-        "example": "Nie chcę nic ukrywać przed tobą.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wapic-sie",
-        "polish": "wąpić się",
-        "aiStatus": "complete",
-        "synonym": "nie dowierzać, nie ufać, być sceptycznym",
-        "translationRu": "сомневаться (опечатка от wątpić)",
-        "example": "Zaczynam się wątpić, czy to dobry plan.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "skuteczny",
-        "polish": "skuteczny",
-        "aiStatus": "complete",
-        "synonym": "efektywny",
-        "translationRu": "эффективный, результативный",
-        "example": "To bardzo skuteczny sposób na naukę języka.",
+        "translationRu": "откажи (повелит.)",
+        "synonym": "odrzuć",
+        "example": "Jeśli nie masz czasu, po prostu odmów.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "praza-sie-zmieni",
-        "polish": "praza się zmieni",
-        "aiStatus": "complete",
-        "translationRu": "работа изменится (опечатка от praca się zmieni)",
-        "example": "Wierzę, że praca się zmieni na lepsze.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "dojazd",
-        "polish": "dojazd",
-        "aiStatus": "complete",
-        "translationRu": "подъезд, доступ (транспортом)",
-        "synonym": "dotarcie",
-        "example": "Dojazd do centrum zajmuje pół godziny.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wszystko-gra",
-        "polish": "wszystko gra",
-        "aiStatus": "complete",
-        "translationRu": "всё в порядке (разг.)",
-        "synonym": "wszystko w porządku",
-        "example": "Jak tam? — Wszystko gra!",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wynajac",
-        "polish": "wynająć",
-        "aiStatus": "complete",
-        "synonym": "wynajmować",
-        "translationRu": "снять, арендовать",
-        "example": "Wynajęliśmy pokój na wakacje.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "te",
-        "polish": "Te",
+        "id": "bochater",
+        "polish": "bochater",
         "aiStatus": "partial",
-        "translationRu": "эти (немужчины-лица, мн. ч.)",
-        "example": "Te kobiety pracują w szpitalu.",
+        "translationRu": "герой (опечатка от bohater)",
+        "synonym": "postać główna",
+        "example": "Był prawdziwym bohaterem tamtej wojny.",
         "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wariatka",
+        "polish": "wariatka",
+        "aiStatus": "complete",
+        "synonym": "szalona",
+        "example": "Ona jest wariatką",
+        "translationRu": "сумасшедшая",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "codzienne-jakie",
+        "polish": "codzienne - jakie",
+        "aiStatus": "partial",
+        "translationRu": "ежедневные - какие (обрывок фразы)",
+        "example": "Jakie masz codzienne obowiązki?",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "wapienie",
+        "polish": "wąpienie",
+        "aiStatus": "partial",
+        "translationRu": "сомнение (опечатка от wątpienie)",
+        "synonym": "niepewność",
+        "example": "Ogarnęło mnie wątpienie, czy podjąłem dobrą decyzję.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "dosc",
+        "polish": "dość",
+        "aiStatus": "complete",
+        "synonym": "Mam dość czekania",
+        "translationRu": "достаточно, довольно",
+        "example": "Mam już dość tej pogody.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "nie-fer",
+        "polish": "nie fer",
+        "aiStatus": "complete",
+        "synonym": "coś jest nieuczciwe, niesprawiedliwe lub niezgodne z zasadami",
+        "translationRu": "нечестно (англицизм от 'not fair')",
+        "example": "To nie fer, że on dostał więcej niż ja.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "ulepszyc",
+        "polish": "ulepszyć",
+        "aiStatus": "complete",
+        "translationRu": "улучшить",
+        "synonym": "poprawić",
+        "example": "Chcemy ulepszyć naszą aplikację.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
