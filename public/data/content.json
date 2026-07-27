@@ -1,95 +1,95 @@
 {
-  "generatedAt": "2026-07-26T06:32:40.155Z",
+  "generatedAt": "2026-07-27T07:26:05.746Z",
   "dailyPractice": {
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "words": [
       {
-        "id": "muzeum",
-        "polish": "muzeum",
+        "id": "sie-nie-udalo",
+        "polish": "się nie udało",
         "aiStatus": "complete",
-        "translationRu": "музей",
-        "synonym": "galeria",
-        "example": "W tym muzeum są obrazy Picassa.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "na-ten-temat",
-        "polish": "na ten temat",
-        "aiStatus": "complete",
-        "translationRu": "на эту тему",
-        "synonym": "w tej kwestii",
-        "example": "Mam inną opinię na ten temat.",
+        "translationRu": "не получилось",
+        "synonym": "nie wyszło",
+        "example": "Plan się nie udał.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "odmow",
-        "polish": "odmów",
+        "id": "kameralny",
+        "polish": "kameralny",
         "aiStatus": "complete",
-        "translationRu": "откажи (повелит.)",
-        "synonym": "odrzuć",
-        "example": "Jeśli nie masz czasu, po prostu odmów.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "bochater",
-        "polish": "bochater",
-        "aiStatus": "partial",
-        "translationRu": "герой (опечатка от bohater)",
-        "synonym": "postać główna",
-        "example": "Był prawdziwym bohaterem tamtej wojny.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wariatka",
-        "polish": "wariatka",
-        "aiStatus": "complete",
-        "synonym": "szalona",
-        "example": "Ona jest wariatką",
-        "translationRu": "сумасшедшая",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "codzienne-jakie",
-        "polish": "codzienne - jakie",
-        "aiStatus": "partial",
-        "translationRu": "ежедневные - какие (обрывок фразы)",
-        "example": "Jakie masz codzienne obowiązki?",
+        "translationRu": "камерный, уютный",
+        "synonym": "intymny",
+        "example": "To bardzo kameralna restauracja.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wapienie",
-        "polish": "wąpienie",
-        "aiStatus": "partial",
-        "translationRu": "сомнение (опечатка от wątpienie)",
-        "synonym": "niepewność",
-        "example": "Ogarnęło mnie wątpienie, czy podjąłem dobrą decyzję.",
+        "id": "bardzo-mi-przykro-2",
+        "polish": "bardzo mi przykro",
+        "aiStatus": "complete",
+        "translationRu": "мне очень жаль",
+        "synonym": "przepraszam",
+        "example": "Bardzo mi przykro z powodu twojej straty.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "dosc",
-        "polish": "dość",
+        "id": "warunek-konieczny",
+        "polish": "warunek konieczny",
         "aiStatus": "complete",
-        "synonym": "Mam dość czekania",
-        "translationRu": "достаточно, довольно",
-        "example": "Mam już dość tej pogody.",
+        "translationRu": "необходимое условие",
+        "synonym": "wymóg",
+        "example": "Znajomość angielskiego jest warunkiem koniecznym tej pracy.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "nie-fer",
-        "polish": "nie fer",
+        "id": "wyluzowac",
+        "polish": "wyluzować",
         "aiStatus": "complete",
-        "synonym": "coś jest nieuczciwe, niesprawiedliwe lub niezgodne z zasadami",
-        "translationRu": "нечестно (англицизм от 'not fair')",
-        "example": "To nie fer, że on dostał więcej niż ja.",
+        "translationRu": "расслабиться (разг.)",
+        "synonym": "zrelaksować się",
+        "example": "Wyluzuj, wszystko będzie dobrze.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "ulepszyc",
-        "polish": "ulepszyć",
+        "id": "wystaczajaco",
+        "polish": "wystaczająco",
         "aiStatus": "complete",
-        "translationRu": "улучшить",
-        "synonym": "poprawić",
-        "example": "Chcemy ulepszyć naszą aplikację.",
+        "translationRu": "достаточно (опечатка от wystarczająco)",
+        "synonym": "dosyć",
+        "example": "Nie mam wystarczająco pieniędzy.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "miejsce-docelowe",
+        "polish": "miejsce docelowe",
+        "aiStatus": "complete",
+        "translationRu": "место назначения",
+        "synonym": "cel podróży",
+        "example": "Nasze miejsce docelowe to Kraków.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zmarznac-2",
+        "polish": "zmarznąć",
+        "aiStatus": "complete",
+        "translationRu": "замёрзнуть",
+        "synonym": "odczuwać mróz",
+        "example": "Chyba bardzo zmarzliście!",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "ewentualnie",
+        "polish": "ewentualnie",
+        "aiStatus": "complete",
+        "synonym": "w razie potrzeby/ w ostateczności/ alternatywnie",
+        "translationRu": "возможно, в крайнем случае",
+        "example": "Ewentualnie możemy przełożyć spotkanie.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "wodor",
+        "polish": "wodór",
+        "aiStatus": "complete",
+        "translationRu": "водород",
+        "example": "Wodór jest najlżejszym pierwiastkiem.",
         "firstSeenAt": "2026-07-17"
       }
     ],
