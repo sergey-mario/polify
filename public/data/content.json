@@ -1,95 +1,95 @@
 {
-  "generatedAt": "2026-07-27T07:26:05.746Z",
+  "generatedAt": "2026-07-28T06:23:20.189Z",
   "dailyPractice": {
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "words": [
       {
-        "id": "sie-nie-udalo",
-        "polish": "się nie udało",
+        "id": "przykuc-uwage",
+        "polish": "przykuć uwagę",
         "aiStatus": "complete",
-        "translationRu": "не получилось",
-        "synonym": "nie wyszło",
-        "example": "Plan się nie udał.",
+        "translationRu": "приковать внимание",
+        "synonym": "zwrócić uwagę",
+        "example": "Ten plakat przykuł moją uwagę.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "kameralny",
-        "polish": "kameralny",
+        "id": "okolo-pieciu-siedmiu",
+        "polish": "około pięciu/siedmiu",
         "aiStatus": "complete",
-        "translationRu": "камерный, уютный",
-        "synonym": "intymny",
-        "example": "To bardzo kameralna restauracja.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "bardzo-mi-przykro-2",
-        "polish": "bardzo mi przykro",
-        "aiStatus": "complete",
-        "translationRu": "мне очень жаль",
-        "synonym": "przepraszam",
-        "example": "Bardzo mi przykro z powodu twojej straty.",
+        "translationRu": "около пяти / семи",
+        "synonym": "mniej więcej pięciu/siedmiu",
+        "example": "Przyjadę około piątej albo siódmej wieczorem.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "warunek-konieczny",
-        "polish": "warunek konieczny",
+        "id": "pulapka",
+        "polish": "pułapka",
         "aiStatus": "complete",
-        "translationRu": "необходимое условие",
-        "synonym": "wymóg",
-        "example": "Znajomość angielskiego jest warunkiem koniecznym tej pracy.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wyluzowac",
-        "polish": "wyluzować",
-        "aiStatus": "complete",
-        "translationRu": "расслабиться (разг.)",
-        "synonym": "zrelaksować się",
-        "example": "Wyluzuj, wszystko będzie dobrze.",
+        "translationRu": "ловушка",
+        "synonym": "sidła",
+        "example": "Wpadłem w pułapkę.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wystaczajaco",
-        "polish": "wystaczająco",
+        "id": "fajny",
+        "polish": "fajny",
         "aiStatus": "complete",
-        "translationRu": "достаточно (опечатка от wystarczająco)",
-        "synonym": "dosyć",
-        "example": "Nie mam wystarczająco pieniędzy.",
+        "synonym": "odlotowy/bombowy",
+        "translationRu": "классный, клёвый",
+        "example": "To był fajny film.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "miejsce-docelowe",
-        "polish": "miejsce docelowe",
+        "id": "wsciekly",
+        "polish": "wściekły",
         "aiStatus": "complete",
-        "translationRu": "место назначения",
-        "synonym": "cel podróży",
-        "example": "Nasze miejsce docelowe to Kraków.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zmarznac-2",
-        "polish": "zmarznąć",
-        "aiStatus": "complete",
-        "translationRu": "замёрзнуть",
-        "synonym": "odczuwać mróz",
-        "example": "Chyba bardzo zmarzliście!",
+        "synonym": "zdenerwowana",
+        "example": "Jestem wściekły, bo znowu się spóźniłeś",
+        "translationRu": "разъярённый, взбешённый",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "ewentualnie",
-        "polish": "ewentualnie",
+        "id": "pamiatka",
+        "polish": "pamiątka",
         "aiStatus": "complete",
-        "synonym": "w razie potrzeby/ w ostateczności/ alternatywnie",
-        "translationRu": "возможно, в крайнем случае",
-        "example": "Ewentualnie możemy przełożyć spotkanie.",
+        "translationRu": "сувенир, память (на память)",
+        "synonym": "upominek",
+        "example": "Kupiłem pamiątkę z Krakowa.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "dotrzec-2",
+        "polish": "dotrzeć",
+        "aiStatus": "complete",
+        "translationRu": "добраться",
+        "synonym": "dojechać",
+        "example": "Trudno tam dotrzeć bez samochodu.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wodor",
-        "polish": "wodór",
+        "id": "mlody-mlodzi",
+        "polish": "młody - młodzi",
         "aiStatus": "complete",
-        "translationRu": "водород",
-        "example": "Wodór jest najlżejszym pierwiastkiem.",
+        "translationRu": "молодой — молодые (мужчины-лица, мн.)",
+        "example": "Młodzi ludzie często podróżują sami.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "rolnictwo",
+        "polish": "rolnictwo",
+        "aiStatus": "complete",
+        "translationRu": "сельское хозяйство",
+        "synonym": "gospodarka rolna",
+        "example": "Rolnictwo jest ważną branżą tego regionu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "przytulne",
+        "polish": "przytulne",
+        "aiStatus": "complete",
+        "translationRu": "уютные",
+        "synonym": "kameralne",
+        "example": "Mają małe, ale przytulne mieszkanie.",
         "firstSeenAt": "2026-07-17"
       }
     ],
