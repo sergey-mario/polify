@@ -1,97 +1,96 @@
 {
-  "generatedAt": "2026-07-29T06:27:59.323Z",
+  "generatedAt": "2026-07-30T06:24:00.917Z",
   "dailyPractice": {
-    "date": "2026-07-29",
+    "date": "2026-07-30",
     "words": [
       {
-        "id": "lzy-lza",
-        "polish": "łzy / łza",
+        "id": "narzedzie-2",
+        "polish": "narzędzie",
         "aiStatus": "complete",
-        "example": "Miała łzy w oczach",
-        "translationRu": "слёзы / слеза",
-        "synonym": "płacz",
+        "synonym": "sprzęt",
+        "example": "Mieć szopę z narzędziami za domem",
+        "translationRu": "инструмент",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wystepy-publiczne",
-        "polish": "występy publiczne",
+        "id": "w-koszyku",
+        "polish": "w koszyku",
         "aiStatus": "complete",
-        "translationRu": "публичные выступления",
-        "synonym": "przemówienia publiczne",
-        "example": "Boi się występów publicznych.",
+        "translationRu": "в корзине (продуктовой)",
+        "synonym": "w koszu",
+        "example": "W koszyku miała świeże warzywa.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "rezerwat",
-        "polish": "rezerwat",
+        "id": "przerazony",
+        "polish": "przerażony",
         "aiStatus": "complete",
-        "translationRu": "заповедник",
-        "synonym": "obszar chroniony",
-        "example": "W rezerwacie żyją rzadkie gatunki zwierząt.",
+        "synonym": "zszokowany",
+        "example": "Być przerażony wiadomością",
+        "translationRu": "испуганный, в ужасе",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "on-nie-mogl",
+        "polish": "on - nie mógł",
+        "aiStatus": "complete",
+        "translationRu": "он не мог",
+        "example": "On nie mógł tego zrozumieć.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "na-biezaco",
-        "polish": "na bieżąco",
+        "id": "na-czas-2",
+        "polish": "na czas",
         "aiStatus": "complete",
-        "translationRu": "в курсе (текущих дел)",
-        "synonym": "regularnie",
-        "example": "Jestem na bieżąco z wiadomościami.",
+        "translationRu": "вовремя",
+        "synonym": "punktualnie",
+        "example": "Przyszedłem na czas.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "sfrustrowany",
-        "polish": "sfrustrowany",
+        "id": "nasi",
+        "polish": "nasi",
         "aiStatus": "complete",
-        "synonym": "rozczarowany",
-        "example": "Jestem sfrustrowana tą sytuacją",
-        "translationRu": "разочарованный, фрустрированный",
+        "translationRu": "наши (мужчины-лица, мн.)",
+        "synonym": "swoi",
+        "example": "Nasi wygrali dzisiaj mecz.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "bochater",
-        "polish": "bochater",
-        "aiStatus": "partial",
-        "translationRu": "герой (опечатка от bohater)",
-        "synonym": "postać główna",
-        "example": "Był prawdziwym bohaterem tamtej wojny.",
+        "id": "kozacka-kozacki",
+        "polish": "kozacka/ kozacki",
+        "aiStatus": "complete",
+        "translationRu": "крутой, классный (разг.); казацкий",
+        "synonym": "super, świetny",
+        "example": "To była kozacka impreza!",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wracac",
-        "polish": "wracać",
+        "id": "przytyla-kilka-kilo",
+        "polish": "Przytyła kilka kilo",
         "aiStatus": "complete",
-        "translationRu": "возвращаться",
-        "synonym": "powracać",
-        "example": "Wracam do domu o szóstej.",
+        "translationRu": "Она поправилась на несколько кило",
+        "synonym": "Utyła kilka kilo",
+        "example": "Po świętach przytyła kilka kilo.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zbyt-wysokie-wymagania",
+        "polish": "zbyt wysokie wymagania",
+        "aiStatus": "complete",
+        "synonym": "warunki, standardy",
+        "example": "praca ma wysokie wymagania",
+        "translationRu": "слишком высокие требования",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "bliski",
+        "polish": "bliski",
+        "aiStatus": "complete",
+        "synonym": "najbliższy",
+        "translationRu": "близкий",
+        "example": "To mój bliski przyjaciel.",
         "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "nieprzydzielona",
-        "polish": "nieprzydzielona",
-        "aiStatus": "complete",
-        "translationRu": "невыделенная",
-        "synonym": "niewyznaczona",
-        "example": "Ta sala jest nieprzydzielona żadnej grupie.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wyslac",
-        "polish": "wysłać",
-        "aiStatus": "complete",
-        "translationRu": "отправить",
-        "synonym": "przesłać",
-        "example": "Wysłałem list wczoraj.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "produktywny",
-        "polish": "produktywny",
-        "aiStatus": "complete",
-        "translationRu": "продуктивный",
-        "synonym": "wydajny",
-        "example": "Mam dziś produktywny dzień.",
-        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
