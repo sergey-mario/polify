@@ -1,96 +1,96 @@
 {
-  "generatedAt": "2026-07-31T06:40:48.051Z",
+  "generatedAt": "2026-08-01T06:25:23.314Z",
   "dailyPractice": {
-    "date": "2026-07-31",
+    "date": "2026-08-01",
     "words": [
       {
-        "id": "we-wloszech",
-        "polish": "we Włoszech",
+        "id": "wstydzic-sie",
+        "polish": "wstydzić się",
         "aiStatus": "complete",
-        "translationRu": "в Италии",
-        "synonym": "na terenie Włoch",
-        "example": "Spędziłem wakacje we Włoszech.",
+        "synonym": "czuć wstyd",
+        "example": "jak bardzo się za niego wstydzi",
+        "translationRu": "стыдиться",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wbrew-przewidywaniom",
-        "polish": "wbrew przewidywaniom",
+        "id": "ksiega-opinii",
+        "polish": "księga opinii",
         "aiStatus": "complete",
-        "translationRu": "вопреки предсказаниям",
-        "synonym": "wbrew oczekiwaniom",
-        "example": "Wbrew przewidywaniom, pogoda była piękna.",
+        "translationRu": "книга отзывов",
+        "synonym": "księga gości",
+        "example": "Klienci mogą wpisać się do księgi opinii.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "przyzwaczejenie",
-        "polish": "przyzwaczejenie",
-        "aiStatus": "partial",
-        "translationRu": "привычка (опечатка от przyzwyczajenie)",
-        "synonym": "nawyk",
-        "example": "Palenie to zły nawyk, trudno się go pozbyć.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "prawie",
-        "polish": "prawie",
+        "id": "zasada",
+        "polish": "zasada",
         "aiStatus": "complete",
-        "translationRu": "почти",
-        "synonym": "niemal",
-        "example": "Prawie zapomniałem.",
+        "translationRu": "правило, принцип",
+        "synonym": "reguła",
+        "example": "To podstawowa zasada.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "chorowac",
-        "polish": "chorować",
+        "id": "pustkowie-2",
+        "polish": "pustkowie",
         "aiStatus": "complete",
-        "translationRu": "болеть",
-        "synonym": "być chorym",
-        "example": "Często choruję zimą.",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "пустошь, безлюдная местность",
+        "synonym": "odludzie",
+        "example": "Zostawili samochód na pustkowiu.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "stereotyp",
-        "polish": "stereotyp",
+        "id": "jechac-jezdzic",
+        "polish": "jechać / jeżdzić",
         "aiStatus": "complete",
-        "translationRu": "стереотип",
-        "synonym": "uprzedzenie",
-        "example": "To tylko stereotyp.",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "ехать / ездить",
+        "synonym": "podróżować",
+        "example": "Codziennie jeżdżę do pracy samochodem.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "spedzilbym",
-        "polish": "spędziłbym",
+        "id": "wyzywac-kogos",
+        "polish": "wyzywać kogoś",
         "aiStatus": "complete",
-        "translationRu": "я бы провёл (время) — условное наклонение",
-        "synonym": "poświęciłbym czas",
-        "example": "Spędziłbym cały dzień na czytaniu książek.",
-        "firstSeenAt": "2026-05-02"
+        "synonym": "Nie wyzywaj mnie!",
+        "translationRu": "оскорблять кого-то, обзывать",
+        "example": "Nie wolno wyzywać innych ludzi.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zakazane",
-        "polish": "zakazane",
+        "id": "zakupy-impulsywne",
+        "polish": "zakupy impulsywne",
         "aiStatus": "complete",
-        "translationRu": "запрещено, запрещённое",
-        "synonym": "zabronione",
-        "example": "Palenie w tym miejscu jest zakazane.",
+        "translationRu": "импульсивные покупки",
+        "synonym": "nieprzemyślane zakupy",
+        "example": "Zakupy impulsywne często prowadzą do niepotrzebnych wydatków.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "nastolatki-nastoletek",
-        "polish": "nastolatki- nastoletek",
-        "aiStatus": "partial",
-        "translationRu": "подростки (опечатка от nastolatek)",
-        "synonym": "młodzież",
-        "example": "Nastolatki spędzają dużo czasu w internecie.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wapic-sie",
-        "polish": "wąpić się",
+        "id": "oprawca",
+        "polish": "oprawca",
         "aiStatus": "complete",
-        "synonym": "nie dowierzać, nie ufać, być sceptycznym",
-        "translationRu": "сомневаться (опечатка от wątpić)",
-        "example": "Zaczynam się wątpić, czy to dobry plan.",
+        "translationRu": "мучитель, истязатель",
+        "synonym": "kat",
+        "example": "Ofiara rozpoznała swojego oprawcę.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "obserwowac",
+        "polish": "obserwować",
+        "aiStatus": "complete",
+        "translationRu": "наблюдать",
+        "synonym": "śledzić",
+        "example": "Obserwuję ptaki w parku.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "przystawki",
+        "polish": "przystawki",
+        "aiStatus": "complete",
+        "translationRu": "закуски",
+        "synonym": "zakąski",
+        "example": "Zamówiliśmy kilka przystawek na początek.",
         "firstSeenAt": "2026-07-17"
       }
     ],
