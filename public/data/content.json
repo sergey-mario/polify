@@ -1,97 +1,97 @@
 {
-  "generatedAt": "2026-08-01T06:25:23.314Z",
+  "generatedAt": "2026-08-02T06:29:40.400Z",
   "dailyPractice": {
-    "date": "2026-08-01",
+    "date": "2026-08-02",
     "words": [
       {
-        "id": "wstydzic-sie",
-        "polish": "wstydzić się",
+        "id": "syf",
+        "polish": "syf",
         "aiStatus": "complete",
-        "synonym": "czuć wstyd",
-        "example": "jak bardzo się za niego wstydzi",
-        "translationRu": "стыдиться",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "ksiega-opinii",
-        "polish": "księga opinii",
-        "aiStatus": "complete",
-        "translationRu": "книга отзывов",
-        "synonym": "księga gości",
-        "example": "Klienci mogą wpisać się do księgi opinii.",
+        "translationRu": "грязь, бардак (сленг)",
+        "synonym": "bałagan",
+        "example": "W jego pokoju jest zawsze syf.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zasada",
-        "polish": "zasada",
+        "id": "zachwyt",
+        "polish": "zachwyt",
         "aiStatus": "complete",
-        "translationRu": "правило, принцип",
-        "synonym": "reguła",
-        "example": "To podstawowa zasada.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "pustkowie-2",
-        "polish": "pustkowie",
-        "aiStatus": "complete",
-        "translationRu": "пустошь, безлюдная местность",
-        "synonym": "odludzie",
-        "example": "Zostawili samochód na pustkowiu.",
+        "translationRu": "восхищение",
+        "synonym": "podziw",
+        "example": "Wystawa wzbudziła powszechny zachwyt.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "jechac-jezdzic",
-        "polish": "jechać / jeżdzić",
+        "id": "narzedzie",
+        "polish": "narzędzie",
         "aiStatus": "complete",
-        "translationRu": "ехать / ездить",
-        "synonym": "podróżować",
-        "example": "Codziennie jeżdżę do pracy samochodem.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wyzywac-kogos",
-        "polish": "wyzywać kogoś",
-        "aiStatus": "complete",
-        "synonym": "Nie wyzywaj mnie!",
-        "translationRu": "оскорблять кого-то, обзывать",
-        "example": "Nie wolno wyzywać innych ludzi.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zakupy-impulsywne",
-        "polish": "zakupy impulsywne",
-        "aiStatus": "complete",
-        "translationRu": "импульсивные покупки",
-        "synonym": "nieprzemyślane zakupy",
-        "example": "Zakupy impulsywne często prowadzą do niepotrzebnych wydatków.",
+        "translationRu": "инструмент",
+        "synonym": "przyrząd",
+        "example": "Młotek to przydatne narzędzie.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "oprawca",
-        "polish": "oprawca",
-        "aiStatus": "complete",
-        "translationRu": "мучитель, истязатель",
-        "synonym": "kat",
-        "example": "Ofiara rozpoznała swojego oprawcę.",
+        "id": "ksztalt",
+        "polish": "ksztalt",
+        "aiStatus": "partial",
+        "translationRu": "форма (опечатка от kształt)",
+        "synonym": "forma",
+        "example": "Ten stół ma nietypowy kształt.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "obserwowac",
-        "polish": "obserwować",
+        "id": "zirytowany",
+        "polish": "zirytowany",
         "aiStatus": "complete",
-        "translationRu": "наблюдать",
-        "synonym": "śledzić",
-        "example": "Obserwuję ptaki w parku.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "przystawki",
-        "polish": "przystawki",
-        "aiStatus": "complete",
-        "translationRu": "закуски",
-        "synonym": "zakąski",
-        "example": "Zamówiliśmy kilka przystawek na początek.",
+        "synonym": "zirytowany człowiek/ niezadowolony",
+        "translationRu": "раздражённый",
+        "example": "Był zirytowany hałasem.",
         "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "wygodniej",
+        "polish": "wygodniej",
+        "aiStatus": "complete",
+        "translationRu": "удобнее",
+        "synonym": "przyjemniej",
+        "example": "Tak będzie nam wygodniej.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wracac-sie",
+        "polish": "wracać się",
+        "aiStatus": "partial",
+        "translationRu": "возвращаться (нестанд.; обычно 'wracać')",
+        "synonym": "wracać",
+        "example": "Nie mogę się już wracać do przeszłości.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "ukryta",
+        "polish": "ukryta",
+        "aiStatus": "complete",
+        "translationRu": "скрытая, спрятанная",
+        "synonym": "schowana",
+        "example": "Kamera była ukryta za obrazem.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "po-koncercie-koncert",
+        "polish": "po koncercie (koncert)",
+        "aiStatus": "complete",
+        "translationRu": "после концерта (концерт)",
+        "synonym": "po występie",
+        "example": "Po koncercie poszliśmy na kolację.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "harmonogram",
+        "polish": "harmonogram",
+        "aiStatus": "complete",
+        "translationRu": "расписание, график",
+        "synonym": "plan",
+        "example": "Mam napięty harmonogram.",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
