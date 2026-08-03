@@ -1,96 +1,96 @@
 {
-  "generatedAt": "2026-08-02T06:29:40.400Z",
+  "generatedAt": "2026-08-03T06:56:13.333Z",
   "dailyPractice": {
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "words": [
       {
-        "id": "syf",
-        "polish": "syf",
+        "id": "bez-konca",
+        "polish": "bez końca",
         "aiStatus": "complete",
-        "translationRu": "грязь, бардак (сленг)",
-        "synonym": "bałagan",
-        "example": "W jego pokoju jest zawsze syf.",
+        "synonym": "bez przerwy",
+        "translationRu": "без конца, бесконечно",
+        "example": "Mówił bez końca.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zachwyt",
-        "polish": "zachwyt",
+        "id": "wyswietlenie",
+        "polish": "wyświetlenie",
         "aiStatus": "complete",
-        "translationRu": "восхищение",
-        "synonym": "podziw",
-        "example": "Wystawa wzbudziła powszechny zachwyt.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "narzedzie",
-        "polish": "narzędzie",
-        "aiStatus": "complete",
-        "translationRu": "инструмент",
-        "synonym": "przyrząd",
-        "example": "Młotek to przydatne narzędzie.",
+        "translationRu": "просмотр, отображение",
+        "synonym": "odsłona",
+        "example": "Film ma milion wyświetleń.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "ksztalt",
-        "polish": "ksztalt",
+        "id": "czynnik-4",
+        "polish": "czynnik",
+        "aiStatus": "complete",
+        "translationRu": "фактор",
+        "synonym": "element",
+        "example": "To ważny czynnik sukcesu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "pobierac-pobrac",
+        "polish": "pobierać / pobrać",
+        "aiStatus": "complete",
+        "translationRu": "скачивать / скачать; получать / получить",
+        "synonym": "ściągać / ściągnąć",
+        "example": "Pobrałem aplikację z internetu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wszedzie",
+        "polish": "wszędzie",
+        "aiStatus": "complete",
+        "translationRu": "везде, всюду",
+        "synonym": "na każdym kroku",
+        "example": "Szukałem cię wszędzie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "skojarzenie",
+        "polish": "skojarzenie",
+        "aiStatus": "complete",
+        "translationRu": "ассоциация (мысленная)",
+        "synonym": "powiązanie",
+        "example": "Co ci się kojarzy ze słowem 'wakacje'? Pierwsze skojarzenie?",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "kombinowac",
+        "polish": "kombinować",
+        "aiStatus": "complete",
+        "translationRu": "комбинировать; мудрить, выкручиваться",
+        "synonym": "wymyślać sposoby",
+        "example": "Zawsze coś kombinuje, żeby zaoszczędzić pieniądze.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "warunek",
+        "polish": "warunek",
+        "aiStatus": "complete",
+        "translationRu": "условие",
+        "synonym": "wymóg",
+        "example": "Podstawowym warunkiem jest znajomość języka.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "ujawnij-sie",
+        "polish": "ujawnij się",
+        "aiStatus": "complete",
+        "synonym": "wychodzić na jaw\ndać o sobie znać",
+        "translationRu": "выдай себя, раскройся (повелит.)",
+        "example": "Jeśli wiesz coś na ten temat, ujawnij się.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zwarjowac",
+        "polish": "zwarjować",
         "aiStatus": "partial",
-        "translationRu": "форма (опечатка от kształt)",
-        "synonym": "forma",
-        "example": "Ten stół ma nietypowy kształt.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zirytowany",
-        "polish": "zirytowany",
-        "aiStatus": "complete",
-        "synonym": "zirytowany człowiek/ niezadowolony",
-        "translationRu": "раздражённый",
-        "example": "Był zirytowany hałasem.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wygodniej",
-        "polish": "wygodniej",
-        "aiStatus": "complete",
-        "translationRu": "удобнее",
-        "synonym": "przyjemniej",
-        "example": "Tak będzie nam wygodniej.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wracac-sie",
-        "polish": "wracać się",
-        "aiStatus": "partial",
-        "translationRu": "возвращаться (нестанд.; обычно 'wracać')",
-        "synonym": "wracać",
-        "example": "Nie mogę się już wracać do przeszłości.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "ukryta",
-        "polish": "ukryta",
-        "aiStatus": "complete",
-        "translationRu": "скрытая, спрятанная",
-        "synonym": "schowana",
-        "example": "Kamera była ukryta za obrazem.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "po-koncercie-koncert",
-        "polish": "po koncercie (koncert)",
-        "aiStatus": "complete",
-        "translationRu": "после концерта (концерт)",
-        "synonym": "po występie",
-        "example": "Po koncercie poszliśmy na kolację.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "harmonogram",
-        "polish": "harmonogram",
-        "aiStatus": "complete",
-        "translationRu": "расписание, график",
-        "synonym": "plan",
-        "example": "Mam napięty harmonogram.",
+        "synonym": "oszaleć/zidiocieć",
+        "translationRu": "сойти с ума (опечатка от zwariować)",
+        "example": "Chyba zwariował, skoro to zrobił.",
         "firstSeenAt": "2026-05-02"
       }
     ],
