@@ -1,97 +1,97 @@
 {
-  "generatedAt": "2026-08-03T06:56:13.333Z",
+  "generatedAt": "2026-08-04T06:24:20.174Z",
   "dailyPractice": {
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "words": [
       {
-        "id": "bez-konca",
-        "polish": "bez końca",
+        "id": "handlowac",
+        "polish": "handlować",
         "aiStatus": "complete",
-        "synonym": "bez przerwy",
-        "translationRu": "без конца, бесконечно",
-        "example": "Mówił bez końca.",
+        "translationRu": "торговать",
+        "synonym": "sprzedawać",
+        "example": "Handluje starociami na targu.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wyswietlenie",
-        "polish": "wyświetlenie",
+        "id": "porownywac-2",
+        "polish": "porównywać",
         "aiStatus": "complete",
-        "translationRu": "просмотр, отображение",
-        "synonym": "odsłona",
-        "example": "Film ma milion wyświetleń.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "czynnik-4",
-        "polish": "czynnik",
-        "aiStatus": "complete",
-        "translationRu": "фактор",
-        "synonym": "element",
-        "example": "To ważny czynnik sukcesu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "pobierac-pobrac",
-        "polish": "pobierać / pobrać",
-        "aiStatus": "complete",
-        "translationRu": "скачивать / скачать; получать / получить",
-        "synonym": "ściągać / ściągnąć",
-        "example": "Pobrałem aplikację z internetu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wszedzie",
-        "polish": "wszędzie",
-        "aiStatus": "complete",
-        "translationRu": "везде, всюду",
-        "synonym": "na każdym kroku",
-        "example": "Szukałem cię wszędzie.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "skojarzenie",
-        "polish": "skojarzenie",
-        "aiStatus": "complete",
-        "translationRu": "ассоциация (мысленная)",
-        "synonym": "powiązanie",
-        "example": "Co ci się kojarzy ze słowem 'wakacje'? Pierwsze skojarzenie?",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "kombinowac",
-        "polish": "kombinować",
-        "aiStatus": "complete",
-        "translationRu": "комбинировать; мудрить, выкручиваться",
-        "synonym": "wymyślać sposoby",
-        "example": "Zawsze coś kombinuje, żeby zaoszczędzić pieniądze.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "warunek",
-        "polish": "warunek",
-        "aiStatus": "complete",
-        "translationRu": "условие",
-        "synonym": "wymóg",
-        "example": "Podstawowym warunkiem jest znajomość języka.",
+        "translationRu": "сравнивать",
+        "synonym": "zestawiać",
+        "example": "Nie lubię porównywać się z innymi.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "ujawnij-sie",
-        "polish": "ujawnij się",
+        "id": "sztuka",
+        "polish": "sztuka",
         "aiStatus": "complete",
-        "synonym": "wychodzić na jaw\ndać o sobie znać",
-        "translationRu": "выдай себя, раскройся (повелит.)",
-        "example": "Jeśli wiesz coś na ten temat, ujawnij się.",
+        "translationRu": "искусство; пьеса; штука",
+        "synonym": "dzieło",
+        "example": "Idziemy na sztukę do teatru.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zwarjowac",
-        "polish": "zwarjować",
-        "aiStatus": "partial",
-        "synonym": "oszaleć/zidiocieć",
-        "translationRu": "сойти с ума (опечатка от zwariować)",
-        "example": "Chyba zwariował, skoro to zrobił.",
+        "id": "trafny",
+        "polish": "trafny",
+        "aiStatus": "complete",
+        "synonym": "dokładny",
+        "example": "trafne zdanie, trafna uwaga",
+        "translationRu": "меткий, точный",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "przeciwnik",
+        "polish": "przeciwnik",
+        "aiStatus": "complete",
+        "translationRu": "противник, оппонент",
+        "synonym": "oponent",
+        "example": "Miał wielu przeciwników politycznych.",
         "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "przekonanie-2",
+        "polish": "przekonanie",
+        "aiStatus": "complete",
+        "translationRu": "убеждение",
+        "synonym": "pogląd",
+        "example": "Mam głębokie przekonanie, że to jest słuszne.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "ekspozycja",
+        "polish": "ekspozycja",
+        "aiStatus": "complete",
+        "synonym": "wystawa",
+        "translationRu": "экспозиция",
+        "example": "Ekspozycja trwa do końca miesiąca.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "mgla",
+        "polish": "mgła",
+        "aiStatus": "complete",
+        "translationRu": "туман",
+        "synonym": "zamglenie",
+        "example": "Rano była gęsta mgła.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "bac-sie",
+        "polish": "bać się",
+        "aiStatus": "complete",
+        "translationRu": "бояться",
+        "synonym": "obawiać się",
+        "example": "Boję się ciemności.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "rozproszeni-po-swiecie",
+        "polish": "rozproszeni po świecie",
+        "aiStatus": "complete",
+        "translationRu": "рассеянные по миру",
+        "synonym": "rozsiani po świecie",
+        "example": "Jej krewni są rozproszeni po całym świecie.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
