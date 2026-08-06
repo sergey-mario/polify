@@ -1,94 +1,96 @@
 {
-  "generatedAt": "2026-08-05T06:24:22.553Z",
+  "generatedAt": "2026-08-06T06:26:18.509Z",
   "dailyPractice": {
-    "date": "2026-08-05",
+    "date": "2026-08-06",
     "words": [
       {
-        "id": "zastrzyk",
-        "polish": "zastrzyk",
+        "id": "wplyw-wplywac",
+        "polish": "wpływ- wpływać",
         "aiStatus": "complete",
-        "translationRu": "укол, инъекция",
-        "synonym": "iniekcja",
-        "example": "Lekarz zrobił mi zastrzyk.",
+        "translationRu": "влияние - влиять",
+        "synonym": "oddziaływać",
+        "example": "Muzyka wpływa na nasz nastrój.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zaplacic-clo",
-        "polish": "zapłacić cło",
+        "id": "satelita",
+        "polish": "satelita",
         "aiStatus": "complete",
-        "example": "Musiałem zapłacić cło za paczkę z Chin",
-        "translationRu": "заплатить пошлину",
-        "synonym": "uiścić opłatę celną",
-        "firstSeenAt": "2026-07-17"
+        "translationRu": "спутник",
+        "example": "Satelita krąży wokół Ziemi.",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "jak-upalnie",
-        "polish": "jak- upalnie",
+        "id": "wspina",
+        "polish": "wspina",
         "aiStatus": "partial",
-        "translationRu": "как - жарко (обрывок фразы)",
-        "example": "Zobacz, jak upalnie jest dzisiaj.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "sposob",
-        "polish": "sposób",
-        "aiStatus": "complete",
-        "translationRu": "способ",
-        "synonym": "metoda",
-        "example": "Znam dobry sposób na zmęczenie.",
+        "synonym": "j/p",
+        "translationRu": "взбирается (3 л. ед., от wspinać się)",
+        "example": "Ona szybko wspina się po drabinie.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zlew",
-        "polish": "zlew",
+        "id": "pilnowac",
+        "polish": "pilnować",
         "aiStatus": "complete",
-        "synonym": "zmywak",
-        "translationRu": "раковина",
-        "example": "Naczynia leżały w zlewie.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "cofnac-sie-w-czasie-2",
-        "polish": "cofnąć się w czasie",
-        "aiStatus": "complete",
-        "synonym": "przenieść się w czasie",
-        "translationRu": "вернуться во времени",
-        "example": "Gdybym mógł cofnąć się w czasie, zrobiłbym to inaczej.",
+        "translationRu": "следить, охранять, присматривать",
+        "synonym": "chronić",
+        "example": "Pilnuj dziecka, proszę.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "w-zeszlym",
-        "polish": "w zeszłym",
+        "id": "jezyk-hebrajski",
+        "polish": "język hebrajski",
+        "aiStatus": "complete",
+        "translationRu": "иврит",
+        "synonym": "hebrajski",
+        "example": "Uczy się języka hebrajskiego od roku.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "przytomnosc",
+        "polish": "przytomność",
+        "aiStatus": "complete",
+        "example": "straciła przytomność",
+        "translationRu": "сознание",
+        "synonym": "świadomość",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "bochater",
+        "polish": "bochater",
         "aiStatus": "partial",
-        "translationRu": "в прошлом (обрывок, напр. w zeszłym roku)",
-        "example": "W zeszłym roku byliśmy w Grecji.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "krewni",
-        "polish": "krewni",
-        "aiStatus": "complete",
-        "translationRu": "родственники",
-        "synonym": "rodzina",
-        "example": "Mam dużo krewnych w Polsce.",
+        "translationRu": "герой (опечатка от bohater)",
+        "synonym": "postać główna",
+        "example": "Był prawdziwym bohaterem tamtej wojny.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "ja-moglem",
-        "polish": "ja mogłem",
+        "id": "wspinac-sie-3",
+        "polish": "wspinać się",
         "aiStatus": "complete",
-        "translationRu": "я мог",
-        "example": "Ja mogłem to zrobić lepiej.",
-        "firstSeenAt": "2026-07-17"
+        "translationRu": "взбираться, карабкаться",
+        "synonym": "piąć się",
+        "example": "Wspinamy się na szczyt.",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "szopa",
-        "polish": "szopa",
+        "id": "wyzwanie-3",
+        "polish": "wyzwanie",
         "aiStatus": "complete",
-        "synonym": "schowek",
-        "example": "Trzymać rower w szopie",
-        "translationRu": "сарай",
+        "translationRu": "вызов, испытание",
+        "synonym": "trudność",
+        "example": "To dla mnie nowe wyzwanie.",
         "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "kwarantanna",
+        "polish": "kwarantanna",
+        "aiStatus": "complete",
+        "synonym": "izolacja",
+        "translationRu": "карантин",
+        "example": "Musieliśmy odbyć dwutygodniową kwarantannę.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
