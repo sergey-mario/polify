@@ -1,96 +1,95 @@
 {
-  "generatedAt": "2026-08-06T06:26:18.509Z",
+  "generatedAt": "2026-08-07T05:37:20.875Z",
   "dailyPractice": {
-    "date": "2026-08-06",
+    "date": "2026-08-07",
     "words": [
       {
-        "id": "wplyw-wplywac",
-        "polish": "wpływ- wpływać",
+        "id": "jest",
+        "polish": "jest",
+        "aiStatus": "partial",
+        "translationRu": "есть, является (3 л. ед.)",
+        "example": "On jest lekarzem.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "rusek",
+        "polish": "Rusek",
         "aiStatus": "complete",
-        "translationRu": "влияние - влиять",
-        "synonym": "oddziaływać",
-        "example": "Muzyka wpływa na nasz nastrój.",
+        "translationRu": "разговорное прозвище русского",
+        "synonym": "Ruski",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "satelita",
-        "polish": "satelita",
+        "id": "zaplacic-clo",
+        "polish": "zapłacić cło",
         "aiStatus": "complete",
-        "translationRu": "спутник",
-        "example": "Satelita krąży wokół Ziemi.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wspina",
-        "polish": "wspina",
-        "aiStatus": "partial",
-        "synonym": "j/p",
-        "translationRu": "взбирается (3 л. ед., от wspinać się)",
-        "example": "Ona szybko wspina się po drabinie.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "pilnowac",
-        "polish": "pilnować",
-        "aiStatus": "complete",
-        "translationRu": "следить, охранять, присматривать",
-        "synonym": "chronić",
-        "example": "Pilnuj dziecka, proszę.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "jezyk-hebrajski",
-        "polish": "język hebrajski",
-        "aiStatus": "complete",
-        "translationRu": "иврит",
-        "synonym": "hebrajski",
-        "example": "Uczy się języka hebrajskiego od roku.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "przytomnosc",
-        "polish": "przytomność",
-        "aiStatus": "complete",
-        "example": "straciła przytomność",
-        "translationRu": "сознание",
-        "synonym": "świadomość",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "bochater",
-        "polish": "bochater",
-        "aiStatus": "partial",
-        "translationRu": "герой (опечатка от bohater)",
-        "synonym": "postać główna",
-        "example": "Był prawdziwym bohaterem tamtej wojny.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wspinac-sie-3",
-        "polish": "wspinać się",
-        "aiStatus": "complete",
-        "translationRu": "взбираться, карабкаться",
-        "synonym": "piąć się",
-        "example": "Wspinamy się na szczyt.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wyzwanie-3",
-        "polish": "wyzwanie",
-        "aiStatus": "complete",
-        "translationRu": "вызов, испытание",
-        "synonym": "trudność",
-        "example": "To dla mnie nowe wyzwanie.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "kwarantanna",
-        "polish": "kwarantanna",
-        "aiStatus": "complete",
-        "synonym": "izolacja",
-        "translationRu": "карантин",
-        "example": "Musieliśmy odbyć dwutygodniową kwarantannę.",
+        "example": "Musiałem zapłacić cło za paczkę z Chin",
+        "translationRu": "заплатить пошлину",
+        "synonym": "uiścić opłatę celną",
         "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "ciemniec",
+        "polish": "ciemnieć",
+        "aiStatus": "complete",
+        "translationRu": "темнеть",
+        "synonym": "mrocznieć",
+        "example": "Niebo zaczęło ciemnieć.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zlecenie",
+        "polish": "zlecenie",
+        "aiStatus": "complete",
+        "translationRu": "заказ, поручение",
+        "synonym": "zadanie",
+        "example": "Pracuję na zlecenie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "ekspozycja",
+        "polish": "ekspozycja",
+        "aiStatus": "complete",
+        "synonym": "wystawa",
+        "translationRu": "экспозиция",
+        "example": "Ekspozycja trwa do końca miesiąca.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "doprowadzic-do",
+        "polish": "doprowadzić do",
+        "aiStatus": "complete",
+        "translationRu": "привести к",
+        "synonym": "prowadzić do",
+        "example": "To może doprowadzić do poważnych problemów.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "odwazni",
+        "polish": "odważni",
+        "aiStatus": "complete",
+        "translationRu": "храбрые, отважные",
+        "synonym": "dzielni",
+        "example": "Tylko odważni odnoszą sukces.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "spektakularny",
+        "polish": "spektakularny",
+        "aiStatus": "complete",
+        "synonym": "przyciągający wzrok, zwracający uwagę.",
+        "translationRu": "впечатляющий, зрелищный",
+        "example": "To był spektakularny sukces.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "wymaganie",
+        "polish": "Wymaganie",
+        "aiStatus": "complete",
+        "synonym": "warunek",
+        "example": "Czytać wymaganie oferty pracy",
+        "translationRu": "требование",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
