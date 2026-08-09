@@ -1,96 +1,95 @@
 {
-  "generatedAt": "2026-08-08T04:52:21.865Z",
+  "generatedAt": "2026-08-09T05:00:34.619Z",
   "dailyPractice": {
-    "date": "2026-08-08",
+    "date": "2026-08-09",
     "words": [
       {
-        "id": "okolo-dwoch-tszech-czterech-pieciu-czternastu-dwudziestu",
-        "polish": "około dwóch/tszech/czterech/pięciu/czternastu/dwudziestu",
-        "aiStatus": "partial",
-        "translationRu": "около двух / трёх / четырёх / пяти / четырнадцати / двадцати (опечатка tszech→trzech)",
-        "synonym": "mniej więcej",
-        "example": "Poczekaj tutaj około dwóch godzin.",
+        "id": "tlumaczyc",
+        "polish": "tłumaczyć",
+        "aiStatus": "complete",
+        "translationRu": "переводить; объяснять",
+        "synonym": "wyjaśniać",
+        "example": "Tłumaczę książkę z angielskiego na polski.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "relacje-2",
-        "polish": "relacje",
+        "id": "takie-same-zdanie",
+        "polish": "takie same zdanie",
         "aiStatus": "complete",
-        "translationRu": "отношения",
-        "synonym": "stosunki",
-        "example": "Mamy dobre relacje z sąsiadami.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zezwolenie",
-        "polish": "zezwolenie",
-        "aiStatus": "complete",
-        "translationRu": "разрешение",
-        "synonym": "pozwolenie",
-        "example": "Potrzebuję zezwolenia na budowę.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zul",
-        "polish": "żul",
-        "aiStatus": "complete",
-        "translationRu": "пьяница, бомж (разг.)",
-        "synonym": "menel",
-        "example": "Pod sklepem siedział żul z butelką.",
+        "translationRu": "такое же мнение / то же предложение",
+        "synonym": "ta sama opinia",
+        "example": "Mamy takie same zdanie na ten temat.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "walczyc",
-        "polish": "walczyć",
+        "id": "wynalezc",
+        "polish": "wynależć",
         "aiStatus": "complete",
-        "translationRu": "бороться",
-        "synonym": "bić się",
-        "example": "Walczył o swoje prawa.",
+        "translationRu": "изобрести (опечатка от wynaleźć)",
+        "synonym": "stworzyć",
+        "example": "Kto wynalazł telefon?",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "skuteczny",
-        "polish": "skuteczny",
+        "id": "zdziwiony",
+        "polish": "zdziwiony",
         "aiStatus": "complete",
-        "synonym": "efektywny",
-        "translationRu": "эффективный, результативный",
-        "example": "To bardzo skuteczny sposób na naukę języka.",
+        "synonym": "zaskoczony",
+        "translationRu": "удивлённый",
+        "example": "Był bardzo zdziwiony jej decyzją.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "starszy-starsi",
-        "polish": "starszy - starsi",
+        "id": "otwarte-kraje",
+        "polish": "otwarte kraje",
         "aiStatus": "complete",
-        "translationRu": "старший — старшие",
-        "example": "Starsi ludzie często mają więcej cierpliwości.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "nie-dawaj-za-wygrana",
-        "polish": "nie dawaj za wygraną",
-        "aiStatus": "complete",
-        "translationRu": "не сдавайся",
-        "synonym": "nie poddawaj się",
-        "example": "Nie dawaj za wygraną, jeszcze możesz wygrać.",
+        "translationRu": "открытые страны",
+        "example": "Szwecja to jeden z bardziej otwartych krajów.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zalozyciel",
-        "polish": "założycieł",
+        "id": "wyzwanie",
+        "polish": "wyzwanie",
         "aiStatus": "complete",
-        "translationRu": "основатель (опечатка от założyciel)",
-        "synonym": "twórca",
-        "example": "Jest założycielem tej firmy.",
+        "translationRu": "вызов, испытание",
+        "synonym": "trudność",
+        "example": "To dla mnie nowe wyzwanie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "dotknac-sie",
+        "polish": "dotknąć się",
+        "aiStatus": "complete",
+        "translationRu": "коснуться (себя)",
+        "example": "Dotknąłem się w czoło, sprawdzając czy mam gorączkę.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wyemitowac",
+        "polish": "wyemitować",
+        "aiStatus": "complete",
+        "synonym": "stworzyć i wypuścić",
+        "example": "wyemitować nowe banknoty",
+        "translationRu": "выпустить в эфир, эмитировать",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "otylosc",
-        "polish": "otyłość",
+        "id": "dostac-sie",
+        "polish": "dostać się",
         "aiStatus": "complete",
-        "translationRu": "ожирение",
-        "synonym": "nadwaga",
-        "example": "Otyłość jest coraz większym problemem zdrowotnym.",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "попасть (куда-то)",
+        "synonym": "dotrzeć",
+        "example": "Trudno dostać się do centrum bez samochodu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "osiagnac-2",
+        "polish": "osiągnąc",
+        "aiStatus": "complete",
+        "translationRu": "достичь (опечатка от osiągnąć)",
+        "synonym": "zdobyć",
+        "example": "Udało mu się osiągnąć swój cel.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
