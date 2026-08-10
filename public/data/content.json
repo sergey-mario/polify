@@ -1,95 +1,97 @@
 {
-  "generatedAt": "2026-08-09T05:00:34.619Z",
+  "generatedAt": "2026-08-10T05:22:44.367Z",
   "dailyPractice": {
-    "date": "2026-08-09",
+    "date": "2026-08-10",
     "words": [
       {
-        "id": "tlumaczyc",
-        "polish": "tłumaczyć",
+        "id": "wbrew-przypuszczeniom",
+        "polish": "wbrew przypuszczeniom",
         "aiStatus": "complete",
-        "translationRu": "переводить; объяснять",
-        "synonym": "wyjaśniać",
-        "example": "Tłumaczę książkę z angielskiego na polski.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "takie-same-zdanie",
-        "polish": "takie same zdanie",
-        "aiStatus": "complete",
-        "translationRu": "такое же мнение / то же предложение",
-        "synonym": "ta sama opinia",
-        "example": "Mamy takie same zdanie na ten temat.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wynalezc",
-        "polish": "wynależć",
-        "aiStatus": "complete",
-        "translationRu": "изобрести (опечатка от wynaleźć)",
-        "synonym": "stworzyć",
-        "example": "Kto wynalazł telefon?",
+        "translationRu": "вопреки предположениям",
+        "synonym": "wbrew domysłom",
+        "example": "Wbrew przypuszczeniom, wszystko poszło dobrze.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zdziwiony",
-        "polish": "zdziwiony",
+        "id": "leniuch",
+        "polish": "leniuch",
         "aiStatus": "complete",
-        "synonym": "zaskoczony",
-        "translationRu": "удивлённый",
-        "example": "Był bardzo zdziwiony jej decyzją.",
+        "translationRu": "лентяй",
+        "synonym": "próżniak",
+        "example": "Nie bądź takim leniuchem.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "doprowadzic",
+        "polish": "doprowadzić",
+        "aiStatus": "complete",
+        "translationRu": "довести, привести",
+        "synonym": "spowodować",
+        "example": "To doprowadziło do konfliktu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "przyjac-decycje",
+        "polish": "przyjąć decycję",
+        "aiStatus": "complete",
+        "translationRu": "принять решение (опечатка от decyzję)",
+        "synonym": "podjąć decyzję",
+        "example": "Musimy przyjąć decyzję jak najszybciej.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "tlum",
+        "polish": "tłum",
+        "aiStatus": "complete",
+        "translationRu": "толпа",
+        "synonym": "mnóstwo ludzi",
+        "example": "Na placu zebrał się ogromny tłum.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "nie-nadaje-sie-ktoc-do-czegos",
+        "polish": "nie nadaję się ktoć do czegoś",
+        "aiStatus": "partial",
+        "synonym": "nie do przyjęcia, nie nadający się, nieakceptowalny",
+        "translationRu": "не гожусь для чего-то (обрывок фразы)",
+        "example": "Nie nadaję się do tej pracy.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "widok-2",
+        "polish": "widok",
+        "aiStatus": "complete",
+        "translationRu": "вид (пейзаж, на что-то)",
+        "synonym": "krajobraz",
+        "example": "Z balkonu jest piękny widok.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "otwarte-kraje",
-        "polish": "otwarte kraje",
+        "id": "miejsce-docelowe",
+        "polish": "miejsce docelowe",
         "aiStatus": "complete",
-        "translationRu": "открытые страны",
-        "example": "Szwecja to jeden z bardziej otwartych krajów.",
+        "translationRu": "место назначения",
+        "synonym": "cel podróży",
+        "example": "Nasze miejsce docelowe to Kraków.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wyzwanie",
-        "polish": "wyzwanie",
+        "id": "zapoznac-sie",
+        "polish": "zapoznać się",
         "aiStatus": "complete",
-        "translationRu": "вызов, испытание",
-        "synonym": "trudność",
-        "example": "To dla mnie nowe wyzwanie.",
+        "translationRu": "ознакомиться",
+        "synonym": "poznać",
+        "example": "Proszę zapoznać się z regulaminem.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "kac",
+        "polish": "kac",
+        "aiStatus": "complete",
+        "translationRu": "похмелье",
+        "synonym": "kociokwik",
+        "example": "Mam okropny kac.",
         "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "dotknac-sie",
-        "polish": "dotknąć się",
-        "aiStatus": "complete",
-        "translationRu": "коснуться (себя)",
-        "example": "Dotknąłem się w czoło, sprawdzając czy mam gorączkę.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wyemitowac",
-        "polish": "wyemitować",
-        "aiStatus": "complete",
-        "synonym": "stworzyć i wypuścić",
-        "example": "wyemitować nowe banknoty",
-        "translationRu": "выпустить в эфир, эмитировать",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "dostac-sie",
-        "polish": "dostać się",
-        "aiStatus": "complete",
-        "translationRu": "попасть (куда-то)",
-        "synonym": "dotrzeć",
-        "example": "Trudno dostać się do centrum bez samochodu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "osiagnac-2",
-        "polish": "osiągnąc",
-        "aiStatus": "complete",
-        "translationRu": "достичь (опечатка от osiągnąć)",
-        "synonym": "zdobyć",
-        "example": "Udało mu się osiągnąć swój cel.",
-        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
