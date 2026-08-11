@@ -1,97 +1,97 @@
 {
-  "generatedAt": "2026-08-10T05:22:44.367Z",
+  "generatedAt": "2026-08-11T05:03:53.612Z",
   "dailyPractice": {
-    "date": "2026-08-10",
+    "date": "2026-08-11",
     "words": [
       {
-        "id": "wbrew-przypuszczeniom",
-        "polish": "wbrew przypuszczeniom",
+        "id": "puchar-swiata",
+        "polish": "Puchar Świata",
         "aiStatus": "complete",
-        "translationRu": "вопреки предположениям",
-        "synonym": "wbrew domysłom",
-        "example": "Wbrew przypuszczeniom, wszystko poszło dobrze.",
+        "translationRu": "Кубок мира",
+        "synonym": "Mundial",
+        "example": "Polacy zdobyli Puchar Świata.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "co-roku",
+        "polish": "co roku",
+        "aiStatus": "complete",
+        "translationRu": "каждый год",
+        "synonym": "corocznie",
+        "example": "Co roku jeździmy nad morze.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "ja-zapomnialem",
+        "polish": "ja zapomniałem",
+        "aiStatus": "complete",
+        "translationRu": "я забыл",
+        "synonym": "wyleciało mi z głowy",
+        "example": "Ja zapomniałem parasola.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "leniuch",
-        "polish": "leniuch",
+        "id": "przeboj",
+        "polish": "przebój",
         "aiStatus": "complete",
-        "translationRu": "лентяй",
-        "synonym": "próżniak",
-        "example": "Nie bądź takim leniuchem.",
+        "synonym": "hit, bestseller",
+        "example": "przesłuchali kilkadziesiąt starych przebojów",
+        "translationRu": "хит, бестселлер",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "w-rzeczywistosci",
+        "polish": "w rzeczywistości",
+        "aiStatus": "complete",
+        "translationRu": "на самом деле",
+        "synonym": "faktycznie",
+        "example": "W rzeczywistości sytuacja jest inna.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "doprowadzic",
-        "polish": "doprowadzić",
+        "id": "przekonanie",
+        "polish": "przekonanie",
         "aiStatus": "complete",
-        "translationRu": "довести, привести",
-        "synonym": "spowodować",
-        "example": "To doprowadziło do konfliktu.",
-        "firstSeenAt": "2026-07-17"
+        "translationRu": "убеждение",
+        "synonym": "pogląd",
+        "example": "Mam głębokie przekonanie, że to jest słuszne.",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "przyjac-decycje",
-        "polish": "przyjąć decycję",
+        "id": "niezbedne",
+        "polish": "niezbędne",
         "aiStatus": "complete",
-        "translationRu": "принять решение (опечатка от decyzję)",
-        "synonym": "podjąć decyzję",
-        "example": "Musimy przyjąć decyzję jak najszybciej.",
-        "firstSeenAt": "2026-07-17"
+        "translationRu": "необходимые, незаменимые",
+        "synonym": "konieczne",
+        "example": "Woda jest niezbędna do życia.",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "tlum",
-        "polish": "tłum",
-        "aiStatus": "complete",
-        "translationRu": "толпа",
-        "synonym": "mnóstwo ludzi",
-        "example": "Na placu zebrał się ogromny tłum.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "nie-nadaje-sie-ktoc-do-czegos",
-        "polish": "nie nadaję się ktoć do czegoś",
+        "id": "bochater",
+        "polish": "bochater",
         "aiStatus": "partial",
-        "synonym": "nie do przyjęcia, nie nadający się, nieakceptowalny",
-        "translationRu": "не гожусь для чего-то (обрывок фразы)",
-        "example": "Nie nadaję się do tej pracy.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "widok-2",
-        "polish": "widok",
-        "aiStatus": "complete",
-        "translationRu": "вид (пейзаж, на что-то)",
-        "synonym": "krajobraz",
-        "example": "Z balkonu jest piękny widok.",
+        "translationRu": "герой (опечатка от bohater)",
+        "synonym": "postać główna",
+        "example": "Był prawdziwym bohaterem tamtej wojny.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "miejsce-docelowe",
-        "polish": "miejsce docelowe",
+        "id": "nawet-2",
+        "polish": "nawet",
         "aiStatus": "complete",
-        "translationRu": "место назначения",
-        "synonym": "cel podróży",
-        "example": "Nasze miejsce docelowe to Kraków.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zapoznac-sie",
-        "polish": "zapoznać się",
-        "aiStatus": "complete",
-        "translationRu": "ознакомиться",
-        "synonym": "poznać",
-        "example": "Proszę zapoznać się z regulaminem.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "kac",
-        "polish": "kac",
-        "aiStatus": "complete",
-        "translationRu": "похмелье",
-        "synonym": "kociokwik",
-        "example": "Mam okropny kac.",
+        "translationRu": "даже",
+        "synonym": "wręcz",
+        "example": "Nawet ja tego nie rozumiem.",
         "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zrodlo",
+        "polish": "zródło",
+        "aiStatus": "complete",
+        "translationRu": "источник (опечатка от źródło)",
+        "synonym": "początek",
+        "example": "To jest wiarygodne źródło informacji.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
