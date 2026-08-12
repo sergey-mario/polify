@@ -1,97 +1,97 @@
 {
-  "generatedAt": "2026-08-11T05:03:53.612Z",
+  "generatedAt": "2026-08-12T05:28:02.214Z",
   "dailyPractice": {
-    "date": "2026-08-11",
+    "date": "2026-08-12",
     "words": [
       {
-        "id": "puchar-swiata",
-        "polish": "Puchar Świata",
+        "id": "ksiega-opinii",
+        "polish": "księga opinii",
         "aiStatus": "complete",
-        "translationRu": "Кубок мира",
-        "synonym": "Mundial",
-        "example": "Polacy zdobyli Puchar Świata.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "co-roku",
-        "polish": "co roku",
-        "aiStatus": "complete",
-        "translationRu": "каждый год",
-        "synonym": "corocznie",
-        "example": "Co roku jeździmy nad morze.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "ja-zapomnialem",
-        "polish": "ja zapomniałem",
-        "aiStatus": "complete",
-        "translationRu": "я забыл",
-        "synonym": "wyleciało mi z głowy",
-        "example": "Ja zapomniałem parasola.",
+        "translationRu": "книга отзывов",
+        "synonym": "księga gości",
+        "example": "Klienci mogą wpisać się do księgi opinii.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "przeboj",
-        "polish": "przebój",
+        "id": "wariatka",
+        "polish": "wariatka",
         "aiStatus": "complete",
-        "synonym": "hit, bestseller",
-        "example": "przesłuchali kilkadziesiąt starych przebojów",
-        "translationRu": "хит, бестселлер",
+        "synonym": "szalona",
+        "example": "Ona jest wariatką",
+        "translationRu": "сумасшедшая",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "w-rzeczywistosci",
-        "polish": "w rzeczywistości",
+        "id": "komornik",
+        "polish": "komornik",
         "aiStatus": "complete",
-        "translationRu": "на самом деле",
-        "synonym": "faktycznie",
-        "example": "W rzeczywistości sytuacja jest inna.",
+        "synonym": "egzekutor sądowy",
+        "example": "Komornik przyszedł do mieszkania dłużnika",
+        "translationRu": "судебный пристав",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "dotarlo",
+        "polish": "dotarło",
+        "aiStatus": "complete",
+        "translationRu": "дошло (до меня), дошло до места",
+        "synonym": "zrozumiałem",
+        "example": "Wreszcie do mnie dotarło, o co chodzi.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "przy-ladzie",
+        "polish": "przy ladzie",
+        "aiStatus": "complete",
+        "translationRu": "у прилавка (опечатка от lada)",
+        "synonym": "przy kontuarze",
+        "example": "Stałem przy ladzie i czekałem na kawę.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "przekonanie",
-        "polish": "przekonanie",
+        "id": "statek-pasazerski",
+        "polish": "statek pasażerski",
         "aiStatus": "complete",
-        "translationRu": "убеждение",
-        "synonym": "pogląd",
-        "example": "Mam głębokie przekonanie, że to jest słuszne.",
+        "synonym": "rejsowiec",
+        "translationRu": "пассажирское судно",
+        "example": "Statek pasażerski wypłynął z portu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "od-a-do-z",
+        "polish": "od A do Z",
+        "aiStatus": "complete",
+        "translationRu": "от А до Я",
+        "synonym": "całkowicie",
+        "example": "Znam ten temat od A do Z.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zmarznac",
+        "polish": "zmarznąć",
+        "aiStatus": "complete",
+        "synonym": "odczuwać mróz",
+        "example": "Chyba bardzo zmarzliście!",
+        "translationRu": "замёрзнуть",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "niezbedne",
-        "polish": "niezbędne",
+        "id": "krewni",
+        "polish": "krewni",
         "aiStatus": "complete",
-        "translationRu": "необходимые, незаменимые",
-        "synonym": "konieczne",
-        "example": "Woda jest niezbędna do życia.",
+        "translationRu": "родственники",
+        "synonym": "rodzina",
+        "example": "Mam dużo krewnych w Polsce.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "bochater",
-        "polish": "bochater",
+        "id": "przewleka",
+        "polish": "przewleka",
         "aiStatus": "partial",
-        "translationRu": "герой (опечатка от bohater)",
-        "synonym": "postać główna",
-        "example": "Był prawdziwym bohaterem tamtej wojny.",
+        "translationRu": "затягивает (3 л. ед., от przewlekać)",
+        "synonym": "opóźnia",
+        "example": "On zawsze przewleka sprawy na później.",
         "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "nawet-2",
-        "polish": "nawet",
-        "aiStatus": "complete",
-        "translationRu": "даже",
-        "synonym": "wręcz",
-        "example": "Nawet ja tego nie rozumiem.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zrodlo",
-        "polish": "zródło",
-        "aiStatus": "complete",
-        "translationRu": "источник (опечатка от źródło)",
-        "synonym": "początek",
-        "example": "To jest wiarygodne źródło informacji.",
-        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
