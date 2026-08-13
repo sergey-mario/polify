@@ -1,96 +1,95 @@
 {
-  "generatedAt": "2026-08-12T05:28:02.214Z",
+  "generatedAt": "2026-08-13T05:37:23.589Z",
   "dailyPractice": {
-    "date": "2026-08-12",
+    "date": "2026-08-13",
     "words": [
       {
-        "id": "ksiega-opinii",
-        "polish": "księga opinii",
+        "id": "recytowac",
+        "polish": "recytować",
         "aiStatus": "complete",
-        "translationRu": "книга отзывов",
-        "synonym": "księga gości",
-        "example": "Klienci mogą wpisać się do księgi opinii.",
+        "synonym": "wygłaszać z pamięci, deklamować",
+        "example": "Dzieci recytują wiersze na konkursie",
+        "translationRu": "декламировать",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wariatka",
-        "polish": "wariatka",
+        "id": "artysci",
+        "polish": "artyści",
         "aiStatus": "complete",
-        "synonym": "szalona",
-        "example": "Ona jest wariatką",
-        "translationRu": "сумасшедшая",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "komornik",
-        "polish": "komornik",
-        "aiStatus": "complete",
-        "synonym": "egzekutor sądowy",
-        "example": "Komornik przyszedł do mieszkania dłużnika",
-        "translationRu": "судебный пристав",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "dotarlo",
-        "polish": "dotarło",
-        "aiStatus": "complete",
-        "translationRu": "дошло (до меня), дошло до места",
-        "synonym": "zrozumiałem",
-        "example": "Wreszcie do mnie dotarło, o co chodzi.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "przy-ladzie",
-        "polish": "przy ladzie",
-        "aiStatus": "complete",
-        "translationRu": "у прилавка (опечатка от lada)",
-        "synonym": "przy kontuarze",
-        "example": "Stałem przy ladzie i czekałem na kawę.",
+        "translationRu": "артисты",
+        "synonym": "twórcy",
+        "example": "Artyści zaprezentowali swoje prace.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "statek-pasazerski",
-        "polish": "statek pasażerski",
+        "id": "wplyw-wplywac",
+        "polish": "wpływ- wpływać",
         "aiStatus": "complete",
-        "synonym": "rejsowiec",
-        "translationRu": "пассажирское судно",
-        "example": "Statek pasażerski wypłynął z portu.",
+        "translationRu": "влияние - влиять",
+        "synonym": "oddziaływać",
+        "example": "Muzyka wpływa na nasz nastrój.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "od-a-do-z",
-        "polish": "od A do Z",
+        "id": "kontynent",
+        "polish": "kontynent",
         "aiStatus": "complete",
-        "translationRu": "от А до Я",
-        "synonym": "całkowicie",
-        "example": "Znam ten temat od A do Z.",
+        "translationRu": "континент",
+        "synonym": "ląd",
+        "example": "Afryka jest kontynentem.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zmarznac",
-        "polish": "zmarznąć",
+        "id": "zapiac-zapinac",
+        "polish": "zapiąć / zapinać",
         "aiStatus": "complete",
-        "synonym": "odczuwać mróz",
-        "example": "Chyba bardzo zmarzliście!",
-        "translationRu": "замёрзнуть",
+        "translationRu": "застегнуть / застёгивать",
+        "synonym": "spinać",
+        "example": "Zapnij kurtkę, jest zimno.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "krewni",
-        "polish": "krewni",
-        "aiStatus": "complete",
-        "translationRu": "родственники",
-        "synonym": "rodzina",
-        "example": "Mam dużo krewnych w Polsce.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "przewleka",
-        "polish": "przewleka",
+        "id": "wplyw-bedzie-lepszy",
+        "polish": "wpływ będzie lepszy",
         "aiStatus": "partial",
-        "translationRu": "затягивает (3 л. ед., от przewlekać)",
-        "synonym": "opóźnia",
-        "example": "On zawsze przewleka sprawy na później.",
+        "translationRu": "влияние будет лучше (обрывок фразы)",
+        "example": "Sądzę, że wpływ będzie lepszy niż oczekiwano.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "kat",
+        "polish": "kat",
+        "aiStatus": "complete",
+        "translationRu": "палач",
+        "synonym": "oprawca",
+        "example": "Kat wykonał wyrok o świcie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "pustkowie",
+        "polish": "pustkowie",
+        "aiStatus": "complete",
+        "translationRu": "пустошь, безлюдная местность",
+        "synonym": "odludzie",
+        "example": "Zostawili samochód na pustkowiu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "klasyfikacja",
+        "polish": "klasyfikacja",
+        "aiStatus": "complete",
+        "translationRu": "классификация",
+        "synonym": "kategoryzacja",
+        "example": "Klasyfikacja zwierząt jest skomplikowana.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "kierowac",
+        "polish": "kierować",
+        "aiStatus": "complete",
+        "translationRu": "управлять, направлять",
+        "synonym": "prowadzić",
+        "example": "Kieruje firmą od dziesięciu lat.",
         "firstSeenAt": "2026-05-02"
       }
     ],
