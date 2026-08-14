@@ -1,95 +1,94 @@
 {
-  "generatedAt": "2026-08-13T05:37:23.589Z",
+  "generatedAt": "2026-08-14T05:28:51.774Z",
   "dailyPractice": {
-    "date": "2026-08-13",
+    "date": "2026-08-14",
     "words": [
       {
-        "id": "recytowac",
-        "polish": "recytować",
+        "id": "wiek",
+        "polish": "wiek",
         "aiStatus": "complete",
-        "synonym": "wygłaszać z pamięci, deklamować",
-        "example": "Dzieci recytują wiersze na konkursie",
-        "translationRu": "декламировать",
+        "translationRu": "возраст, век",
+        "synonym": "epoka",
+        "example": "Jaki jest twój wiek?",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "artysci",
-        "polish": "artyści",
+        "id": "mamy-wiele-wspolnego",
+        "polish": "mamy wiele wspólnego",
         "aiStatus": "complete",
-        "translationRu": "артисты",
-        "synonym": "twórcy",
-        "example": "Artyści zaprezentowali swoje prace.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wplyw-wplywac",
-        "polish": "wpływ- wpływać",
-        "aiStatus": "complete",
-        "translationRu": "влияние - влиять",
-        "synonym": "oddziaływać",
-        "example": "Muzyka wpływa na nasz nastrój.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "kontynent",
-        "polish": "kontynent",
-        "aiStatus": "complete",
-        "translationRu": "континент",
-        "synonym": "ląd",
-        "example": "Afryka jest kontynentem.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zapiac-zapinac",
-        "polish": "zapiąć / zapinać",
-        "aiStatus": "complete",
-        "translationRu": "застегнуть / застёгивать",
-        "synonym": "spinać",
-        "example": "Zapnij kurtkę, jest zimno.",
+        "translationRu": "у нас много общего",
+        "synonym": "jesteśmy do siebie podobni",
+        "example": "Mamy wiele wspólnego, dlatego dobrze się dogadujemy.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wplyw-bedzie-lepszy",
-        "polish": "wpływ będzie lepszy",
-        "aiStatus": "partial",
-        "translationRu": "влияние будет лучше (обрывок фразы)",
-        "example": "Sądzę, że wpływ będzie lepszy niż oczekiwano.",
+        "id": "bez-watpienia",
+        "polish": "bez wątpienia",
+        "aiStatus": "complete",
+        "synonym": "niechybnie,; niepodważalnie,; niewątpliwie",
+        "translationRu": "без сомнения",
+        "example": "To bez wątpienia najlepsza restauracja w mieście.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "kat",
-        "polish": "kat",
+        "id": "dotykac-dotknac",
+        "polish": "dotykać/ dotknąć",
         "aiStatus": "complete",
-        "translationRu": "палач",
-        "synonym": "oprawca",
-        "example": "Kat wykonał wyrok o świcie.",
+        "translationRu": "трогать / тронуть, касаться / коснуться",
+        "synonym": "muskać / musnąć",
+        "example": "Nie dotykaj eksponatów w muzeum.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "pustkowie",
-        "polish": "pustkowie",
+        "id": "zaladowac",
+        "polish": "załadować",
         "aiStatus": "complete",
-        "translationRu": "пустошь, безлюдная местность",
-        "synonym": "odludzie",
-        "example": "Zostawili samochód na pustkowiu.",
+        "synonym": "wpakować",
+        "translationRu": "загрузить",
+        "example": "Muszę załadować bagaż do samochodu.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "klasyfikacja",
-        "polish": "klasyfikacja",
+        "id": "na-dachu",
+        "polish": "na dachu",
         "aiStatus": "complete",
-        "translationRu": "классификация",
-        "synonym": "kategoryzacja",
-        "example": "Klasyfikacja zwierząt jest skomplikowana.",
+        "translationRu": "на крыше",
+        "example": "Kot siedzi na dachu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "widok-2",
+        "polish": "widok",
+        "aiStatus": "complete",
+        "translationRu": "вид (пейзаж, на что-то)",
+        "synonym": "krajobraz",
+        "example": "Z balkonu jest piękny widok.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "schudnac",
+        "polish": "schudnąć",
+        "aiStatus": "complete",
+        "translationRu": "похудеть",
+        "synonym": "zrzucić wagę",
+        "example": "Chcę schudnąć pięć kilo.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "rusek",
+        "polish": "Rusek",
+        "aiStatus": "complete",
+        "translationRu": "разговорное прозвище русского",
+        "synonym": "Ruski",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "kierowac",
-        "polish": "kierować",
+        "id": "wyzwanie-2",
+        "polish": "wyzwanie",
         "aiStatus": "complete",
-        "translationRu": "управлять, направлять",
-        "synonym": "prowadzić",
-        "example": "Kieruje firmą od dziesięciu lat.",
+        "translationRu": "вызов, испытание",
+        "synonym": "trudność",
+        "example": "To dla mnie nowe wyzwanie.",
         "firstSeenAt": "2026-05-02"
       }
     ],
