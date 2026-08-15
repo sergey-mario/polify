@@ -1,94 +1,96 @@
 {
-  "generatedAt": "2026-08-14T05:28:51.774Z",
+  "generatedAt": "2026-08-15T04:25:33.943Z",
   "dailyPractice": {
-    "date": "2026-08-14",
+    "date": "2026-08-15",
     "words": [
       {
-        "id": "wiek",
-        "polish": "wiek",
+        "id": "oni-byli-zaskoczeni",
+        "polish": "oni byli zaskoczeni",
         "aiStatus": "complete",
-        "translationRu": "возраст, век",
-        "synonym": "epoka",
-        "example": "Jaki jest twój wiek?",
+        "translationRu": "они были удивлены",
+        "synonym": "byli zdziwieni",
+        "example": "Oni byli zaskoczeni wynikiem meczu.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "mamy-wiele-wspolnego",
-        "polish": "mamy wiele wspólnego",
+        "id": "kombinowac",
+        "polish": "kombinować",
         "aiStatus": "complete",
-        "translationRu": "у нас много общего",
-        "synonym": "jesteśmy do siebie podobni",
-        "example": "Mamy wiele wspólnego, dlatego dobrze się dogadujemy.",
+        "translationRu": "комбинировать; мудрить, выкручиваться",
+        "synonym": "wymyślać sposoby",
+        "example": "Zawsze coś kombinuje, żeby zaoszczędzić pieniądze.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "bez-watpienia",
-        "polish": "bez wątpienia",
+        "id": "przewlekla-choroba",
+        "polish": "przewlekła choroba",
         "aiStatus": "complete",
-        "synonym": "niechybnie,; niepodważalnie,; niewątpliwie",
-        "translationRu": "без сомнения",
-        "example": "To bez wątpienia najlepsza restauracja w mieście.",
+        "translationRu": "хроническая болезнь",
+        "synonym": "choroba chroniczna",
+        "example": "Cukrzyca jest przewlekłą chorobą.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "dotykac-dotknac",
-        "polish": "dotykać/ dotknąć",
+        "id": "dostac-sie",
+        "polish": "dostać się",
         "aiStatus": "complete",
-        "translationRu": "трогать / тронуть, касаться / коснуться",
-        "synonym": "muskać / musnąć",
-        "example": "Nie dotykaj eksponatów w muzeum.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zaladowac",
-        "polish": "załadować",
-        "aiStatus": "complete",
-        "synonym": "wpakować",
-        "translationRu": "загрузить",
-        "example": "Muszę załadować bagaż do samochodu.",
+        "translationRu": "попасть (куда-то)",
+        "synonym": "dotrzeć",
+        "example": "Trudno dostać się do centrum bez samochodu.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "na-dachu",
-        "polish": "na dachu",
+        "id": "rasa",
+        "polish": "rasa",
         "aiStatus": "complete",
-        "translationRu": "на крыше",
-        "example": "Kot siedzi na dachu.",
+        "translationRu": "раса; порода (животных)",
+        "synonym": "gatunek",
+        "example": "Jaka to jest rasa psa?",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "widok-2",
-        "polish": "widok",
+        "id": "tlum",
+        "polish": "tłum",
         "aiStatus": "complete",
-        "translationRu": "вид (пейзаж, на что-то)",
-        "synonym": "krajobraz",
-        "example": "Z balkonu jest piękny widok.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "schudnac",
-        "polish": "schudnąć",
-        "aiStatus": "complete",
-        "translationRu": "похудеть",
-        "synonym": "zrzucić wagę",
-        "example": "Chcę schudnąć pięć kilo.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "rusek",
-        "polish": "Rusek",
-        "aiStatus": "complete",
-        "translationRu": "разговорное прозвище русского",
-        "synonym": "Ruski",
+        "translationRu": "толпа",
+        "synonym": "mnóstwo ludzi",
+        "example": "Na placu zebrał się ogromny tłum.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wyzwanie-2",
-        "polish": "wyzwanie",
+        "id": "przystosowanie",
+        "polish": "przystosowanie",
         "aiStatus": "complete",
-        "translationRu": "вызов, испытание",
-        "synonym": "trudność",
-        "example": "To dla mnie nowe wyzwanie.",
+        "translationRu": "приспособление",
+        "synonym": "adaptacja",
+        "example": "Przystosowanie do nowej kultury zajęło mi rok.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "nawet",
+        "polish": "nawet",
+        "aiStatus": "complete",
+        "translationRu": "даже",
+        "synonym": "wręcz",
+        "example": "Nawet ja tego nie rozumiem.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zasada",
+        "polish": "zasada",
+        "aiStatus": "complete",
+        "translationRu": "правило, принцип",
+        "synonym": "reguła",
+        "example": "To podstawowa zasada.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wizjer",
+        "polish": "wizjer",
+        "aiStatus": "complete",
+        "example": "Spojrzałem przez wizjer (Дверной глазок)",
+        "translationRu": "глазок (в двери)",
+        "synonym": "judasz",
         "firstSeenAt": "2026-05-02"
       }
     ],
