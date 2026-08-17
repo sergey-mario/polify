@@ -1,96 +1,95 @@
 {
-  "generatedAt": "2026-08-16T04:31:40.455Z",
+  "generatedAt": "2026-08-17T04:37:21.825Z",
   "dailyPractice": {
-    "date": "2026-08-16",
+    "date": "2026-08-17",
     "words": [
       {
-        "id": "produktywny",
-        "polish": "produktywny",
-        "aiStatus": "complete",
-        "translationRu": "продуктивный",
-        "synonym": "wydajny",
-        "example": "Mam dziś produktywny dzień.",
+        "id": "lot-z",
+        "polish": "lot z",
+        "aiStatus": "partial",
+        "translationRu": "рейс из (фрагмент)",
+        "example": "Lot z Warszawy do Londynu trwa dwie godziny.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "sprawic-wrazenie",
-        "polish": "sprawić wrażenie",
+        "id": "wystaczajaco",
+        "polish": "wystaczająco",
         "aiStatus": "complete",
-        "translationRu": "произвести впечатление",
-        "synonym": "zaimponować",
-        "example": "Sprawił na mnie dobre wrażenie.",
+        "translationRu": "достаточно (опечатка от wystarczająco)",
+        "synonym": "dosyć",
+        "example": "Nie mam wystarczająco pieniędzy.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "trudnie",
+        "polish": "trudnie",
+        "aiStatus": "partial",
+        "synonym": "jak?",
+        "translationRu": "трудно (опечатка/нестанд., правильно 'trudno')",
+        "example": "Trudno mi to teraz wytłumaczyć.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wybrzeze",
-        "polish": "wybrzeże",
+        "id": "wszystko-na-nic",
+        "polish": "Wszystko na nic",
         "aiStatus": "complete",
-        "translationRu": "побережье",
-        "synonym": "brzeg morski",
-        "example": "Spędziliśmy urlop na wybrzeżu Bałtyku.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "w-tej-porze",
-        "polish": "w tej porze",
-        "aiStatus": "complete",
-        "translationRu": "в это время (года)",
-        "synonym": "w tym okresie",
-        "example": "W tej porze roku jest bardzo ciepło.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "brzmiec",
-        "polish": "brzmieć",
-        "aiStatus": "complete",
-        "synonym": "to brzmi dziwnie",
-        "translationRu": "звучать",
-        "example": "To brzmi dobrze.",
+        "synonym": "bez efektu",
+        "translationRu": "Всё впустую, всё зря",
+        "example": "Ćwiczyłem cały miesiąc, ale wszystko na nic — i tak przegrałem.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wstydzic-sie",
-        "polish": "wstydzić się",
+        "id": "dyspozycja",
+        "polish": "dyspozycja",
         "aiStatus": "complete",
-        "synonym": "czuć wstyd",
-        "example": "jak bardzo się za niego wstydzi",
-        "translationRu": "стыдиться",
+        "example": "Masz do dyspozycji trzy pokoje",
+        "translationRu": "распоряжение, диспозиция",
+        "synonym": "polecenie",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "walczyc",
-        "polish": "walczyć",
+        "id": "odwazni",
+        "polish": "odważni",
         "aiStatus": "complete",
-        "translationRu": "бороться",
-        "synonym": "bić się",
-        "example": "Walczył o swoje prawa.",
+        "translationRu": "храбрые, отважные",
+        "synonym": "dzielni",
+        "example": "Tylko odważni odnoszą sukces.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "klopsik-klopsiki",
+        "polish": "klopsik/ klopsiki",
+        "aiStatus": "complete",
+        "translationRu": "фрикаделька / фрикадельки",
+        "synonym": "kotlet mielony",
+        "example": "Mama zrobiła klopsiki w sosie pomidorowym.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "uzyteczny",
+        "polish": "użyteczny",
+        "aiStatus": "complete",
+        "translationRu": "полезный",
+        "synonym": "przydatny",
+        "example": "To bardzo użyteczne narzędzie.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "relacje-2",
-        "polish": "relacje",
+        "id": "dziedzina",
+        "polish": "dziedzina",
         "aiStatus": "complete",
-        "translationRu": "отношения",
-        "synonym": "stosunki",
-        "example": "Mamy dobre relacje z sąsiadami.",
-        "firstSeenAt": "2026-07-17"
+        "synonym": "branża, sfera, zakres",
+        "example": "Pracować w dziedzinie marketingu",
+        "translationRu": "область, сфера (деятельности)",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "bez-watpienia",
-        "polish": "bez wątpienia",
+        "id": "pilnie",
+        "polish": "pilnie",
         "aiStatus": "complete",
-        "synonym": "niechybnie,; niepodważalnie,; niewątpliwie",
-        "translationRu": "без сомнения",
-        "example": "To bez wątpienia najlepsza restauracja w mieście.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "dotyk",
-        "polish": "dotyk",
-        "aiStatus": "complete",
-        "synonym": "kontakt, dotknięcie",
-        "example": "Dotyk jest bardzo ważny dla człowieka",
-        "translationRu": "прикосновение, осязание",
+        "translationRu": "срочно; прилежно",
+        "synonym": "natychmiast",
+        "example": "Pilnie potrzebuję pomocy.",
         "firstSeenAt": "2026-05-02"
       }
     ],
