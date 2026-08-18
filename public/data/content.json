@@ -1,95 +1,94 @@
 {
-  "generatedAt": "2026-08-17T04:37:21.825Z",
+  "generatedAt": "2026-08-18T04:31:20.003Z",
   "dailyPractice": {
-    "date": "2026-08-17",
+    "date": "2026-08-18",
     "words": [
       {
-        "id": "lot-z",
-        "polish": "lot z",
+        "id": "watpic-sie",
+        "polish": "wątpić się",
         "aiStatus": "partial",
-        "translationRu": "рейс из (фрагмент)",
-        "example": "Lot z Warszawy do Londynu trwa dwie godziny.",
+        "synonym": "nie być pewnym",
+        "example": "Wątpić w czyjeś słowa",
+        "translationRu": "сомневаться (нестанд.; обычно 'wątpić w coś')",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wystaczajaco",
-        "polish": "wystaczająco",
+        "id": "wbrew-oczekiewaniom",
+        "polish": "wbrew oczekiewaniom",
         "aiStatus": "complete",
-        "translationRu": "достаточно (опечатка от wystarczająco)",
-        "synonym": "dosyć",
-        "example": "Nie mam wystarczająco pieniędzy.",
+        "translationRu": "вопреки ожиданиям (опечатка от oczekiwaniom)",
+        "synonym": "wbrew przewidywaniom",
+        "example": "Wbrew oczekiwaniom, wygraliśmy ten mecz.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "trudnie",
-        "polish": "trudnie",
-        "aiStatus": "partial",
-        "synonym": "jak?",
-        "translationRu": "трудно (опечатка/нестанд., правильно 'trudno')",
-        "example": "Trudno mi to teraz wytłumaczyć.",
+        "id": "w-tej-samej-druzynie",
+        "polish": "w tej samej drużynie",
+        "aiStatus": "complete",
+        "translationRu": "в той же команде",
+        "synonym": "w tym samym zespole",
+        "example": "Grają w tej samej drużynie od lat.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wszystko-na-nic",
-        "polish": "Wszystko na nic",
+        "id": "on-ona-musi",
+        "polish": "on / ona musi",
         "aiStatus": "complete",
-        "synonym": "bez efektu",
-        "translationRu": "Всё впустую, всё зря",
-        "example": "Ćwiczyłem cały miesiąc, ale wszystko na nic — i tak przegrałem.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "dyspozycja",
-        "polish": "dyspozycja",
-        "aiStatus": "complete",
-        "example": "Masz do dyspozycji trzy pokoje",
-        "translationRu": "распоряжение, диспозиция",
-        "synonym": "polecenie",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "odwazni",
-        "polish": "odważni",
-        "aiStatus": "complete",
-        "translationRu": "храбрые, отважные",
-        "synonym": "dzielni",
-        "example": "Tylko odważni odnoszą sukces.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "klopsik-klopsiki",
-        "polish": "klopsik/ klopsiki",
-        "aiStatus": "complete",
-        "translationRu": "фрикаделька / фрикадельки",
-        "synonym": "kotlet mielony",
-        "example": "Mama zrobiła klopsiki w sosie pomidorowym.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "uzyteczny",
-        "polish": "użyteczny",
-        "aiStatus": "complete",
-        "translationRu": "полезный",
-        "synonym": "przydatny",
-        "example": "To bardzo użyteczne narzędzie.",
+        "translationRu": "он / она должен / должна",
+        "example": "On musi iść do pracy.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "dziedzina",
-        "polish": "dziedzina",
+        "id": "jesli",
+        "polish": "jeśli",
         "aiStatus": "complete",
-        "synonym": "branża, sfera, zakres",
-        "example": "Pracować w dziedzinie marketingu",
-        "translationRu": "область, сфера (деятельности)",
+        "translationRu": "если",
+        "synonym": "o ile",
+        "example": "Jeśli będzie padać, zostaniemy w domu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "pustkowie-2",
+        "polish": "pustkowie",
+        "aiStatus": "complete",
+        "translationRu": "пустошь, безлюдная местность",
+        "synonym": "odludzie",
+        "example": "Zostawili samochód na pustkowiu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "przyzwyczajenie",
+        "polish": "przyzwyczajenie",
+        "aiStatus": "complete",
+        "synonym": "nawyk, zwyczaj, maniera",
+        "translationRu": "привычка",
+        "example": "To tylko siła przyzwyczajenia.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "pilnie",
-        "polish": "pilnie",
+        "id": "dach",
+        "polish": "dach",
         "aiStatus": "complete",
-        "translationRu": "срочно; прилежно",
-        "synonym": "natychmiast",
-        "example": "Pilnie potrzebuję pomocy.",
+        "translationRu": "крыша",
+        "example": "Naprawiamy dach domu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "on-robi",
+        "polish": "on robi",
+        "aiStatus": "complete",
+        "translationRu": "он делает",
+        "synonym": "on wykonuje",
+        "example": "On robi obiad dla całej rodziny.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "osiagnac",
+        "polish": "osiągnąć",
+        "aiStatus": "complete",
+        "translationRu": "достичь (цели, результата)",
+        "synonym": "zdobyć",
+        "example": "Osiągnął swój cel.",
         "firstSeenAt": "2026-05-02"
       }
     ],
