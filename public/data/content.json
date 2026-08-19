@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-08-18T04:31:20.003Z",
+  "generatedAt": "2026-08-19T04:32:43.044Z",
   "dailyPractice": {
-    "date": "2026-08-18",
+    "date": "2026-08-19",
     "words": [
       {
-        "id": "watpic-sie",
-        "polish": "wątpić się",
-        "aiStatus": "partial",
-        "synonym": "nie być pewnym",
-        "example": "Wątpić w czyjeś słowa",
-        "translationRu": "сомневаться (нестанд.; обычно 'wątpić w coś')",
+        "id": "kreskowka",
+        "polish": "kreskówka",
+        "aiStatus": "complete",
+        "synonym": "film animowany, bajka",
+        "example": "Oglądała kreskówki",
+        "translationRu": "мультфильм",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "rekreacja-2",
+        "polish": "rekreacja",
+        "aiStatus": "complete",
+        "translationRu": "отдых, рекреация",
+        "synonym": "wypoczynek",
+        "example": "W parku jest strefa rekreacji.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "o-filmie",
+        "polish": "o filmie",
+        "aiStatus": "complete",
+        "translationRu": "о фильме",
+        "example": "Rozmawialiśmy o filmie, który widzieliśmy.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "ufac",
+        "polish": "ufać",
+        "aiStatus": "complete",
+        "translationRu": "доверять",
+        "synonym": "wierzyć komuś",
+        "example": "Ufam swoim przyjaciołom.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wbrew-oczekiewaniom",
-        "polish": "wbrew oczekiewaniom",
+        "id": "statek-pasazerski",
+        "polish": "statek pasażerski",
         "aiStatus": "complete",
-        "translationRu": "вопреки ожиданиям (опечатка от oczekiwaniom)",
-        "synonym": "wbrew przewidywaniom",
-        "example": "Wbrew oczekiwaniom, wygraliśmy ten mecz.",
+        "synonym": "rejsowiec",
+        "translationRu": "пассажирское судно",
+        "example": "Statek pasażerski wypłynął z portu.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "w-tej-samej-druzynie",
-        "polish": "w tej samej drużynie",
+        "id": "wiekszosc",
+        "polish": "większość",
         "aiStatus": "complete",
-        "translationRu": "в той же команде",
-        "synonym": "w tym samym zespole",
-        "example": "Grają w tej samej drużynie od lat.",
+        "translationRu": "большинство",
+        "synonym": "przeważająca część",
+        "example": "Większość Polaków lubi pierogi.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "on-ona-musi",
-        "polish": "on / ona musi",
+        "id": "spoleczenstwo-3",
+        "polish": "społeczeństwo",
         "aiStatus": "complete",
-        "translationRu": "он / она должен / должна",
-        "example": "On musi iść do pracy.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "jesli",
-        "polish": "jeśli",
-        "aiStatus": "complete",
-        "translationRu": "если",
-        "synonym": "o ile",
-        "example": "Jeśli będzie padać, zostaniemy w domu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "pustkowie-2",
-        "polish": "pustkowie",
-        "aiStatus": "complete",
-        "translationRu": "пустошь, безлюдная местность",
-        "synonym": "odludzie",
-        "example": "Zostawili samochód na pustkowiu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "przyzwyczajenie",
-        "polish": "przyzwyczajenie",
-        "aiStatus": "complete",
-        "synonym": "nawyk, zwyczaj, maniera",
-        "translationRu": "привычка",
-        "example": "To tylko siła przyzwyczajenia.",
+        "translationRu": "общество",
+        "synonym": "społeczność",
+        "example": "Społeczeństwo się starzeje.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "dach",
-        "polish": "dach",
+        "id": "dotykac-dotknac",
+        "polish": "dotykać/ dotknąć",
         "aiStatus": "complete",
-        "translationRu": "крыша",
-        "example": "Naprawiamy dach domu.",
+        "translationRu": "трогать / тронуть, касаться / коснуться",
+        "synonym": "muskać / musnąć",
+        "example": "Nie dotykaj eksponatów w muzeum.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "on-robi",
-        "polish": "on robi",
+        "id": "zwariowany-czlowiek",
+        "polish": "zwariowany człowiek",
         "aiStatus": "complete",
-        "translationRu": "он делает",
-        "synonym": "on wykonuje",
-        "example": "On robi obiad dla całej rodziny.",
+        "translationRu": "сумасшедший человек",
+        "synonym": "szalony człowiek",
+        "example": "To zwariowany człowiek.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "osiagnac",
-        "polish": "osiągnąć",
+        "id": "dotknac-sie",
+        "polish": "dotknąć się",
         "aiStatus": "complete",
-        "translationRu": "достичь (цели, результата)",
-        "synonym": "zdobyć",
-        "example": "Osiągnął swój cel.",
+        "translationRu": "коснуться (себя)",
+        "example": "Dotknąłem się w czoło, sprawdzając czy mam gorączkę.",
         "firstSeenAt": "2026-05-02"
       }
     ],
