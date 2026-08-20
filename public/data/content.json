@@ -1,95 +1,97 @@
 {
-  "generatedAt": "2026-08-19T04:32:43.044Z",
+  "generatedAt": "2026-08-20T04:32:58.105Z",
   "dailyPractice": {
-    "date": "2026-08-19",
+    "date": "2026-08-20",
     "words": [
       {
-        "id": "kreskowka",
-        "polish": "kreskówka",
+        "id": "harmonogram-2",
+        "polish": "harmonogram",
         "aiStatus": "complete",
-        "synonym": "film animowany, bajka",
-        "example": "Oglądała kreskówki",
-        "translationRu": "мультфильм",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "rekreacja-2",
-        "polish": "rekreacja",
-        "aiStatus": "complete",
-        "translationRu": "отдых, рекреация",
-        "synonym": "wypoczynek",
-        "example": "W parku jest strefa rekreacji.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "o-filmie",
-        "polish": "o filmie",
-        "aiStatus": "complete",
-        "translationRu": "о фильме",
-        "example": "Rozmawialiśmy o filmie, który widzieliśmy.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "ufac",
-        "polish": "ufać",
-        "aiStatus": "complete",
-        "translationRu": "доверять",
-        "synonym": "wierzyć komuś",
-        "example": "Ufam swoim przyjaciołom.",
+        "translationRu": "расписание, график",
+        "synonym": "plan",
+        "example": "Mam napięty harmonogram.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "statek-pasazerski",
-        "polish": "statek pasażerski",
+        "id": "sklamac",
+        "polish": "skłamać",
         "aiStatus": "complete",
-        "synonym": "rejsowiec",
-        "translationRu": "пассажирское судно",
-        "example": "Statek pasażerski wypłynął z portu.",
+        "synonym": "mówić nieprawde\noszukać",
+        "example": "Skłamała Thomasowi, że była zła",
+        "translationRu": "солгать, обмануть",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "samotnosc-samotny",
+        "polish": "samotność, samotny",
+        "aiStatus": "complete",
+        "synonym": "izolacja",
+        "example": "Czuje samotność po przeprowadzce do innego miasta",
+        "translationRu": "одиночество, одинокий",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wiekszosc",
-        "polish": "większość",
+        "id": "wygodnie",
+        "polish": "wygodnie",
         "aiStatus": "complete",
-        "translationRu": "большинство",
-        "synonym": "przeważająca część",
-        "example": "Większość Polaków lubi pierogi.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "spoleczenstwo-3",
-        "polish": "społeczeństwo",
-        "aiStatus": "complete",
-        "translationRu": "общество",
-        "synonym": "społeczność",
-        "example": "Społeczeństwo się starzeje.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "dotykac-dotknac",
-        "polish": "dotykać/ dotknąć",
-        "aiStatus": "complete",
-        "translationRu": "трогать / тронуть, касаться / коснуться",
-        "synonym": "muskać / musnąć",
-        "example": "Nie dotykaj eksponatów w muzeum.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zwariowany-czlowiek",
-        "polish": "zwariowany człowiek",
-        "aiStatus": "complete",
-        "translationRu": "сумасшедший человек",
-        "synonym": "szalony człowiek",
-        "example": "To zwariowany człowiek.",
+        "translationRu": "удобно",
+        "synonym": "komfortowo",
+        "example": "Czuję się tutaj wygodnie.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "dotknac-sie",
-        "polish": "dotknąć się",
+        "id": "kombinowac",
+        "polish": "kombinować",
         "aiStatus": "complete",
-        "translationRu": "коснуться (себя)",
-        "example": "Dotknąłem się w czoło, sprawdzając czy mam gorączkę.",
+        "translationRu": "комбинировать; мудрить, выкручиваться",
+        "synonym": "wymyślać sposoby",
+        "example": "Zawsze coś kombinuje, żeby zaoszczędzić pieniądze.",
         "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "waska",
+        "polish": "wąska",
+        "aiStatus": "complete",
+        "translationRu": "узкая",
+        "synonym": "ciasna",
+        "example": "To bardzo wąska ulica.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "silna-wola",
+        "polish": "silna wola",
+        "aiStatus": "complete",
+        "translationRu": "сильная воля",
+        "synonym": "determinacja",
+        "example": "Ma silną wolę i osiągnie cel.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zakazane",
+        "polish": "zakazane",
+        "aiStatus": "complete",
+        "translationRu": "запрещено, запрещённое",
+        "synonym": "zabronione",
+        "example": "Palenie w tym miejscu jest zakazane.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "dosc",
+        "polish": "dość",
+        "aiStatus": "complete",
+        "synonym": "Mam dość czekania",
+        "translationRu": "достаточно, довольно",
+        "example": "Mam już dość tej pogody.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "formowac",
+        "polish": "formować",
+        "aiStatus": "complete",
+        "translationRu": "формировать",
+        "synonym": "kształtować",
+        "example": "Nauczyciele formują charakter uczniów.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
