@@ -1,97 +1,94 @@
 {
-  "generatedAt": "2026-08-20T04:32:58.105Z",
+  "generatedAt": "2026-08-21T04:33:49.923Z",
   "dailyPractice": {
-    "date": "2026-08-20",
+    "date": "2026-08-21",
     "words": [
       {
-        "id": "harmonogram-2",
-        "polish": "harmonogram",
-        "aiStatus": "complete",
-        "translationRu": "расписание, график",
-        "synonym": "plan",
-        "example": "Mam napięty harmonogram.",
+        "id": "do-jednej-kawiarni",
+        "polish": "do jednej kawiarni",
+        "aiStatus": "partial",
+        "translationRu": "в одно кафе (фрагмент)",
+        "example": "Poszliśmy do jednej kawiarni na rogu ulicy.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "sklamac",
-        "polish": "skłamać",
+        "id": "pokonac",
+        "polish": "pokonać",
         "aiStatus": "complete",
-        "synonym": "mówić nieprawde\noszukać",
-        "example": "Skłamała Thomasowi, że była zła",
-        "translationRu": "солгать, обмануть",
+        "translationRu": "победить, преодолеть",
+        "synonym": "zwyciężyć",
+        "example": "Pokonał wszystkie trudności.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "samotnosc-samotny",
-        "polish": "samotność, samotny",
+        "id": "spektakularny",
+        "polish": "spektakularny",
         "aiStatus": "complete",
-        "synonym": "izolacja",
-        "example": "Czuje samotność po przeprowadzce do innego miasta",
-        "translationRu": "одиночество, одинокий",
+        "synonym": "przyciągający wzrok, zwracający uwagę.",
+        "translationRu": "впечатляющий, зрелищный",
+        "example": "To był spektakularny sukces.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wygodnie",
-        "polish": "wygodnie",
+        "id": "popierac",
+        "polish": "popierać",
         "aiStatus": "complete",
-        "translationRu": "удобно",
-        "synonym": "komfortowo",
-        "example": "Czuję się tutaj wygodnie.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "kombinowac",
-        "polish": "kombinować",
-        "aiStatus": "complete",
-        "translationRu": "комбинировать; мудрить, выкручиваться",
-        "synonym": "wymyślać sposoby",
-        "example": "Zawsze coś kombinuje, żeby zaoszczędzić pieniądze.",
+        "translationRu": "поддерживать (мнение, кандидата)",
+        "synonym": "wspierać",
+        "example": "Popieram twój pomysł.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "waska",
-        "polish": "wąska",
+        "id": "usterka",
+        "polish": "usterka",
         "aiStatus": "complete",
-        "translationRu": "узкая",
-        "synonym": "ciasna",
-        "example": "To bardzo wąska ulica.",
+        "translationRu": "неисправность",
+        "synonym": "wada",
+        "example": "W samochodzie wykryto usterkę.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "silna-wola",
-        "polish": "silna wola",
+        "id": "takie-same-zdanie",
+        "polish": "takie same zdanie",
         "aiStatus": "complete",
-        "translationRu": "сильная воля",
-        "synonym": "determinacja",
-        "example": "Ma silną wolę i osiągnie cel.",
+        "translationRu": "такое же мнение / то же предложение",
+        "synonym": "ta sama opinia",
+        "example": "Mamy takie same zdanie na ten temat.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zakazane",
-        "polish": "zakazane",
+        "id": "bede-miec",
+        "polish": "będę mieć",
         "aiStatus": "complete",
-        "translationRu": "запрещено, запрещённое",
-        "synonym": "zabronione",
-        "example": "Palenie w tym miejscu jest zakazane.",
+        "translationRu": "буду иметь",
+        "example": "Będę mieć spotkanie o dziesiątej.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "od-czasu-do-czasu",
+        "polish": "od czasu do czasu",
+        "aiStatus": "complete",
+        "translationRu": "время от времени",
+        "synonym": "sporadycznie",
+        "example": "Od czasu do czasu chodzimy do kina.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "jest",
+        "polish": "jest",
+        "aiStatus": "partial",
+        "translationRu": "есть, является (3 л. ед.)",
+        "example": "On jest lekarzem.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "dosc",
-        "polish": "dość",
+        "id": "wizjer",
+        "polish": "wizjer",
         "aiStatus": "complete",
-        "synonym": "Mam dość czekania",
-        "translationRu": "достаточно, довольно",
-        "example": "Mam już dość tej pogody.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "formowac",
-        "polish": "formować",
-        "aiStatus": "complete",
-        "translationRu": "формировать",
-        "synonym": "kształtować",
-        "example": "Nauczyciele formują charakter uczniów.",
-        "firstSeenAt": "2026-07-17"
+        "example": "Spojrzałem przez wizjer (Дверной глазок)",
+        "translationRu": "глазок (в двери)",
+        "synonym": "judasz",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
