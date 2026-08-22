@@ -1,94 +1,96 @@
 {
-  "generatedAt": "2026-08-21T04:33:49.923Z",
+  "generatedAt": "2026-08-22T04:28:31.650Z",
   "dailyPractice": {
-    "date": "2026-08-21",
+    "date": "2026-08-22",
     "words": [
       {
-        "id": "do-jednej-kawiarni",
-        "polish": "do jednej kawiarni",
+        "id": "wszedzie",
+        "polish": "wszędzie",
+        "aiStatus": "complete",
+        "translationRu": "везде, всюду",
+        "synonym": "na każdym kroku",
+        "example": "Szukałem cię wszędzie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wplywac",
+        "polish": "wpływać",
+        "aiStatus": "complete",
+        "translationRu": "влиять, воздействовать",
+        "synonym": "oddziaływać",
+        "example": "Pogoda wpływa na nastrój.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "skuteczny-2",
+        "polish": "skuteczny",
+        "aiStatus": "complete",
+        "translationRu": "эффективный, результативный",
+        "synonym": "efektywny",
+        "example": "To bardzo skuteczny sposób na naukę języka.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "na-obrzezu",
+        "polish": "na obrzeżu",
+        "aiStatus": "complete",
+        "synonym": "za miastem",
+        "translationRu": "на окраине",
+        "example": "Mieszkają na obrzeżu miasta.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "przetrwac",
+        "polish": "przetrwać",
+        "aiStatus": "complete",
+        "synonym": "przeżyć",
+        "translationRu": "выжить, пережить",
+        "example": "Udało im się przetrwać zimę.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "aktualizowac",
+        "polish": "aktualizować",
+        "aiStatus": "complete",
+        "synonym": "aktualizacja",
+        "translationRu": "обновлять",
+        "example": "Trzeba aktualizować oprogramowanie regularnie.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "im-tym-2",
+        "polish": "im///tym",
         "aiStatus": "partial",
-        "translationRu": "в одно кафе (фрагмент)",
-        "example": "Poszliśmy do jednej kawiarni na rogu ulicy.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "pokonac",
-        "polish": "pokonać",
-        "aiStatus": "complete",
-        "translationRu": "победить, преодолеть",
-        "synonym": "zwyciężyć",
-        "example": "Pokonał wszystkie trudności.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "spektakularny",
-        "polish": "spektakularny",
-        "aiStatus": "complete",
-        "synonym": "przyciągający wzrok, zwracający uwagę.",
-        "translationRu": "впечатляющий, зрелищный",
-        "example": "To był spektakularny sukces.",
+        "translationRu": "чем ... тем (конструкция im ... tym)",
+        "example": "Im szybciej, tym lepiej.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "popierac",
-        "polish": "popierać",
-        "aiStatus": "complete",
-        "translationRu": "поддерживать (мнение, кандидата)",
-        "synonym": "wspierać",
-        "example": "Popieram twój pomysł.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "usterka",
-        "polish": "usterka",
-        "aiStatus": "complete",
-        "translationRu": "неисправность",
-        "synonym": "wada",
-        "example": "W samochodzie wykryto usterkę.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "takie-same-zdanie",
-        "polish": "takie same zdanie",
-        "aiStatus": "complete",
-        "translationRu": "такое же мнение / то же предложение",
-        "synonym": "ta sama opinia",
-        "example": "Mamy takie same zdanie na ten temat.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "bede-miec",
-        "polish": "będę mieć",
-        "aiStatus": "complete",
-        "translationRu": "буду иметь",
-        "example": "Będę mieć spotkanie o dziesiątej.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "od-czasu-do-czasu",
-        "polish": "od czasu do czasu",
-        "aiStatus": "complete",
-        "translationRu": "время от времени",
-        "synonym": "sporadycznie",
-        "example": "Od czasu do czasu chodzimy do kina.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "jest",
-        "polish": "jest",
+        "id": "balet-byl-konkretny",
+        "polish": "balet był konkretny",
         "aiStatus": "partial",
-        "translationRu": "есть, является (3 л. ед.)",
-        "example": "On jest lekarzem.",
+        "synonym": "niesamowita impreza",
+        "example": "Wczoraj był konkretny balet",
+        "translationRu": "балет был впечатляющим (обрывок фразы, сленговое \"konkretny\")",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "uderzyc",
+        "polish": "uderzyć",
+        "aiStatus": "complete",
+        "synonym": "najechać na",
+        "example": "uderzyć w kogoś",
+        "translationRu": "ударить",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wizjer",
-        "polish": "wizjer",
+        "id": "zwlaszcza",
+        "polish": "zwłaszcza",
         "aiStatus": "complete",
-        "example": "Spojrzałem przez wizjer (Дверной глазок)",
-        "translationRu": "глазок (в двери)",
-        "synonym": "judasz",
-        "firstSeenAt": "2026-05-02"
+        "synonym": "w szczególności, przede wszystkim",
+        "example": "Lubię polską kuchnię, zwłaszcza pierogi",
+        "translationRu": "особенно",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
