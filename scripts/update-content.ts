@@ -13,7 +13,7 @@ const OUTPUT = resolve(ROOT, 'public/data/content.json');
 const MANUAL_SEED = resolve(ROOT, 'data/manual-enrichments.json');
 
 const DEFAULT_SHEET_URL =
-  'https://docs.google.com/spreadsheets/d/e/2PACX-1vTkchKrWgHRG4t_oXpHAcUhIrjtxSmEjWOycdzUXdLdNgukuhm-2XciZHcUaLDV0UGHhcibWgjQpJA_/pub?output=csv';
+  'https://docs.google.com/spreadsheets/d/e/2PACX-1vTCrue7Zvtbc4WEmYmjh3wH_JSkFoB2bP8QyDrDieUXzr6c7vqNenlT3h0a_RGyQz6EBDElPkU47Qi2/pub?output=csv';
 
 interface Enrichment {
   translationRu?: string;

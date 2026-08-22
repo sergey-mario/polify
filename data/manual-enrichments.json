@@ -107,8 +107,9 @@
     "aiStatus": "complete"
   },
   "Serca obojga": {
-    "translationRu": "Сердца обоих",
-    "aiStatus": "complete"
+    "translationRu": "сердца обоих (двоих)",
+    "aiStatus": "partial",
+    "example": "Serca obojga zabiły szybciej."
   },
   "zmarznąć": {
     "translationRu": "замёрзнуть",
@@ -214,7 +215,7 @@
     "synonym": "małżonek"
   },
   "na nią- ją": {
-    "translationRu": "на неё / её (вин. падеж)",
+    "translationRu": "на неё - её (винительный падеж местоимения \"ona\": с предлогом \"na nią\" и без предлога \"ją\")",
     "aiStatus": "partial",
     "example": "Spojrzałem na nią i się uśmiechnąłem."
   },
@@ -326,9 +327,9 @@
     "synonym": "autentyczna"
   },
   "do jednej kawiarni": {
-    "translationRu": "в одно кафе (фрагмент)",
+    "translationRu": "в одно кафе",
     "aiStatus": "partial",
-    "example": "Poszliśmy do jednej kawiarni na rogu ulicy."
+    "example": "Poszliśmy do jednej kawiarni w centrum."
   },
   "pomnik": {
     "translationRu": "памятник",
@@ -419,7 +420,7 @@
     "synonym": "skraść"
   },
   "ktoś - może": {
-    "translationRu": "кто-то — может (фрагмент)",
+    "translationRu": "кто-то - может (смысл неясен без контекста урока)",
     "aiStatus": "uncertain",
     "example": "Ktoś może zadzwonić później."
   },
@@ -448,9 +449,9 @@
     "synonym": "harmonogram"
   },
   "żadnego": {
-    "translationRu": "никакого (род. падеж от żaden)",
+    "translationRu": "никакого (род. п. от żaden)",
     "aiStatus": "partial",
-    "example": "Nie mam żadnego pomysłu."
+    "example": "Nie mam żadnego pytania."
   },
   "spróbować": {
     "translationRu": "попробовать",
@@ -477,14 +478,14 @@
     "synonym": "galeria"
   },
   "otwartym": {
-    "translationRu": "открытым (твор. падеж от otwarty)",
+    "translationRu": "открытым (тв./предл. п. от otwarty)",
     "aiStatus": "partial",
-    "example": "Rozmawialiśmy otwartym tekstem o problemach."
+    "example": "Jestem otwartym człowiekiem."
   },
   "jest": {
-    "translationRu": "есть, является (3 л. ед.)",
-    "aiStatus": "partial",
-    "example": "On jest bardzo zmęczony."
+    "translationRu": "есть, является (3 л. ед. ч. от być)",
+    "aiStatus": "complete",
+    "example": "On jest lekarzem."
   },
   "mit": {
     "translationRu": "миф",
@@ -498,17 +499,17 @@
     "example": "Niestety nie znam angielskiego zbyt dobrze."
   },
   "ludzie którzy": {
-    "translationRu": "люди, которые (фрагмент)",
+    "translationRu": "люди, которые... (обрывок фразы с относительным местоимением)",
     "aiStatus": "partial",
     "example": "Ludzie, którzy dużo czytają, mają bogate słownictwo."
   },
   "Ci": {
-    "translationRu": "эти (мужчины-лица, мн. ч.)",
+    "translationRu": "эти, те (муж.-личный род, мн. ч. — форма от \"ten\")",
     "aiStatus": "partial",
-    "example": "Ci ludzie są bardzo mili."
+    "example": "Ci ludzie są mili."
   },
   "Te": {
-    "translationRu": "эти (немужчины-лица, мн. ч.)",
+    "translationRu": "эти, те (не-муж.-личный род, мн. ч. — форма от \"ten\")",
     "aiStatus": "partial",
     "example": "Te książki są ciekawe."
   },
@@ -618,14 +619,14 @@
     "synonym": "społeczność"
   },
   "znam (kogo?co?) dużo przykładów": {
-    "translationRu": "знаю (кого/что?) много примеров",
+    "translationRu": "я знаю (кого? что?) много примеров — глагол \"znać\" требует винительного падежа",
     "aiStatus": "partial",
     "example": "Znam dużo przykładów takich sytuacji."
   },
   "wiem - że": {
-    "translationRu": "знаю — что (фрагмент)",
+    "translationRu": "я знаю - что (wiedzieć + союз że)",
     "aiStatus": "partial",
-    "example": "Wiem, że to prawda."
+    "example": "Wiem, że masz rację."
   },
   "nagrywać": {
     "translationRu": "записывать (видео, аудио)",
@@ -644,7 +645,7 @@
     "example": "To nie fer, że on dostał więcej."
   },
   "obraniać": {
-    "translationRu": "защищать / обижать (неясно из контекста — возможно опечатка)",
+    "translationRu": "? (неясно — возможно опечатка: obierać «чистить, счищать» или obronić «защитить»)",
     "aiStatus": "uncertain",
     "example": "Musiał obraniać swoje stanowisko."
   },
@@ -655,9 +656,9 @@
     "synonym": "poszkodowany"
   },
   "ten system": {
-    "translationRu": "эта система (грам.)",
-    "aiStatus": "partial",
-    "example": "Ten system działa bardzo sprawnie."
+    "translationRu": "эта система",
+    "aiStatus": "complete",
+    "example": "Ten system działa dobrze."
   },
   "wyobrazić": {
     "translationRu": "представить (себе)",
@@ -666,9 +667,9 @@
     "synonym": "przedstawić sobie"
   },
   "ten problem": {
-    "translationRu": "эта проблема (грам.)",
-    "aiStatus": "partial",
-    "example": "Ten problem trzeba rozwiązać jak najszybciej."
+    "translationRu": "эта проблема",
+    "aiStatus": "complete",
+    "example": "Ten problem trzeba rozwiązać."
   },
   "dyspozycja": {
     "translationRu": "распоряжение, диспозиция",
@@ -692,8 +693,8 @@
     "synonym": "przewód"
   },
   "odbitek": {
-    "translationRu": "отпечаток / оттиск (возможно опечатка)",
-    "aiStatus": "uncertain",
+    "translationRu": "отпечатков, копий (род. п. мн. ч. от odbitka)",
+    "aiStatus": "partial",
     "example": "Zrobiłem odbitkę zdjęcia w studiu."
   },
   "ślad": {
@@ -841,7 +842,7 @@
   },
   "dach": {
     "translationRu": "крыша",
-    "example": "Naprawiamy dach domu.",
+    "example": "Dach domu jest czerwony.",
     "aiStatus": "complete"
   },
   "na dachu": {
@@ -941,8 +942,8 @@
   },
   "ci ludzie": {
     "translationRu": "эти люди",
-    "aiStatus": "partial",
-    "example": "Ci ludzie zawsze mi pomagają."
+    "aiStatus": "complete",
+    "example": "Ci ludzie mi pomogli."
   },
   "węch": {
     "translationRu": "обоняние",
@@ -1112,8 +1113,8 @@
     "example": "Po świętach przytyła kilka kilo."
   },
   "jaka podekscytowana była Pelagia": {
-    "translationRu": "какой взволнованной была Пелагия",
-    "aiStatus": "complete",
+    "translationRu": "как же взволнована была Пелагия",
+    "aiStatus": "partial",
     "example": "Jaka podekscytowana była Pelagia, gdy usłyszała tę wiadomość!"
   },
   "mamy wiele wspólnego": {
@@ -1181,7 +1182,7 @@
     "example": "Kupiliśmy rzeczy spożywcze na cały tydzień."
   },
   "cel - on": {
-    "translationRu": "цель (он, грам. род)",
+    "translationRu": "цель - он (cel — существительное мужского рода)",
     "aiStatus": "partial",
     "example": "Nasz cel jest jasno określony."
   },
@@ -1356,7 +1357,7 @@
   "satelita": {
     "translationRu": "спутник",
     "aiStatus": "complete",
-    "example": "Satelita krąży wokół Ziemi na stałej orbicie."
+    "example": "Satelita krąży wokół Ziemi."
   },
   "gospodarstwo domowe": {
     "translationRu": "домашнее хозяйство, домохозяйство",
@@ -1446,8 +1447,8 @@
     "synonym": "odczuwać"
   },
   "szaro - jak": {
-    "translationRu": "серо — как (фрагмент)",
-    "aiStatus": "uncertain",
+    "translationRu": "серо, пасмурно - как? (szaro отвечает на вопрос jak?)",
+    "aiStatus": "partial",
     "example": "Na dworze jest szaro jak w listopadzie."
   },
   "pilnie": {
@@ -1504,9 +1505,10 @@
     "example": "Programiści piszą kod w wielu językach."
   },
   "krok - etap - poziom": {
-    "translationRu": "шаг — этап — уровень",
-    "aiStatus": "complete",
-    "example": "To był ważny krok w rozwoju firmy."
+    "translationRu": "шаг - этап - уровень (синонимический ряд)",
+    "aiStatus": "partial",
+    "example": "To ważny krok w moim życiu.",
+    "synonym": "etap"
   },
   "obserwować": {
     "translationRu": "наблюдать",
@@ -1527,13 +1529,13 @@
     "example": "Spędziłbym cały dzień na plaży, gdybym mógł."
   },
   "starszy - starsi": {
-    "translationRu": "старший — старшие",
-    "aiStatus": "complete",
-    "example": "Starsi ludzie zasługują na szacunek."
+    "translationRu": "старший - старшие (форма мн. ч., личная, от starszy)",
+    "aiStatus": "partial",
+    "example": "Starsi ludzie potrzebują pomocy."
   },
   "fala": {
     "translationRu": "волна",
-    "example": "Wysokie fale uderzały o brzeg.",
+    "example": "Duża fala uderzyła w brzeg.",
     "aiStatus": "complete"
   },
   "ujawnij się": {
@@ -1572,9 +1574,9 @@
     "synonym": "kontakty"
   },
   "młody - młodzi": {
-    "translationRu": "молодой — молодые (мужчины-лица, мн.)",
-    "aiStatus": "complete",
-    "example": "Młodzi ludzie chętnie wyjeżdżają za granicę."
+    "translationRu": "молодой - молодые (форма мн. ч., личная, от młody)",
+    "aiStatus": "partial",
+    "example": "Młodzi ludzie mają dużo energii."
   },
   "młodzież": {
     "translationRu": "молодёжь",
@@ -1613,7 +1615,7 @@
     "synonym": "łączyć (mentalnie)"
   },
   "system - on": {
-    "translationRu": "система (он, грам. род)",
+    "translationRu": "система - он (system — существительное мужского рода)",
     "aiStatus": "partial",
     "example": "System działa bez zarzutu."
   },
@@ -1651,13 +1653,13 @@
     "aiStatus": "complete"
   },
   "lot z": {
-    "translationRu": "рейс из (фрагмент)",
+    "translationRu": "полёт с... (обрывок фразы)",
     "aiStatus": "partial",
     "example": "Lot z Warszawy do Londynu trwa dwie godziny."
   },
   "podróżować z (kim?czym?) przyjaciółmi": {
-    "translationRu": "путешествовать с друзьями",
-    "aiStatus": "complete",
+    "translationRu": "путешествовать с (с кем? с чем?) друзьями — глагол podróżować z требует творительного падежа",
+    "aiStatus": "partial",
     "example": "Lubię podróżować z przyjaciółmi."
   },
   "co zobaczyć/ zwiedzić": {
@@ -1697,8 +1699,8 @@
     "example": "Zrezygnował z pracy po roku."
   },
   "dużo/mało/ większość/ mniejszość": {
-    "translationRu": "много/мало/большинство/меньшинство",
-    "aiStatus": "complete",
+    "translationRu": "много / мало / большинство / меньшинство",
+    "aiStatus": "partial",
     "example": "Dużo osób poparło projekt, mało było przeciw."
   },
   "język hebrajski": {
@@ -1830,9 +1832,9 @@
     "example": "Mama zrobiła klopsiki w sosie pomidorowym."
   },
   "wszystkie": {
-    "translationRu": "все (немужчины-лица)",
-    "aiStatus": "complete",
-    "example": "Zjadłem wszystkie jabłka z koszyka."
+    "translationRu": "все (форма мн. ч., не-муж.-личный род)",
+    "aiStatus": "partial",
+    "example": "Wszystkie kobiety przyszły na spotkanie."
   },
   "prawie": {
     "translationRu": "почти",
@@ -1847,18 +1849,19 @@
     "example": "Ten stół ma nietypowy kształt."
   },
   "dotknąć się": {
-    "translationRu": "коснуться (себя)",
+    "translationRu": "коснуться (себя / друг друга)",
     "aiStatus": "complete",
-    "example": "Dotknąłem się w czoło, sprawdzając czy mam gorączkę."
+    "example": "Dotknęliśmy się rękami.",
+    "synonym": "stykać się"
   },
   "dotykać się": {
-    "translationRu": "касаться (друг друга)",
+    "translationRu": "прикасаться (несов. вид от dotknąć się)",
     "aiStatus": "complete",
-    "example": "Zakochani często dotykają się delikatnie."
+    "example": "Nie wolno się tu dotykać."
   },
   "dużo/ mało /": {
-    "translationRu": "много / мало",
-    "aiStatus": "partial",
+    "translationRu": "много / мало / ... (обрывок списка количественных слов)",
+    "aiStatus": "uncertain",
     "example": "W lodówce jest dużo jedzenia, ale mało napojów."
   },
   "nasi": {
@@ -1880,7 +1883,7 @@
     "synonym": "słynąć z czegoś"
   },
   "walizka - ona": {
-    "translationRu": "чемодан (она, грам. род)",
+    "translationRu": "чемодан - она (walizka — существительное женского рода)",
     "aiStatus": "partial",
     "example": "Walizka była tak ciężka, że ledwo ją uniosłem."
   },
@@ -1992,9 +1995,9 @@
     "example": "Pożegnanie było bardzo wzruszające."
   },
   "klatka - w klatce": {
-    "translationRu": "клетка — в клетке",
-    "aiStatus": "complete",
-    "example": "Ptak siedział smutno w klatce."
+    "translationRu": "клетка - в клетке (местн. п.)",
+    "aiStatus": "partial",
+    "example": "Ptak siedzi w klatce."
   },
   "orgAnizm": {
     "translationRu": "организм (опечатка регистра)",
@@ -2003,7 +2006,7 @@
     "example": "Regularny sport wzmacnia organizm."
   },
   "one - psy": {
-    "translationRu": "они (собаки) — грам. род",
+    "translationRu": "они - собаки (местоимение \"one\" для не-муж.-личных существительных, напр. psy)",
     "aiStatus": "partial",
     "example": "One są głodne — nakarm te psy."
   },
@@ -2109,13 +2112,13 @@
   },
   "czy trudno przyzwyczaić się": {
     "translationRu": "трудно ли привыкнуть",
-    "aiStatus": "complete",
+    "aiStatus": "partial",
     "example": "Czy trudno przyzwyczaić się do nowego miasta?"
   },
   "od domu": {
     "translationRu": "от дома",
-    "aiStatus": "partial",
-    "example": "Szkoła jest niedaleko od domu."
+    "aiStatus": "complete",
+    "example": "Szedłem od domu do szkoły."
   },
   "co roku": {
     "translationRu": "каждый год",
@@ -2240,7 +2243,7 @@
   "już": {
     "translationRu": "уже",
     "aiStatus": "complete",
-    "example": "Już skończyłem."
+    "example": "Już skończyłem pracę."
   },
   "wprowadzić": {
     "translationRu": "ввести, внедрить",
@@ -2255,13 +2258,13 @@
     "example": "W tych okolicznościach nie mogę pomóc."
   },
   "ja - nie mogłem": {
-    "translationRu": "я не мог",
-    "aiStatus": "complete",
+    "translationRu": "я - не мог (муж. род, прош. вр.)",
+    "aiStatus": "partial",
     "example": "Ja nie mogłem przyjść wczoraj."
   },
   "on - nie mógł": {
-    "translationRu": "он не мог",
-    "aiStatus": "complete",
+    "translationRu": "он - не мог",
+    "aiStatus": "partial",
     "example": "On nie mógł tego zrozumieć."
   },
   "między": {
@@ -2283,17 +2286,17 @@
     "synonym": "swojsko"
   },
   "będę miał": {
-    "translationRu": "у меня будет (м.р.)",
+    "translationRu": "у меня будет, я буду иметь (буд. вр., муж. род)",
     "aiStatus": "complete",
     "example": "Będę miał czas w piątek."
   },
   "będę mieć": {
-    "translationRu": "буду иметь",
+    "translationRu": "я буду иметь (буд. вр., форма без указания рода)",
     "aiStatus": "complete",
-    "example": "Będę mieć spotkanie o dziesiątej."
+    "example": "Będę mieć nowy telefon."
   },
   "on / ona musi": {
-    "translationRu": "он / она должен / должна",
+    "translationRu": "он / она должен, должна",
     "aiStatus": "complete",
     "example": "On musi iść do pracy."
   },
@@ -2329,7 +2332,7 @@
   },
   "dużo /mało": {
     "translationRu": "много / мало",
-    "aiStatus": "complete",
+    "aiStatus": "partial",
     "example": "Mam dużo czasu, ale mało pieniędzy."
   },
   "zwariowany człowiek": {
@@ -2351,19 +2354,20 @@
     "example": "Szczerze mówiąc, nie podoba mi się to."
   },
   "4 złote": {
-    "translationRu": "4 злотых",
+    "translationRu": "4 злотых (форма мн. ч. для чисел 2-4)",
     "aiStatus": "complete",
     "example": "To kosztuje 4 złote."
   },
   "otwarte kraje": {
     "translationRu": "открытые страны",
     "aiStatus": "complete",
-    "example": "Szwecja to jeden z bardziej otwartych krajów."
+    "example": "Otwarte kraje przyjmują uchodźców."
   },
   "otwarci ludzie": {
-    "translationRu": "открытые люди",
+    "translationRu": "открытые люди (муж.-личная форма мн. ч. otwarci)",
     "aiStatus": "complete",
-    "example": "W tym mieście żyją otwarci ludzie."
+    "example": "To otwarci ludzie, łatwo z nimi rozmawiać.",
+    "synonym": "ludzie tolerancyjni"
   },
   "filar": {
     "translationRu": "столп, опора",
@@ -2384,14 +2388,14 @@
     "example": "Był zirytowany hałasem."
   },
   "trochę zimno - jak": {
-    "translationRu": "немного холодно - как (обрывок фразы)",
+    "translationRu": "немного холодно - как? (наречие trochę zimno отвечает на вопрос jak?)",
     "aiStatus": "partial",
     "example": "Jest trochę zimno, jak na czerwiec."
   },
   "w Polsce": {
     "translationRu": "в Польше",
     "aiStatus": "complete",
-    "example": "Mieszkam w Polsce od pięciu lat."
+    "example": "Mieszkam w Polsce od trzech lat."
   },
   "przeprowadzić się": {
     "translationRu": "переехать",
@@ -2421,8 +2425,8 @@
     "example": "Statek pasażerski wypłynął z portu."
   },
   "ja mogłem": {
-    "translationRu": "я мог",
-    "aiStatus": "complete",
+    "translationRu": "я мог (муж. род, прош. вр.)",
+    "aiStatus": "partial",
     "example": "Ja mogłem to zrobić lepiej."
   },
   "ja zapomniałem": {
@@ -2461,7 +2465,7 @@
     "example": "Firma reklamuje nowy produkt."
   },
   "wpływ będzie lepszy": {
-    "translationRu": "влияние будет лучше (обрывок фразы)",
+    "translationRu": "влияние будет лучше",
     "aiStatus": "partial",
     "example": "Sądzę, że wpływ będzie lepszy niż oczekiwano."
   },
@@ -2598,7 +2602,7 @@
     "example": "To był fajny film."
   },
   "auto- auta l/m": {
-    "translationRu": "авто - автомобили (ед./мн. ч.)",
+    "translationRu": "машина - машины (форма мн. числа, l/m = liczba mnoga)",
     "aiStatus": "partial",
     "example": "Mam jedno auto, a moi sąsiedzi mają dwa auta."
   },
@@ -2688,7 +2692,8 @@
   "człowiek pająk": {
     "translationRu": "человек-паук",
     "aiStatus": "complete",
-    "example": "Peter Parker to człowiek pająk."
+    "example": "Człowiek pająk jest bohaterem komiksów.",
+    "synonym": "Spiderman"
   },
   "wyemitować": {
     "translationRu": "выпустить в эфир, эмитировать",
@@ -2846,7 +2851,7 @@
     "example": "To powinno polepszyć sytuację."
   },
   "im//tym": {
-    "translationRu": "чем ... тем (конструкция im ... tym)",
+    "translationRu": "чем..., тем... (конструкция im...tym)",
     "aiStatus": "partial",
     "example": "Im więcej czytasz, tym więcej wiesz."
   },
@@ -2959,7 +2964,7 @@
   "wszystkie stoliki": {
     "translationRu": "все столики",
     "aiStatus": "complete",
-    "example": "Wszystkie stoliki w restauracji były zajęte."
+    "example": "Wszystkie stoliki są zajęte."
   },
   "wyjątkowy": {
     "translationRu": "исключительный",
@@ -2998,14 +3003,15 @@
     "synonym": "na świeżym powietrzu"
   },
   "dużo / mało - kobiet lubi kwiaty": {
-    "translationRu": "много / мало женщин любит цветы (обрывок фразы)",
+    "translationRu": "много/мало женщин любит цветы (dużo/mało + сущ. в род. п. мн. ч., глагол в 3 л. ед. ч.)",
     "aiStatus": "partial",
     "example": "Dużo kobiet lubi kwiaty, mało mężczyzn."
   },
   "zyskować - zysk": {
-    "translationRu": "выигрывать, приобретать - выгода",
+    "translationRu": "получать выгоду - выгода, прибыль (глагол - существительное)",
     "aiStatus": "complete",
-    "example": "Firma zyskuje na tej inwestycji."
+    "example": "Firma zyskuje na tej inwestycji.",
+    "synonym": "korzystać"
   },
   "osiągnąc": {
     "translationRu": "достичь (опечатка от osiągnąć)",
@@ -3075,16 +3081,17 @@
   "wodór": {
     "translationRu": "водород",
     "aiStatus": "complete",
-    "example": "Wodór jest najlżejszym pierwiastkiem."
+    "example": "Wodór jest najlżejszym gazem."
   },
   "praca się zmienia": {
     "translationRu": "работа меняется",
     "aiStatus": "complete",
-    "example": "Rynek pracy się zmienia bardzo szybko."
+    "example": "Rynek pracy się zmienia bardzo szybko.",
+    "synonym": "praca ulega zmianie"
   },
   "praza się zmieni": {
-    "translationRu": "работа изменится (опечатка от praca się zmieni)",
-    "aiStatus": "complete",
+    "translationRu": "работа изменится (опечатка: praza → praca)",
+    "aiStatus": "partial",
     "example": "Wierzę, że praca się zmieni na lepsze."
   },
   "przystosować się": {
@@ -3152,12 +3159,12 @@
     "synonym": "przyjemne"
   },
   "codziennie - jak": {
-    "translationRu": "ежедневно - как (обрывок фразы)",
+    "translationRu": "ежедневно - как? (наречие, отвечает на вопрос jak?)",
     "aiStatus": "partial",
     "example": "Codziennie chodzę na spacer, jak tylko mogę."
   },
   "codzienne - jakie": {
-    "translationRu": "ежедневные - какие (обрывок фразы)",
+    "translationRu": "повседневный/ежедневный - какой? (прилагательное, отвечает на вопрос jakie?)",
     "aiStatus": "partial",
     "example": "Jakie masz codzienne obowiązki?"
   },
@@ -3234,8 +3241,8 @@
     "example": "Lot został odwołany z powodu pogody."
   },
   "jesT": {
-    "translationRu": "есть (форма глагола \"быть\")",
-    "aiStatus": "complete",
+    "translationRu": "есть, является (опечатка написания: jesT → jest)",
+    "aiStatus": "partial",
     "example": "On jest bardzo miły."
   },
   "udar słoneczny": {
@@ -3245,12 +3252,12 @@
     "synonym": "przegrzanie organizmu"
   },
   "w zeszłym": {
-    "translationRu": "в прошлом (обрывок, напр. w zeszłym roku)",
+    "translationRu": "в прошлом (году) — обрывок фразы 'w zeszłym roku'",
     "aiStatus": "partial",
     "example": "W zeszłym roku byliśmy w Grecji."
   },
   "w przyszłym": {
-    "translationRu": "в будущем (обрывок, напр. w przyszłym roku)",
+    "translationRu": "в будущем (году) — обрывок фразы 'w przyszłym roku'",
     "aiStatus": "partial",
     "example": "W przyszłym roku planujemy ślub."
   },
@@ -3291,9 +3298,10 @@
     "synonym": "lampa"
   },
   "jak- upalnie": {
-    "translationRu": "как - жарко (обрывок фразы)",
+    "translationRu": "как жарко (jak upalnie! — восклицание о сильной жаре)",
     "aiStatus": "partial",
-    "example": "Zobacz, jak upalnie jest dzisiaj."
+    "example": "Jak upalnie jest dzisiaj!",
+    "synonym": "jak gorąco"
   },
   "w tej porze": {
     "translationRu": "в это время (года)",
@@ -3337,8 +3345,10 @@
     "example": "Nie odkładaj wszystkiego na ostatni dzień."
   },
   "gwiadza w głowie": {
-    "translationRu": "звезда в голове (идиома, смысл неточен, опечатка)",
-    "aiStatus": "partial"
+    "translationRu": "звёздная болезнь, зазнайство (букв. 'звезда в голове', опечатка: gwiadza → gwiazda)",
+    "aiStatus": "partial",
+    "synonym": "zadzieranie nosa",
+    "example": "Odniósł mały sukces i już ma gwiazdę w głowie."
   },
   "u niego": {
     "translationRu": "у него",
@@ -3383,7 +3393,7 @@
     "synonym": "przygarnąć się"
   },
   "im///tym": {
-    "translationRu": "чем ... тем (конструкция im ... tym)",
+    "translationRu": "чем..., тем... (конструкция im...tym)",
     "aiStatus": "partial",
     "example": "Im szybciej, tym lepiej."
   },
@@ -3536,8 +3546,8 @@
     "synonym": "wzięłam w najem"
   },
   "w łazience - łazienka": {
-    "translationRu": "в ванной - ванная",
-    "aiStatus": "complete",
+    "translationRu": "в ванной - ванная (местный падеж существительного łazienka)",
+    "aiStatus": "partial",
     "example": "Ręcznik jest w łazience."
   },
   "smakować": {
@@ -3565,7 +3575,7 @@
     "synonym": "śledzić"
   },
   "w wadzę": {
-    "translationRu": "в весе (обрывок фразы, опечатка от w wadze)",
+    "translationRu": "в весе (опечатка: правильно 'w wadze')",
     "aiStatus": "partial",
     "example": "Przybrałem trochę na wadze."
   },
@@ -3588,9 +3598,9 @@
     "synonym": "spiskowe koncepcje"
   },
   "umierać - umrzeć": {
-    "translationRu": "умирать - умереть",
+    "translationRu": "умирать - умереть (несовершенный - совершенный вид)",
     "aiStatus": "complete",
-    "example": "Rośliny umierają bez wody."
+    "example": "Nikt nie chce umierać, ale każdy musi umrzeć."
   },
   "nic specjalnego": {
     "translationRu": "ничего особенного",
@@ -3607,7 +3617,7 @@
   "pogaństwo": {
     "translationRu": "язычество",
     "aiStatus": "complete",
-    "example": "Przed chrztem Polski panowało pogaństwo."
+    "example": "Pogaństwo było powszechne w starożytności."
   },
   "jej mąż nadal żył": {
     "translationRu": "её муж всё ещё был жив",
@@ -3729,9 +3739,9 @@
     "synonym": "bieg (czasu)"
   },
   "zaproszenie dla": {
-    "translationRu": "приглашение для",
-    "aiStatus": "complete",
-    "example": "Wysłałem zaproszenie dla wszystkich znajomych."
+    "translationRu": "приглашение для (кого-то) — обрывок фразы",
+    "aiStatus": "partial",
+    "example": "Mam zaproszenie dla gości."
   },
   "klasyfikacja": {
     "translationRu": "классификация",
@@ -3782,9 +3792,9 @@
     "synonym": "niepojęte"
   },
   "o filmie": {
-    "translationRu": "о фильме",
+    "translationRu": "о фильме (предложный падеж)",
     "aiStatus": "complete",
-    "example": "Rozmawialiśmy o filmie, który widzieliśmy."
+    "example": "Rozmawialiśmy o filmie, który widzieliśmy wczoraj."
   },
   "wynajęliśmy": {
     "translationRu": "мы сняли, арендовали",
@@ -3792,8 +3802,8 @@
     "example": "Wynajęliśmy samochód na tydzień."
   },
   "półtoraj": {
-    "translationRu": "полтора (опечатка от półtora)",
-    "aiStatus": "complete",
+    "translationRu": "полтора (искажённая форма; правильно 'półtora'/'półtorej')",
+    "aiStatus": "partial",
     "example": "Czekałem półtorej godziny."
   },
   "bliski": {
@@ -3802,7 +3812,7 @@
     "example": "To mój bliski przyjaciel."
   },
   "część - ona": {
-    "translationRu": "часть - она (грамматическая заметка о роде слова)",
+    "translationRu": "часть - она (существительное женского рода, местоимение 'ona')",
     "aiStatus": "partial",
     "example": "Ta część jest bardzo ważna."
   },
@@ -3887,30 +3897,30 @@
     "synonym": "byli zdziwieni"
   },
   "Murzyn": {
-    "translationRu": "чернокожий (разг., исторически нейтральное в польском, сейчас спорное слово)",
+    "translationRu": "негр (устаревшее слово для чернокожего человека)",
     "aiStatus": "complete"
   },
   "Ciapaty": {
-    "translationRu": "уничижительное прозвище для выходцев из Южной Азии (сленг)",
+    "translationRu": "чурка (оскорбительное разговорное слово о человеке с Ближнего Востока/Южной Азии)",
     "aiStatus": "complete"
   },
   "Żółtek": {
-    "translationRu": "уничижительное прозвище для азиата, букв. \"желтоватый\" (сленг)",
+    "translationRu": "азиат (уничижительно, букв. 'желтячок')",
     "aiStatus": "complete"
   },
   "Brytol": {
-    "translationRu": "разговорное прозвище британца",
+    "translationRu": "англичанин (разговорное, слегка пренебрежительное прозвище британца)",
     "aiStatus": "complete"
   },
   "Rusek": {
-    "translationRu": "разговорное прозвище русского",
+    "translationRu": "русский (разговорное, пренебрежительное прозвище)",
     "aiStatus": "complete",
     "synonym": "Ruski"
   },
   "około + liczbnik + u": {
-    "translationRu": "грамматическая заметка: \"около\" + числительное + родительный падеж",
+    "translationRu": "около + числительное с окончанием -u (конструкция приближённого количества, напр. 'około dwudziestu')",
     "aiStatus": "partial",
-    "example": "Czekaliśmy około pięciu minut."
+    "example": "Przyszło około dwudziestu osób."
   },
   "bym powiedział": {
     "translationRu": "я бы сказал",
@@ -3931,7 +3941,7 @@
     "synonym": "ankieta"
   },
   "kwestia tego///że": {
-    "translationRu": "вопрос в том, что...",
+    "translationRu": "вопрос в том, что... (конструкция 'kwestia tego, że')",
     "aiStatus": "partial",
     "example": "To kwestia tego, że nie mamy czasu."
   },
@@ -3988,7 +3998,7 @@
     "example": "Udało jej się opanować przerażenie."
   },
   "Wsłuchała się we wrzaski": {
-    "translationRu": "она вслушалась в крики",
+    "translationRu": "она прислушалась к крикам, воплям",
     "aiStatus": "complete"
   },
   "wyjąć": {
@@ -4018,9 +4028,9 @@
     "example": "Strażacy pomogli wydostać psa z wody."
   },
   "pomost wędkarski, wędkarz, wędka": {
-    "translationRu": "рыболовный мостик, рыбак, удочка",
+    "translationRu": "рыболовный мостик (пирс), рыбак, удочка",
     "aiStatus": "complete",
-    "example": "Wędkarz stał na pomoście z wędką w ręku."
+    "example": "Wędkarz stał na pomoście wędkarskim z wędką w ręku."
   },
   "być na ostatnich nogach": {
     "translationRu": "быть при последнем издыхании (идиома)",
@@ -4086,7 +4096,8 @@
   },
   "W lesie zobaczyliśmy sarnę.": {
     "translationRu": "В лесу мы увидели косулю.",
-    "aiStatus": "complete"
+    "aiStatus": "complete",
+    "synonym": "jeleń"
   },
   "dostać się": {
     "translationRu": "попасть (куда-то)",
@@ -4189,9 +4200,9 @@
     "synonym": "ogródek"
   },
   "do niego": {
-    "translationRu": "к нему",
+    "translationRu": "к нему, для него",
     "aiStatus": "complete",
-    "example": "Podszedłem do niego i się przywitałem."
+    "example": "Idę do niego na kawę."
   },
   "domyślać się": {
     "translationRu": "догадываться",
@@ -4258,5 +4269,1341 @@
     "aiStatus": "complete",
     "synonym": "wiać",
     "example": "Wiatr zaczął dąć coraz silniej."
+  },
+  "wszystkie płyny": {
+    "translationRu": "все жидкости",
+    "example": "Wszystkie płyny trzeba spakować do przezroczystej torby.",
+    "aiStatus": "complete"
+  },
+  "na uniwersytecie": {
+    "translationRu": "в университете",
+    "example": "Studiuję na uniwersytecie w Warszawie.",
+    "aiStatus": "complete"
+  },
+  "zmiana - ona": {
+    "translationRu": "смена, изменение - она (существительное женского рода)",
+    "aiStatus": "partial",
+    "example": "Ta zmiana zaskoczyła wszystkich."
+  },
+  "poprawka": {
+    "translationRu": "исправление, поправка; переэкзаменовка",
+    "synonym": "korekta",
+    "example": "Musiałem zdawać poprawkę z matematyki.",
+    "aiStatus": "complete"
+  },
+  "dobre wyniki": {
+    "translationRu": "хорошие результаты",
+    "example": "Uczniowie osiągnęli dobre wyniki na egzaminie.",
+    "aiStatus": "complete",
+    "synonym": "dobre rezultaty"
+  },
+  "transformacja": {
+    "translationRu": "трансформация, преобразование",
+    "synonym": "przemiana",
+    "example": "Kraj przeszedł wielką transformację gospodarczą.",
+    "aiStatus": "complete"
+  },
+  "bardziej": {
+    "translationRu": "более, больше (сравнительная степень)",
+    "example": "To jest bardziej skomplikowane, niż myślałem.",
+    "aiStatus": "complete"
+  },
+  "istotniejszy": {
+    "translationRu": "более важный, более существенный (сравнит. степень от 'istotny')",
+    "synonym": "ważniejszy",
+    "example": "To jest istotniejszy problem niż sądziliśmy.",
+    "aiStatus": "complete"
+  },
+  "2 lata": {
+    "translationRu": "2 года",
+    "example": "Mieszkam tutaj już 2 lata.",
+    "aiStatus": "complete"
+  },
+  "1 rok": {
+    "translationRu": "1 год",
+    "example": "Minął już 1 rok od przeprowadzki.",
+    "aiStatus": "complete"
+  },
+  "mocny skład": {
+    "translationRu": "сильный состав (команды)",
+    "synonym": "silny skład",
+    "example": "Reprezentacja ma bardzo mocny skład na te mistrzostwa.",
+    "aiStatus": "complete"
+  },
+  "elitarny skład": {
+    "translationRu": "элитный состав",
+    "synonym": "wyborowy skład",
+    "example": "To elitarny skład zawodników z najwyższego poziomu.",
+    "aiStatus": "complete"
+  },
+  "kibicować": {
+    "translationRu": "болеть за (команду), поддерживать",
+    "synonym": "wspierać",
+    "example": "Będziemy kibicować naszej reprezentacji.",
+    "aiStatus": "complete"
+  },
+  "Będę Ci kibicować.": {
+    "translationRu": "Я буду болеть за тебя.",
+    "aiStatus": "complete",
+    "synonym": "Będę Cię wspierać."
+  },
+  "Będę trzymać za Ciebie kciuki,": {
+    "translationRu": "Буду держать за тебя кулачки (желать удачи)",
+    "aiStatus": "complete",
+    "synonym": "Będę Ci kibicować."
+  },
+  "oni biorą": {
+    "translationRu": "они берут",
+    "example": "Oni biorą udział w konkursie.",
+    "aiStatus": "complete"
+  },
+  "zasłaniać": {
+    "translationRu": "закрывать, заслонять (несов. вид)",
+    "synonym": "przesłaniać",
+    "example": "Nie zasłaniaj mi widoku.",
+    "aiStatus": "complete"
+  },
+  "zakrywać": {
+    "translationRu": "закрывать, накрывать (несов. вид)",
+    "synonym": "przykrywać",
+    "example": "Zakrywam usta podczas kaszlu.",
+    "aiStatus": "complete"
+  },
+  "wesprzeć": {
+    "translationRu": "поддержать (сов. вид)",
+    "synonym": "pomóc",
+    "example": "Chcę wesprzeć cię w trudnej chwili.",
+    "aiStatus": "complete"
+  },
+  "zaleta": {
+    "translationRu": "достоинство, преимущество",
+    "synonym": "plus",
+    "example": "Największą zaletą tego mieszkania jest lokalizacja.",
+    "aiStatus": "complete"
+  },
+  "podobne/ podobnie": {
+    "translationRu": "похожий/похожая (прил.) / похоже (нареч.) — пометка о разнице прилагательного и наречия",
+    "aiStatus": "partial",
+    "example": "Te dwa obrazy są podobne, wyglądają podobnie."
+  },
+  "przestępstwo": {
+    "translationRu": "преступление",
+    "synonym": "zbrodnia",
+    "example": "Kradzież to przestępstwo karane przez prawo.",
+    "aiStatus": "complete"
+  },
+  "bezsensowy": {
+    "translationRu": "бессмысленный",
+    "synonym": "absurdalny",
+    "example": "To był bezsensowy pomysł.",
+    "aiStatus": "complete"
+  },
+  "zabrać": {
+    "translationRu": "забрать, взять с собой",
+    "synonym": "wziąć",
+    "example": "Muszę zabrać parasol, bo pada deszcz.",
+    "aiStatus": "complete"
+  },
+  "zabiorą": {
+    "translationRu": "(они) забéрут — форма будущего времени глагола zabrać",
+    "example": "Zabiorą wszystkie rzeczy z magazynu.",
+    "aiStatus": "partial"
+  },
+  "szlub": {
+    "translationRu": "свадьба (опечатка: правильно ślub)",
+    "synonym": "wesele",
+    "aiStatus": "partial",
+    "example": "W czerwcu odbędzie się ich ślub."
+  },
+  "fektywny": {
+    "translationRu": "эффективный (опечатка: правильно efektywny)",
+    "aiStatus": "partial",
+    "example": "To bardzo efektywny sposób nauki."
+  },
+  "nie złożyła": {
+    "translationRu": "не подала, не сложила (прош. вр. глагола złożyć, ж.р.)",
+    "example": "Nie złożyła jeszcze dokumentów do urzędu.",
+    "aiStatus": "partial"
+  },
+  "zawolać": {
+    "translationRu": "позвать, крикнуть (опечатка: правильно zawołać)",
+    "example": "Zawołał ją z drugiego pokoju.",
+    "aiStatus": "partial",
+    "synonym": "krzyknąć"
+  },
+  "brzydzić się": {
+    "translationRu": "испытывать отвращение, гнушаться",
+    "synonym": "czuć wstręt",
+    "example": "Brzydzę się pająkami.",
+    "aiStatus": "complete"
+  },
+  "trzmiel": {
+    "translationRu": "шмель",
+    "example": "Trzmiel usiadł na kwiatku.",
+    "aiStatus": "complete"
+  },
+  "świerszcz": {
+    "translationRu": "сверчок",
+    "example": "Wieczorem słychać było świerszcze w trawie.",
+    "aiStatus": "complete"
+  },
+  "konik polny": {
+    "translationRu": "кузнечик",
+    "example": "Konik polny skacze wysoko w trawie.",
+    "aiStatus": "complete",
+    "synonym": "pasikonik"
+  },
+  "szarańcza": {
+    "translationRu": "саранча",
+    "example": "Szarańcza zniszczyła plony na polu.",
+    "aiStatus": "complete"
+  },
+  "kleszcz": {
+    "translationRu": "клещ",
+    "example": "Po powrocie z lasu trzeba sprawdzić, czy nie ma kleszcza.",
+    "aiStatus": "complete"
+  },
+  "gąsienica": {
+    "translationRu": "гусеница",
+    "example": "Gąsienica zmienia się w motyla.",
+    "aiStatus": "complete"
+  },
+  "karaluch": {
+    "translationRu": "таракан",
+    "example": "W starym domu było pełno karaluchów.",
+    "aiStatus": "complete"
+  },
+  "biedronka": {
+    "translationRu": "божья коровка",
+    "example": "Biedronka usiadła na liściu.",
+    "aiStatus": "complete"
+  },
+  "mól": {
+    "translationRu": "моль",
+    "example": "Mól zjadł mi swetry w szafie.",
+    "aiStatus": "complete"
+  },
+  "motyl": {
+    "translationRu": "бабочка",
+    "example": "Motyl usiadł na kolorowym kwiatku.",
+    "aiStatus": "complete"
+  },
+  "fachowca- Fachowiec": {
+    "translationRu": "специалист, мастер (fachowiec; fachowca — форма винительного падежа)",
+    "example": "Potrzebuję dobrego fachowca do naprawy pralki.",
+    "aiStatus": "partial",
+    "synonym": "specjalista"
+  },
+  "mrowisko": {
+    "translationRu": "муравейник",
+    "example": "W lesie natknęliśmy się na duże mrowisko.",
+    "aiStatus": "complete"
+  },
+  "zwiadzać": {
+    "translationRu": "посещать, осматривать достопримечательности (опечатка: правильно zwiedzać)",
+    "example": "Lubimy zwiedzać nowe miasta.",
+    "aiStatus": "partial",
+    "synonym": "odwiedzać"
+  },
+  "koszary": {
+    "translationRu": "казармы",
+    "example": "Żołnierze wrócili do koszar po ćwiczeniach.",
+    "aiStatus": "complete"
+  },
+  "dyżur": {
+    "translationRu": "дежурство, смена",
+    "synonym": "zmiana",
+    "example": "Mam dzisiaj dyżur w szpitalu.",
+    "aiStatus": "complete"
+  },
+  "stołówka": {
+    "translationRu": "столовая (в учреждении)",
+    "synonym": "kantyna",
+    "example": "Zjadłem obiad w stołówce szkolnej.",
+    "aiStatus": "complete"
+  },
+  "kuzyn": {
+    "translationRu": "кузен, двоюродный брат",
+    "synonym": "brat cioteczny",
+    "example": "Mój kuzyn przyjechał z zagranicy.",
+    "aiStatus": "complete"
+  },
+  "mieć coś w małym palcu": {
+    "translationRu": "знать что-то досконально, как свои пять пальцев (идиома)",
+    "example": "On ma matematykę w małym palcu.",
+    "aiStatus": "complete"
+  },
+  "Być złotą rączką": {
+    "translationRu": "быть мастером на все руки (идиома, буквально «золотые ручки»)",
+    "example": "Mój ojciec jest złotą rączką i sam naprawia wszystko w domu.",
+    "aiStatus": "complete"
+  },
+  "Być obkutym": {
+    "translationRu": "быть подкованным, хорошо подготовленным (разг., о знаниях перед экзаменом)",
+    "example": "Przed egzaminem był bardzo obkuty z historii.",
+    "aiStatus": "complete"
+  },
+  "Mieć głowę na karku": {
+    "translationRu": "иметь голову на плечах, быть рассудительным (идиома)",
+    "example": "Ona ma głowę na karku i podejmuje dobre decyzje.",
+    "aiStatus": "complete"
+  },
+  "Trzymać kciuki": {
+    "translationRu": "держать кулачки, желать удачи (идиома)",
+    "example": "Będę trzymać kciuki za twój egzamin.",
+    "aiStatus": "complete"
+  },
+  "Owijać w bawełnę": {
+    "translationRu": "ходить вокруг да около, говорить обтекаемо (идиома, буквально «укутывать в вату»)",
+    "example": "Nie owijaj w bawełnę, powiedz prawdę.",
+    "aiStatus": "complete"
+  },
+  "Odwalić kawał dobrej robot": {
+    "translationRu": "сделать большую, хорошую работу (разг. идиома; опечатка: должно быть roboty)",
+    "example": "Zespół odwalił kawał dobrej roboty przy tym projekcie.",
+    "aiStatus": "partial"
+  },
+  "wszystkie egzaminy": {
+    "translationRu": "все экзамены",
+    "example": "Zdałem wszystkie egzaminy w tym semestrze.",
+    "aiStatus": "complete"
+  },
+  "powołanie do wojska": {
+    "translationRu": "призыв в армию",
+    "synonym": "pobór do wojska",
+    "example": "Otrzymał powołanie do wojska tuż po studiach.",
+    "aiStatus": "complete"
+  },
+  "pobór do wojska": {
+    "translationRu": "призыв на военную службу, набор в армию",
+    "synonym": "powołanie do wojska",
+    "example": "Pobór do wojska w tym kraju jest obowiązkowy dla mężczyzn.",
+    "aiStatus": "complete"
+  },
+  "Mieć pecha": {
+    "translationRu": "не везти, иметь несчастье (идиома)",
+    "example": "Miałem pecha i spóźniłem się na pociąg.",
+    "aiStatus": "complete"
+  },
+  "Pękać z dumy": {
+    "translationRu": "лопаться от гордости (идиома)",
+    "example": "Rodzice pękali z dumy, gdy syn odebrał dyplom.",
+    "aiStatus": "complete"
+  },
+  "główny cel to": {
+    "translationRu": "главная цель — это... (конструкция для определения цели)",
+    "example": "Główny cel to poprawa jakości życia mieszkańców.",
+    "aiStatus": "partial"
+  },
+  "głównym celem jest": {
+    "translationRu": "главной целью является... (конструкция для определения цели)",
+    "example": "Głównym celem jest zdobycie nowych klientów.",
+    "aiStatus": "complete"
+  },
+  "dbać o": {
+    "translationRu": "заботиться о",
+    "example": "Trzeba dbać o zdrowie.",
+    "aiStatus": "complete"
+  },
+  "opiekować się": {
+    "translationRu": "заботиться о ком-то, ухаживать",
+    "example": "Opiekuje się chorą babcią.",
+    "aiStatus": "complete"
+  },
+  "pielęgnować": {
+    "translationRu": "ухаживать, лелеять (о растениях, отношениях, традициях)",
+    "example": "Pielęgnuje kwiaty na balkonie.",
+    "aiStatus": "complete"
+  },
+  "strój": {
+    "translationRu": "костюм, наряд, одежда",
+    "synonym": "ubranie",
+    "example": "Na bal włożyła piękny strój.",
+    "aiStatus": "complete"
+  },
+  "odczuwać skutki": {
+    "translationRu": "чувствовать, испытывать последствия",
+    "example": "Firma odczuwa skutki kryzysu gospodarczego.",
+    "aiStatus": "complete",
+    "synonym": "doświadczać konsekwencji"
+  },
+  "instytucje": {
+    "translationRu": "учреждения, институты",
+    "example": "Instytucje publiczne powinny działać przejrzyście.",
+    "aiStatus": "complete",
+    "synonym": "urzędy"
+  },
+  "sytuacje": {
+    "translationRu": "ситуации",
+    "example": "W życiu bywają różne sytuacje.",
+    "aiStatus": "complete",
+    "synonym": "okoliczności"
+  },
+  "odłożone pieniądze": {
+    "translationRu": "отложенные деньги, сбережения",
+    "synonym": "oszczędności",
+    "example": "Wydał wszystkie odłożone pieniądze na remont.",
+    "aiStatus": "complete"
+  },
+  "oszczędności": {
+    "translationRu": "сбережения",
+    "synonym": "odłożone pieniądze",
+    "example": "Mam trochę oszczędności na koncie.",
+    "aiStatus": "complete"
+  },
+  "zaczęła": {
+    "translationRu": "начала (прош. вр. глагола zacząć, ж.р.)",
+    "example": "Zaczęła nową pracę w zeszłym tygodniu.",
+    "aiStatus": "complete"
+  },
+  "zapomniać": {
+    "translationRu": "забыть",
+    "example": "Zapomniałem parasola w domu.",
+    "aiStatus": "complete"
+  },
+  "przyjadą": {
+    "translationRu": "(они) приедут (будущее время глагола przyjechać)",
+    "example": "Przyjadą do nas w niedzielę.",
+    "aiStatus": "complete"
+  },
+  "punkt": {
+    "translationRu": "пункт, точка",
+    "synonym": "miejsce",
+    "example": "To jest ważny punkt na mapie miasta.",
+    "aiStatus": "complete"
+  },
+  "koryto rzeki": {
+    "translationRu": "русло реки",
+    "example": "Koryto rzeki zmieniło się po powodzi.",
+    "aiStatus": "complete"
+  },
+  "tanio": {
+    "translationRu": "дешёво (нареч.)",
+    "synonym": "niedrogo",
+    "example": "Kupiłem te buty bardzo tanio.",
+    "aiStatus": "complete"
+  },
+  "tani produkt": {
+    "translationRu": "дешёвый продукт",
+    "synonym": "niedrogi towar",
+    "example": "Kupiłem tani produkt, ale okazał się dobry.",
+    "aiStatus": "complete"
+  },
+  "nie bać się": {
+    "translationRu": "не бояться",
+    "example": "Nie bój się, wszystko będzie dobrze.",
+    "aiStatus": "complete"
+  },
+  "odważać się": {
+    "translationRu": "осмеливаться, решаться",
+    "synonym": "mieć odwagę",
+    "example": "Nie odważam się mu powiedzieć prawdy.",
+    "aiStatus": "complete"
+  },
+  "wystarczająca": {
+    "translationRu": "достаточная (ж. р.)",
+    "example": "To wystarczająca ilość jedzenia na wszystkich.",
+    "aiStatus": "complete"
+  },
+  "wystarczający": {
+    "translationRu": "достаточный (м. р.)",
+    "example": "To wystarczający powód, aby zostać.",
+    "aiStatus": "complete"
+  },
+  "spacerowaliśmy po mieście": {
+    "translationRu": "мы гуляли по городу",
+    "aiStatus": "complete",
+    "example": "Wczoraj spacerowaliśmy po mieście do wieczora."
+  },
+  "przepis": {
+    "translationRu": "рецепт; предписание, норма (закона)",
+    "synonym": "receptura",
+    "example": "Mama ma świetny przepis na bigos.",
+    "aiStatus": "complete"
+  },
+  "łasuch": {
+    "translationRu": "лакомка, сладкоежка",
+    "synonym": "smakosz",
+    "example": "Mój brat to prawdziwy łasuch, uwielbia czekoladę.",
+    "aiStatus": "complete"
+  },
+  "uczciwa": {
+    "translationRu": "честная (ж. р.)",
+    "synonym": "szczera",
+    "example": "Ona jest bardzo uczciwa i nigdy nie oszukuje.",
+    "aiStatus": "complete"
+  },
+  "na wprost": {
+    "translationRu": "прямо, напротив (по направлению)",
+    "synonym": "naprzeciwko",
+    "example": "Sklep jest na wprost przystanku.",
+    "aiStatus": "complete"
+  },
+  "polecenie": {
+    "translationRu": "поручение, распоряжение; рекомендация",
+    "synonym": "zalecenie",
+    "example": "Szef dał mi nowe polecenie do wykonania.",
+    "aiStatus": "complete"
+  },
+  "rada": {
+    "translationRu": "совет",
+    "synonym": "wskazówka",
+    "example": "Dał mi bardzo dobrą radę.",
+    "aiStatus": "complete"
+  },
+  "wykształcenie": {
+    "translationRu": "образование",
+    "synonym": "edukacja",
+    "example": "Ukończył wykształcenie wyższe.",
+    "aiStatus": "complete"
+  },
+  "w rzeczuwistości": {
+    "translationRu": "на самом деле, в действительности (опечатка от 'w rzeczywistości')",
+    "synonym": "faktycznie",
+    "example": "W rzeczywistości to było zupełnie inaczej.",
+    "aiStatus": "partial"
+  },
+  "oszukiwać": {
+    "translationRu": "обманывать",
+    "synonym": "kantować",
+    "example": "Nie lubię, gdy ktoś mnie oszukuje.",
+    "aiStatus": "complete"
+  },
+  "oszust": {
+    "translationRu": "обманщик, мошенник",
+    "synonym": "kanciarz",
+    "example": "Uważaj, on jest znanym oszustem.",
+    "aiStatus": "complete"
+  },
+  "o tym było głośno": {
+    "translationRu": "об этом много говорили, это стало известно (буквально: было 'громко')",
+    "aiStatus": "complete",
+    "example": "O tej sprawie było głośno w mediach."
+  },
+  "agent - agenci": {
+    "translationRu": "агент — агенты (грамматическая пометка: ед./мн. число)",
+    "aiStatus": "partial",
+    "example": "Agent nieruchomości pomógł nam znaleźć mieszkanie."
+  },
+  "wałęsać się": {
+    "translationRu": "бродить, шататься без дела",
+    "synonym": "snuć się",
+    "example": "Wałęsał się po mieście bez celu.",
+    "aiStatus": "complete"
+  },
+  "błąkać się": {
+    "translationRu": "блуждать, скитаться",
+    "synonym": "wędrować bez celu",
+    "example": "Błąkaliśmy się po lesie, szukając drogi.",
+    "aiStatus": "complete"
+  },
+  "włóczęga": {
+    "translationRu": "бродяга, скиталец",
+    "synonym": "bezdomny",
+    "example": "Na stacji siedział samotny włóczęga.",
+    "aiStatus": "complete"
+  },
+  "autostopowicz": {
+    "translationRu": "автостопщик",
+    "synonym": "podróżnik",
+    "example": "Autostopowicz czekał na drodze na kierowcę.",
+    "aiStatus": "complete"
+  },
+  "wycieczkowicz": {
+    "translationRu": "экскурсант, турист (на экскурсии)",
+    "synonym": "turysta",
+    "example": "Wycieczkowicze zwiedzali stare miasto z przewodnikiem.",
+    "aiStatus": "complete"
+  },
+  "kraj - on": {
+    "translationRu": "страна, край — он (грамматическая пометка: мужской род слова 'kraj')",
+    "aiStatus": "partial",
+    "example": "Ten kraj ma bogatą historię."
+  },
+  "państwo - ono": {
+    "translationRu": "государство — оно (грамматическая пометка: слово 'państwo' согласуется как средний род)",
+    "aiStatus": "partial",
+    "example": "To państwo graniczy z trzema innymi krajami."
+  },
+  "poprzeć": {
+    "translationRu": "поддержать, одобрить",
+    "synonym": "wspierać",
+    "example": "Zdecydowałem się poprzeć ten projekt.",
+    "aiStatus": "complete"
+  },
+  "ruszać się": {
+    "translationRu": "двигаться, шевелиться",
+    "synonym": "kręcić się",
+    "example": "Nie ruszaj się, zrobię zdjęcie.",
+    "aiStatus": "complete"
+  },
+  "poruszać się": {
+    "translationRu": "двигаться, перемещаться",
+    "synonym": "przemieszczać się",
+    "example": "Trudno mu się poruszać po operacji.",
+    "aiStatus": "complete"
+  },
+  "przestrzega": {
+    "translationRu": "соблюдает, придерживается (он/она, от 'przestrzegać')",
+    "synonym": "trzyma się zasad",
+    "example": "On zawsze przestrzega zasad.",
+    "aiStatus": "complete"
+  },
+  "najbardziej oczekiewany": {
+    "translationRu": "самый ожидаемый (опечатка от 'najbardziej oczekiwany')",
+    "synonym": "wyczekiwany",
+    "example": "To najbardziej oczekiwany film tego roku.",
+    "aiStatus": "partial"
+  },
+  "odpoczywać": {
+    "translationRu": "отдыхать",
+    "synonym": "relaksować się",
+    "example": "Lubię odpoczywać nad morzem.",
+    "aiStatus": "complete"
+  },
+  "wypoczynek": {
+    "translationRu": "отдых",
+    "example": "Potrzebuję trochę wypoczynku po pracy.",
+    "aiStatus": "complete"
+  },
+  "porządek": {
+    "translationRu": "порядок",
+    "synonym": "ład",
+    "example": "Muszę zrobić porządek w swoim pokoju.",
+    "aiStatus": "complete"
+  },
+  "uporządkować": {
+    "translationRu": "привести в порядок, упорядочить",
+    "synonym": "poukładać",
+    "example": "Trzeba uporządkować dokumenty przed wyjazdem.",
+    "aiStatus": "complete"
+  },
+  "przeprowadać": {
+    "translationRu": "проводить, осуществлять (опечатка от 'przeprowadzać')",
+    "example": "Trzeba przeprowadzać regularne kontrole.",
+    "aiStatus": "partial"
+  },
+  "boisko": {
+    "translationRu": "спортивная площадка, стадион",
+    "synonym": "stadion",
+    "example": "Dzieci grały w piłkę na boisku.",
+    "aiStatus": "complete"
+  },
+  "zadawolenie": {
+    "translationRu": "удовлетворение, удовольствие (опечатка от 'zadowolenie')",
+    "synonym": "satysfakcja",
+    "example": "Praca daje mu wiele zadowolenia.",
+    "aiStatus": "partial"
+  },
+  "nawyk": {
+    "translationRu": "привычка",
+    "synonym": "zwyczaj",
+    "example": "Palenie to szkodliwy nawyk.",
+    "aiStatus": "complete"
+  },
+  "dużo mówi": {
+    "translationRu": "много говорит",
+    "aiStatus": "complete",
+    "example": "On dużo mówi, ale mało robi."
+  },
+  "rozpowszechniony": {
+    "translationRu": "распространённый, широко известный",
+    "synonym": "powszechny",
+    "example": "To bardzo rozpowszechniony pogląd.",
+    "aiStatus": "complete"
+  },
+  "wypłaty socjalne": {
+    "translationRu": "социальные выплаты, пособия",
+    "synonym": "zasiłki",
+    "example": "Rodzina otrzymuje wypłaty socjalne od państwa.",
+    "aiStatus": "complete"
+  },
+  "do Niemiec": {
+    "translationRu": "в Германию (куда?)",
+    "aiStatus": "complete",
+    "example": "Jedziemy do Niemiec na wakacje."
+  },
+  "on się bał": {
+    "translationRu": "он боялся",
+    "aiStatus": "complete",
+    "example": "On się bał ciemności jako dziecko."
+  },
+  "bać": {
+    "translationRu": "бояться (обычно используется с 'się' — bać się)",
+    "aiStatus": "partial",
+    "example": "Nie musisz się bać egzaminu."
+  },
+  "w Afryce": {
+    "translationRu": "в Африке",
+    "aiStatus": "complete",
+    "example": "Wielu turystów jeździ na safari w Afryce."
+  },
+  "specyficzny": {
+    "translationRu": "специфический, особенный",
+    "synonym": "szczególny",
+    "example": "To bardzo specyficzny przypadek.",
+    "aiStatus": "complete"
+  },
+  "to co dotyczy": {
+    "translationRu": "то, что касается, относится к... (обрывок фразы)",
+    "aiStatus": "partial",
+    "example": "To, co dotyczy podatków, jest skomplikowane."
+  },
+  "przawdziwy": {
+    "translationRu": "настоящий, истинный (опечатка от 'prawdziwy')",
+    "synonym": "autentyczny",
+    "example": "To jest prawdziwy przyjaciel.",
+    "aiStatus": "partial"
+  },
+  "istnieje": {
+    "translationRu": "существует (он/она/оно, от 'istnieć')",
+    "synonym": "występuje",
+    "example": "Istnieje wiele sposobów na rozwiązanie tego problemu.",
+    "aiStatus": "complete"
+  },
+  "słowianie": {
+    "translationRu": "славяне",
+    "example": "Słowianie zamieszkiwali dużą część Europy Wschodniej.",
+    "aiStatus": "complete"
+  },
+  "po co": {
+    "translationRu": "зачем, для чего",
+    "example": "Po co mi to mówisz?",
+    "aiStatus": "complete"
+  },
+  "program - on": {
+    "translationRu": "программа — он (грамматическая пометка: мужской род слова 'program')",
+    "aiStatus": "partial",
+    "example": "Ten program jest bardzo popularny."
+  },
+  "wyszedł": {
+    "translationRu": "он вышел (сов. вид от 'wyjść')",
+    "synonym": "opuścił pomieszczenie",
+    "example": "Wyszedł z domu bardzo wcześnie.",
+    "aiStatus": "complete"
+  },
+  "bardzo dobra reklama": {
+    "translationRu": "очень хорошая реклама",
+    "example": "To była bardzo dobra reklama nowego produktu.",
+    "aiStatus": "complete"
+  },
+  "efektywna": {
+    "translationRu": "эффективная (ж. р.)",
+    "synonym": "skuteczna",
+    "example": "To bardzo efektywna metoda nauki.",
+    "aiStatus": "complete"
+  },
+  "broń": {
+    "translationRu": "оружие",
+    "synonym": "uzbrojenie",
+    "example": "Policja znalazła broń w jego domu.",
+    "aiStatus": "complete"
+  },
+  "sprawia przyjemność": {
+    "translationRu": "приносит удовольствие",
+    "synonym": "daje radość",
+    "example": "Czytanie książek sprawia mi przyjemność.",
+    "aiStatus": "complete"
+  },
+  "procesy - one": {
+    "translationRu": "процессы — они (грамматическая пометка: местоимение 'one' для неличных сущ. во мн. ч.)",
+    "aiStatus": "partial",
+    "example": "Te procesy trwają zwykle kilka miesięcy."
+  },
+  "polubić": {
+    "translationRu": "полюбить, начать нравиться",
+    "synonym": "przypadać do gustu",
+    "example": "Szybko polubiłem to miasto.",
+    "aiStatus": "complete"
+  },
+  "wyznaczyć": {
+    "translationRu": "назначить, определить",
+    "synonym": "ustalić",
+    "example": "Musimy wyznaczyć termin spotkania.",
+    "aiStatus": "complete"
+  },
+  "skwalifikować": {
+    "translationRu": "квалифицировать, отобрать (вероятно опечатка: zakwalifikować)",
+    "example": "Trener musi zakwalifikować zawodników do finału.",
+    "aiStatus": "partial",
+    "synonym": "wyselekcjonować"
+  },
+  "osoby - one": {
+    "translationRu": "люди, лица — они (грамматическая пометка: для этого рода/числа используется местоимение 'one')",
+    "aiStatus": "partial",
+    "example": "Te osoby przyszły pierwsze na spotkanie."
+  },
+  "oczekiwać": {
+    "translationRu": "ожидать",
+    "synonym": "czekać na",
+    "example": "Oczekujemy dobrych wyników.",
+    "aiStatus": "complete"
+  },
+  "jelito": {
+    "translationRu": "кишка, кишечник",
+    "example": "Jelito grube pełni ważną funkcję w trawieniu.",
+    "aiStatus": "complete"
+  },
+  "zapas": {
+    "translationRu": "запас",
+    "synonym": "rezerwa",
+    "example": "Mamy duży zapas jedzenia na zimę.",
+    "aiStatus": "complete"
+  },
+  "przykro": {
+    "translationRu": "жаль, неприятно",
+    "synonym": "niemiło",
+    "example": "Przykro mi, że musisz jechać sam.",
+    "aiStatus": "complete"
+  },
+  "zobaczyć": {
+    "translationRu": "увидеть",
+    "synonym": "ujrzeć",
+    "example": "Chcę zobaczyć ten film.",
+    "aiStatus": "complete"
+  },
+  "zniechęcić się": {
+    "translationRu": "разочароваться, потерять мотивацию",
+    "synonym": "zwątpić",
+    "example": "Nie chcę się zniechęcić po pierwszej porażce.",
+    "aiStatus": "complete"
+  },
+  "natrzeć": {
+    "translationRu": "натереть (например, кожу кремом)",
+    "example": "Trzeba natrzeć skórę kremem przed wyjściem na słońce.",
+    "aiStatus": "partial",
+    "synonym": "posmarować"
+  },
+  "udać się": {
+    "translationRu": "получиться; отправиться",
+    "synonym": "powiodło się",
+    "example": "Udało nam się zdążyć na pociąg.",
+    "aiStatus": "complete"
+  },
+  "żródła": {
+    "translationRu": "источники (опечатка: źródła)",
+    "example": "Musimy sprawdzić źródła tej informacji.",
+    "aiStatus": "partial"
+  },
+  "świadczy": {
+    "translationRu": "свидетельствует (о чём-л.)",
+    "synonym": "dowodzi",
+    "example": "To świadczy o jego dobrych intencjach.",
+    "aiStatus": "complete"
+  },
+  "odnosić siebie do": {
+    "translationRu": "относиться к, иметь отношение к (правильная форма: odnosić się do)",
+    "example": "To pytanie odnosi się do poprzedniego tematu.",
+    "aiStatus": "partial",
+    "synonym": "dotyczyć"
+  },
+  "wątek": {
+    "translationRu": "нить (разговора), тема, сюжетная линия",
+    "synonym": "temat",
+    "example": "Zgubiłem wątek rozmowy.",
+    "aiStatus": "complete"
+  },
+  "społeczeństwa": {
+    "translationRu": "общества (мн.ч./род.п. от społeczeństwo)",
+    "example": "Różne społeczeństwa mają różne wartości.",
+    "aiStatus": "complete"
+  },
+  "przewarzająca": {
+    "translationRu": "преобладающая (опечатка: przeważająca)",
+    "example": "Przeważająca większość ludzi zgadza się z tym.",
+    "aiStatus": "partial",
+    "synonym": "dominująca"
+  },
+  "obwód": {
+    "translationRu": "округ, область; окружность; электрическая цепь",
+    "synonym": "okręg",
+    "example": "Mieszkam w innym obwodzie administracyjnym.",
+    "aiStatus": "complete"
+  },
+  "województwo": {
+    "translationRu": "воеводство (административная единица в Польше)",
+    "example": "Mieszkam w województwie mazowieckim.",
+    "aiStatus": "complete"
+  },
+  "próbować": {
+    "translationRu": "пробовать, пытаться",
+    "synonym": "starać się",
+    "example": "Próbuję nauczyć się polskiego.",
+    "aiStatus": "complete"
+  },
+  "las": {
+    "translationRu": "лес",
+    "example": "W lesie jest dużo grzybów.",
+    "aiStatus": "complete"
+  },
+  "zadowalniać potrzeby": {
+    "translationRu": "удовлетворять потребности (вероятно опечатка: zaspokajać potrzeby)",
+    "example": "Firma stara się zaspokajać potrzeby klientów.",
+    "aiStatus": "partial",
+    "synonym": "zaspokajać potrzeby"
+  },
+  "opłacać się": {
+    "translationRu": "быть выгодным, окупаться",
+    "synonym": "być opłacalnym",
+    "example": "Nie opłaca się jechać tam samochodem.",
+    "aiStatus": "complete"
+  },
+  "nie odpowiada oczekiewaniom": {
+    "translationRu": "не соответствует ожиданиям (опечатка: oczekiwaniom)",
+    "aiStatus": "partial",
+    "example": "Ten produkt nie odpowiada oczekiwaniom klientów."
+  },
+  "grilować": {
+    "translationRu": "жарить на гриле (правильное написание: grillować)",
+    "example": "Latem często grilujemy w ogrodzie.",
+    "aiStatus": "partial",
+    "synonym": "piec na ruszcie"
+  },
+  "podejść": {
+    "translationRu": "подойти",
+    "synonym": "zbliżyć się",
+    "example": "Podeszłam do niego i się przywitałam.",
+    "aiStatus": "complete"
+  },
+  "kulturalnie": {
+    "translationRu": "культурно, вежливо",
+    "example": "Proszę zachowywać się kulturalnie.",
+    "aiStatus": "complete"
+  },
+  "wyczuwalnie": {
+    "translationRu": "ощутимо, заметно",
+    "example": "Temperatura spadła wyczuwalnie.",
+    "aiStatus": "complete"
+  },
+  "chciałem": {
+    "translationRu": "я хотел (м.р.)",
+    "example": "Chciałem ci to powiedzieć wcześniej.",
+    "aiStatus": "complete",
+    "synonym": "pragnąłem"
+  },
+  "oplacać się": {
+    "translationRu": "быть выгодным, окупаться (опечатка: opłacać się)",
+    "example": "Czasem nie opłaca się kłócić o drobnostki.",
+    "aiStatus": "partial",
+    "synonym": "być korzystnym"
+  },
+  "nie opodwiada": {
+    "translationRu": "не соответствует (опечатка: nie odpowiada)",
+    "aiStatus": "partial",
+    "synonym": "nie pasuje",
+    "example": "To rozwiązanie nie odpowiada naszym wymaganiom."
+  },
+  "na ile": {
+    "translationRu": "насколько",
+    "example": "Nie wiem, na ile to jest prawda.",
+    "aiStatus": "complete",
+    "synonym": "w jakim stopniu"
+  },
+  "włożyć": {
+    "translationRu": "вложить, положить, надеть (об одежде)",
+    "synonym": "wsadzić",
+    "example": "Włożyłam nową sukienkę na imprezę.",
+    "aiStatus": "complete"
+  },
+  "stwierdzenie": {
+    "translationRu": "утверждение, констатация",
+    "synonym": "twierdzenie",
+    "example": "To było odważne stwierdzenie.",
+    "aiStatus": "complete"
+  },
+  "w kszałcie": {
+    "translationRu": "в форме (опечатка: w kształcie)",
+    "example": "Ciasto było w kształcie serca.",
+    "aiStatus": "partial",
+    "synonym": "w formie"
+  },
+  "w postaci": {
+    "translationRu": "в виде",
+    "synonym": "w formie",
+    "example": "Otrzymał nagrodę w postaci pieniędzy.",
+    "aiStatus": "complete"
+  },
+  "ilośc": {
+    "translationRu": "количество (опечатка: ilość)",
+    "example": "Ilość jedzenia była ogromna.",
+    "aiStatus": "partial",
+    "synonym": "liczba"
+  },
+  "zbalansowane odzywanie": {
+    "translationRu": "сбалансированное питание (опечатка: zbalansowane odżywianie)",
+    "example": "Zbalansowane odżywianie jest ważne dla zdrowia.",
+    "aiStatus": "partial",
+    "synonym": "zdrowa dieta"
+  },
+  "wbrew pozorom": {
+    "translationRu": "несмотря на видимость, на самом деле",
+    "example": "Wbrew pozorom, to nie było trudne.",
+    "aiStatus": "complete",
+    "synonym": "w rzeczywistości"
+  },
+  "z rzędu": {
+    "translationRu": "подряд",
+    "example": "Wygrał trzy razy z rzędu.",
+    "aiStatus": "complete",
+    "synonym": "pod rząd"
+  },
+  "pierwszej potrzeby": {
+    "translationRu": "первой необходимости",
+    "example": "To są towary pierwszej potrzeby.",
+    "aiStatus": "partial",
+    "synonym": "podstawowej potrzeby"
+  },
+  "miejsce": {
+    "translationRu": "место",
+    "synonym": "lokalizacja",
+    "example": "To jest ładne miejsce na piknik.",
+    "aiStatus": "complete"
+  },
+  "zgniatać": {
+    "translationRu": "сминать, сжимать, давить",
+    "synonym": "gnieść",
+    "example": "Nie zgniataj papieru, może się jeszcze przydać.",
+    "aiStatus": "complete"
+  },
+  "przeciętnie": {
+    "translationRu": "в среднем, посредственно",
+    "example": "Przeciętnie zarabia dwa tysiące złotych.",
+    "aiStatus": "complete",
+    "synonym": "średnio"
+  },
+  "przeliczyć": {
+    "translationRu": "пересчитать, перевести (валюту)",
+    "synonym": "policzyć ponownie",
+    "example": "Muszę przeliczyć złotówki na euro.",
+    "aiStatus": "complete"
+  },
+  "worek": {
+    "translationRu": "мешок",
+    "example": "Kupiłem worek ziemniaków.",
+    "aiStatus": "complete"
+  },
+  "przydatne": {
+    "translationRu": "полезные, пригодные",
+    "synonym": "użyteczne",
+    "example": "Te informacje są bardzo przydatne.",
+    "aiStatus": "complete"
+  },
+  "porównać": {
+    "translationRu": "сравнить",
+    "synonym": "zestawić",
+    "example": "Trzeba porównać ceny w różnych sklepach.",
+    "aiStatus": "complete"
+  },
+  "latwo": {
+    "translationRu": "легко (опечатка: łatwo)",
+    "example": "Łatwo to zrozumieć.",
+    "aiStatus": "partial",
+    "synonym": "bez trudu"
+  },
+  "zalet": {
+    "translationRu": "достоинств, преимуществ (род. п. мн. ч. от zaleta)",
+    "aiStatus": "partial",
+    "example": "To urządzenie ma wiele zalet."
+  },
+  "wyjaśnienie": {
+    "translationRu": "объяснение",
+    "synonym": "wytłumaczenie",
+    "example": "Potrzebuję lepszego wyjaśnienia tej reguły.",
+    "aiStatus": "complete"
+  },
+  "unikatiwy": {
+    "translationRu": "уникальный (опечатка: unikatowy)",
+    "example": "To bardzo unikatowy przedmiot.",
+    "aiStatus": "partial",
+    "synonym": "niepowtarzalny"
+  },
+  "klimat": {
+    "translationRu": "климат; атмосфера",
+    "example": "Klimat w Polsce jest umiarkowany.",
+    "aiStatus": "complete"
+  },
+  "w porównaniu do": {
+    "translationRu": "по сравнению с",
+    "synonym": "w odniesieniu do",
+    "example": "W porównaniu do zeszłego roku, ceny wzrosły.",
+    "aiStatus": "complete"
+  },
+  "jedno piętro, nie piętrze": {
+    "translationRu": "один этаж (ошибка: не 'piętrze' — здесь нужен именительный падеж 'piętro', а не местный)",
+    "aiStatus": "partial"
+  },
+  "leżeliśmy, leżaliśmy": {
+    "translationRu": "мы лежали (правильно: 'leżeliśmy' от 'leżeć'; 'leżaliśmy' — ошибочная форма)",
+    "aiStatus": "partial"
+  },
+  "stolik kawowy (nie dla kawy)": {
+    "translationRu": "кофейный/журнальный столик (не 'столик для кофе' — это устойчивое название вида мебели)",
+    "example": "W salonie stoi niski stolik kawowy.",
+    "aiStatus": "complete",
+    "synonym": "ława"
+  },
+  "pod kątem": {
+    "translationRu": "с точки зрения, в аспекте",
+    "synonym": "z punktu widzenia",
+    "example": "Przeanalizujmy to pod kątem kosztów.",
+    "aiStatus": "complete"
+  },
+  "uważać, żeby nie popełnić błędu": {
+    "translationRu": "следить/быть внимательным, чтобы не совершить ошибку",
+    "aiStatus": "complete",
+    "example": "Uważaj, żeby nie popełnić błędu podczas egzaminu."
+  },
+  "szczebel": {
+    "translationRu": "ступень, уровень (иерархии)",
+    "synonym": "poziom",
+    "example": "Awansował na wyższy szczebel kariery.",
+    "aiStatus": "complete"
+  },
+  "zrobić kolację (nie ugotować)": {
+    "translationRu": "приготовить/сделать ужин (не 'ugotować' — 'сварить'; ужин не всегда варят)",
+    "aiStatus": "partial",
+    "example": "Zrobię dziś kolację dla całej rodziny."
+  },
+  "nie mogę szybko znaleźć tego czatu": {
+    "translationRu": "я не могу быстро найти этот чат",
+    "aiStatus": "complete"
+  },
+  "obejrzałem (nie obejrzyłem)": {
+    "translationRu": "я посмотрел (правильно: 'obejrzałem'; 'obejrzyłem' — ошибочная форма)",
+    "aiStatus": "complete",
+    "example": "Wczoraj obejrzałem interesujący film."
+  },
+  "słówka (nie słówki)": {
+    "translationRu": "словечки, слова (правильная форма мн.ч. от 'słówko' — не 'słówki')",
+    "aiStatus": "complete",
+    "example": "Musimy powtórzyć nowe słówka."
+  },
+  "odczuwam różne emocje (nie emocji)": {
+    "translationRu": "я испытываю разные эмоции (винительный падеж мн.ч. 'emocje', не родительный 'emocji')",
+    "aiStatus": "complete"
+  },
+  "nie wszystkie pary ( a nie, nie wszyscy pary )": {
+    "translationRu": "не все пары (а не 'nie wszyscy pary' — 'wszyscy' используется для людей м.р., а 'pary' требует 'wszystkie')",
+    "aiStatus": "complete",
+    "example": "Nie wszystkie pary decydują się na dzieci."
+  },
+  "dużo dzieci nie ma ( nie nie mają )": {
+    "translationRu": "многих детей нет (с 'dużo dzieci' используется форма 'nie ma' 3 л. ед.ч., а не 'nie mają')",
+    "aiStatus": "complete"
+  },
+  "na Białorusi , nie w Białorusi": {
+    "translationRu": "в Беларуси (с названием 'Białoruś' используется предлог 'na', а не 'w')",
+    "aiStatus": "complete",
+    "example": "Mieszkam na Białorusi."
+  },
+  "podejmować decyzję (nie przyjmować)": {
+    "translationRu": "принимать решение ('decyzję' сочетается с 'podejmować', а не 'przyjmować')",
+    "synonym": "podjąć decyzję",
+    "aiStatus": "complete"
+  },
+  "zapewnić godny byt": {
+    "translationRu": "обеспечить достойное существование",
+    "synonym": "zapewnić godne życie",
+    "example": "Chcemy zapewnić dzieciom godny byt.",
+    "aiStatus": "complete"
+  },
+  "dokonywać aborcji ( nie robić aborcję )": {
+    "translationRu": "делать аборт (правильно: 'dokonywać aborcji', а не 'robić aborcję')",
+    "aiStatus": "complete",
+    "example": "Zdecydowała się dokonać aborcji po konsultacji z lekarzem."
+  },
+  "dziecko zostało poczęte": {
+    "translationRu": "ребёнок был зачат",
+    "aiStatus": "complete"
+  },
+  "rodzice (nie rodzicy)": {
+    "translationRu": "родители (правильная форма мн.ч. — 'rodzice', не 'rodzicy')",
+    "aiStatus": "complete",
+    "example": "Moi rodzice mieszkają w Warszawie."
+  },
+  "władze (nie władzy)": {
+    "translationRu": "власти (нужен им./вин. падеж мн.ч. 'władze', а не родительный 'władzy')",
+    "aiStatus": "complete",
+    "example": "Władze miasta ogłosiły nowy plan."
+  },
+  "kobieta musi je urodzić ( nie go )": {
+    "translationRu": "женщина должна его родить (местоимение 'je' согласуется с 'dziecko' ср.р., а не 'go')",
+    "aiStatus": "complete"
+  },
+  "otoczenie": {
+    "translationRu": "окружение, среда",
+    "synonym": "środowisko",
+    "example": "Dzieci uczą się przez obserwację otoczenia.",
+    "aiStatus": "complete"
+  },
+  "istnieje (nie istnuje)": {
+    "translationRu": "существует (правильно: 'istnieje', не 'istnuje')",
+    "aiStatus": "complete",
+    "example": "Taki problem istnieje od dawna."
+  },
+  "powie (nie powiedzie)": {
+    "translationRu": "скажет (правильно: 'powie' от 'powiedzieć', не 'powiedzie')",
+    "aiStatus": "complete",
+    "example": "On mi powie prawdę."
+  },
+  "dalecy krewni": {
+    "translationRu": "дальние родственники",
+    "synonym": "daleka rodzina",
+    "example": "Mam dalekich krewnych w Ameryce.",
+    "aiStatus": "complete"
+  },
+  "10 razy (nie raz)": {
+    "translationRu": "10 раз (после числительных больше одного — форма 'razy', а не 'raz')",
+    "aiStatus": "complete",
+    "example": "Powtórzyłem to ćwiczenie dziesięć razy."
+  },
+  "za kilka miesięcy": {
+    "translationRu": "через несколько месяцев",
+    "synonym": "wkrótce",
+    "example": "Za kilka miesięcy skończę studia.",
+    "aiStatus": "complete"
+  },
+  "nie mogę sobie wyobrazić/ nie ujawić": {
+    "translationRu": "не могу себе представить / не раскрыть(?) — смысл фрагмента неясен без контекста урока",
+    "aiStatus": "uncertain"
+  },
+  "hormony buzują": {
+    "translationRu": "гормоны бушуют, играют",
+    "synonym": "hormony szaleją",
+    "example": "W okresie dojrzewania hormony buzują.",
+    "aiStatus": "complete"
+  },
+  "przemyślana decyzja": {
+    "translationRu": "продуманное решение",
+    "synonym": "rozważna decyzja",
+    "example": "To była przemyślana decyzja, nie impuls.",
+    "aiStatus": "complete"
+  },
+  "wsparcie": {
+    "translationRu": "поддержка",
+    "synonym": "pomoc",
+    "example": "Dziękuję za wsparcie w trudnym czasie.",
+    "aiStatus": "complete"
+  },
+  "Narządy płciowe": {
+    "translationRu": "половые органы",
+    "aiStatus": "complete",
+    "example": "Na lekcji biologii uczyliśmy się o narządach płciowych."
+  },
+  "przekonaniami nasiąknęliśmy jak gąbki": {
+    "translationRu": "мы пропитались убеждениями, как губки",
+    "aiStatus": "partial"
+  },
+  "zlęknione": {
+    "translationRu": "испуганные, напуганные",
+    "synonym": "wystraszone",
+    "example": "Zlęknione dzieci schowały się pod stołem.",
+    "aiStatus": "complete"
+  },
+  "czujemy się\nskrępowani": {
+    "translationRu": "мы чувствуем себя неловко, стеснённо",
+    "synonym": "zawstydzeni",
+    "aiStatus": "complete",
+    "example": "Czujemy się skrępowani w nowej sytuacji."
+  },
+  "ekscytacja": {
+    "translationRu": "возбуждение, восторг, азарт",
+    "synonym": "podniecenie",
+    "example": "Ekscytacja przed podróżą nie dawała mi spać.",
+    "aiStatus": "complete"
+  },
+  "nie chodzi o elaboraty": {
+    "translationRu": "речь не о пространных/занудных объяснениях",
+    "aiStatus": "partial",
+    "example": "Nie chodzi o elaboraty, tylko o konkretne fakty."
+  },
+  "Potrafili drwić": {
+    "translationRu": "они умели насмехаться, издеваться (словесно)",
+    "synonym": "naśmiewać się",
+    "aiStatus": "complete",
+    "example": "Potrafili drwić z każdego, kto się różnił."
+  },
+  "komentować w niewybredny sposób": {
+    "translationRu": "комментировать грубо, бестактно",
+    "aiStatus": "partial",
+    "example": "Zaczął komentować w niewybredny sposób jej wygląd."
+  },
+  "wpędzając nas w ogromne zażenowanie": {
+    "translationRu": "вгоняя нас в огромное смущение",
+    "aiStatus": "complete"
+  },
+  "unikamy tematu": {
+    "translationRu": "мы избегаем темы",
+    "aiStatus": "complete",
+    "synonym": "omijamy temat"
+  },
+  "boryka się z problemami": {
+    "translationRu": "борется с проблемами",
+    "synonym": "zmaga się z problemami",
+    "aiStatus": "complete",
+    "example": "Firma boryka się z problemami finansowymi."
+  },
+  "targają nim przeróżne emocje": {
+    "translationRu": "его терзают всевозможные эмоции",
+    "aiStatus": "complete"
+  },
+  "bagatelizowanie": {
+    "translationRu": "приуменьшение значимости, обесценивание (проблемы)",
+    "synonym": "pomniejszanie",
+    "example": "Bagatelizowanie problemów zdrowotnych jest niebezpieczne.",
+    "aiStatus": "complete"
+  },
+  "byłam wściekła": {
+    "translationRu": "я была в бешенстве, взбешена (о женщине)",
+    "aiStatus": "complete",
+    "synonym": "byłam rozzłoszczona"
+  },
+  "niedysponowane": {
+    "translationRu": "нездоровые, не в форме (о людях, мн.ч.)",
+    "synonym": "chore",
+    "example": "Byłyśmy niedysponowane i zostałyśmy w domu.",
+    "aiStatus": "partial"
+  },
+  "To nie jest żadna niedyspozycja": {
+    "translationRu": "это никакое не недомогание",
+    "aiStatus": "complete"
+  },
+  "w przekonaniu": {
+    "translationRu": "по убеждению, в убеждении",
+    "synonym": "w opinii",
+    "example": "W przekonaniu wielu ludzi to jest normalne.",
+    "aiStatus": "partial"
+  },
+  "wpędza się": {
+    "translationRu": "вгоняет себя/кого-то (в некое состояние)",
+    "aiStatus": "partial",
+    "example": "Wpędza się w kłopoty przez własną nieuwagę."
+  },
+  "są zwyczajnie skrępowane": {
+    "translationRu": "они просто стеснены, чувствуют себя неловко",
+    "aiStatus": "complete"
+  },
+  "nieunikniony": {
+    "translationRu": "неизбежный",
+    "synonym": "niemożliwy do uniknięcia",
+    "example": "Konflikt był nieunikniony.",
+    "aiStatus": "complete"
+  },
+  "zapobiec": {
+    "translationRu": "предотвратить, предупредить",
+    "synonym": "uniknąć",
+    "example": "Trzeba zapobiec kolejnej awarii.",
+    "aiStatus": "complete"
+  },
+  "lęku": {
+    "translationRu": "страха (родительный падеж от 'lęk')",
+    "aiStatus": "partial",
+    "example": "Nie mogła opanować uczucia lęku."
+  },
+  "nieunikniona": {
+    "translationRu": "неизбежная (ж.р.)",
+    "synonym": "niemożliwa do uniknięcia",
+    "example": "Ta rozmowa była nieunikniona.",
+    "aiStatus": "complete"
   }
 }
