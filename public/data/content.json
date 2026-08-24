@@ -1,96 +1,95 @@
 {
-  "generatedAt": "2026-08-23T04:32:34.163Z",
+  "generatedAt": "2026-08-24T04:40:04.516Z",
   "dailyPractice": {
-    "date": "2026-08-23",
+    "date": "2026-08-24",
     "words": [
       {
-        "id": "regula",
-        "polish": "reguła",
+        "id": "mol",
+        "polish": "mól",
         "aiStatus": "complete",
-        "synonym": "ona",
-        "translationRu": "правило",
-        "example": "Jaka jest reguła w tej grze?",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "umrzec",
-        "polish": "umrzeć",
-        "aiStatus": "complete",
-        "translationRu": "умереть",
-        "synonym": "skonać",
-        "example": "Bał się umrzeć w samotności.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "dobrze",
-        "polish": "dobrze",
-        "aiStatus": "complete",
-        "translationRu": "хорошо",
-        "synonym": "świetnie",
-        "example": "Wszystko poszło dobrze.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "rozpraszac-sie",
-        "polish": "rozpraszać się",
-        "aiStatus": "complete",
-        "synonym": "dekoncentrować się",
-        "translationRu": "отвлекаться, рассеиваться",
-        "example": "Łatwo się rozpraszam podczas pracy.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "kulturalnie",
-        "polish": "kulturalnie",
-        "aiStatus": "complete",
-        "synonym": "uprzejmie/ taktownie/ grzecznie",
-        "translationRu": "культурно, вежливо",
-        "example": "Proszę zachowywać się kulturalnie.",
+        "translationRu": "моль",
+        "example": "Mól zjadł mi swetry w szafie.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "glupio",
-        "polish": "głupio",
+        "id": "walczyc",
+        "polish": "walczyć",
         "aiStatus": "complete",
-        "translationRu": "глупо",
-        "synonym": "niemądrze",
-        "example": "Czuję się głupio po tej pomyłce.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "jest-zakaz",
-        "polish": "jest zakaz",
-        "aiStatus": "complete",
-        "translationRu": "есть запрет, запрещено",
-        "synonym": "jest zabronione",
-        "example": "Tu jest zakaz palenia.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "dotknac-sie",
-        "polish": "dotknąć się",
-        "aiStatus": "complete",
-        "translationRu": "коснуться (себя)",
-        "synonym": "stykać się",
-        "example": "Dotknąłem się w czoło, sprawdzając czy mam gorączkę.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "obserwac",
-        "polish": "obserwać",
-        "aiStatus": "complete",
-        "translationRu": "наблюдать (опечатка от obserwować)",
-        "synonym": "śledzić",
-        "example": "Naukowcy obserwują zachowanie zwierząt.",
+        "translationRu": "бороться",
+        "synonym": "bić się",
+        "example": "Walczył o swoje prawa.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "w-przyszlym",
-        "polish": "w przyszłym",
+        "id": "dotrzec-2",
+        "polish": "dotrzeć",
+        "aiStatus": "complete",
+        "translationRu": "добраться",
+        "synonym": "dojechać",
+        "example": "Trudno tam dotrzeć bez samochodu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zirytowany",
+        "polish": "zirytowany",
+        "aiStatus": "complete",
+        "synonym": "zirytowany człowiek/ niezadowolony",
+        "translationRu": "раздражённый",
+        "example": "Był zirytowany hałasem.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "starszy-starsi",
+        "polish": "starszy - starsi",
+        "aiStatus": "complete",
+        "translationRu": "старший — старшие",
+        "example": "Starsi ludzie często mają więcej cierpliwości.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wspinac-sie-3",
+        "polish": "wspinać się",
+        "aiStatus": "complete",
+        "translationRu": "взбираться, карабкаться",
+        "synonym": "piąć się",
+        "example": "Wspinamy się na szczyt.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "siedziba",
+        "polish": "siedziba",
+        "aiStatus": "complete",
+        "translationRu": "резиденция, штаб-квартира",
+        "synonym": "centrala",
+        "example": "Siedziba firmy znajduje się w Warszawie.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "wbrew-przypuszczeniom",
+        "polish": "wbrew przypuszczeniom",
+        "aiStatus": "complete",
+        "translationRu": "вопреки предположениям",
+        "synonym": "wbrew domysłom",
+        "example": "Wbrew przypuszczeniom, wszystko poszło dobrze.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "wloczega",
+        "polish": "włóczęga",
+        "aiStatus": "complete",
+        "translationRu": "бродяга, скиталец",
+        "synonym": "bezdomny",
+        "example": "Na stacji siedział samotny włóczęga.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "wyslychac",
+        "polish": "wysłychać",
         "aiStatus": "partial",
-        "translationRu": "в будущем (обрывок, напр. w przyszłym roku)",
-        "example": "W przyszłym roku planujemy ślub.",
-        "firstSeenAt": "2026-07-17"
+        "translationRu": "выслушать (опечатка от wysłuchać)",
+        "synonym": "wysłuchać",
+        "example": "Warto wysłuchać opinii innych przed podjęciem decyzji.",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
