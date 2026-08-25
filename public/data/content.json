@@ -1,95 +1,95 @@
 {
-  "generatedAt": "2026-08-24T04:40:04.516Z",
+  "generatedAt": "2026-08-25T04:34:38.652Z",
   "dailyPractice": {
-    "date": "2026-08-24",
+    "date": "2026-08-25",
     "words": [
       {
-        "id": "mol",
-        "polish": "mól",
-        "aiStatus": "complete",
-        "translationRu": "моль",
-        "example": "Mól zjadł mi swetry w szafie.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "walczyc",
-        "polish": "walczyć",
-        "aiStatus": "complete",
-        "translationRu": "бороться",
-        "synonym": "bić się",
-        "example": "Walczył o swoje prawa.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "dotrzec-2",
-        "polish": "dotrzeć",
-        "aiStatus": "complete",
-        "translationRu": "добраться",
-        "synonym": "dojechać",
-        "example": "Trudno tam dotrzeć bez samochodu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zirytowany",
-        "polish": "zirytowany",
-        "aiStatus": "complete",
-        "synonym": "zirytowany człowiek/ niezadowolony",
-        "translationRu": "раздражённый",
-        "example": "Był zirytowany hałasem.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "starszy-starsi",
-        "polish": "starszy - starsi",
-        "aiStatus": "complete",
-        "translationRu": "старший — старшие",
-        "example": "Starsi ludzie często mają więcej cierpliwości.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wspinac-sie-3",
-        "polish": "wspinać się",
-        "aiStatus": "complete",
-        "translationRu": "взбираться, карабкаться",
-        "synonym": "piąć się",
-        "example": "Wspinamy się na szczyt.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "siedziba",
-        "polish": "siedziba",
-        "aiStatus": "complete",
-        "translationRu": "резиденция, штаб-квартира",
-        "synonym": "centrala",
-        "example": "Siedziba firmy znajduje się w Warszawie.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wbrew-przypuszczeniom",
-        "polish": "wbrew przypuszczeniom",
-        "aiStatus": "complete",
-        "translationRu": "вопреки предположениям",
-        "synonym": "wbrew domysłom",
-        "example": "Wbrew przypuszczeniom, wszystko poszło dobrze.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wloczega",
-        "polish": "włóczęga",
-        "aiStatus": "complete",
-        "translationRu": "бродяга, скиталец",
-        "synonym": "bezdomny",
-        "example": "Na stacji siedział samotny włóczęga.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "wyslychac",
-        "polish": "wysłychać",
+        "id": "panstwo-ono",
+        "polish": "państwo - ono",
         "aiStatus": "partial",
-        "translationRu": "выслушать (опечатка от wysłuchać)",
-        "synonym": "wysłuchać",
-        "example": "Warto wysłuchać opinii innych przed podjęciem decyzji.",
+        "translationRu": "государство — оно (грамматическая пометка: слово 'państwo' согласуется как средний род)",
+        "example": "To państwo graniczy z trzema innymi krajami.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "szacunek",
+        "polish": "szacunek",
+        "aiStatus": "complete",
+        "translationRu": "уважение",
+        "synonym": "respekt",
+        "example": "Mam wielki szacunek dla nauczycieli.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "recytowac",
+        "polish": "recytować",
+        "aiStatus": "complete",
+        "synonym": "wygłaszać z pamięci, deklamować",
+        "example": "Dzieci recytują wiersze na konkursie",
+        "translationRu": "декламировать",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "z-przyjaciolmi",
+        "polish": "z przyjaciółmi",
+        "aiStatus": "complete",
+        "synonym": "z przyjaciółmi się nie nudzę",
+        "translationRu": "с друзьями",
+        "example": "Spędziłem weekend z przyjaciółmi.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "czujemy-sie-skrepowani",
+        "polish": "czujemy się\nskrępowani",
+        "aiStatus": "complete",
+        "translationRu": "мы чувствуем себя неловко, стеснённо",
+        "synonym": "zawstydzeni",
+        "example": "Czujemy się skrępowani w nowej sytuacji.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "przedstawic",
+        "polish": "przedstawić",
+        "aiStatus": "complete",
+        "synonym": "zaprezentować",
+        "translationRu": "представить (кого-то/что-то)",
+        "example": "Przedstawiam ci moją siostrę.",
         "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "ja-nie-moglem",
+        "polish": "ja - nie mogłem",
+        "aiStatus": "complete",
+        "translationRu": "я не мог",
+        "example": "Ja nie mogłem przyjść wczoraj.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "ogolnie-mowiac",
+        "polish": "ogólnie mówiąc",
+        "aiStatus": "complete",
+        "translationRu": "вообще говоря",
+        "synonym": "generalnie",
+        "example": "Ogólnie mówiąc, jestem zadowolony.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "wyznaczyc",
+        "polish": "wyznaczyć",
+        "aiStatus": "complete",
+        "translationRu": "назначить, определить",
+        "synonym": "ustalić",
+        "example": "Musimy wyznaczyć termin spotkania.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "dojazd",
+        "polish": "dojazd",
+        "aiStatus": "complete",
+        "translationRu": "подъезд, доступ (транспортом)",
+        "synonym": "dotarcie",
+        "example": "Dojazd do centrum zajmuje pół godziny.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
