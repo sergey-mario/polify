@@ -1,95 +1,95 @@
 {
-  "generatedAt": "2026-08-25T04:34:38.652Z",
+  "generatedAt": "2026-08-26T04:35:25.004Z",
   "dailyPractice": {
-    "date": "2026-08-25",
+    "date": "2026-08-26",
     "words": [
       {
-        "id": "panstwo-ono",
-        "polish": "państwo - ono",
-        "aiStatus": "partial",
-        "translationRu": "государство — оно (грамматическая пометка: слово 'państwo' согласуется как средний род)",
-        "example": "To państwo graniczy z trzema innymi krajami.",
+        "id": "po-co",
+        "polish": "po co",
+        "aiStatus": "complete",
+        "translationRu": "зачем, для чего",
+        "example": "Po co mi to mówisz?",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "szacunek",
-        "polish": "szacunek",
+        "id": "takie-same-zdanie",
+        "polish": "takie same zdanie",
         "aiStatus": "complete",
-        "translationRu": "уважение",
-        "synonym": "respekt",
-        "example": "Mam wielki szacunek dla nauczycieli.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "recytowac",
-        "polish": "recytować",
-        "aiStatus": "complete",
-        "synonym": "wygłaszać z pamięci, deklamować",
-        "example": "Dzieci recytują wiersze na konkursie",
-        "translationRu": "декламировать",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "z-przyjaciolmi",
-        "polish": "z przyjaciółmi",
-        "aiStatus": "complete",
-        "synonym": "z przyjaciółmi się nie nudzę",
-        "translationRu": "с друзьями",
-        "example": "Spędziłem weekend z przyjaciółmi.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "czujemy-sie-skrepowani",
-        "polish": "czujemy się\nskrępowani",
-        "aiStatus": "complete",
-        "translationRu": "мы чувствуем себя неловко, стеснённо",
-        "synonym": "zawstydzeni",
-        "example": "Czujemy się skrępowani w nowej sytuacji.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "przedstawic",
-        "polish": "przedstawić",
-        "aiStatus": "complete",
-        "synonym": "zaprezentować",
-        "translationRu": "представить (кого-то/что-то)",
-        "example": "Przedstawiam ci moją siostrę.",
+        "translationRu": "такое же мнение / то же предложение",
+        "synonym": "ta sama opinia",
+        "example": "Mamy takie same zdanie na ten temat.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "ja-nie-moglem",
-        "polish": "ja - nie mogłem",
+        "id": "miejsce-docelowe",
+        "polish": "miejsce docelowe",
         "aiStatus": "complete",
-        "translationRu": "я не мог",
-        "example": "Ja nie mogłem przyjść wczoraj.",
+        "translationRu": "место назначения",
+        "synonym": "cel podróży",
+        "example": "Nasze miejsce docelowe to Kraków.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "ogolnie-mowiac",
-        "polish": "ogólnie mówiąc",
-        "aiStatus": "complete",
-        "translationRu": "вообще говоря",
-        "synonym": "generalnie",
-        "example": "Ogólnie mówiąc, jestem zadowolony.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wyznaczyc",
-        "polish": "wyznaczyć",
-        "aiStatus": "complete",
-        "translationRu": "назначить, определить",
-        "synonym": "ustalić",
-        "example": "Musimy wyznaczyć termin spotkania.",
+        "id": "to-co-dotyczy",
+        "polish": "to co dotyczy",
+        "aiStatus": "partial",
+        "translationRu": "то, что касается, относится к... (обрывок фразы)",
+        "example": "To, co dotyczy podatków, jest skomplikowane.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "dojazd",
-        "polish": "dojazd",
+        "id": "sprawny",
+        "polish": "sprawny",
         "aiStatus": "complete",
-        "translationRu": "подъезд, доступ (транспортом)",
-        "synonym": "dotarcie",
-        "example": "Dojazd do centrum zajmuje pół godziny.",
+        "translationRu": "исправный; ловкий, проворный",
+        "synonym": "działający",
+        "example": "Mój samochód jest jeszcze sprawny.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "lasuch",
+        "polish": "łasuch",
+        "aiStatus": "complete",
+        "translationRu": "лакомка, сладкоежка",
+        "synonym": "smakosz",
+        "example": "Mój brat to prawdziwy łasuch, uwielbia czekoladę.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "uzyteczny",
+        "polish": "użyteczny",
+        "aiStatus": "complete",
+        "translationRu": "полезный",
+        "synonym": "przydatny",
+        "example": "To bardzo użyteczne narzędzie.",
         "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "nawyk",
+        "polish": "nawyk",
+        "aiStatus": "complete",
+        "translationRu": "привычка",
+        "synonym": "zwyczaj",
+        "example": "Palenie to szkodliwy nawyk.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "dopiero-po-przejsciu-najciezszych-prob",
+        "polish": "Dopiero po przejściu najcięższych prób",
+        "aiStatus": "complete",
+        "synonym": "tylko",
+        "translationRu": "Только после прохождения самых тяжёлых испытаний",
+        "example": "Dopiero po przejściu najcięższych prób człowiek poznaje swoją prawdziwą siłę.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wszedzie",
+        "polish": "wszędzie",
+        "aiStatus": "complete",
+        "translationRu": "везде, всюду",
+        "synonym": "na każdym kroku",
+        "example": "Szukałem cię wszędzie.",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
