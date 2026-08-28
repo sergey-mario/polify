@@ -1,95 +1,97 @@
 {
-  "generatedAt": "2026-08-27T14:57:33.238Z",
+  "generatedAt": "2026-08-28T15:52:43.548Z",
   "dailyPractice": {
-    "date": "2026-08-27",
+    "date": "2026-08-28",
     "words": [
       {
-        "id": "prawie",
-        "polish": "prawie",
+        "id": "porownac",
+        "polish": "porównać",
         "aiStatus": "complete",
-        "translationRu": "почти",
-        "synonym": "niemal",
-        "example": "Prawie zapomniałem.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zirytowany",
-        "polish": "zirytowany",
-        "aiStatus": "complete",
-        "synonym": "zirytowany człowiek/ niezadowolony",
-        "translationRu": "раздражённый",
-        "example": "Był zirytowany hałasem.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "choroba-zakazna",
-        "polish": "choroba zakaźna",
-        "aiStatus": "complete",
-        "synonym": "choroba infekcyjna/ choroba zaraźliwa",
-        "translationRu": "инфекционная болезнь",
-        "example": "Grypa jest chorobą zakaźną.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "dyzur",
-        "polish": "dyżur",
-        "aiStatus": "complete",
-        "translationRu": "дежурство, смена",
-        "synonym": "zmiana",
-        "example": "Mam dzisiaj dyżur w szpitalu.",
+        "translationRu": "сравнить",
+        "synonym": "zestawić",
+        "example": "Trzeba porównać ceny w różnych sklepach.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "przestepstwo",
-        "polish": "przestępstwo",
+        "id": "wbrew-przypuszczeniom",
+        "polish": "wbrew przypuszczeniom",
         "aiStatus": "complete",
-        "translationRu": "преступление",
-        "synonym": "zbrodnia",
-        "example": "Kradzież to przestępstwo karane przez prawo.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "dotykac-sie",
-        "polish": "dotykać się",
-        "aiStatus": "complete",
-        "translationRu": "касаться (друг друга)",
-        "example": "Zakochani często dotykają się delikatnie.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "porownywac-2",
-        "polish": "porównywać",
-        "aiStatus": "complete",
-        "translationRu": "сравнивать",
-        "synonym": "zestawiać",
-        "example": "Nie lubię porównywać się z innymi.",
+        "translationRu": "вопреки предположениям",
+        "synonym": "wbrew domysłom",
+        "example": "Wbrew przypuszczeniom, wszystko poszło dobrze.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "pineska",
-        "polish": "pineska",
+        "id": "aktualizowac",
+        "polish": "aktualizować",
         "aiStatus": "complete",
-        "translationRu": "канцелярская кнопка",
-        "synonym": "pinezka",
-        "example": "Przypiąłem kartkę pineską do tablicy.",
-        "firstSeenAt": "2026-05-02"
+        "synonym": "aktualizacja",
+        "translationRu": "обновлять",
+        "example": "Trzeba aktualizować oprogramowanie regularnie.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "duzo-malo",
-        "polish": "dużo/ mało /",
+        "id": "istotniejszy",
+        "polish": "istotniejszy",
+        "aiStatus": "complete",
+        "translationRu": "более важный, более существенный (сравнит. степень от 'istotny')",
+        "synonym": "ważniejszy",
+        "example": "To jest istotniejszy problem niż sądziliśmy.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "rzeczy-sporzywcze",
+        "polish": "rzeczy sporzywcze",
         "aiStatus": "partial",
-        "translationRu": "много / мало",
-        "example": "W lodówce jest dużo jedzenia, ale mało napojów.",
+        "translationRu": "продукты питания (опечатка от spożywcze)",
+        "synonym": "artykuły spożywcze",
+        "example": "W tym sklepie kupuję wszystkie rzeczy spożywcze.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wprowadzic",
-        "polish": "wprowadzić",
+        "id": "byc-na-czasie",
+        "polish": "być na czasie",
         "aiStatus": "complete",
-        "translationRu": "ввести, внедрить",
-        "synonym": "wdrożyć",
-        "example": "Firma wprowadziła nowe zasady.",
+        "translationRu": "быть в тренде, идти в ногу со временем",
+        "synonym": "być modnym",
+        "example": "Ona zawsze jest na czasie, jeśli chodzi o modę.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wygodniej",
+        "polish": "wygodniej",
+        "aiStatus": "complete",
+        "translationRu": "удобнее",
+        "synonym": "przyjemniej",
+        "example": "Tak będzie nam wygodniej.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "koryto-rzeki",
+        "polish": "koryto rzeki",
+        "aiStatus": "complete",
+        "synonym": "Rzeka zmieniła swoje koryto.",
+        "translationRu": "русло реки",
+        "example": "Koryto rzeki zmieniło się po powodzi.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "formowac",
+        "polish": "formować",
+        "aiStatus": "complete",
+        "translationRu": "формировать",
+        "synonym": "kształtować",
+        "example": "Nauczyciele formują charakter uczniów.",
         "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "na-wprost",
+        "polish": "na wprost",
+        "aiStatus": "complete",
+        "translationRu": "прямо, напротив (по направлению)",
+        "synonym": "naprzeciwko",
+        "example": "Sklep jest na wprost przystanku.",
+        "firstSeenAt": "2026-08-22"
       }
     ],
     "grammarRule": {
