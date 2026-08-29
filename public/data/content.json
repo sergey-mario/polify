@@ -1,96 +1,96 @@
 {
-  "generatedAt": "2026-08-28T15:52:43.548Z",
+  "generatedAt": "2026-08-29T10:43:22.933Z",
   "dailyPractice": {
-    "date": "2026-08-28",
+    "date": "2026-08-29",
     "words": [
       {
-        "id": "porownac",
-        "polish": "porównać",
+        "id": "silna-wola",
+        "polish": "silna wola",
         "aiStatus": "complete",
-        "translationRu": "сравнить",
-        "synonym": "zestawić",
-        "example": "Trzeba porównać ceny w różnych sklepach.",
-        "firstSeenAt": "2026-08-22"
+        "translationRu": "сильная воля",
+        "synonym": "determinacja",
+        "example": "Ma silną wolę i osiągnie cel.",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wbrew-przypuszczeniom",
-        "polish": "wbrew przypuszczeniom",
+        "id": "znajomosci",
+        "polish": "znajomości",
         "aiStatus": "complete",
-        "translationRu": "вопреки предположениям",
-        "synonym": "wbrew domysłom",
-        "example": "Wbrew przypuszczeniom, wszystko poszło dobrze.",
+        "translationRu": "знакомства, связи",
+        "synonym": "kontakty",
+        "example": "Praca przez znajomości.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "na-ten-temat",
+        "polish": "na ten temat",
+        "aiStatus": "complete",
+        "translationRu": "на эту тему",
+        "synonym": "w tej kwestii",
+        "example": "Mam inną opinię na ten temat.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "aktualizowac",
-        "polish": "aktualizować",
+        "id": "bez-konca",
+        "polish": "bez końca",
         "aiStatus": "complete",
-        "synonym": "aktualizacja",
-        "translationRu": "обновлять",
-        "example": "Trzeba aktualizować oprogramowanie regularnie.",
+        "synonym": "bez przerwy",
+        "translationRu": "без конца, бесконечно",
+        "example": "Mówił bez końca.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "istotniejszy",
-        "polish": "istotniejszy",
+        "id": "miec-na-celu",
+        "polish": "mieć na celu",
         "aiStatus": "complete",
-        "translationRu": "более важный, более существенный (сравнит. степень от 'istotny')",
-        "synonym": "ważniejszy",
-        "example": "To jest istotniejszy problem niż sądziliśmy.",
+        "translationRu": "иметь целью, ставить целью",
+        "synonym": "zmierzać do",
+        "example": "Ma na celu poprawę warunków.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "fajny",
+        "polish": "fajny",
+        "aiStatus": "complete",
+        "synonym": "odlotowy/bombowy",
+        "translationRu": "классный, клёвый",
+        "example": "To był fajny film.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "wzruszyc-ramionami",
+        "polish": "wzruszyć ramionami",
+        "aiStatus": "complete",
+        "synonym": "podnieść ramiona / nie wiedzieć, co powiedzieć",
+        "example": "Na pytanie tylko wzruszyć ramionami",
+        "translationRu": "пожать плечами",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wsparcie",
+        "polish": "wsparcie",
+        "aiStatus": "complete",
+        "translationRu": "поддержка",
+        "synonym": "pomoc",
+        "example": "Dziękuję za wsparcie w trudnym czasie.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "rzeczy-sporzywcze",
-        "polish": "rzeczy sporzywcze",
+        "id": "oszukiwac",
+        "polish": "oszukiwać",
+        "aiStatus": "complete",
+        "translationRu": "обманывать",
+        "synonym": "kantować",
+        "example": "Nie lubię, gdy ktoś mnie oszukuje.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "fachowca-fachowiec",
+        "polish": "fachowca- Fachowiec",
         "aiStatus": "partial",
-        "translationRu": "продукты питания (опечатка от spożywcze)",
-        "synonym": "artykuły spożywcze",
-        "example": "W tym sklepie kupuję wszystkie rzeczy spożywcze.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "byc-na-czasie",
-        "polish": "być na czasie",
-        "aiStatus": "complete",
-        "translationRu": "быть в тренде, идти в ногу со временем",
-        "synonym": "być modnym",
-        "example": "Ona zawsze jest na czasie, jeśli chodzi o modę.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wygodniej",
-        "polish": "wygodniej",
-        "aiStatus": "complete",
-        "translationRu": "удобнее",
-        "synonym": "przyjemniej",
-        "example": "Tak będzie nam wygodniej.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "koryto-rzeki",
-        "polish": "koryto rzeki",
-        "aiStatus": "complete",
-        "synonym": "Rzeka zmieniła swoje koryto.",
-        "translationRu": "русло реки",
-        "example": "Koryto rzeki zmieniło się po powodzi.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "formowac",
-        "polish": "formować",
-        "aiStatus": "complete",
-        "translationRu": "формировать",
-        "synonym": "kształtować",
-        "example": "Nauczyciele formują charakter uczniów.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "na-wprost",
-        "polish": "na wprost",
-        "aiStatus": "complete",
-        "translationRu": "прямо, напротив (по направлению)",
-        "synonym": "naprzeciwko",
-        "example": "Sklep jest na wprost przystanku.",
+        "translationRu": "специалист, мастер (fachowiec; fachowca — форма винительного падежа)",
+        "synonym": "specjalista",
+        "example": "Potrzebuję dobrego fachowca do naprawy pralki.",
         "firstSeenAt": "2026-08-22"
       }
     ],
