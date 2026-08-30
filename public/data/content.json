@@ -1,97 +1,97 @@
 {
-  "generatedAt": "2026-08-29T10:43:22.933Z",
+  "generatedAt": "2026-08-30T09:41:55.569Z",
   "dailyPractice": {
-    "date": "2026-08-29",
+    "date": "2026-08-30",
     "words": [
       {
-        "id": "silna-wola",
-        "polish": "silna wola",
+        "id": "warunek-konieczny",
+        "polish": "warunek konieczny",
         "aiStatus": "complete",
-        "translationRu": "сильная воля",
-        "synonym": "determinacja",
-        "example": "Ma silną wolę i osiągnie cel.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "znajomosci",
-        "polish": "znajomości",
-        "aiStatus": "complete",
-        "translationRu": "знакомства, связи",
-        "synonym": "kontakty",
-        "example": "Praca przez znajomości.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "na-ten-temat",
-        "polish": "na ten temat",
-        "aiStatus": "complete",
-        "translationRu": "на эту тему",
-        "synonym": "w tej kwestii",
-        "example": "Mam inną opinię na ten temat.",
+        "translationRu": "необходимое условие",
+        "synonym": "wymóg",
+        "example": "Znajomość angielskiego jest warunkiem koniecznym tej pracy.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "bez-konca",
-        "polish": "bez końca",
+        "id": "przystosowac",
+        "polish": "przystosować",
         "aiStatus": "complete",
-        "synonym": "bez przerwy",
-        "translationRu": "без конца, бесконечно",
-        "example": "Mówił bez końca.",
+        "translationRu": "приспособить",
+        "synonym": "adaptować",
+        "example": "Trzeba przystosować budynek dla osób niepełnosprawnych.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "miec-na-celu",
-        "polish": "mieć na celu",
+        "id": "wyjasnienie",
+        "polish": "wyjaśnienie",
         "aiStatus": "complete",
-        "translationRu": "иметь целью, ставить целью",
-        "synonym": "zmierzać do",
-        "example": "Ma na celu poprawę warunków.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "fajny",
-        "polish": "fajny",
-        "aiStatus": "complete",
-        "synonym": "odlotowy/bombowy",
-        "translationRu": "классный, клёвый",
-        "example": "To był fajny film.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wzruszyc-ramionami",
-        "polish": "wzruszyć ramionami",
-        "aiStatus": "complete",
-        "synonym": "podnieść ramiona / nie wiedzieć, co powiedzieć",
-        "example": "Na pytanie tylko wzruszyć ramionami",
-        "translationRu": "пожать плечами",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wsparcie",
-        "polish": "wsparcie",
-        "aiStatus": "complete",
-        "translationRu": "поддержка",
-        "synonym": "pomoc",
-        "example": "Dziękuję za wsparcie w trudnym czasie.",
+        "translationRu": "объяснение",
+        "synonym": "wytłumaczenie",
+        "example": "Potrzebuję lepszego wyjaśnienia tej reguły.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "oszukiwac",
-        "polish": "oszukiwać",
+        "id": "regula",
+        "polish": "reguła",
         "aiStatus": "complete",
-        "translationRu": "обманывать",
-        "synonym": "kantować",
-        "example": "Nie lubię, gdy ktoś mnie oszukuje.",
+        "synonym": "ona",
+        "translationRu": "правило",
+        "example": "Jaka jest reguła w tej grze?",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "sztuka-nowoczesna",
+        "polish": "sztuka nowoczesna",
+        "aiStatus": "complete",
+        "translationRu": "современное искусство",
+        "synonym": "sztuka współczesna",
+        "example": "Muzeum prezentuje sztukę nowoczesną.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "przedstawic",
+        "polish": "przedstawić",
+        "aiStatus": "complete",
+        "synonym": "zaprezentować",
+        "translationRu": "представить (кого-то/что-то)",
+        "example": "Przedstawiam ci moją siostrę.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zapobiec",
+        "polish": "zapobiec",
+        "aiStatus": "complete",
+        "translationRu": "предотвратить, предупредить",
+        "synonym": "uniknąć",
+        "example": "Trzeba zapobiec kolejnej awarii.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "fachowca-fachowiec",
-        "polish": "fachowca- Fachowiec",
+        "id": "przewarzajaca",
+        "polish": "przewarzająca",
         "aiStatus": "partial",
-        "translationRu": "специалист, мастер (fachowiec; fachowca — форма винительного падежа)",
-        "synonym": "specjalista",
-        "example": "Potrzebuję dobrego fachowca do naprawy pralki.",
+        "translationRu": "преобладающая (опечатка: przeważająca)",
+        "synonym": "dominująca",
+        "example": "Przeważająca większość ludzi zgadza się z tym.",
         "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "opanowac-przerazenie",
+        "polish": "opanować przerażenie",
+        "aiStatus": "complete",
+        "synonym": "opanować strach",
+        "example": "Próbowała opanować przerażenie i zachować spokój",
+        "translationRu": "справиться с ужасом",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "krewni",
+        "polish": "krewni",
+        "aiStatus": "complete",
+        "translationRu": "родственники",
+        "synonym": "rodzina",
+        "example": "Mam dużo krewnych w Polsce.",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
