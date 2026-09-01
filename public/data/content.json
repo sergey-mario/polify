@@ -1,93 +1,95 @@
 {
-  "generatedAt": "2026-08-31T10:27:04.725Z",
+  "generatedAt": "2026-09-01T09:07:41.588Z",
   "dailyPractice": {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "words": [
       {
-        "id": "wywierac",
-        "polish": "wywierać",
+        "id": "pustkowie-2",
+        "polish": "pustkowie",
         "aiStatus": "complete",
-        "synonym": "wpływać",
-        "translationRu": "оказывать (влияние)",
-        "example": "Media wywierają duży wpływ na ludzi.",
+        "translationRu": "пустошь, безлюдная местность",
+        "synonym": "odludzie",
+        "example": "Zostawili samochód na pustkowiu.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "odprawa",
-        "polish": "odprawa",
+        "id": "okolo-pieciu-siedmiu",
+        "polish": "około pięciu/siedmiu",
         "aiStatus": "complete",
-        "translationRu": "регистрация (на рейс), инструктаж",
-        "synonym": "rejestracja",
-        "example": "Odprawa na lotnisku trwała godzinę.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zobaczyc",
-        "polish": "zobaczyć",
-        "aiStatus": "complete",
-        "translationRu": "увидеть",
-        "synonym": "ujrzeć",
-        "example": "Chcę zobaczyć ten film.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "poganstwo",
-        "polish": "pogaństwo",
-        "aiStatus": "complete",
-        "translationRu": "язычество",
-        "example": "Przed chrztem Polski panowało pogaństwo.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "powodzie",
-        "polish": "powodzie",
-        "aiStatus": "complete",
-        "synonym": "tymczasowe zalanie terenów normalnie suchych przez wody rzeczne, morskie lub z opadów",
-        "translationRu": "наводнения",
-        "example": "Powodzie zniszczyły wiele domów w tym roku.",
+        "translationRu": "около пяти / семи",
+        "synonym": "mniej więcej pięciu/siedmiu",
+        "example": "Przyjadę około piątej albo siódmej wieczorem.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "bylam-wsciekla",
-        "polish": "byłam wściekła",
+        "id": "na-gorze",
+        "polish": "na górze",
         "aiStatus": "complete",
-        "translationRu": "я была в бешенстве, взбешена (о женщине)",
-        "synonym": "byłam rozzłoszczona",
+        "translationRu": "наверху",
+        "synonym": "u góry",
+        "example": "Sypialnia jest na górze.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wygodniej",
+        "polish": "wygodniej",
+        "aiStatus": "complete",
+        "translationRu": "удобнее",
+        "synonym": "przyjemniej",
+        "example": "Tak będzie nam wygodniej.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zdala-sobie-sprawe-ze",
+        "polish": "zdała sobie sprawę (że …)",
+        "aiStatus": "complete",
+        "synonym": "zorientować się\nzrozumieć\nskapnąć się (разговорное) - допереть",
+        "example": "Nagle zdałem sobie sprawę, że nie mam telefonu",
+        "translationRu": "осознала (что …)",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "stolowka",
+        "polish": "stołówka",
+        "aiStatus": "complete",
+        "translationRu": "столовая (в учреждении)",
+        "synonym": "kantyna",
+        "example": "Zjadłem obiad w stołówce szkolnej.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "wystarczajacy",
-        "polish": "wystarczający",
+        "id": "co-zobaczyc-zwiedzic",
+        "polish": "co zobaczyć/ zwiedzić",
         "aiStatus": "complete",
-        "translationRu": "достаточный (м. р.)",
-        "example": "To wystarczający powód, aby zostać.",
+        "translationRu": "что посмотреть / посетить",
+        "synonym": "co obejrzeć",
+        "example": "Podpowiedz mi, co zobaczyć w tym mieście.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "odpowiedni",
+        "polish": "odpowiedni",
+        "aiStatus": "complete",
+        "translationRu": "подходящий, соответствующий",
+        "synonym": "właściwy",
+        "example": "To odpowiedni moment, żeby zacząć.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "podobne-podobnie",
+        "polish": "podobne/ podobnie",
+        "aiStatus": "partial",
+        "translationRu": "похожий/похожая (прил.) / похоже (нареч.) — пометка о разнице прилагательного и наречия",
+        "example": "Te dwa obrazy są podobne, wyglądają podobnie.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "okolicznosci",
-        "polish": "okoliczności",
+        "id": "jezyk-hebrajski",
+        "polish": "język hebrajski",
         "aiStatus": "complete",
-        "translationRu": "обстоятельства",
-        "synonym": "warunki",
-        "example": "W tych okolicznościach nie mogę pomóc.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zachwyt",
-        "polish": "zachwyt",
-        "aiStatus": "complete",
-        "translationRu": "восхищение",
-        "synonym": "podziw",
-        "example": "Wystawa wzbudziła powszechny zachwyt.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zaciagac",
-        "polish": "zaciągać",
-        "aiStatus": "complete",
-        "translationRu": "затягивать; брать (кредит); набирать",
-        "synonym": "wciągać",
-        "example": "Nie warto zaciągać kolejnej pożyczki.",
+        "translationRu": "иврит",
+        "synonym": "hebrajski",
+        "example": "Uczy się języka hebrajskiego od roku.",
         "firstSeenAt": "2026-05-02"
       }
     ],
