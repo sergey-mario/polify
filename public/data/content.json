@@ -1,95 +1,94 @@
 {
-  "generatedAt": "2026-09-01T09:07:41.588Z",
+  "generatedAt": "2026-09-02T08:21:07.243Z",
   "dailyPractice": {
-    "date": "2026-09-01",
+    "date": "2026-09-02",
     "words": [
       {
-        "id": "pustkowie-2",
-        "polish": "pustkowie",
+        "id": "mamy-wiele-wspolnego",
+        "polish": "mamy wiele wspólnego",
         "aiStatus": "complete",
-        "translationRu": "пустошь, безлюдная местность",
-        "synonym": "odludzie",
-        "example": "Zostawili samochód na pustkowiu.",
+        "translationRu": "у нас много общего",
+        "synonym": "jesteśmy do siebie podobni",
+        "example": "Mamy wiele wspólnego, dlatego dobrze się dogadujemy.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "ksztalt-2",
+        "polish": "kształt",
+        "aiStatus": "complete",
+        "synonym": "forma",
+        "translationRu": "форма",
+        "example": "To pudełko ma kształt sześcianu.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "okolo-pieciu-siedmiu",
-        "polish": "około pięciu/siedmiu",
+        "id": "wokol",
+        "polish": "wokół",
         "aiStatus": "complete",
-        "translationRu": "около пяти / семи",
-        "synonym": "mniej więcej pięciu/siedmiu",
-        "example": "Przyjadę około piątej albo siódmej wieczorem.",
-        "firstSeenAt": "2026-05-02"
+        "synonym": "dokoła, naokoło",
+        "translationRu": "вокруг",
+        "example": "Wokół domu rosną drzewa.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "na-gorze",
-        "polish": "na górze",
+        "id": "filar",
+        "polish": "filar",
         "aiStatus": "complete",
-        "translationRu": "наверху",
-        "synonym": "u góry",
-        "example": "Sypialnia jest na górze.",
-        "firstSeenAt": "2026-05-02"
+        "synonym": "podstawa, fundament, opora",
+        "example": "Edukacja stanowi ważny filar państwa",
+        "translationRu": "столп, опора",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wygodniej",
-        "polish": "wygodniej",
-        "aiStatus": "complete",
-        "translationRu": "удобнее",
-        "synonym": "przyjemniej",
-        "example": "Tak będzie nam wygodniej.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zdala-sobie-sprawe-ze",
-        "polish": "zdała sobie sprawę (że …)",
-        "aiStatus": "complete",
-        "synonym": "zorientować się\nzrozumieć\nskapnąć się (разговорное) - допереть",
-        "example": "Nagle zdałem sobie sprawę, że nie mam telefonu",
-        "translationRu": "осознала (что …)",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "stolowka",
-        "polish": "stołówka",
-        "aiStatus": "complete",
-        "translationRu": "столовая (в учреждении)",
-        "synonym": "kantyna",
-        "example": "Zjadłem obiad w stołówce szkolnej.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "co-zobaczyc-zwiedzic",
-        "polish": "co zobaczyć/ zwiedzić",
-        "aiStatus": "complete",
-        "translationRu": "что посмотреть / посетить",
-        "synonym": "co obejrzeć",
-        "example": "Podpowiedz mi, co zobaczyć w tym mieście.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "odpowiedni",
-        "polish": "odpowiedni",
-        "aiStatus": "complete",
-        "translationRu": "подходящий, соответствующий",
-        "synonym": "właściwy",
-        "example": "To odpowiedni moment, żeby zacząć.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "podobne-podobnie",
-        "polish": "podobne/ podobnie",
+        "id": "grilowac",
+        "polish": "grilować",
         "aiStatus": "partial",
-        "translationRu": "похожий/похожая (прил.) / похоже (нареч.) — пометка о разнице прилагательного и наречия",
-        "example": "Te dwa obrazy są podobne, wyglądają podobnie.",
+        "translationRu": "жарить на гриле (правильное написание: grillować)",
+        "synonym": "piec na ruszcie",
+        "example": "Latem często grilujemy w ogrodzie.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "jezyk-hebrajski",
-        "polish": "język hebrajski",
+        "id": "miec-glowe-na-karku",
+        "polish": "Mieć głowę na karku",
         "aiStatus": "complete",
-        "translationRu": "иврит",
-        "synonym": "hebrajski",
-        "example": "Uczy się języka hebrajskiego od roku.",
+        "translationRu": "иметь голову на плечах, быть рассудительным (идиома)",
+        "example": "Ona ma głowę na karku i podejmuje dobre decyzje.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "zasada-2",
+        "polish": "zasada",
+        "aiStatus": "complete",
+        "synonym": "głowne zasady",
+        "translationRu": "правило, принцип",
+        "example": "To podstawowa zasada.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "cel-on",
+        "polish": "cel - on",
+        "aiStatus": "partial",
+        "translationRu": "цель (он, грам. род)",
+        "example": "Nasz cel jest jasno określony.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "z-przyjaciolmi",
+        "polish": "z przyjaciółmi",
+        "aiStatus": "complete",
+        "synonym": "z przyjaciółmi się nie nudzę",
+        "translationRu": "с друзьями",
+        "example": "Spędziłem weekend z przyjaciółmi.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "wystepy-publiczne",
+        "polish": "występy publiczne",
+        "aiStatus": "complete",
+        "translationRu": "публичные выступления",
+        "synonym": "przemówienia publiczne",
+        "example": "Boi się występów publicznych.",
         "firstSeenAt": "2026-05-02"
       }
     ],
