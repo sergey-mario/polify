@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-02T08:21:07.243Z",
+  "generatedAt": "2026-09-03T08:30:34.130Z",
   "dailyPractice": {
-    "date": "2026-09-02",
+    "date": "2026-09-03",
     "words": [
       {
-        "id": "mamy-wiele-wspolnego",
-        "polish": "mamy wiele wspólnego",
+        "id": "nadzienie",
+        "polish": "nadzienie",
         "aiStatus": "complete",
-        "translationRu": "у нас много общего",
-        "synonym": "jesteśmy do siebie podobni",
-        "example": "Mamy wiele wspólnego, dlatego dobrze się dogadujemy.",
+        "translationRu": "начинка",
+        "synonym": "farsz",
+        "example": "Pierogi z mięsnym nadzieniem.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "ksztalt-2",
-        "polish": "kształt",
+        "id": "przenikac",
+        "polish": "przenikać",
         "aiStatus": "complete",
-        "synonym": "forma",
-        "translationRu": "форма",
-        "example": "To pudełko ma kształt sześcianu.",
+        "translationRu": "проникать",
+        "synonym": "wnikać",
+        "example": "Zimno przenika przez ubranie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "przypominac",
+        "polish": "przypominać",
+        "aiStatus": "complete",
+        "translationRu": "напоминать",
+        "synonym": "kojarzyć się z",
+        "example": "Ten zapach przypomina mi dzieciństwo.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wokol",
-        "polish": "wokół",
+        "id": "lapac-autostop",
+        "polish": "łapać autostop",
         "aiStatus": "complete",
-        "synonym": "dokoła, naokoło",
-        "translationRu": "вокруг",
-        "example": "Wokół domu rosną drzewa.",
-        "firstSeenAt": "2026-07-17"
+        "example": "Mogła jeszcze próbować łapać autostop",
+        "translationRu": "ловить попутку",
+        "synonym": "autostopować",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "filar",
-        "polish": "filar",
-        "aiStatus": "complete",
-        "synonym": "podstawa, fundament, opora",
-        "example": "Edukacja stanowi ważny filar państwa",
-        "translationRu": "столп, опора",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "grilowac",
-        "polish": "grilować",
+        "id": "od-domu",
+        "polish": "od domu",
         "aiStatus": "partial",
-        "translationRu": "жарить на гриле (правильное написание: grillować)",
-        "synonym": "piec na ruszcie",
-        "example": "Latem często grilujemy w ogrodzie.",
+        "translationRu": "от дома",
+        "example": "Szkoła jest niedaleko od domu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "cofnac-sie-w-czasie",
+        "polish": "cofnąć się w czasie",
+        "aiStatus": "complete",
+        "translationRu": "вернуться во времени",
+        "synonym": "wrócić do przeszłości",
+        "example": "Gdybym mógł cofnąć się w czasie, zrobiłbym to inaczej.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wyslychac",
+        "polish": "wysłychać",
+        "aiStatus": "partial",
+        "translationRu": "выслушать (опечатка от wysłuchać)",
+        "synonym": "wysłuchać",
+        "example": "Warto wysłuchać opinii innych przed podjęciem decyzji.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "swierszcz",
+        "polish": "świerszcz",
+        "aiStatus": "complete",
+        "translationRu": "сверчок",
+        "example": "Wieczorem słychać było świerszcze w trawie.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "miec-glowe-na-karku",
-        "polish": "Mieć głowę na karku",
+        "id": "zwolennik-2",
+        "polish": "zwolennik",
         "aiStatus": "complete",
-        "translationRu": "иметь голову на плечах, быть рассудительным (идиома)",
-        "example": "Ona ma głowę na karku i podejmuje dobre decyzje.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "zasada-2",
-        "polish": "zasada",
-        "aiStatus": "complete",
-        "synonym": "głowne zasady",
-        "translationRu": "правило, принцип",
-        "example": "To podstawowa zasada.",
+        "translationRu": "сторонник",
+        "synonym": "osoba, która jest przekonana o słuszności jakiejś idei, koncepcji lub jakiegoś działania.",
+        "example": "Jest zagorzałym zwolennikiem tej reformy.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "cel-on",
-        "polish": "cel - on",
-        "aiStatus": "partial",
-        "translationRu": "цель (он, грам. род)",
-        "example": "Nasz cel jest jasno określony.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "z-przyjaciolmi",
-        "polish": "z przyjaciółmi",
+        "id": "stereotyp",
+        "polish": "stereotyp",
         "aiStatus": "complete",
-        "synonym": "z przyjaciółmi się nie nudzę",
-        "translationRu": "с друзьями",
-        "example": "Spędziłem weekend z przyjaciółmi.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wystepy-publiczne",
-        "polish": "występy publiczne",
-        "aiStatus": "complete",
-        "translationRu": "публичные выступления",
-        "synonym": "przemówienia publiczne",
-        "example": "Boi się występów publicznych.",
+        "translationRu": "стереотип",
+        "synonym": "uprzedzenie",
+        "example": "To tylko stereotyp.",
         "firstSeenAt": "2026-05-02"
       }
     ],
