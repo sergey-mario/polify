@@ -1,95 +1,95 @@
 {
-  "generatedAt": "2026-09-03T08:30:34.130Z",
+  "generatedAt": "2026-09-04T08:28:31.653Z",
   "dailyPractice": {
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "words": [
       {
-        "id": "nadzienie",
-        "polish": "nadzienie",
+        "id": "dotarlo",
+        "polish": "dotarło",
         "aiStatus": "complete",
-        "translationRu": "начинка",
-        "synonym": "farsz",
-        "example": "Pierogi z mięsnym nadzieniem.",
+        "translationRu": "дошло (до меня), дошло до места",
+        "synonym": "zrozumiałem",
+        "example": "Wreszcie do mnie dotarło, o co chodzi.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "przenikac",
-        "polish": "przenikać",
+        "id": "publikowac",
+        "polish": "publikować",
         "aiStatus": "complete",
-        "translationRu": "проникать",
-        "synonym": "wnikać",
-        "example": "Zimno przenika przez ubranie.",
+        "translationRu": "публиковать",
+        "synonym": "wydawać",
+        "example": "Ona regularnie publikuje artykuły w internecie.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "przypominac",
-        "polish": "przypominać",
+        "id": "boisko",
+        "polish": "boisko",
         "aiStatus": "complete",
-        "translationRu": "напоминать",
-        "synonym": "kojarzyć się z",
-        "example": "Ten zapach przypomina mi dzieciństwo.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "lapac-autostop",
-        "polish": "łapać autostop",
-        "aiStatus": "complete",
-        "example": "Mogła jeszcze próbować łapać autostop",
-        "translationRu": "ловить попутку",
-        "synonym": "autostopować",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "od-domu",
-        "polish": "od domu",
-        "aiStatus": "partial",
-        "translationRu": "от дома",
-        "example": "Szkoła jest niedaleko od domu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "cofnac-sie-w-czasie",
-        "polish": "cofnąć się w czasie",
-        "aiStatus": "complete",
-        "translationRu": "вернуться во времени",
-        "synonym": "wrócić do przeszłości",
-        "example": "Gdybym mógł cofnąć się w czasie, zrobiłbym to inaczej.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wyslychac",
-        "polish": "wysłychać",
-        "aiStatus": "partial",
-        "translationRu": "выслушать (опечатка от wysłuchać)",
-        "synonym": "wysłuchać",
-        "example": "Warto wysłuchać opinii innych przed podjęciem decyzji.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "swierszcz",
-        "polish": "świerszcz",
-        "aiStatus": "complete",
-        "translationRu": "сверчок",
-        "example": "Wieczorem słychać było świerszcze w trawie.",
+        "translationRu": "спортивная площадка, стадион",
+        "synonym": "stadion",
+        "example": "Dzieci grały w piłkę na boisku.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "zwolennik-2",
-        "polish": "zwolennik",
+        "id": "kleszcz",
+        "polish": "kleszcz",
         "aiStatus": "complete",
-        "translationRu": "сторонник",
-        "synonym": "osoba, która jest przekonana o słuszności jakiejś idei, koncepcji lub jakiegoś działania.",
-        "example": "Jest zagorzałym zwolennikiem tej reformy.",
+        "translationRu": "клещ",
+        "example": "Po powrocie z lasu trzeba sprawdzić, czy nie ma kleszcza.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "promocja",
+        "polish": "promocja",
+        "aiStatus": "complete",
+        "translationRu": "акция, скидка; продвижение",
+        "synonym": "zniżka",
+        "example": "Te buty są na promocji.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "stereotyp",
-        "polish": "stereotyp",
+        "id": "hodowac-2",
+        "polish": "hodować",
         "aiStatus": "complete",
-        "translationRu": "стереотип",
-        "synonym": "uprzedzenie",
-        "example": "To tylko stereotyp.",
+        "translationRu": "разводить, выращивать (растения, животных)",
+        "synonym": "hodaować kwiaty",
+        "example": "Moi dziadkowie hodują kury i krowy.",
         "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "na-lonie-natury",
+        "polish": "na łonie natury",
+        "aiStatus": "complete",
+        "translationRu": "на лоне природы",
+        "synonym": "na świeżym powietrzu",
+        "example": "Spędziliśmy weekend na łonie natury.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "w-zeszlym",
+        "polish": "w zeszłym",
+        "aiStatus": "partial",
+        "translationRu": "в прошлом (обрывок, напр. w zeszłym roku)",
+        "example": "W zeszłym roku byliśmy w Grecji.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zarzadzac-3",
+        "polish": "zarządzać",
+        "aiStatus": "complete",
+        "translationRu": "управлять, руководить",
+        "synonym": "kierować",
+        "example": "Zarządza dużym zespołem.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "kontynent",
+        "polish": "kontynent",
+        "aiStatus": "complete",
+        "translationRu": "континент",
+        "synonym": "ląd",
+        "example": "Afryka jest kontynentem.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
