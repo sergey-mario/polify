@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-09-04T08:28:31.653Z",
+  "generatedAt": "2026-09-05T08:01:08.760Z",
   "dailyPractice": {
-    "date": "2026-09-04",
+    "date": "2026-09-05",
     "words": [
       {
-        "id": "dotarlo",
-        "polish": "dotarło",
+        "id": "tlumaczyc",
+        "polish": "tłumaczyć",
         "aiStatus": "complete",
-        "translationRu": "дошло (до меня), дошло до места",
-        "synonym": "zrozumiałem",
-        "example": "Wreszcie do mnie dotarło, o co chodzi.",
+        "translationRu": "переводить; объяснять",
+        "synonym": "wyjaśniać",
+        "example": "Tłumaczę książkę z angielskiego na polski.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "publikowac",
-        "polish": "publikować",
+        "id": "przepadac-za",
+        "polish": "przepadać za",
         "aiStatus": "complete",
-        "translationRu": "публиковать",
-        "synonym": "wydawać",
-        "example": "Ona regularnie publikuje artykuły w internecie.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "boisko",
-        "polish": "boisko",
-        "aiStatus": "complete",
-        "translationRu": "спортивная площадка, стадион",
-        "synonym": "stadion",
-        "example": "Dzieci grały w piłkę na boisku.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "kleszcz",
-        "polish": "kleszcz",
-        "aiStatus": "complete",
-        "translationRu": "клещ",
-        "example": "Po powrocie z lasu trzeba sprawdzić, czy nie ma kleszcza.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "promocja",
-        "polish": "promocja",
-        "aiStatus": "complete",
-        "translationRu": "акция, скидка; продвижение",
-        "synonym": "zniżka",
-        "example": "Te buty są na promocji.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "hodowac-2",
-        "polish": "hodować",
-        "aiStatus": "complete",
-        "translationRu": "разводить, выращивать (растения, животных)",
-        "synonym": "hodaować kwiaty",
-        "example": "Moi dziadkowie hodują kury i krowy.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "na-lonie-natury",
-        "polish": "na łonie natury",
-        "aiStatus": "complete",
-        "translationRu": "на лоне природы",
-        "synonym": "na świeżym powietrzu",
-        "example": "Spędziliśmy weekend na łonie natury.",
+        "translationRu": "обожать (что-то), быть без ума от",
+        "synonym": "kochać",
+        "example": "Przepadam za czekoladą.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "w-zeszlym",
-        "polish": "w zeszłym",
+        "id": "chec",
+        "polish": "chęć",
+        "aiStatus": "complete",
+        "translationRu": "желание, охота",
+        "synonym": "ochota",
+        "example": "Mam chęć na lody.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "nie-odpowiada-oczekiewaniom",
+        "polish": "nie odpowiada oczekiewaniom",
         "aiStatus": "partial",
-        "translationRu": "в прошлом (обрывок, напр. w zeszłym roku)",
-        "example": "W zeszłym roku byliśmy w Grecji.",
+        "translationRu": "не соответствует ожиданиям (опечатка: oczekiwaniom)",
+        "example": "Ten produkt nie odpowiada oczekiwaniom klientów.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "duzo",
+        "polish": "dużo",
+        "aiStatus": "complete",
+        "translationRu": "много",
+        "synonym": "wiele",
+        "example": "Mam dużo pracy.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zarzadzac-3",
-        "polish": "zarządzać",
+        "id": "swierszcz",
+        "polish": "świerszcz",
         "aiStatus": "complete",
-        "translationRu": "управлять, руководить",
-        "synonym": "kierować",
-        "example": "Zarządza dużym zespołem.",
+        "translationRu": "сверчок",
+        "example": "Wieczorem słychać było świerszcze w trawie.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "wyjatkowy",
+        "polish": "wyjątkowy",
+        "aiStatus": "complete",
+        "translationRu": "исключительный",
+        "synonym": "niezwykły",
+        "example": "To był wyjątkowy dzień.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "konsumpcja",
+        "polish": "konsumpcja",
+        "aiStatus": "complete",
+        "translationRu": "потребление",
+        "synonym": "spożycie",
+        "example": "Konsumpcja mięsa w Polsce rośnie z roku na rok.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "kontynent",
-        "polish": "kontynent",
+        "id": "leniuch",
+        "polish": "leniuch",
         "aiStatus": "complete",
-        "translationRu": "континент",
-        "synonym": "ląd",
-        "example": "Afryka jest kontynentem.",
+        "translationRu": "лентяй",
+        "synonym": "próżniak",
+        "example": "Nie bądź takim leniuchem.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "respondent",
+        "polish": "respondent",
+        "aiStatus": "complete",
+        "translationRu": "респондент",
+        "synonym": "ankietowany",
+        "example": "Ankietę wypełniło stu respondentów.",
         "firstSeenAt": "2026-07-17"
       }
     ],
