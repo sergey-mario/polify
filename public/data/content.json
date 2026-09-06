@@ -1,95 +1,94 @@
 {
-  "generatedAt": "2026-09-05T08:01:08.760Z",
+  "generatedAt": "2026-09-06T08:19:33.577Z",
   "dailyPractice": {
-    "date": "2026-09-05",
+    "date": "2026-09-06",
     "words": [
       {
-        "id": "tlumaczyc",
-        "polish": "tłumaczyć",
+        "id": "za-kilka-miesiecy",
+        "polish": "za kilka miesięcy",
         "aiStatus": "complete",
-        "translationRu": "переводить; объяснять",
-        "synonym": "wyjaśniać",
-        "example": "Tłumaczę książkę z angielskiego na polski.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "przepadac-za",
-        "polish": "przepadać za",
-        "aiStatus": "complete",
-        "translationRu": "обожать (что-то), быть без ума от",
-        "synonym": "kochać",
-        "example": "Przepadam za czekoladą.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "chec",
-        "polish": "chęć",
-        "aiStatus": "complete",
-        "translationRu": "желание, охота",
-        "synonym": "ochota",
-        "example": "Mam chęć na lody.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "nie-odpowiada-oczekiewaniom",
-        "polish": "nie odpowiada oczekiewaniom",
-        "aiStatus": "partial",
-        "translationRu": "не соответствует ожиданиям (опечатка: oczekiwaniom)",
-        "example": "Ten produkt nie odpowiada oczekiwaniom klientów.",
+        "translationRu": "через несколько месяцев",
+        "synonym": "wkrótce",
+        "example": "Za kilka miesięcy skończę studia.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "duzo",
-        "polish": "dużo",
+        "id": "jelito",
+        "polish": "jelito",
         "aiStatus": "complete",
-        "translationRu": "много",
-        "synonym": "wiele",
-        "example": "Mam dużo pracy.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "swierszcz",
-        "polish": "świerszcz",
-        "aiStatus": "complete",
-        "translationRu": "сверчок",
-        "example": "Wieczorem słychać było świerszcze w trawie.",
+        "translationRu": "кишка, кишечник",
+        "example": "Jelito grube pełni ważną funkcję w trawieniu.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "wyjatkowy",
-        "polish": "wyjątkowy",
+        "id": "promocja",
+        "polish": "promocja",
         "aiStatus": "complete",
-        "translationRu": "исключительный",
-        "synonym": "niezwykły",
-        "example": "To był wyjątkowy dzień.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "konsumpcja",
-        "polish": "konsumpcja",
-        "aiStatus": "complete",
-        "translationRu": "потребление",
-        "synonym": "spożycie",
-        "example": "Konsumpcja mięsa w Polsce rośnie z roku na rok.",
+        "translationRu": "акция, скидка; продвижение",
+        "synonym": "zniżka",
+        "example": "Te buty są na promocji.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "leniuch",
-        "polish": "leniuch",
+        "id": "on-sie-bal",
+        "polish": "on się bał",
         "aiStatus": "complete",
-        "translationRu": "лентяй",
-        "synonym": "próżniak",
-        "example": "Nie bądź takim leniuchem.",
+        "translationRu": "он боялся",
+        "example": "On się bał ciemności jako dziecko.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "nowoczesny-2",
+        "polish": "nowoczesny",
+        "aiStatus": "complete",
+        "translationRu": "современный",
+        "synonym": "współczesny",
+        "example": "To jest bardzo nowoczesny dom.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "ja-nie-moglem",
+        "polish": "ja - nie mogłem",
+        "aiStatus": "complete",
+        "translationRu": "я не мог",
+        "example": "Ja nie mogłem przyjść wczoraj.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "respondent",
-        "polish": "respondent",
+        "id": "znaczacy",
+        "polish": "znaczący",
         "aiStatus": "complete",
-        "translationRu": "респондент",
-        "synonym": "ankietowany",
-        "example": "Ankietę wypełniło stu respondentów.",
+        "translationRu": "значимый",
+        "synonym": "ważny",
+        "example": "Odnieśliśmy znaczący sukces.",
         "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "rada",
+        "polish": "rada",
+        "aiStatus": "complete",
+        "translationRu": "совет",
+        "synonym": "wskazówka",
+        "example": "Dał mi bardzo dobrą radę.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "wspinac-sie-2",
+        "polish": "wspinać się",
+        "aiStatus": "complete",
+        "translationRu": "взбираться, карабкаться",
+        "synonym": "piąć się",
+        "example": "Wspinamy się na szczyt.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wyzwanie-3",
+        "polish": "wyzwanie",
+        "aiStatus": "complete",
+        "translationRu": "вызов, испытание",
+        "synonym": "trudność",
+        "example": "To dla mnie nowe wyzwanie.",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
