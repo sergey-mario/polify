@@ -1,93 +1,96 @@
 {
-  "generatedAt": "2026-09-06T08:19:33.577Z",
+  "generatedAt": "2026-09-07T08:52:42.637Z",
   "dailyPractice": {
-    "date": "2026-09-06",
+    "date": "2026-09-07",
     "words": [
       {
-        "id": "za-kilka-miesiecy",
-        "polish": "za kilka miesięcy",
+        "id": "zachwycac-sie",
+        "polish": "zachwycać się",
         "aiStatus": "complete",
-        "translationRu": "через несколько месяцев",
-        "synonym": "wkrótce",
-        "example": "Za kilka miesięcy skończę studia.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "jelito",
-        "polish": "jelito",
-        "aiStatus": "complete",
-        "translationRu": "кишка, кишечник",
-        "example": "Jelito grube pełni ważną funkcję w trawieniu.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "promocja",
-        "polish": "promocja",
-        "aiStatus": "complete",
-        "translationRu": "акция, скидка; продвижение",
-        "synonym": "zniżka",
-        "example": "Te buty są na promocji.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "on-sie-bal",
-        "polish": "on się bał",
-        "aiStatus": "complete",
-        "translationRu": "он боялся",
-        "example": "On się bał ciemności jako dziecko.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "nowoczesny-2",
-        "polish": "nowoczesny",
-        "aiStatus": "complete",
-        "translationRu": "современный",
-        "synonym": "współczesny",
-        "example": "To jest bardzo nowoczesny dom.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "ja-nie-moglem",
-        "polish": "ja - nie mogłem",
-        "aiStatus": "complete",
-        "translationRu": "я не мог",
-        "example": "Ja nie mogłem przyjść wczoraj.",
+        "synonym": "zachwycić się",
+        "translationRu": "восхищаться",
+        "example": "Zachwycałem się widokiem z góry.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "znaczacy",
-        "polish": "znaczący",
+        "id": "powolanie-do-wojska",
+        "polish": "powołanie do wojska",
         "aiStatus": "complete",
-        "translationRu": "значимый",
-        "synonym": "ważny",
-        "example": "Odnieśliśmy znaczący sukces.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "rada",
-        "polish": "rada",
-        "aiStatus": "complete",
-        "translationRu": "совет",
-        "synonym": "wskazówka",
-        "example": "Dał mi bardzo dobrą radę.",
+        "translationRu": "призыв в армию",
+        "synonym": "pobór do wojska",
+        "example": "Otrzymał powołanie do wojska tuż po studiach.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "wspinac-sie-2",
-        "polish": "wspinać się",
+        "id": "wplywac",
+        "polish": "wpływać",
         "aiStatus": "complete",
-        "translationRu": "взбираться, карабкаться",
-        "synonym": "piąć się",
-        "example": "Wspinamy się na szczyt.",
+        "translationRu": "влиять, воздействовать",
+        "synonym": "oddziaływać",
+        "example": "Pogoda wpływa na nastrój.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wyzwanie-3",
-        "polish": "wyzwanie",
+        "id": "przydatny",
+        "polish": "przydatny",
         "aiStatus": "complete",
-        "translationRu": "вызов, испытание",
-        "synonym": "trudność",
-        "example": "To dla mnie nowe wyzwanie.",
+        "translationRu": "полезный",
+        "synonym": "użyteczny",
+        "example": "To bardzo przydatna informacja.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "przeprowadac",
+        "polish": "przeprowadać",
+        "aiStatus": "partial",
+        "synonym": "przeprowadzić",
+        "translationRu": "проводить, осуществлять (опечатка от 'przeprowadzać')",
+        "example": "Trzeba przeprowadzać regularne kontrole.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "wspierac-2",
+        "polish": "wspierać",
+        "aiStatus": "complete",
+        "translationRu": "поддерживать",
+        "synonym": "pomagać",
+        "example": "Rodzice mnie wspierają.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "jest-zakaz",
+        "polish": "jest zakaz",
+        "aiStatus": "complete",
+        "translationRu": "есть запрет, запрещено",
+        "synonym": "jest zabronione",
+        "example": "Tu jest zakaz palenia.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wyrazisty",
+        "polish": "wyrazisty",
+        "aiStatus": "complete",
+        "translationRu": "выразительный",
+        "synonym": "ekspresyjny",
+        "example": "Miała wyrazisty głos, który trudno było zapomnieć.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wynajelam",
+        "polish": "wynajęłam",
+        "aiStatus": "complete",
+        "translationRu": "я сняла (жильё, ж.р.)",
+        "synonym": "wzięłam w najem",
+        "example": "Wynajęłam mieszkanie na rok.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "grzejnik",
+        "polish": "grzejnik",
+        "aiStatus": "complete",
+        "example": "grzejnik elektryczny",
+        "translationRu": "обогреватель, радиатор",
+        "synonym": "kaloryfer",
         "firstSeenAt": "2026-05-02"
       }
     ],
