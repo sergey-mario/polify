@@ -1,96 +1,90 @@
 {
-  "generatedAt": "2026-09-07T08:52:42.637Z",
+  "generatedAt": "2026-09-08T08:32:52.366Z",
   "dailyPractice": {
-    "date": "2026-09-07",
+    "date": "2026-09-08",
     "words": [
       {
-        "id": "zachwycac-sie",
-        "polish": "zachwycać się",
+        "id": "mol",
+        "polish": "mól",
         "aiStatus": "complete",
-        "synonym": "zachwycić się",
-        "translationRu": "восхищаться",
-        "example": "Zachwycałem się widokiem z góry.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "powolanie-do-wojska",
-        "polish": "powołanie do wojska",
-        "aiStatus": "complete",
-        "translationRu": "призыв в армию",
-        "synonym": "pobór do wojska",
-        "example": "Otrzymał powołanie do wojska tuż po studiach.",
+        "translationRu": "моль",
+        "example": "Mól zjadł mi swetry w szafie.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "wplywac",
-        "polish": "wpływać",
+        "id": "jechac-jezdzic",
+        "polish": "jechać / jeżdzić",
         "aiStatus": "complete",
-        "translationRu": "влиять, воздействовать",
-        "synonym": "oddziaływać",
-        "example": "Pogoda wpływa na nastrój.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "przydatny",
-        "polish": "przydatny",
-        "aiStatus": "complete",
-        "translationRu": "полезный",
-        "synonym": "użyteczny",
-        "example": "To bardzo przydatna informacja.",
+        "translationRu": "ехать / ездить",
+        "synonym": "podróżować",
+        "example": "Codziennie jeżdżę do pracy samochodem.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "przeprowadac",
-        "polish": "przeprowadać",
+        "id": "serca-obojga",
+        "polish": "Serca obojga",
+        "aiStatus": "complete",
+        "example": "Serca obojga biły tak głośno",
+        "translationRu": "Сердца обоих",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "osiagnac-4",
+        "polish": "osiągnąć",
+        "aiStatus": "complete",
+        "translationRu": "достичь (цели, результата)",
+        "synonym": "zdobyć",
+        "example": "Osiągnął swój cel.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "codzienne-jakie",
+        "polish": "codzienne - jakie",
         "aiStatus": "partial",
-        "synonym": "przeprowadzić",
-        "translationRu": "проводить, осуществлять (опечатка от 'przeprowadzać')",
-        "example": "Trzeba przeprowadzać regularne kontrole.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "wspierac-2",
-        "polish": "wspierać",
-        "aiStatus": "complete",
-        "translationRu": "поддерживать",
-        "synonym": "pomagać",
-        "example": "Rodzice mnie wspierają.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "jest-zakaz",
-        "polish": "jest zakaz",
-        "aiStatus": "complete",
-        "translationRu": "есть запрет, запрещено",
-        "synonym": "jest zabronione",
-        "example": "Tu jest zakaz palenia.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wyrazisty",
-        "polish": "wyrazisty",
-        "aiStatus": "complete",
-        "translationRu": "выразительный",
-        "synonym": "ekspresyjny",
-        "example": "Miała wyrazisty głos, który trudno było zapomnieć.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wynajelam",
-        "polish": "wynajęłam",
-        "aiStatus": "complete",
-        "translationRu": "я сняла (жильё, ж.р.)",
-        "synonym": "wzięłam w najem",
-        "example": "Wynajęłam mieszkanie na rok.",
+        "translationRu": "ежедневные - какие (обрывок фразы)",
+        "example": "Jakie masz codzienne obowiązki?",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "grzejnik",
-        "polish": "grzejnik",
+        "id": "oni-biora",
+        "polish": "oni biorą",
         "aiStatus": "complete",
-        "example": "grzejnik elektryczny",
-        "translationRu": "обогреватель, радиатор",
-        "synonym": "kaloryfer",
+        "translationRu": "они берут",
+        "example": "Oni biorą udział w konkursie.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "oprawca",
+        "polish": "oprawca",
+        "aiStatus": "complete",
+        "translationRu": "мучитель, истязатель",
+        "synonym": "kat",
+        "example": "Ofiara rozpoznała swojego oprawcę.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "bac",
+        "polish": "bać",
+        "aiStatus": "partial",
+        "translationRu": "бояться (обычно используется с 'się' — bać się)",
+        "example": "Nie musisz się bać egzaminu.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "wiedziec",
+        "polish": "wiedzieć",
+        "aiStatus": "complete",
+        "synonym": "że/ jak/",
+        "translationRu": "знать (факт)",
+        "example": "Wiem, że masz rację.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "ludzie-ktorzy",
+        "polish": "ludzie którzy",
+        "aiStatus": "partial",
+        "translationRu": "люди, которые (фрагмент)",
+        "example": "Ludzie, którzy dużo pracują, bywają zmęczeni.",
         "firstSeenAt": "2026-05-02"
       }
     ],
