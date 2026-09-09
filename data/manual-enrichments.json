@@ -5605,5 +5605,300 @@
     "synonym": "niemożliwa do uniknięcia",
     "example": "Ta rozmowa była nieunikniona.",
     "aiStatus": "complete"
+  },
+  "ludzie czekają na kartę pobytu - nie ludzi czekają karty pobytu": {
+    "translationRu": "люди ждут вид на жительство (не «ludzi czekają karty pobytu»)",
+    "example": "Ludzie czekają na kartę pobytu w długiej kolejce.",
+    "aiStatus": "partial"
+  },
+  "ludzie nie mogą założyć konta - nie konto": {
+    "translationRu": "люди не могут открыть счёт (не «konto» без правильного падежа)",
+    "example": "Ludzie nie mogą założyć konta bez dokumentu tożsamości.",
+    "aiStatus": "partial"
+  },
+  "dziesięć miesięcy - nie dziesiąć miesięcy": {
+    "translationRu": "десять месяцев (не «dziesiąć» — опечатка, правильно «dziesięć»)",
+    "example": "Mieszkam tu już dziesięć miesięcy.",
+    "aiStatus": "partial"
+  },
+  "do urzędu - nie urządu": {
+    "translationRu": "в учреждение, в ведомство (не «urządu» — опечатка, правильно «urzędu»)",
+    "example": "Muszę iść do urzędu po nowy dokument.",
+    "aiStatus": "partial"
+  },
+  "są ludzie, którzy ..- nie są ludzi który": {
+    "translationRu": "есть люди, которые... (не «są ludzi który» — ошибка согласования)",
+    "example": "Są ludzie, którzy nigdy się nie poddają.",
+    "aiStatus": "partial"
+  },
+  "osoba nie musi / nie powinna - różnica": {
+    "translationRu": "человек не обязан / не должен — разница в значении (musi = обязан, powinna = следует)",
+    "example": "Osoba nie musi się zgadzać, ale nie powinna być niegrzeczna.",
+    "aiStatus": "partial"
+  },
+  "śledzę to wszystko - nie ,,ślędzę za tym wszystkim''": {
+    "translationRu": "я слежу за всем этим (не «śledzę za tym wszystkim» — глагол не требует предлога «za»)",
+    "example": "Śledzę to wszystko na bieżąco.",
+    "aiStatus": "partial"
+  },
+  "Białorusini - nie Białorusiny": {
+    "translationRu": "белорусы (правильная форма мн.ч., не «Białorusiny»)",
+    "example": "Białorusini często odwiedzają Polskę.",
+    "aiStatus": "partial"
+  },
+  "nie rozumiem ludzie, którzy mają coś przeciwko ( komu ) cudzoziemcom": {
+    "translationRu": "не понимаю людей, которые настроены против иностранцев (правильно «nie rozumiem ludzi»; «przeciwko» + дательный падеж)",
+    "example": "Nie rozumiem ludzi, którzy mają coś przeciwko cudzoziemcom.",
+    "aiStatus": "partial"
+  },
+  "w Polsce jest dużo imigrantów - nie ,, w Polsce są dużo imigrantów''": {
+    "translationRu": "в Польше много иммигрантов (с «dużo» используется «jest», а не «są»)",
+    "example": "W Polsce jest dużo imigrantów z Ukrainy.",
+    "aiStatus": "partial"
+  },
+  "moim zdaniem … ( bez ,,moim zdaniem jest tak'' ) np. moim zdaniem on nie ma tutaj racji": {
+    "translationRu": "по-моему... (без «moim zdaniem jest tak» — конструкция уже содержит мнение)",
+    "example": "Moim zdaniem on nie ma tutaj racji.",
+    "aiStatus": "partial"
+  },
+  "w mediach społecznościowych - nie ,,w mediach spółczesnych''": {
+    "translationRu": "в социальных сетях (не «w mediach spółczesnych» — ошибка)",
+    "example": "Spędzam za dużo czasu w mediach społecznościowych.",
+    "aiStatus": "partial"
+  },
+  "tak nie musi być ( tak nie powinno być, tak nie może powiem)": {
+    "translationRu": "так не обязательно должно быть (варианты: «tak nie powinno być» — так не должно быть)",
+    "example": "Tak nie musi być, można to zmienić.",
+    "aiStatus": "partial"
+  },
+  "to bardzo rozległy temat": {
+    "translationRu": "это очень обширная тема",
+    "synonym": "to bardzo szeroki temat",
+    "example": "Historia Polski to bardzo rozległy temat.",
+    "aiStatus": "complete"
+  },
+  "wszystkie słowa - nie ,,wszyscy słowy''": {
+    "translationRu": "все слова (не «wszyscy słowy» — ошибка согласования)",
+    "example": "Wszystkie słowa w tym tekście są proste.",
+    "aiStatus": "partial"
+  },
+  "w tej książce - nie w tej książkie": {
+    "translationRu": "в этой книге (не «w tej książkie» — правильно «książce»)",
+    "example": "W tej książce jest wiele ciekawych historii.",
+    "aiStatus": "partial"
+  },
+  "teksty - one są krótkie, nie oni są krótkie": {
+    "translationRu": "тексты — они короткие (для неличных сущ. мн.ч. используется «one», не «oni»)",
+    "example": "Te teksty są krótkie i łatwe do zrozumienia.",
+    "aiStatus": "partial"
+  },
+  "styl literacki": {
+    "translationRu": "литературный стиль",
+    "synonym": "styl pisarski",
+    "example": "Autor ma bardzo charakterystyczny styl literacki.",
+    "aiStatus": "complete"
+  },
+  "są różni autorzy i autorki": {
+    "translationRu": "есть разные авторы и авторши (мужского и женского рода)",
+    "example": "W tej antologii są różni autorzy i autorki.",
+    "aiStatus": "complete"
+  },
+  "dwa różne wyznania - nie ,,dwa różnych wyznania''": {
+    "translationRu": "два разных вероисповедания (не «dwa różnych wyznania» — ошибка согласования числительного)",
+    "example": "Rodzice mają dwa różne wyznania.",
+    "aiStatus": "partial"
+  },
+  "dzieci pojawiał się z miłości do komunizmu": {
+    "translationRu": "дети появлялись из любви к коммунизму (обрывок фразы с ошибкой согласования — правильно «pojawiały się»)",
+    "aiStatus": "partial"
+  },
+  "to główny problem - nie ,, to najgłówniejszy problem ''": {
+    "translationRu": "это главная проблема (не «najgłówniejszy» — превосходная степень от «główny» не образуется)",
+    "example": "To główny problem naszej firmy.",
+    "aiStatus": "partial"
+  },
+  "zarabiać pieniądze, nie ,,zarabiać pieniędzy''": {
+    "translationRu": "зарабатывать деньги (винительный падеж «pieniądze», не родительный «pieniędzy»)",
+    "example": "Chcę zarabiać pieniądze, pracując zdalnie.",
+    "aiStatus": "partial"
+  },
+  "znaleźć złoty środek": {
+    "translationRu": "найти золотую середину",
+    "synonym": "znaleźć kompromis",
+    "example": "Musimy znaleźć złoty środek między pracą a odpoczynkiem.",
+    "aiStatus": "complete"
+  },
+  "odpowiedni moment / właściwy moment": {
+    "translationRu": "подходящий момент / нужный момент",
+    "example": "Czekał na odpowiedni moment, żeby jej powiedzieć.",
+    "aiStatus": "complete"
+  },
+  "jeśli chodzi o nastolatków ,,nie o nastolatkach''": {
+    "translationRu": "что касается подростков (после «jeśli chodzi o» нужен винительный падеж, не «o nastolatkach»)",
+    "example": "Jeśli chodzi o nastolatków, mają zupełnie inne priorytety.",
+    "aiStatus": "partial"
+  },
+  "zaszkodzić / uszkodzić": {
+    "translationRu": "навредить (здоровью/интересам) / повредить (предмет)",
+    "example": "Palenie może zaszkodzić zdrowiu, a upadek może uszkodzić telefon.",
+    "aiStatus": "complete"
+  },
+  "nauczycielka stała - nie ,,nauczycielka ,,stajała''": {
+    "translationRu": "учительница стояла (не «stajała» — ошибочная форма, правильно «stała»)",
+    "example": "Nauczycielka stała przy tablicy.",
+    "aiStatus": "partial"
+  },
+  "dotrzeć do dzieci,": {
+    "translationRu": "достучаться до детей, донести до детей",
+    "synonym": "dogadać się z dziećmi",
+    "example": "Trudno jest dotrzeć do dzieci z ważnym przekazem.",
+    "aiStatus": "complete"
+  },
+  "przekazać informację": {
+    "translationRu": "передать информацию",
+    "synonym": "podać informację",
+    "example": "Musimy szybko przekazać tę informację rodzicom.",
+    "aiStatus": "complete"
+  },
+  "gromadzenie": {
+    "translationRu": "накопление, собирание",
+    "synonym": "zbieranie",
+    "example": "Gromadzenie oszczędności wymaga dyscypliny.",
+    "aiStatus": "complete"
+  },
+  "deponent": {
+    "translationRu": "вкладчик (банк.)",
+    "synonym": "wkładca",
+    "example": "Deponent otrzymał odsetki od swojego depozytu.",
+    "aiStatus": "complete"
+  },
+  "rozbudowana sieć": {
+    "translationRu": "разветвлённая, развитая сеть",
+    "synonym": "rozległa sieć",
+    "example": "Bank ma rozbudowaną sieć oddziałów w całym kraju.",
+    "aiStatus": "complete"
+  },
+  "przelać środki": {
+    "translationRu": "перевести средства",
+    "synonym": "przelać pieniądze",
+    "example": "Musisz przelać środki na nowe konto do piątku.",
+    "aiStatus": "complete"
+  },
+  "widzowie": {
+    "translationRu": "зрители",
+    "synonym": "publiczność",
+    "example": "Widzowie oklaskiwali aktorów na stojąco.",
+    "aiStatus": "complete"
+  },
+  "ciężko trafić na coś wartościowego": {
+    "translationRu": "трудно наткнуться на что-то ценное",
+    "synonym": "trudno znaleźć coś wartościowego",
+    "example": "W internecie ciężko trafić na coś naprawdę wartościowego.",
+    "aiStatus": "complete"
+  },
+  "NAMIĘTNOŚĆ": {
+    "translationRu": "страсть",
+    "synonym": "pasja",
+    "example": "Namiętność do muzyki towarzyszyła mu od dzieciństwa.",
+    "aiStatus": "complete"
+  },
+  "ośrodek": {
+    "translationRu": "центр (учреждение)",
+    "synonym": "centrum",
+    "example": "W mieście otwarto nowy ośrodek kultury.",
+    "aiStatus": "complete"
+  },
+  "przewidywać": {
+    "translationRu": "предвидеть, прогнозировать",
+    "synonym": "prognozować",
+    "example": "Trudno przewidywać pogodę na tak długi okres.",
+    "aiStatus": "complete"
+  },
+  "nie wypada": {
+    "translationRu": "неприлично, не подобает",
+    "synonym": "nie uchodzi",
+    "example": "Nie wypada mówić o pieniądzach przy stole.",
+    "aiStatus": "complete"
+  },
+  "pragnąć": {
+    "translationRu": "желать, жаждать",
+    "synonym": "chcieć",
+    "example": "Każdy pragnie być szczęśliwy.",
+    "aiStatus": "complete"
+  },
+  "nie wahaj": {
+    "translationRu": "не сомневайся, не колеблись (обрывок фразы «nie wahaj się»)",
+    "example": "Nie wahaj się zapytać, jeśli czegoś nie rozumiesz.",
+    "aiStatus": "partial"
+  },
+  "można na siebie włożyć": {
+    "translationRu": "можно надеть на себя",
+    "example": "Tę sukienkę można na siebie włożyć do pracy.",
+    "aiStatus": "complete"
+  },
+  "bagatela": {
+    "translationRu": "пустяк, мелочь (часто иронично о крупной сумме)",
+    "synonym": "drobnostka",
+    "example": "Kosztowało to bagatela dziesięć tysięcy złotych.",
+    "aiStatus": "complete"
+  },
+  "których na pozór niepodobna jest kształcić": {
+    "translationRu": "которых на первый взгляд невозможно обучить (архаичный литературный оборот)",
+    "example": "Są dzieci, których na pozór niepodobna jest kształcić, a jednak potrafią zaskoczyć postępami.",
+    "aiStatus": "partial"
+  },
+  "wobec": {
+    "translationRu": "по отношению к, перед (предлог)",
+    "synonym": "w stosunku do",
+    "example": "Mam wobec niego dług wdzięczności.",
+    "aiStatus": "complete"
+  },
+  "żebractwo": {
+    "translationRu": "попрошайничество, нищенство",
+    "synonym": "żebranie",
+    "example": "Żebractwo na ulicach dużych miast to poważny problem społeczny.",
+    "aiStatus": "complete"
+  },
+  "zakład": {
+    "translationRu": "предприятие, завод, заведение; также «спор, пари» (омоним)",
+    "synonym": "przedsiębiorstwo",
+    "example": "Mój ojciec pracuje w zakładzie produkcyjnym.",
+    "aiStatus": "complete"
+  },
+  "zwierzchnik": {
+    "translationRu": "начальник, руководитель",
+    "synonym": "przełożony",
+    "example": "Mój zwierzchnik pochwalił mnie za dobrze wykonaną pracę.",
+    "aiStatus": "complete"
+  },
+  "niedołęstwo": {
+    "translationRu": "немощность, беспомощность, дряхлость",
+    "synonym": "bezradność",
+    "example": "Starość często kojarzy się z niedołęstwem.",
+    "aiStatus": "complete"
+  },
+  "frazes": {
+    "translationRu": "избитая фраза, штамп, клише",
+    "synonym": "banał",
+    "example": "Jego przemówienie było pełne pustych frazesów.",
+    "aiStatus": "complete"
+  },
+  "popis": {
+    "translationRu": "показное выступление, демонстрация мастерства",
+    "synonym": "pokaz",
+    "example": "To był prawdziwy popis jego umiejętności aktorskich.",
+    "aiStatus": "complete"
+  },
+  "zakasować": {
+    "translationRu": "превзойти, затмить (кого-то)",
+    "synonym": "przewyższyć",
+    "example": "Młody zawodnik zakasował wszystkich rywali.",
+    "aiStatus": "complete"
+  },
+  "wszelako": {
+    "translationRu": "однако, тем не менее (книжн.)",
+    "synonym": "jednak",
+    "example": "Był zmęczony, wszelako postanowił dokończyć pracę.",
+    "aiStatus": "complete"
   }
 }

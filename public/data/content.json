@@ -1,102 +1,106 @@
 {
-  "generatedAt": "2026-09-09T08:34:34.243Z",
+  "generatedAt": "2026-09-09T19:08:13.229Z",
   "dailyPractice": {
     "date": "2026-09-09",
     "words": [
       {
-        "id": "odwiedzic-odwiedzac",
-        "polish": "odwiedzić/ odwiedzać",
+        "id": "przytyc",
+        "polish": "przytyć",
         "aiStatus": "complete",
-        "translationRu": "посетить / посещать (кого-то)",
-        "synonym": "wpaść do kogoś",
-        "example": "Odwiedzę babcię w niedzielę.",
+        "synonym": "nabrać masy",
+        "translationRu": "поправиться, набрать вес",
+        "example": "Po świętach zawsze trochę przytyję.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "miedzy",
-        "polish": "między",
+        "id": "oczekiwac",
+        "polish": "oczekiwać",
         "aiStatus": "complete",
-        "translationRu": "между",
-        "synonym": "pomiędzy",
-        "example": "Siedziałem między nimi.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zlekcewazyc",
-        "polish": "zlekceważyć",
-        "aiStatus": "complete",
-        "synonym": "celowo nie zauważyć czegoś",
-        "translationRu": "пренебречь, проигнорировать",
-        "example": "Nie wolno lekceważyć objawów choroby.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "teorie-spiskowe",
-        "polish": "teorie spiskowe",
-        "aiStatus": "complete",
-        "translationRu": "теории заговора",
-        "synonym": "spiskowe koncepcje",
-        "example": "Internet jest pełen teorii spiskowych.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "dzialka",
-        "polish": "działka",
-        "aiStatus": "complete",
-        "translationRu": "участок (земли)",
-        "synonym": "parcela",
-        "example": "Kupili działkę pod budowę domu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "kwarantana",
-        "polish": "kwarantana",
-        "aiStatus": "complete",
-        "translationRu": "карантин (опечатка от kwarantanna)",
-        "synonym": "izolacja",
-        "example": "Wróciliśmy z zagranicy i musieliśmy odbyć kwarantannę.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "spotkac",
-        "polish": "spotkać",
-        "aiStatus": "complete",
-        "translationRu": "встретить",
-        "synonym": "napotkać",
-        "example": "Spotkałem go wczoraj.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "fala",
-        "polish": "fala",
-        "aiStatus": "complete",
-        "translationRu": "волна",
-        "example": "Wysokie fale uderzały o brzeg.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "odpady",
-        "polish": "odpady",
-        "aiStatus": "complete",
-        "translationRu": "отходы, мусор",
-        "synonym": "śmieci",
-        "example": "Sortujemy odpady do recyklingu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wyznaczyc",
-        "polish": "wyznaczyć",
-        "aiStatus": "complete",
-        "translationRu": "назначить, определить",
-        "synonym": "ustalić",
-        "example": "Musimy wyznaczyć termin spotkania.",
+        "translationRu": "ожидать",
+        "synonym": "czekać na",
+        "example": "Oczekujemy dobrych wyników.",
         "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "deponent",
+        "polish": "deponent",
+        "aiStatus": "complete",
+        "translationRu": "вкладчик (банк.)",
+        "synonym": "wkładca",
+        "example": "Deponent otrzymał odsetki od swojego depozytu.",
+        "firstSeenAt": "2026-09-09"
+      },
+      {
+        "id": "popierac",
+        "polish": "popierać",
+        "aiStatus": "complete",
+        "translationRu": "поддерживать (мнение, кандидата)",
+        "synonym": "wspierać",
+        "example": "Popieram twój pomysł.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "obchodzic",
+        "polish": "obchodzić",
+        "aiStatus": "complete",
+        "translationRu": "праздновать; интересовать ('me obchodzi')",
+        "synonym": "świętować",
+        "example": "Obchodzimy urodziny w sobotę.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "upal",
+        "polish": "upal",
+        "aiStatus": "complete",
+        "synonym": "skwar/spiekota",
+        "translationRu": "жара (опечатка от upał)",
+        "example": "W lipcu był straszny upał.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "kwota",
+        "polish": "kwota",
+        "aiStatus": "complete",
+        "translationRu": "сумма (денег)",
+        "synonym": "suma",
+        "example": "To duża kwota pieniędzy.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "starszy-starsi",
+        "polish": "starszy - starsi",
+        "aiStatus": "complete",
+        "translationRu": "старший — старшие",
+        "example": "Starsi ludzie często mają więcej cierpliwości.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wbrew-pozorom",
+        "polish": "wbrew pozorom",
+        "aiStatus": "complete",
+        "translationRu": "несмотря на видимость, на самом деле",
+        "synonym": "w rzeczywistości",
+        "example": "Wbrew pozorom, to nie było trudne.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "selektywny",
+        "polish": "selektywny",
+        "aiStatus": "complete",
+        "translationRu": "избирательный, селективный",
+        "synonym": "wybiórczy",
+        "example": "Segregacja odpadów jest teraz selektywna w każdym mieście.",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
-      "title": "Powtórka słownictwa",
-      "explanation": "Dziś koncentrujemy się na praktyce wybranych słów i wyrażeń w naturalnych zdaniach.",
-      "examples": []
+      "title": "Rekcja czasowników: dopełniacz czy biernik?",
+      "explanation": "Niektóre czasowniki łączą się z dopełniaczem (kogo? czego?), a inne z biernikiem (kogo? co?) — trzeba zapamiętać to osobno dla każdego słowa. 'Oczekiwać' rządzi dopełniaczem, natomiast 'popierać' i 'obchodzić' — biernikiem.",
+      "examples": [
+        "Oczekujemy dobrych wyników (czego?).",
+        "Popieram twój pomysł (co?).",
+        "Obchodzimy urodziny w sobotę (co?)."
+      ]
     }
   },
   "allWords": [
@@ -9743,13 +9747,470 @@
       "synonym": "niemożliwa do uniknięcia",
       "example": "Ta rozmowa była nieunikniona.",
       "firstSeenAt": "2026-08-22"
+    },
+    {
+      "id": "ludzie-czekaja-na-karte-pobytu-nie-ludzi-czekaja-karty-pobytu",
+      "polish": "ludzie czekają na kartę pobytu - nie ludzi czekają karty pobytu",
+      "aiStatus": "partial",
+      "translationRu": "люди ждут вид на жительство (не «ludzi czekają karty pobytu»)",
+      "example": "Ludzie czekają na kartę pobytu w długiej kolejce.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "ludzie-nie-moga-zalozyc-konta-nie-konto",
+      "polish": "ludzie nie mogą założyć konta - nie konto",
+      "aiStatus": "partial",
+      "translationRu": "люди не могут открыть счёт (не «konto» без правильного падежа)",
+      "example": "Ludzie nie mogą założyć konta bez dokumentu tożsamości.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "dziesiec-miesiecy-nie-dziesiac-miesiecy",
+      "polish": "dziesięć miesięcy - nie dziesiąć miesięcy",
+      "aiStatus": "partial",
+      "translationRu": "десять месяцев (не «dziesiąć» — опечатка, правильно «dziesięć»)",
+      "example": "Mieszkam tu już dziesięć miesięcy.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "do-urzedu-nie-urzadu",
+      "polish": "do urzędu - nie urządu",
+      "aiStatus": "partial",
+      "translationRu": "в учреждение, в ведомство (не «urządu» — опечатка, правильно «urzędu»)",
+      "example": "Muszę iść do urzędu po nowy dokument.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "sa-ludzie-ktorzy-nie-sa-ludzi-ktory",
+      "polish": "są ludzie, którzy ..- nie są ludzi który",
+      "aiStatus": "partial",
+      "translationRu": "есть люди, которые... (не «są ludzi który» — ошибка согласования)",
+      "example": "Są ludzie, którzy nigdy się nie poddają.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "osoba-nie-musi-nie-powinna-roznica",
+      "polish": "osoba nie musi / nie powinna - różnica",
+      "aiStatus": "partial",
+      "translationRu": "человек не обязан / не должен — разница в значении (musi = обязан, powinna = следует)",
+      "example": "Osoba nie musi się zgadzać, ale nie powinna być niegrzeczna.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "sledze-to-wszystko-nie-sledze-za-tym-wszystkim",
+      "polish": "śledzę to wszystko - nie ,,ślędzę za tym wszystkim''",
+      "aiStatus": "partial",
+      "translationRu": "я слежу за всем этим (не «śledzę za tym wszystkim» — глагол не требует предлога «za»)",
+      "example": "Śledzę to wszystko na bieżąco.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "bialorusini-nie-bialorusiny",
+      "polish": "Białorusini - nie Białorusiny",
+      "aiStatus": "partial",
+      "translationRu": "белорусы (правильная форма мн.ч., не «Białorusiny»)",
+      "example": "Białorusini często odwiedzają Polskę.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "nie-rozumiem-ludzie-ktorzy-maja-cos-przeciwko-komu-cudzoziemcom",
+      "polish": "nie rozumiem ludzie, którzy mają coś przeciwko ( komu ) cudzoziemcom",
+      "aiStatus": "partial",
+      "translationRu": "не понимаю людей, которые настроены против иностранцев (правильно «nie rozumiem ludzi»; «przeciwko» + дательный падеж)",
+      "example": "Nie rozumiem ludzi, którzy mają coś przeciwko cudzoziemcom.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "w-polsce-jest-duzo-imigrantow-nie-w-polsce-sa-duzo-imigrantow",
+      "polish": "w Polsce jest dużo imigrantów - nie ,, w Polsce są dużo imigrantów''",
+      "aiStatus": "partial",
+      "translationRu": "в Польше много иммигрантов (с «dużo» используется «jest», а не «są»)",
+      "example": "W Polsce jest dużo imigrantów z Ukrainy.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "moim-zdaniem-bez-moim-zdaniem-jest-tak-np-moim-zdaniem-on-nie-ma-tutaj-racji",
+      "polish": "moim zdaniem … ( bez ,,moim zdaniem jest tak'' ) np. moim zdaniem on nie ma tutaj racji",
+      "aiStatus": "partial",
+      "translationRu": "по-моему... (без «moim zdaniem jest tak» — конструкция уже содержит мнение)",
+      "example": "Moim zdaniem on nie ma tutaj racji.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "w-mediach-spolecznosciowych-nie-w-mediach-spolczesnych",
+      "polish": "w mediach społecznościowych - nie ,,w mediach spółczesnych''",
+      "aiStatus": "partial",
+      "translationRu": "в социальных сетях (не «w mediach spółczesnych» — ошибка)",
+      "example": "Spędzam za dużo czasu w mediach społecznościowych.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "tak-nie-musi-byc-tak-nie-powinno-byc-tak-nie-moze-powiem",
+      "polish": "tak nie musi być ( tak nie powinno być, tak nie może powiem)",
+      "aiStatus": "partial",
+      "translationRu": "так не обязательно должно быть (варианты: «tak nie powinno być» — так не должно быть)",
+      "example": "Tak nie musi być, można to zmienić.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "to-bardzo-rozlegly-temat",
+      "polish": "to bardzo rozległy temat",
+      "aiStatus": "complete",
+      "translationRu": "это очень обширная тема",
+      "synonym": "to bardzo szeroki temat",
+      "example": "Historia Polski to bardzo rozległy temat.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "wszystkie-slowa-nie-wszyscy-slowy",
+      "polish": "wszystkie słowa - nie ,,wszyscy słowy''",
+      "aiStatus": "partial",
+      "translationRu": "все слова (не «wszyscy słowy» — ошибка согласования)",
+      "example": "Wszystkie słowa w tym tekście są proste.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "w-tej-ksiazce-nie-w-tej-ksiazkie",
+      "polish": "w tej książce - nie w tej książkie",
+      "aiStatus": "partial",
+      "translationRu": "в этой книге (не «w tej książkie» — правильно «książce»)",
+      "example": "W tej książce jest wiele ciekawych historii.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "teksty-one-sa-krotkie-nie-oni-sa-krotkie",
+      "polish": "teksty - one są krótkie, nie oni są krótkie",
+      "aiStatus": "partial",
+      "translationRu": "тексты — они короткие (для неличных сущ. мн.ч. используется «one», не «oni»)",
+      "example": "Te teksty są krótkie i łatwe do zrozumienia.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "styl-literacki",
+      "polish": "styl literacki",
+      "aiStatus": "complete",
+      "translationRu": "литературный стиль",
+      "synonym": "styl pisarski",
+      "example": "Autor ma bardzo charakterystyczny styl literacki.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "sa-rozni-autorzy-i-autorki",
+      "polish": "są różni autorzy i autorki",
+      "aiStatus": "complete",
+      "translationRu": "есть разные авторы и авторши (мужского и женского рода)",
+      "example": "W tej antologii są różni autorzy i autorki.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "dwa-rozne-wyznania-nie-dwa-roznych-wyznania",
+      "polish": "dwa różne wyznania - nie ,,dwa różnych wyznania''",
+      "aiStatus": "partial",
+      "translationRu": "два разных вероисповедания (не «dwa różnych wyznania» — ошибка согласования числительного)",
+      "example": "Rodzice mają dwa różne wyznania.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "dzieci-pojawial-sie-z-milosci-do-komunizmu",
+      "polish": "dzieci pojawiał się z miłości do komunizmu",
+      "aiStatus": "partial",
+      "translationRu": "дети появлялись из любви к коммунизму (обрывок фразы с ошибкой согласования — правильно «pojawiały się»)",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "to-glowny-problem-nie-to-najglowniejszy-problem",
+      "polish": "to główny problem - nie ,, to najgłówniejszy problem ''",
+      "aiStatus": "partial",
+      "translationRu": "это главная проблема (не «najgłówniejszy» — превосходная степень от «główny» не образуется)",
+      "example": "To główny problem naszej firmy.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "zarabiac-pieniadze-nie-zarabiac-pieniedzy",
+      "polish": "zarabiać pieniądze, nie ,,zarabiać pieniędzy''",
+      "aiStatus": "partial",
+      "translationRu": "зарабатывать деньги (винительный падеж «pieniądze», не родительный «pieniędzy»)",
+      "example": "Chcę zarabiać pieniądze, pracując zdalnie.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "znalezc-zloty-srodek",
+      "polish": "znaleźć złoty środek",
+      "aiStatus": "complete",
+      "translationRu": "найти золотую середину",
+      "synonym": "znaleźć kompromis",
+      "example": "Musimy znaleźć złoty środek między pracą a odpoczynkiem.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "odpowiedni-moment-wlasciwy-moment",
+      "polish": "odpowiedni moment / właściwy moment",
+      "aiStatus": "complete",
+      "translationRu": "подходящий момент / нужный момент",
+      "example": "Czekał na odpowiedni moment, żeby jej powiedzieć.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "jesli-chodzi-o-nastolatkow-nie-o-nastolatkach",
+      "polish": "jeśli chodzi o nastolatków ,,nie o nastolatkach''",
+      "aiStatus": "partial",
+      "translationRu": "что касается подростков (после «jeśli chodzi o» нужен винительный падеж, не «o nastolatkach»)",
+      "example": "Jeśli chodzi o nastolatków, mają zupełnie inne priorytety.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "zaszkodzic-uszkodzic",
+      "polish": "zaszkodzić / uszkodzić",
+      "aiStatus": "complete",
+      "translationRu": "навредить (здоровью/интересам) / повредить (предмет)",
+      "example": "Palenie może zaszkodzić zdrowiu, a upadek może uszkodzić telefon.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "nauczycielka-stala-nie-nauczycielka-stajala",
+      "polish": "nauczycielka stała - nie ,,nauczycielka ,,stajała''",
+      "aiStatus": "partial",
+      "translationRu": "учительница стояла (не «stajała» — ошибочная форма, правильно «stała»)",
+      "example": "Nauczycielka stała przy tablicy.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "dotrzec-do-dzieci",
+      "polish": "dotrzeć do dzieci,",
+      "aiStatus": "complete",
+      "translationRu": "достучаться до детей, донести до детей",
+      "synonym": "dogadać się z dziećmi",
+      "example": "Trudno jest dotrzeć do dzieci z ważnym przekazem.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "przekazac-informacje",
+      "polish": "przekazać informację",
+      "aiStatus": "complete",
+      "translationRu": "передать информацию",
+      "synonym": "podać informację",
+      "example": "Musimy szybko przekazać tę informację rodzicom.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "gromadzenie",
+      "polish": "gromadzenie",
+      "aiStatus": "complete",
+      "translationRu": "накопление, собирание",
+      "synonym": "zbieranie",
+      "example": "Gromadzenie oszczędności wymaga dyscypliny.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "deponent",
+      "polish": "deponent",
+      "aiStatus": "complete",
+      "translationRu": "вкладчик (банк.)",
+      "synonym": "wkładca",
+      "example": "Deponent otrzymał odsetki od swojego depozytu.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "rozbudowana-siec",
+      "polish": "rozbudowana sieć",
+      "aiStatus": "complete",
+      "translationRu": "разветвлённая, развитая сеть",
+      "synonym": "rozległa sieć",
+      "example": "Bank ma rozbudowaną sieć oddziałów w całym kraju.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "przelac-srodki",
+      "polish": "przelać środki",
+      "aiStatus": "complete",
+      "translationRu": "перевести средства",
+      "synonym": "przelać pieniądze",
+      "example": "Musisz przelać środki na nowe konto do piątku.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "widzowie",
+      "polish": "widzowie",
+      "aiStatus": "complete",
+      "translationRu": "зрители",
+      "synonym": "publiczność",
+      "example": "Widzowie oklaskiwali aktorów na stojąco.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "ciezko-trafic-na-cos-wartosciowego",
+      "polish": "ciężko trafić na coś wartościowego",
+      "aiStatus": "complete",
+      "translationRu": "трудно наткнуться на что-то ценное",
+      "synonym": "trudno znaleźć coś wartościowego",
+      "example": "W internecie ciężko trafić na coś naprawdę wartościowego.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "namietnosc",
+      "polish": "NAMIĘTNOŚĆ",
+      "aiStatus": "complete",
+      "translationRu": "страсть",
+      "synonym": "pasja",
+      "example": "Namiętność do muzyki towarzyszyła mu od dzieciństwa.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "osrodek",
+      "polish": "ośrodek",
+      "aiStatus": "complete",
+      "translationRu": "центр (учреждение)",
+      "synonym": "centrum",
+      "example": "W mieście otwarto nowy ośrodek kultury.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "przewidywac",
+      "polish": "przewidywać",
+      "aiStatus": "complete",
+      "translationRu": "предвидеть, прогнозировать",
+      "synonym": "prognozować",
+      "example": "Trudno przewidywać pogodę na tak długi okres.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "nie-wypada",
+      "polish": "nie wypada",
+      "aiStatus": "complete",
+      "translationRu": "неприлично, не подобает",
+      "synonym": "nie uchodzi",
+      "example": "Nie wypada mówić o pieniądzach przy stole.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "pragnac",
+      "polish": "pragnąć",
+      "aiStatus": "complete",
+      "translationRu": "желать, жаждать",
+      "synonym": "chcieć",
+      "example": "Każdy pragnie być szczęśliwy.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "nie-wahaj",
+      "polish": "nie wahaj",
+      "aiStatus": "partial",
+      "translationRu": "не сомневайся, не колеблись (обрывок фразы «nie wahaj się»)",
+      "example": "Nie wahaj się zapytać, jeśli czegoś nie rozumiesz.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "mozna-na-siebie-wlozyc",
+      "polish": "można na siebie włożyć",
+      "aiStatus": "complete",
+      "translationRu": "можно надеть на себя",
+      "example": "Tę sukienkę można na siebie włożyć do pracy.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "bagatela",
+      "polish": "bagatela",
+      "aiStatus": "complete",
+      "translationRu": "пустяк, мелочь (часто иронично о крупной сумме)",
+      "synonym": "drobnostka",
+      "example": "Kosztowało to bagatela dziesięć tysięcy złotych.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "ktorych-na-pozor-niepodobna-jest-ksztalcic",
+      "polish": "których na pozór niepodobna jest kształcić",
+      "aiStatus": "partial",
+      "translationRu": "которых на первый взгляд невозможно обучить (архаичный литературный оборот)",
+      "example": "Są dzieci, których na pozór niepodobna jest kształcić, a jednak potrafią zaskoczyć postępami.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "wobec",
+      "polish": "wobec",
+      "aiStatus": "complete",
+      "translationRu": "по отношению к, перед (предлог)",
+      "synonym": "w stosunku do",
+      "example": "Mam wobec niego dług wdzięczności.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "zebractwo",
+      "polish": "żebractwo",
+      "aiStatus": "complete",
+      "translationRu": "попрошайничество, нищенство",
+      "synonym": "żebranie",
+      "example": "Żebractwo na ulicach dużych miast to poważny problem społeczny.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "zaklad",
+      "polish": "zakład",
+      "aiStatus": "complete",
+      "translationRu": "предприятие, завод, заведение; также «спор, пари» (омоним)",
+      "synonym": "przedsiębiorstwo",
+      "example": "Mój ojciec pracuje w zakładzie produkcyjnym.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "zwierzchnik",
+      "polish": "zwierzchnik",
+      "aiStatus": "complete",
+      "translationRu": "начальник, руководитель",
+      "synonym": "przełożony",
+      "example": "Mój zwierzchnik pochwalił mnie za dobrze wykonaną pracę.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "niedolestwo",
+      "polish": "niedołęstwo",
+      "aiStatus": "complete",
+      "translationRu": "немощность, беспомощность, дряхлость",
+      "synonym": "bezradność",
+      "example": "Starość często kojarzy się z niedołęstwem.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "frazes",
+      "polish": "frazes",
+      "aiStatus": "complete",
+      "translationRu": "избитая фраза, штамп, клише",
+      "synonym": "banał",
+      "example": "Jego przemówienie było pełne pustych frazesów.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "popis",
+      "polish": "popis",
+      "aiStatus": "complete",
+      "translationRu": "показное выступление, демонстрация мастерства",
+      "synonym": "pokaz",
+      "example": "To był prawdziwy popis jego umiejętności aktorskich.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "zakasowac",
+      "polish": "zakasować",
+      "aiStatus": "complete",
+      "translationRu": "превзойти, затмить (кого-то)",
+      "synonym": "przewyższyć",
+      "example": "Młody zawodnik zakasował wszystkich rywali.",
+      "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "wszelako",
+      "polish": "wszelako",
+      "aiStatus": "complete",
+      "translationRu": "однако, тем не менее (книжн.)",
+      "synonym": "jednak",
+      "example": "Był zmęczony, wszelako postanowił dokończyć pracę.",
+      "firstSeenAt": "2026-09-09"
     }
   ],
   "metadata": {
     "source": "google-sheets-csv",
-    "totalWords": 1094,
-    "validWords": 956,
-    "partialWords": 131,
+    "totalWords": 1148,
+    "validWords": 986,
+    "partialWords": 155,
     "uncertainWords": 7
   }
 }
