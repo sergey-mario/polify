@@ -1,91 +1,96 @@
 {
-  "generatedAt": "2026-09-08T08:32:52.366Z",
+  "generatedAt": "2026-09-09T08:34:34.243Z",
   "dailyPractice": {
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "words": [
       {
-        "id": "mol",
-        "polish": "mól",
+        "id": "odwiedzic-odwiedzac",
+        "polish": "odwiedzić/ odwiedzać",
         "aiStatus": "complete",
-        "translationRu": "моль",
-        "example": "Mól zjadł mi swetry w szafie.",
-        "firstSeenAt": "2026-08-22"
+        "translationRu": "посетить / посещать (кого-то)",
+        "synonym": "wpaść do kogoś",
+        "example": "Odwiedzę babcię w niedzielę.",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "jechac-jezdzic",
-        "polish": "jechać / jeżdzić",
+        "id": "miedzy",
+        "polish": "między",
         "aiStatus": "complete",
-        "translationRu": "ехать / ездить",
-        "synonym": "podróżować",
-        "example": "Codziennie jeżdżę do pracy samochodem.",
+        "translationRu": "между",
+        "synonym": "pomiędzy",
+        "example": "Siedziałem między nimi.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "serca-obojga",
-        "polish": "Serca obojga",
+        "id": "zlekcewazyc",
+        "polish": "zlekceważyć",
         "aiStatus": "complete",
-        "example": "Serca obojga biły tak głośno",
-        "translationRu": "Сердца обоих",
+        "synonym": "celowo nie zauważyć czegoś",
+        "translationRu": "пренебречь, проигнорировать",
+        "example": "Nie wolno lekceważyć objawów choroby.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "osiagnac-4",
-        "polish": "osiągnąć",
+        "id": "teorie-spiskowe",
+        "polish": "teorie spiskowe",
         "aiStatus": "complete",
-        "translationRu": "достичь (цели, результата)",
-        "synonym": "zdobyć",
-        "example": "Osiągnął swój cel.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "codzienne-jakie",
-        "polish": "codzienne - jakie",
-        "aiStatus": "partial",
-        "translationRu": "ежедневные - какие (обрывок фразы)",
-        "example": "Jakie masz codzienne obowiązki?",
+        "translationRu": "теории заговора",
+        "synonym": "spiskowe koncepcje",
+        "example": "Internet jest pełen teorii spiskowych.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "oni-biora",
-        "polish": "oni biorą",
+        "id": "dzialka",
+        "polish": "działka",
         "aiStatus": "complete",
-        "translationRu": "они берут",
-        "example": "Oni biorą udział w konkursie.",
+        "translationRu": "участок (земли)",
+        "synonym": "parcela",
+        "example": "Kupili działkę pod budowę domu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "kwarantana",
+        "polish": "kwarantana",
+        "aiStatus": "complete",
+        "translationRu": "карантин (опечатка от kwarantanna)",
+        "synonym": "izolacja",
+        "example": "Wróciliśmy z zagranicy i musieliśmy odbyć kwarantannę.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "spotkac",
+        "polish": "spotkać",
+        "aiStatus": "complete",
+        "translationRu": "встретить",
+        "synonym": "napotkać",
+        "example": "Spotkałem go wczoraj.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "fala",
+        "polish": "fala",
+        "aiStatus": "complete",
+        "translationRu": "волна",
+        "example": "Wysokie fale uderzały o brzeg.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "odpady",
+        "polish": "odpady",
+        "aiStatus": "complete",
+        "translationRu": "отходы, мусор",
+        "synonym": "śmieci",
+        "example": "Sortujemy odpady do recyklingu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wyznaczyc",
+        "polish": "wyznaczyć",
+        "aiStatus": "complete",
+        "translationRu": "назначить, определить",
+        "synonym": "ustalić",
+        "example": "Musimy wyznaczyć termin spotkania.",
         "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "oprawca",
-        "polish": "oprawca",
-        "aiStatus": "complete",
-        "translationRu": "мучитель, истязатель",
-        "synonym": "kat",
-        "example": "Ofiara rozpoznała swojego oprawcę.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "bac",
-        "polish": "bać",
-        "aiStatus": "partial",
-        "translationRu": "бояться (обычно используется с 'się' — bać się)",
-        "example": "Nie musisz się bać egzaminu.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "wiedziec",
-        "polish": "wiedzieć",
-        "aiStatus": "complete",
-        "synonym": "że/ jak/",
-        "translationRu": "знать (факт)",
-        "example": "Wiem, że masz rację.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "ludzie-ktorzy",
-        "polish": "ludzie którzy",
-        "aiStatus": "partial",
-        "translationRu": "люди, которые (фрагмент)",
-        "example": "Ludzie, którzy dużo pracują, bywają zmęczeni.",
-        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
