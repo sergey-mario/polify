@@ -1,106 +1,99 @@
 {
-  "generatedAt": "2026-09-09T19:08:13.229Z",
+  "generatedAt": "2026-09-10T08:36:55.585Z",
   "dailyPractice": {
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "words": [
       {
-        "id": "przytyc",
-        "polish": "przytyć",
+        "id": "nagi",
+        "polish": "nagi",
         "aiStatus": "complete",
-        "synonym": "nabrać masy",
-        "translationRu": "поправиться, набрать вес",
-        "example": "Po świętach zawsze trochę przytyję.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "oczekiwac",
-        "polish": "oczekiwać",
-        "aiStatus": "complete",
-        "translationRu": "ожидать",
-        "synonym": "czekać na",
-        "example": "Oczekujemy dobrych wyników.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "deponent",
-        "polish": "deponent",
-        "aiStatus": "complete",
-        "translationRu": "вкладчик (банк.)",
-        "synonym": "wkładca",
-        "example": "Deponent otrzymał odsetki od swojego depozytu.",
-        "firstSeenAt": "2026-09-09"
-      },
-      {
-        "id": "popierac",
-        "polish": "popierać",
-        "aiStatus": "complete",
-        "translationRu": "поддерживать (мнение, кандидата)",
-        "synonym": "wspierać",
-        "example": "Popieram twój pomysł.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "obchodzic",
-        "polish": "obchodzić",
-        "aiStatus": "complete",
-        "translationRu": "праздновать; интересовать ('me obchodzi')",
-        "synonym": "świętować",
-        "example": "Obchodzimy urodziny w sobotę.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "upal",
-        "polish": "upal",
-        "aiStatus": "complete",
-        "synonym": "skwar/spiekota",
-        "translationRu": "жара (опечатка от upał)",
-        "example": "W lipcu był straszny upał.",
+        "translationRu": "голый",
+        "synonym": "goły",
+        "example": "Chodził po plaży nagi.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "kwota",
-        "polish": "kwota",
+        "id": "klopsik-klopsiki",
+        "polish": "klopsik/ klopsiki",
         "aiStatus": "complete",
-        "translationRu": "сумма (денег)",
-        "synonym": "suma",
-        "example": "To duża kwota pieniędzy.",
+        "translationRu": "фрикаделька / фрикадельки",
+        "synonym": "kotlet mielony",
+        "example": "Mama zrobiła klopsiki w sosie pomidorowym.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "starszy-starsi",
-        "polish": "starszy - starsi",
+        "id": "w-taki-sposob",
+        "polish": "w taki sposób",
         "aiStatus": "complete",
-        "translationRu": "старший — старшие",
-        "example": "Starsi ludzie często mają więcej cierpliwości.",
+        "translationRu": "таким образом",
+        "synonym": "w ten sposób",
+        "example": "Zrobił to w taki sposób, że nikt nie zauważył.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "one-psy",
+        "polish": "one - psy",
+        "aiStatus": "partial",
+        "translationRu": "они (собаки) — грам. род",
+        "example": "One są głodne — nakarm te psy.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wbrew-pozorom",
-        "polish": "wbrew pozorom",
-        "aiStatus": "complete",
-        "translationRu": "несмотря на видимость, на самом деле",
-        "synonym": "w rzeczywistości",
-        "example": "Wbrew pozorom, to nie było trudne.",
-        "firstSeenAt": "2026-08-22"
+        "id": "wapienie",
+        "polish": "wąpienie",
+        "aiStatus": "partial",
+        "translationRu": "сомнение (опечатка от wątpienie)",
+        "synonym": "niepewność",
+        "example": "Ogarnęło mnie wątpienie, czy podjąłem dobrą decyzję.",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "selektywny",
-        "polish": "selektywny",
-        "aiStatus": "complete",
-        "translationRu": "избирательный, селективный",
-        "synonym": "wybiórczy",
-        "example": "Segregacja odpadów jest teraz selektywna w każdym mieście.",
+        "id": "wiem-ze",
+        "polish": "wiem - że",
+        "aiStatus": "partial",
+        "translationRu": "знаю — что (фрагмент)",
+        "example": "Wiem, że to prawda.",
         "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "im-tym-2",
+        "polish": "im///tym",
+        "aiStatus": "partial",
+        "translationRu": "чем ... тем (конструкция im ... tym)",
+        "example": "Im szybciej, tym lepiej.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "prog",
+        "polish": "próg",
+        "aiStatus": "complete",
+        "translationRu": "порог",
+        "synonym": "granica",
+        "example": "Nie mogę przekroczyć tego progu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "wszystko-na-nic",
+        "polish": "Wszystko na nic",
+        "aiStatus": "complete",
+        "synonym": "bez efektu",
+        "translationRu": "Всё впустую, всё зря",
+        "example": "Ćwiczyłem cały miesiąc, ale wszystko na nic — i tak przegrałem.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "bede-mial",
+        "polish": "będę miał",
+        "aiStatus": "complete",
+        "translationRu": "у меня будет (м.р.)",
+        "example": "Będę miał czas w piątek.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
-      "title": "Rekcja czasowników: dopełniacz czy biernik?",
-      "explanation": "Niektóre czasowniki łączą się z dopełniaczem (kogo? czego?), a inne z biernikiem (kogo? co?) — trzeba zapamiętać to osobno dla każdego słowa. 'Oczekiwać' rządzi dopełniaczem, natomiast 'popierać' i 'obchodzić' — biernikiem.",
-      "examples": [
-        "Oczekujemy dobrych wyników (czego?).",
-        "Popieram twój pomysł (co?).",
-        "Obchodzimy urodziny w sobotę (co?)."
-      ]
+      "title": "Powtórka słownictwa",
+      "explanation": "Dziś koncentrujemy się na praktyce wybranych słów i wyrażeń w naturalnych zdaniach.",
+      "examples": []
     }
   },
   "allWords": [
