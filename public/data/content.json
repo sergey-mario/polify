@@ -1,93 +1,95 @@
 {
-  "generatedAt": "2026-09-10T08:36:55.585Z",
+  "generatedAt": "2026-09-11T08:31:11.194Z",
   "dailyPractice": {
-    "date": "2026-09-10",
+    "date": "2026-09-11",
     "words": [
       {
-        "id": "nagi",
-        "polish": "nagi",
+        "id": "istotny",
+        "polish": "istotny",
         "aiStatus": "complete",
-        "translationRu": "голый",
-        "synonym": "goły",
-        "example": "Chodził po plaży nagi.",
+        "translationRu": "существенный",
+        "synonym": "ważny",
+        "example": "To jest istotny szczegół.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "klopsik-klopsiki",
-        "polish": "klopsik/ klopsiki",
+        "id": "zwracac",
+        "polish": "zwracać",
         "aiStatus": "complete",
-        "translationRu": "фрикаделька / фрикадельки",
-        "synonym": "kotlet mielony",
-        "example": "Mama zrobiła klopsiki w sosie pomidorowym.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "w-taki-sposob",
-        "polish": "w taki sposób",
-        "aiStatus": "complete",
-        "translationRu": "таким образом",
-        "synonym": "w ten sposób",
-        "example": "Zrobił to w taki sposób, że nikt nie zauważył.",
+        "translationRu": "возвращать",
+        "synonym": "oddawać",
+        "example": "Musisz zwrócić tę książkę do biblioteki.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "one-psy",
-        "polish": "one - psy",
-        "aiStatus": "partial",
-        "translationRu": "они (собаки) — грам. род",
-        "example": "One są głodne — nakarm te psy.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wapienie",
-        "polish": "wąpienie",
-        "aiStatus": "partial",
-        "translationRu": "сомнение (опечатка от wątpienie)",
-        "synonym": "niepewność",
-        "example": "Ogarnęło mnie wątpienie, czy podjąłem dobrą decyzję.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wiem-ze",
-        "polish": "wiem - że",
-        "aiStatus": "partial",
-        "translationRu": "знаю — что (фрагмент)",
-        "example": "Wiem, że to prawda.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "im-tym-2",
-        "polish": "im///tym",
-        "aiStatus": "partial",
-        "translationRu": "чем ... тем (конструкция im ... tym)",
-        "example": "Im szybciej, tym lepiej.",
+        "id": "w-rzeczywistosci",
+        "polish": "w rzeczywistości",
+        "aiStatus": "complete",
+        "translationRu": "на самом деле",
+        "synonym": "faktycznie",
+        "example": "W rzeczywistości sytuacja jest inna.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "prog",
-        "polish": "próg",
+        "id": "na-dachu",
+        "polish": "na dachu",
         "aiStatus": "complete",
-        "translationRu": "порог",
-        "synonym": "granica",
-        "example": "Nie mogę przekroczyć tego progu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wszystko-na-nic",
-        "polish": "Wszystko na nic",
-        "aiStatus": "complete",
-        "synonym": "bez efektu",
-        "translationRu": "Всё впустую, всё зря",
-        "example": "Ćwiczyłem cały miesiąc, ale wszystko na nic — i tak przegrałem.",
+        "translationRu": "на крыше",
+        "example": "Kot siedzi na dachu.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "bede-mial",
-        "polish": "będę miał",
+        "id": "wtracac-sie",
+        "polish": "wtrącać się",
         "aiStatus": "complete",
-        "translationRu": "у меня будет (м.р.)",
-        "example": "Będę miał czas w piątek.",
+        "translationRu": "вмешиваться",
+        "synonym": "ingerować",
+        "example": "Nie lubię się wtrącać w cudze sprawy.",
         "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "trafny",
+        "polish": "trafny",
+        "aiStatus": "complete",
+        "synonym": "dokładny",
+        "example": "trafne zdanie, trafna uwaga",
+        "translationRu": "меткий, точный",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "sa-rozni-autorzy-i-autorki",
+        "polish": "są różni autorzy i autorki",
+        "aiStatus": "complete",
+        "translationRu": "есть разные авторы и авторши (мужского и женского рода)",
+        "example": "W tej antologii są różni autorzy i autorki.",
+        "firstSeenAt": "2026-09-09"
+      },
+      {
+        "id": "kreowac",
+        "polish": "kreować",
+        "aiStatus": "complete",
+        "translationRu": "создавать (имидж, образ)",
+        "synonym": "tworzyć",
+        "example": "Marka stara się kreować pozytywny wizerunek.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "odciagac-na-odstatni-dzien",
+        "polish": "odciągać na odstatni dzień",
+        "aiStatus": "complete",
+        "synonym": "przekładać/ odkładać",
+        "translationRu": "откладывать на последний день (опечатка от odkładać na ostatni dzień)",
+        "example": "Nie odkładaj wszystkiego na ostatni dzień.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "pod-katem",
+        "polish": "pod kątem",
+        "aiStatus": "complete",
+        "translationRu": "с точки зрения, в аспекте",
+        "synonym": "z punktu widzenia",
+        "example": "Przeanalizujmy to pod kątem kosztów.",
+        "firstSeenAt": "2026-08-22"
       }
     ],
     "grammarRule": {
