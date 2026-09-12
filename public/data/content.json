@@ -1,94 +1,96 @@
 {
-  "generatedAt": "2026-09-11T08:31:11.194Z",
+  "generatedAt": "2026-09-12T08:19:50.181Z",
   "dailyPractice": {
-    "date": "2026-09-11",
+    "date": "2026-09-12",
     "words": [
       {
-        "id": "istotny",
-        "polish": "istotny",
+        "id": "okolicznosci",
+        "polish": "okoliczności",
         "aiStatus": "complete",
-        "translationRu": "существенный",
-        "synonym": "ważny",
-        "example": "To jest istotny szczegół.",
+        "translationRu": "обстоятельства",
+        "synonym": "warunki",
+        "example": "W tych okolicznościach nie mogę pomóc.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zwracac",
-        "polish": "zwracać",
-        "aiStatus": "complete",
-        "translationRu": "возвращать",
-        "synonym": "oddawać",
-        "example": "Musisz zwrócić tę książkę do biblioteki.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "w-rzeczywistosci",
-        "polish": "w rzeczywistości",
-        "aiStatus": "complete",
-        "translationRu": "на самом деле",
-        "synonym": "faktycznie",
-        "example": "W rzeczywistości sytuacja jest inna.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "na-dachu",
-        "polish": "na dachu",
-        "aiStatus": "complete",
-        "translationRu": "на крыше",
-        "example": "Kot siedzi na dachu.",
+        "id": "wyobrazic-2",
+        "polish": "wyobrażić",
+        "aiStatus": "partial",
+        "synonym": "ujawnić",
+        "translationRu": "представить (опечатка от wyobrazić)",
+        "example": "Nie potrafię sobie wyobrazić życia bez internetu.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wtracac-sie",
-        "polish": "wtrącać się",
+        "id": "prawie",
+        "polish": "prawie",
         "aiStatus": "complete",
-        "translationRu": "вмешиваться",
-        "synonym": "ingerować",
-        "example": "Nie lubię się wtrącać w cudze sprawy.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "trafny",
-        "polish": "trafny",
-        "aiStatus": "complete",
-        "synonym": "dokładny",
-        "example": "trafne zdanie, trafna uwaga",
-        "translationRu": "меткий, точный",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "sa-rozni-autorzy-i-autorki",
-        "polish": "są różni autorzy i autorki",
-        "aiStatus": "complete",
-        "translationRu": "есть разные авторы и авторши (мужского и женского рода)",
-        "example": "W tej antologii są różni autorzy i autorki.",
-        "firstSeenAt": "2026-09-09"
-      },
-      {
-        "id": "kreowac",
-        "polish": "kreować",
-        "aiStatus": "complete",
-        "translationRu": "создавать (имидж, образ)",
-        "synonym": "tworzyć",
-        "example": "Marka stara się kreować pozytywny wizerunek.",
+        "translationRu": "почти",
+        "synonym": "niemal",
+        "example": "Prawie zapomniałem.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "odciagac-na-odstatni-dzien",
-        "polish": "odciągać na odstatni dzień",
+        "id": "robic-wrazenie",
+        "polish": "robić wrażenie",
         "aiStatus": "complete",
-        "synonym": "przekładać/ odkładać",
-        "translationRu": "откладывать на последний день (опечатка от odkładać na ostatni dzień)",
-        "example": "Nie odkładaj wszystkiego na ostatni dzień.",
+        "synonym": "wywrzeć wrażenie",
+        "example": "wywołać pozytywną reakcję, zaimponować, np. \"Ich występ naprawdę zrobił na mnie wrażenie",
+        "translationRu": "производить впечатление",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "odpady",
+        "polish": "odpady",
+        "aiStatus": "complete",
+        "translationRu": "отходы, мусор",
+        "synonym": "śmieci",
+        "example": "Sortujemy odpady do recyklingu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "jechac-jezdzic",
+        "polish": "jechać / jeżdzić",
+        "aiStatus": "complete",
+        "translationRu": "ехать / ездить",
+        "synonym": "podróżować",
+        "example": "Codziennie jeżdżę do pracy samochodem.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "pod-katem",
-        "polish": "pod kątem",
+        "id": "wynalezc",
+        "polish": "wynależć",
         "aiStatus": "complete",
-        "translationRu": "с точки зрения, в аспекте",
-        "synonym": "z punktu widzenia",
-        "example": "Przeanalizujmy to pod kątem kosztów.",
+        "translationRu": "изобрести (опечатка от wynaleźć)",
+        "synonym": "stworzyć",
+        "example": "Kto wynalazł telefon?",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "dyzur",
+        "polish": "dyżur",
+        "aiStatus": "complete",
+        "translationRu": "дежурство, смена",
+        "synonym": "zmiana",
+        "example": "Mam dzisiaj dyżur w szpitalu.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "tesknic",
+        "polish": "tęsknić",
+        "aiStatus": "complete",
+        "synonym": "sumować",
+        "example": "tęsknił za swoją córką",
+        "translationRu": "скучать, тосковать",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zabrac",
+        "polish": "zabrać",
+        "aiStatus": "complete",
+        "translationRu": "забрать, взять с собой",
+        "synonym": "wziąć",
+        "example": "Muszę zabrać parasol, bo pada deszcz.",
         "firstSeenAt": "2026-08-22"
       }
     ],
