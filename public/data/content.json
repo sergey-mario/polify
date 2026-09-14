@@ -1,97 +1,97 @@
 {
-  "generatedAt": "2026-09-12T08:19:50.181Z",
+  "generatedAt": "2026-09-14T09:31:09.544Z",
   "dailyPractice": {
-    "date": "2026-09-12",
+    "date": "2026-09-14",
     "words": [
       {
-        "id": "okolicznosci",
-        "polish": "okoliczności",
+        "id": "sprobowac",
+        "polish": "spróbować",
         "aiStatus": "complete",
-        "translationRu": "обстоятельства",
-        "synonym": "warunki",
-        "example": "W tych okolicznościach nie mogę pomóc.",
-        "firstSeenAt": "2026-07-17"
+        "translationRu": "попробовать",
+        "synonym": "wypróbować",
+        "example": "Spróbuj jeszcze raz.",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wyobrazic-2",
-        "polish": "wyobrażić",
+        "id": "zaciagac",
+        "polish": "zaciągać",
+        "aiStatus": "complete",
+        "translationRu": "затягивать; брать (кредит); набирать",
+        "synonym": "wciągać",
+        "example": "Nie warto zaciągać kolejnej pożyczki.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zamieszkania",
+        "polish": "zamieszkania",
         "aiStatus": "partial",
-        "synonym": "ujawnić",
-        "translationRu": "представить (опечатка от wyobrazić)",
-        "example": "Nie potrafię sobie wyobrazić życia bez internetu.",
+        "translationRu": "проживания (род. п. от zamieszkanie)",
+        "synonym": "pobytu",
+        "example": "Musisz podać adres miejsca zamieszkania.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "prawie",
-        "polish": "prawie",
+        "id": "przecietnie",
+        "polish": "przeciętnie",
         "aiStatus": "complete",
-        "translationRu": "почти",
-        "synonym": "niemal",
-        "example": "Prawie zapomniałem.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "robic-wrazenie",
-        "polish": "robić wrażenie",
-        "aiStatus": "complete",
-        "synonym": "wywrzeć wrażenie",
-        "example": "wywołać pozytywną reakcję, zaimponować, np. \"Ich występ naprawdę zrobił na mnie wrażenie",
-        "translationRu": "производить впечатление",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "odpady",
-        "polish": "odpady",
-        "aiStatus": "complete",
-        "translationRu": "отходы, мусор",
-        "synonym": "śmieci",
-        "example": "Sortujemy odpady do recyklingu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "jechac-jezdzic",
-        "polish": "jechać / jeżdzić",
-        "aiStatus": "complete",
-        "translationRu": "ехать / ездить",
-        "synonym": "podróżować",
-        "example": "Codziennie jeżdżę do pracy samochodem.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wynalezc",
-        "polish": "wynależć",
-        "aiStatus": "complete",
-        "translationRu": "изобрести (опечатка от wynaleźć)",
-        "synonym": "stworzyć",
-        "example": "Kto wynalazł telefon?",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "dyzur",
-        "polish": "dyżur",
-        "aiStatus": "complete",
-        "translationRu": "дежурство, смена",
-        "synonym": "zmiana",
-        "example": "Mam dzisiaj dyżur w szpitalu.",
+        "translationRu": "в среднем, посредственно",
+        "synonym": "średnio",
+        "example": "Przeciętnie zarabia dwa tysiące złotych.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "tesknic",
-        "polish": "tęsknić",
-        "aiStatus": "complete",
-        "synonym": "sumować",
-        "example": "tęsknił za swoją córką",
-        "translationRu": "скучать, тосковать",
+        "id": "trudnie-2",
+        "polish": "trudnie",
+        "aiStatus": "partial",
+        "translationRu": "трудно (опечатка/нестанд., правильно 'trudno')",
+        "synonym": "jak?",
+        "example": "Trudno mi to teraz wytłumaczyć.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zabrac",
-        "polish": "zabrać",
+        "id": "brac-leki",
+        "polish": "brać leki",
         "aiStatus": "complete",
-        "translationRu": "забрать, взять с собой",
-        "synonym": "wziąć",
-        "example": "Muszę zabrać parasol, bo pada deszcz.",
+        "translationRu": "принимать лекарства",
+        "synonym": "zażywać leki",
+        "example": "Biorę leki na ciśnienie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zakrywac",
+        "polish": "zakrywać",
+        "aiStatus": "complete",
+        "translationRu": "закрывать, накрывать (несов. вид)",
+        "synonym": "przykrywać",
+        "example": "Zakrywam usta podczas kaszlu.",
         "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "nie-do-zrozumienia",
+        "polish": "nie do zrozumienia",
+        "aiStatus": "complete",
+        "translationRu": "непонятно, непостижимо",
+        "synonym": "niezrozumiały",
+        "example": "Jego zachowanie było nie do zrozumienia.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "grupa-badawcza",
+        "polish": "grupa badawcza",
+        "aiStatus": "complete",
+        "translationRu": "исследовательская группа",
+        "synonym": "zespół naukowy",
+        "example": "Grupa badawcza opublikowała wyniki eksperymentu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "z-przyjaciolmi",
+        "polish": "z przyjaciółmi",
+        "aiStatus": "complete",
+        "synonym": "z przyjaciółmi się nie nudzę",
+        "translationRu": "с друзьями",
+        "example": "Spędziłem weekend z przyjaciółmi.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
