@@ -1,96 +1,96 @@
 {
-  "generatedAt": "2026-09-14T09:31:09.544Z",
+  "generatedAt": "2026-09-15T09:09:27.544Z",
   "dailyPractice": {
-    "date": "2026-09-14",
+    "date": "2026-09-15",
     "words": [
       {
-        "id": "sprobowac",
-        "polish": "spróbować",
-        "aiStatus": "complete",
-        "translationRu": "попробовать",
-        "synonym": "wypróbować",
-        "example": "Spróbuj jeszcze raz.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zaciagac",
-        "polish": "zaciągać",
-        "aiStatus": "complete",
-        "translationRu": "затягивать; брать (кредит); набирать",
-        "synonym": "wciągać",
-        "example": "Nie warto zaciągać kolejnej pożyczki.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zamieszkania",
-        "polish": "zamieszkania",
-        "aiStatus": "partial",
-        "translationRu": "проживания (род. п. от zamieszkanie)",
-        "synonym": "pobytu",
-        "example": "Musisz podać adres miejsca zamieszkania.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "przecietnie",
-        "polish": "przeciętnie",
-        "aiStatus": "complete",
-        "translationRu": "в среднем, посредственно",
-        "synonym": "średnio",
-        "example": "Przeciętnie zarabia dwa tysiące złotych.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "trudnie-2",
+        "id": "trudnie",
         "polish": "trudnie",
         "aiStatus": "partial",
-        "translationRu": "трудно (опечатка/нестанд., правильно 'trudno')",
         "synonym": "jak?",
+        "translationRu": "трудно (опечатка/нестанд., правильно 'trudno')",
         "example": "Trudno mi to teraz wytłumaczyć.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "brac-leki",
-        "polish": "brać leki",
+        "id": "istotniejszy",
+        "polish": "istotniejszy",
         "aiStatus": "complete",
-        "translationRu": "принимать лекарства",
-        "synonym": "zażywać leki",
-        "example": "Biorę leki na ciśnienie.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zakrywac",
-        "polish": "zakrywać",
-        "aiStatus": "complete",
-        "translationRu": "закрывать, накрывать (несов. вид)",
-        "synonym": "przykrywać",
-        "example": "Zakrywam usta podczas kaszlu.",
+        "translationRu": "более важный, более существенный (сравнит. степень от 'istotny')",
+        "synonym": "ważniejszy",
+        "example": "To jest istotniejszy problem niż sądziliśmy.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "nie-do-zrozumienia",
-        "polish": "nie do zrozumienia",
+        "id": "swieto",
+        "polish": "swięto",
+        "aiStatus": "partial",
+        "translationRu": "праздник (опечатка от święto)",
+        "synonym": "uroczystość",
+        "example": "W niedzielę mamy święto państwowe.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "ksiega-opinii",
+        "polish": "księga opinii",
         "aiStatus": "complete",
-        "translationRu": "непонятно, непостижимо",
-        "synonym": "niezrozumiały",
-        "example": "Jego zachowanie było nie do zrozumienia.",
+        "translationRu": "книга отзывов",
+        "synonym": "księga gości",
+        "example": "Klienci mogą wpisać się do księgi opinii.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "grupa-badawcza",
-        "polish": "grupa badawcza",
+        "id": "transformacja",
+        "polish": "transformacja",
         "aiStatus": "complete",
-        "translationRu": "исследовательская группа",
-        "synonym": "zespół naukowy",
-        "example": "Grupa badawcza opublikowała wyniki eksperymentu.",
+        "translationRu": "трансформация, преобразование",
+        "synonym": "przemiana",
+        "example": "Kraj przeszedł wielką transformację gospodarczą.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "sposob-sposoby",
+        "polish": "sposób - sposoby",
+        "aiStatus": "complete",
+        "synonym": "samochód - samochdy",
+        "translationRu": "способ - способы",
+        "example": "Są różne sposoby na rozwiązanie tego problemu.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "z-przyjaciolmi",
-        "polish": "z przyjaciółmi",
+        "id": "dotrzec-3",
+        "polish": "dotrzeć",
         "aiStatus": "complete",
-        "synonym": "z przyjaciółmi się nie nudzę",
-        "translationRu": "с друзьями",
-        "example": "Spędziłem weekend z przyjaciółmi.",
+        "translationRu": "добраться",
+        "synonym": "dojechać",
+        "example": "Trudno tam dotrzeć bez samochodu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "oszczednosci",
+        "polish": "oszczędności",
+        "aiStatus": "complete",
+        "translationRu": "сбережения",
+        "synonym": "odłożone pieniądze",
+        "example": "Mam trochę oszczędności na koncie.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "oplacac-sie",
+        "polish": "opłacać się",
+        "aiStatus": "complete",
+        "translationRu": "быть выгодным, окупаться",
+        "synonym": "być opłacalnym",
+        "example": "Nie opłaca się jechać tam samochodem.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "dzieki",
+        "polish": "dzięki",
+        "aiStatus": "complete",
+        "translationRu": "благодаря",
+        "synonym": "za sprawą",
+        "example": "Dzięki tobie zdałem egzamin.",
         "firstSeenAt": "2026-07-17"
       }
     ],
