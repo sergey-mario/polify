@@ -1,97 +1,94 @@
 {
-  "generatedAt": "2026-09-16T09:01:31.800Z",
+  "generatedAt": "2026-09-17T09:09:17.045Z",
   "dailyPractice": {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "words": [
       {
-        "id": "czasami-2",
-        "polish": "czasami",
+        "id": "podejmowac-decyzje-nie-przyjmowac",
+        "polish": "podejmować decyzję (nie przyjmować)",
         "aiStatus": "complete",
-        "translationRu": "иногда",
-        "synonym": "czasem",
-        "example": "Czasami chodzę na siłownię.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "sztuka",
-        "polish": "sztuka",
-        "aiStatus": "complete",
-        "translationRu": "искусство; пьеса; штука",
-        "synonym": "dzieło",
-        "example": "Idziemy na sztukę do teatru.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "znajomosci",
-        "polish": "znajomości",
-        "aiStatus": "complete",
-        "translationRu": "знакомства, связи",
-        "synonym": "kontakty",
-        "example": "Praca przez znajomości.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "nie-do-zrozumienia-2",
-        "polish": "nie do zrozumienia",
-        "aiStatus": "complete",
-        "translationRu": "непонятно, непостижимо",
-        "synonym": "niezrozumiały",
-        "example": "Jego zachowanie było nie do zrozumienia.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wkurzac",
-        "polish": "wkurzać",
-        "aiStatus": "complete",
-        "synonym": "irytować,wnerwiać, drażnić, złościć",
-        "translationRu": "бесить, злить",
-        "example": "To mnie bardzo wkurza.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zleknione",
-        "polish": "zlęknione",
-        "aiStatus": "complete",
-        "translationRu": "испуганные, напуганные",
-        "synonym": "wystraszone",
-        "example": "Zlęknione dzieci schowały się pod stołem.",
+        "translationRu": "принимать решение ('decyzję' сочетается с 'podejmować', а не 'przyjmować')",
+        "synonym": "podjąć decyzję",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "pogotowie",
-        "polish": "pogotowie",
+        "id": "zobaczyc",
+        "polish": "zobaczyć",
         "aiStatus": "complete",
-        "synonym": "karetka, ambulans",
-        "example": "Wezwać pogotowie",
-        "translationRu": "скорая помощь",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "minelo",
-        "polish": "mineło",
-        "aiStatus": "complete",
-        "translationRu": "прошло (опечатка от minęło)",
-        "synonym": "upłynęło",
-        "example": "Minęło już pięć lat od naszego ślubu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "podejsc",
-        "polish": "podejść",
-        "aiStatus": "complete",
-        "translationRu": "подойти",
-        "synonym": "zbliżyć się",
-        "example": "Podeszłam do niego i się przywitałam.",
+        "translationRu": "увидеть",
+        "synonym": "ujrzeć",
+        "example": "Chcę zobaczyć ten film.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "mgla",
-        "polish": "mgła",
+        "id": "odlozone-pieniadze",
+        "polish": "odłożone pieniądze",
         "aiStatus": "complete",
-        "translationRu": "туман",
-        "synonym": "zamglenie",
-        "example": "Rano była gęsta mgła.",
+        "translationRu": "отложенные деньги, сбережения",
+        "synonym": "oszczędności",
+        "example": "Wydał wszystkie odłożone pieniądze na remont.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "rusek",
+        "polish": "Rusek",
+        "aiStatus": "complete",
+        "translationRu": "разговорное прозвище русского",
+        "synonym": "Ruski",
         "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "im-tym-2",
+        "polish": "im///tym",
+        "aiStatus": "partial",
+        "translationRu": "чем ... тем (конструкция im ... tym)",
+        "example": "Im szybciej, tym lepiej.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "tlum",
+        "polish": "tłum",
+        "aiStatus": "complete",
+        "translationRu": "толпа",
+        "synonym": "mnóstwo ludzi",
+        "example": "Na placu zebrał się ogromny tłum.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "otwarci-ludzie",
+        "polish": "otwarci ludzie",
+        "aiStatus": "complete",
+        "translationRu": "открытые люди",
+        "synonym": "ludzie tolerancyjni",
+        "example": "W tym mieście żyją otwarci ludzie.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "przyzwyczajenie",
+        "polish": "przyzwyczajenie",
+        "aiStatus": "complete",
+        "synonym": "nawyk, zwyczaj, maniera",
+        "translationRu": "привычка",
+        "example": "To tylko siła przyzwyczajenia.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "efektywna",
+        "polish": "efektywna",
+        "aiStatus": "complete",
+        "translationRu": "эффективная (ж. р.)",
+        "synonym": "skuteczna",
+        "example": "To bardzo efektywna metoda nauki.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "muzeum",
+        "polish": "muzeum",
+        "aiStatus": "complete",
+        "translationRu": "музей",
+        "synonym": "galeria",
+        "example": "W tym muzeum są obrazy Picassa.",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
