@@ -1,94 +1,93 @@
 {
-  "generatedAt": "2026-09-17T09:09:17.045Z",
+  "generatedAt": "2026-09-18T08:42:33.696Z",
   "dailyPractice": {
-    "date": "2026-09-17",
+    "date": "2026-09-18",
     "words": [
       {
-        "id": "podejmowac-decyzje-nie-przyjmowac",
-        "polish": "podejmować decyzję (nie przyjmować)",
-        "aiStatus": "complete",
-        "translationRu": "принимать решение ('decyzję' сочетается с 'podejmować', а не 'przyjmować')",
-        "synonym": "podjąć decyzję",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "zobaczyc",
-        "polish": "zobaczyć",
-        "aiStatus": "complete",
-        "translationRu": "увидеть",
-        "synonym": "ujrzeć",
-        "example": "Chcę zobaczyć ten film.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "odlozone-pieniadze",
-        "polish": "odłożone pieniądze",
-        "aiStatus": "complete",
-        "translationRu": "отложенные деньги, сбережения",
-        "synonym": "oszczędności",
-        "example": "Wydał wszystkie odłożone pieniądze na remont.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "rusek",
-        "polish": "Rusek",
-        "aiStatus": "complete",
-        "translationRu": "разговорное прозвище русского",
-        "synonym": "Ruski",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "im-tym-2",
-        "polish": "im///tym",
+        "id": "glowny-cel-to",
+        "polish": "główny cel to",
         "aiStatus": "partial",
-        "translationRu": "чем ... тем (конструкция im ... tym)",
-        "example": "Im szybciej, tym lepiej.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "tlum",
-        "polish": "tłum",
-        "aiStatus": "complete",
-        "translationRu": "толпа",
-        "synonym": "mnóstwo ludzi",
-        "example": "Na placu zebrał się ogromny tłum.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "otwarci-ludzie",
-        "polish": "otwarci ludzie",
-        "aiStatus": "complete",
-        "translationRu": "открытые люди",
-        "synonym": "ludzie tolerancyjni",
-        "example": "W tym mieście żyją otwarci ludzie.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "przyzwyczajenie",
-        "polish": "przyzwyczajenie",
-        "aiStatus": "complete",
-        "synonym": "nawyk, zwyczaj, maniera",
-        "translationRu": "привычка",
-        "example": "To tylko siła przyzwyczajenia.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "efektywna",
-        "polish": "efektywna",
-        "aiStatus": "complete",
-        "translationRu": "эффективная (ж. р.)",
-        "synonym": "skuteczna",
-        "example": "To bardzo efektywna metoda nauki.",
+        "translationRu": "главная цель — это... (конструкция для определения цели)",
+        "example": "Główny cel to poprawa jakości życia mieszkańców.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "muzeum",
-        "polish": "muzeum",
+        "id": "kontynent",
+        "polish": "kontynent",
         "aiStatus": "complete",
-        "translationRu": "музей",
-        "synonym": "galeria",
-        "example": "W tym muzeum są obrazy Picassa.",
+        "translationRu": "континент",
+        "synonym": "ląd",
+        "example": "Afryka jest kontynentem.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "pod-katem",
+        "polish": "pod kątem",
+        "aiStatus": "complete",
+        "translationRu": "с точки зрения, в аспекте",
+        "synonym": "z punktu widzenia",
+        "example": "Przeanalizujmy to pod kątem kosztów.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "metropolia",
+        "polish": "metropolia",
+        "aiStatus": "complete",
+        "synonym": "duże, dominujące miasto lub zespół miejski",
+        "translationRu": "мегаполис",
+        "example": "Warszawa jest metropolią.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "bede-ci-kibicowac",
+        "polish": "Będę Ci kibicować.",
+        "aiStatus": "complete",
+        "translationRu": "Я буду болеть за тебя.",
+        "synonym": "Będę Cię wspierać.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "w-wadze",
+        "polish": "w wadzę",
+        "aiStatus": "partial",
+        "translationRu": "в весе (обрывок фразы, опечатка от w wadze)",
+        "example": "Przybrałem trochę na wadze.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "psy-j-p-policja",
+        "polish": "psy j.p - policja",
+        "aiStatus": "complete",
+        "translationRu": "собаки (жарг.) — полиция (= 'менты')",
+        "synonym": "gliny",
+        "example": "Uważaj, jadą psy!",
         "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zdanie",
+        "polish": "zdanie",
+        "aiStatus": "complete",
+        "synonym": "opinie",
+        "example": "Miała nadzieję, że zmieni zdanie",
+        "translationRu": "мнение; предложение (грам.)",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zrozumiec",
+        "polish": "zrozumieć",
+        "aiStatus": "complete",
+        "synonym": "kumać/zakumać- j/p",
+        "translationRu": "понять",
+        "example": "Wreszcie zrozumiałem o co chodzi.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "slowka-nie-slowki",
+        "polish": "słówka (nie słówki)",
+        "aiStatus": "complete",
+        "translationRu": "словечки, слова (правильная форма мн.ч. от 'słówko' — не 'słówki')",
+        "example": "Musimy powtórzyć nowe słówka.",
+        "firstSeenAt": "2026-08-22"
       }
     ],
     "grammarRule": {
