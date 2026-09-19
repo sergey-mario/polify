@@ -1,93 +1,96 @@
 {
-  "generatedAt": "2026-09-18T08:42:33.696Z",
+  "generatedAt": "2026-09-19T08:29:13.492Z",
   "dailyPractice": {
-    "date": "2026-09-18",
+    "date": "2026-09-19",
     "words": [
       {
-        "id": "glowny-cel-to",
-        "polish": "główny cel to",
+        "id": "tesknic",
+        "polish": "tęsknić",
+        "aiStatus": "complete",
+        "synonym": "sumować",
+        "example": "tęsknił za swoją córką",
+        "translationRu": "скучать, тосковать",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "to-bardzo-rozlegly-temat",
+        "polish": "to bardzo rozległy temat",
+        "aiStatus": "complete",
+        "translationRu": "это очень обширная тема",
+        "synonym": "to bardzo szeroki temat",
+        "example": "Historia Polski to bardzo rozległy temat.",
+        "firstSeenAt": "2026-09-09"
+      },
+      {
+        "id": "czynnik-4",
+        "polish": "czynnik",
+        "aiStatus": "complete",
+        "translationRu": "фактор",
+        "synonym": "element",
+        "example": "To ważny czynnik sukcesu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "jest-zakaz",
+        "polish": "jest zakaz",
+        "aiStatus": "complete",
+        "translationRu": "есть запрет, запрещено",
+        "synonym": "jest zabronione",
+        "example": "Tu jest zakaz palenia.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "ujawnic",
+        "polish": "ujawnić",
+        "aiStatus": "complete",
+        "synonym": "wykryć",
+        "translationRu": "раскрыть, обнаружить",
+        "example": "Policja ujawniła nowe fakty.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zadnego",
+        "polish": "żadnego",
         "aiStatus": "partial",
-        "translationRu": "главная цель — это... (конструкция для определения цели)",
-        "example": "Główny cel to poprawa jakości życia mieszkańców.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "kontynent",
-        "polish": "kontynent",
-        "aiStatus": "complete",
-        "translationRu": "континент",
-        "synonym": "ląd",
-        "example": "Afryka jest kontynentem.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "pod-katem",
-        "polish": "pod kątem",
-        "aiStatus": "complete",
-        "translationRu": "с точки зрения, в аспекте",
-        "synonym": "z punktu widzenia",
-        "example": "Przeanalizujmy to pod kątem kosztów.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "metropolia",
-        "polish": "metropolia",
-        "aiStatus": "complete",
-        "synonym": "duże, dominujące miasto lub zespół miejski",
-        "translationRu": "мегаполис",
-        "example": "Warszawa jest metropolią.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "bede-ci-kibicowac",
-        "polish": "Będę Ci kibicować.",
-        "aiStatus": "complete",
-        "translationRu": "Я буду болеть за тебя.",
-        "synonym": "Będę Cię wspierać.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "w-wadze",
-        "polish": "w wadzę",
-        "aiStatus": "partial",
-        "translationRu": "в весе (обрывок фразы, опечатка от w wadze)",
-        "example": "Przybrałem trochę na wadze.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "psy-j-p-policja",
-        "polish": "psy j.p - policja",
-        "aiStatus": "complete",
-        "translationRu": "собаки (жарг.) — полиция (= 'менты')",
-        "synonym": "gliny",
-        "example": "Uważaj, jadą psy!",
+        "translationRu": "никакого (род. падеж от żaden)",
+        "example": "Nie mam żadnego pomysłu.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zdanie",
-        "polish": "zdanie",
+        "id": "nie-do-zrozumienia-2",
+        "polish": "nie do zrozumienia",
         "aiStatus": "complete",
-        "synonym": "opinie",
-        "example": "Miała nadzieję, że zmieni zdanie",
-        "translationRu": "мнение; предложение (грам.)",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "непонятно, непостижимо",
+        "synonym": "niezrozumiały",
+        "example": "Jego zachowanie było nie do zrozumienia.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zrozumiec",
-        "polish": "zrozumieć",
+        "id": "istnieje",
+        "polish": "istnieje",
         "aiStatus": "complete",
-        "synonym": "kumać/zakumać- j/p",
-        "translationRu": "понять",
-        "example": "Wreszcie zrozumiałem o co chodzi.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "slowka-nie-slowki",
-        "polish": "słówka (nie słówki)",
-        "aiStatus": "complete",
-        "translationRu": "словечки, слова (правильная форма мн.ч. от 'słówko' — не 'słówki')",
-        "example": "Musimy powtórzyć nowe słówka.",
+        "translationRu": "существует (он/она/оно, от 'istnieć')",
+        "synonym": "występuje",
+        "example": "Istnieje wiele sposobów na rozwiązanie tego problemu.",
         "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "artysci",
+        "polish": "artyści",
+        "aiStatus": "complete",
+        "translationRu": "артисты",
+        "synonym": "twórcy",
+        "example": "Artyści zaprezentowali swoje prace.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "biegle",
+        "polish": "biegle",
+        "aiStatus": "complete",
+        "translationRu": "бегло, свободно",
+        "synonym": "płynnie",
+        "example": "Mówi biegle po angielsku.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
