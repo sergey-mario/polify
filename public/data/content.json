@@ -1,96 +1,95 @@
 {
-  "generatedAt": "2026-09-20T09:01:03.397Z",
+  "generatedAt": "2026-09-21T09:33:25.187Z",
   "dailyPractice": {
-    "date": "2026-09-20",
+    "date": "2026-09-21",
     "words": [
       {
-        "id": "pustkowie-2",
-        "polish": "pustkowie",
+        "id": "przesada",
+        "polish": "przesada",
         "aiStatus": "complete",
-        "translationRu": "пустошь, безлюдная местность",
-        "synonym": "odludzie",
-        "example": "Zostawili samochód na pustkowiu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "nic-specjalnego",
-        "polish": "nic specjalnego",
-        "aiStatus": "complete",
-        "translationRu": "ничего особенного",
-        "synonym": "nic nadzwyczajnego",
-        "example": "Nic specjalnego się nie stało.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "stopien-stopni",
-        "polish": "stopień/ stopni",
-        "aiStatus": "complete",
-        "translationRu": "степень, градус / градусов (род. мн.)",
-        "synonym": "poziom",
-        "example": "Dziś jest dziesięć stopni.",
+        "synonym": "mieć już dojśc",
+        "translationRu": "преувеличение, перебор",
+        "example": "To już jest przesada!",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zarzadzac-2",
-        "polish": "zarządzać",
+        "id": "dostac-sie",
+        "polish": "dostać się",
         "aiStatus": "complete",
-        "translationRu": "управлять, руководить",
-        "synonym": "kierować",
-        "example": "Zarządza dużym zespołem.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "w-poblizu",
-        "polish": "w pobliżu",
-        "aiStatus": "complete",
-        "synonym": "opodal",
-        "translationRu": "поблизости",
-        "example": "Mieszkam w pobliżu parku.",
+        "translationRu": "попасть (куда-то)",
+        "synonym": "dotrzeć",
+        "example": "Trudno dostać się do centrum bez samochodu.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wywrzec",
-        "polish": "wywrzeć",
-        "aiStatus": "complete",
-        "synonym": "wpłynąć, mieć wpływ",
-        "example": "wywrzeć na nas jakiś wpływ",
-        "translationRu": "оказать (влияние, давление)",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zakwetorowac-sie",
-        "polish": "zakwetorować się",
-        "aiStatus": "partial",
-        "synonym": "wykwaterować się",
-        "translationRu": "поселиться, разместиться (опечатка от zakwaterować się)",
-        "example": "Musieliśmy się zakwaterować w hotelu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "klocic-sie",
+        "id": "klocic-sie-2",
         "polish": "kłócić się",
         "aiStatus": "complete",
+        "synonym": "kłótnia",
         "translationRu": "ссориться",
-        "synonym": "sprzeczać się",
         "example": "Dzieci znowu się kłócą.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "tanio",
-        "polish": "tanio",
+        "id": "przykro",
+        "polish": "przykro",
         "aiStatus": "complete",
-        "translationRu": "дешёво (нареч.)",
-        "synonym": "niedrogo",
-        "example": "Kupiłem te buty bardzo tanio.",
+        "translationRu": "жаль, неприятно",
+        "synonym": "niemiło",
+        "example": "Przykro mi, że musisz jechać sam.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "dobry",
-        "polish": "dobry",
+        "id": "umierac-umrzec",
+        "polish": "umierać - umrzeć",
         "aiStatus": "complete",
-        "translationRu": "хороший",
-        "synonym": "świetny",
-        "example": "To jest naprawdę dobry pomysł.",
+        "translationRu": "умирать - умереть",
+        "example": "Rośliny umierają bez wody.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zul",
+        "polish": "żul",
+        "aiStatus": "complete",
+        "translationRu": "пьяница, бомж (разг.)",
+        "synonym": "menel",
+        "example": "Pod sklepem siedział żul z butelką.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zwariowac",
+        "polish": "zwariować",
+        "aiStatus": "complete",
+        "synonym": "powariować, oszaleć, zbzikować",
+        "translationRu": "сойти с ума",
+        "example": "Chyba zwariowałem z tym stresem.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "bagatela",
+        "polish": "bagatela",
+        "aiStatus": "complete",
+        "translationRu": "пустяк, мелочь (часто иронично о крупной сумме)",
+        "synonym": "drobnostka",
+        "example": "Kosztowało to bagatela dziesięć tysięcy złotych.",
+        "firstSeenAt": "2026-09-09"
+      },
+      {
+        "id": "statystyka",
+        "polish": "statystyka",
+        "aiStatus": "complete",
+        "translationRu": "статистика",
+        "synonym": "dane statystyczne",
+        "example": "Według statystyk, Polacy żyją coraz dłużej.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "robic-wrazenie",
+        "polish": "robić wrażenie",
+        "aiStatus": "complete",
+        "synonym": "wywrzeć wrażenie",
+        "example": "wywołać pozytywną reakcję, zaimponować, np. \"Ich występ naprawdę zrobił na mnie wrażenie",
+        "translationRu": "производить впечатление",
         "firstSeenAt": "2026-05-02"
       }
     ],
