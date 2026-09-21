@@ -1,102 +1,105 @@
 {
-  "generatedAt": "2026-09-21T09:33:25.187Z",
+  "generatedAt": "2026-09-21T18:45:17.422Z",
   "dailyPractice": {
     "date": "2026-09-21",
     "words": [
       {
-        "id": "przesada",
-        "polish": "przesada",
-        "aiStatus": "complete",
-        "synonym": "mieć już dojśc",
-        "translationRu": "преувеличение, перебор",
-        "example": "To już jest przesada!",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "dostac-sie",
-        "polish": "dostać się",
-        "aiStatus": "complete",
-        "translationRu": "попасть (куда-то)",
-        "synonym": "dotrzeć",
-        "example": "Trudno dostać się do centrum bez samochodu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "klocic-sie-2",
-        "polish": "kłócić się",
-        "aiStatus": "complete",
-        "synonym": "kłótnia",
-        "translationRu": "ссориться",
-        "example": "Dzieci znowu się kłócą.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "przykro",
-        "polish": "przykro",
-        "aiStatus": "complete",
-        "translationRu": "жаль, неприятно",
-        "synonym": "niemiło",
-        "example": "Przykro mi, że musisz jechać sam.",
+        "id": "komentowac-w-niewybredny-sposob",
+        "polish": "komentować w niewybredny sposób",
+        "aiStatus": "partial",
+        "translationRu": "комментировать грубо, бестактно",
+        "example": "Zaczął komentować w niewybredny sposób jej wygląd.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "umierac-umrzec",
-        "polish": "umierać - umrzeć",
+        "id": "przekonanie",
+        "polish": "przekonanie",
         "aiStatus": "complete",
-        "translationRu": "умирать - умереть",
-        "example": "Rośliny umierają bez wody.",
+        "translationRu": "убеждение",
+        "synonym": "pogląd",
+        "example": "Mam głębokie przekonanie, że to jest słuszne.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "glowny-cel-to",
+        "polish": "główny cel to",
+        "aiStatus": "partial",
+        "translationRu": "главная цель — это... (конструкция для определения цели)",
+        "example": "Główny cel to poprawa jakości życia mieszkańców.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "tesknic",
+        "polish": "tęsknić",
+        "aiStatus": "complete",
+        "synonym": "sumować",
+        "example": "tęsknił za swoją córką",
+        "translationRu": "скучать, тосковать",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "sciaga",
+        "polish": "ściąga",
+        "aiStatus": "complete",
+        "translationRu": "шпаргалка",
+        "synonym": "podpowiedź",
+        "example": "Nauczyciel zabrał mu ściągę na egzaminie.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zul",
-        "polish": "żul",
+        "id": "okolo-pieciu-siedmiu",
+        "polish": "około pięciu/siedmiu",
         "aiStatus": "complete",
-        "translationRu": "пьяница, бомж (разг.)",
-        "synonym": "menel",
-        "example": "Pod sklepem siedział żul z butelką.",
+        "translationRu": "около пяти / семи",
+        "synonym": "mniej więcej pięciu/siedmiu",
+        "example": "Przyjadę około piątej albo siódmej wieczorem.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zwariowac",
-        "polish": "zwariować",
+        "id": "zachwycac-sie-2",
+        "polish": "zachwycać się",
         "aiStatus": "complete",
-        "synonym": "powariować, oszaleć, zbzikować",
-        "translationRu": "сойти с ума",
-        "example": "Chyba zwariowałem z tym stresem.",
+        "translationRu": "восхищаться",
+        "synonym": "zachwycić się",
+        "example": "Zachwycałem się widokiem z góry.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "bagatela",
-        "polish": "bagatela",
+        "id": "przytomnosc",
+        "polish": "przytomność",
         "aiStatus": "complete",
-        "translationRu": "пустяк, мелочь (часто иронично о крупной сумме)",
-        "synonym": "drobnostka",
-        "example": "Kosztowało to bagatela dziesięć tysięcy złotych.",
-        "firstSeenAt": "2026-09-09"
-      },
-      {
-        "id": "statystyka",
-        "polish": "statystyka",
-        "aiStatus": "complete",
-        "translationRu": "статистика",
-        "synonym": "dane statystyczne",
-        "example": "Według statystyk, Polacy żyją coraz dłużej.",
+        "example": "straciła przytomność",
+        "translationRu": "сознание",
+        "synonym": "świadomość",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "robic-wrazenie",
-        "polish": "robić wrażenie",
+        "id": "walczyc",
+        "polish": "walczyć",
         "aiStatus": "complete",
-        "synonym": "wywrzeć wrażenie",
-        "example": "wywołać pozytywną reakcję, zaimponować, np. \"Ich występ naprawdę zrobił na mnie wrażenie",
-        "translationRu": "производить впечатление",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "бороться",
+        "synonym": "bić się",
+        "example": "Walczył o swoje prawa.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "patszac",
+        "polish": "patsząc",
+        "aiStatus": "complete",
+        "translationRu": "глядя, смотря (опечатка от patrząc)",
+        "synonym": "spoglądając",
+        "example": "Patrząc na to z boku, to był dobry wybór.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
-      "title": "Powtórka słownictwa",
-      "explanation": "Dziś koncentrujemy się na praktyce wybranych słów i wyrażeń w naturalnych zdaniach.",
-      "examples": []
+      "title": "Czasowniki z narzędnikiem: tęsknić za, zachwycać się",
+      "explanation": "Niektóre czasowniki łączą się z narzędnikiem (kim? czym?), często razem z przyimkiem. Tęsknić za kimś/czymś opisuje tęsknotę, a zachwycać się kimś/czymś — zachwyt czymś. Zwróć uwagę, że zachwycać się jest zwrotne — bez się zmienia się jego znaczenie.",
+      "examples": [
+        "Tęsknię za rodziną, która mieszka daleko.",
+        "Zachwycała się widokiem gór o zachodzie słońca.",
+        "Walczyliśmy z przeciwnościami przez wiele miesięcy."
+      ]
     }
   },
   "allWords": [
@@ -10200,12 +10203,319 @@
       "synonym": "jednak",
       "example": "Był zmęczony, wszelako postanowił dokończyć pracę.",
       "firstSeenAt": "2026-09-09"
+    },
+    {
+      "id": "natychmiast-3",
+      "polish": "natychmiast",
+      "aiStatus": "complete",
+      "translationRu": "немедленно, сразу",
+      "synonym": "od razu",
+      "example": "natychmiast wstali z kanapy",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "szlafrok",
+      "polish": "szlafrok",
+      "aiStatus": "complete",
+      "translationRu": "халат (домашний)",
+      "synonym": "podomka",
+      "example": "Rano chodzę po domu w szlafroku.",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "nawiedzony-dom",
+      "polish": "nawiedzony dom",
+      "aiStatus": "complete",
+      "example": "дом с привидениями",
+      "translationRu": "дом с привидениями",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "wsciekly-2",
+      "polish": "wściekły",
+      "aiStatus": "complete",
+      "example": "яростный",
+      "translationRu": "разъярённый, взбешённый",
+      "synonym": "zdenerwowana",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "na-strychu",
+      "polish": "na strychu",
+      "aiStatus": "complete",
+      "example": "на чердаке",
+      "translationRu": "на чердаке",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "dotrwalam-do-switu",
+      "polish": "dotrwałam do świtu",
+      "aiStatus": "complete",
+      "example": "дожила / продержалась до рассвета",
+      "translationRu": "я продержалась / дожила до рассвета",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "trumna",
+      "polish": "trumna",
+      "aiStatus": "complete",
+      "example": "гроб",
+      "translationRu": "гроб",
+      "synonym": "kaseta pogrzebowa",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "domyslilam-sie-dalszego-ciagu",
+      "polish": "domyśliłam się dalszego ciągu",
+      "aiStatus": "complete",
+      "example": "Я догадался, что произойдет дальше.",
+      "translationRu": "я догадалась, что будет дальше",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "zjawiska-nadprzyrodzone",
+      "polish": "zjawiska nadprzyrodzone",
+      "aiStatus": "complete",
+      "example": "сверхъестественные явления",
+      "translationRu": "сверхъестественные явления",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "osiagnac-5",
+      "polish": "osiągnąć",
+      "aiStatus": "complete",
+      "translationRu": "достичь (цели, результата)",
+      "synonym": "zdobyć",
+      "example": "Osiągnął swój cel.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "przekonanie-3",
+      "polish": "przekonanie",
+      "aiStatus": "complete",
+      "translationRu": "убеждение",
+      "synonym": "pogląd",
+      "example": "Mam głębokie przekonanie, że to jest słuszne.",
+      "firstSeenAt": "2026-05-02"
+    },
+    {
+      "id": "wykreowac",
+      "polish": "wykreować",
+      "aiStatus": "complete",
+      "translationRu": "создать, сотворить",
+      "synonym": "stworzyć",
+      "example": "Reżyser chciał wykreować niepowtarzalny nastrój filmu.",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "podswiadomosc",
+      "polish": "podświadomość",
+      "aiStatus": "complete",
+      "translationRu": "подсознание",
+      "synonym": "nieświadomość",
+      "example": "Nasze lęki często rodzą się w podświadomości.",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "rozrozniania",
+      "polish": "rozróżniania",
+      "aiStatus": "complete",
+      "translationRu": "различения (р.п. от rozróżnianie)",
+      "synonym": "odróżniania",
+      "example": "Uczymy się rozróżniania dobra i zła.",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "zgrabny",
+      "polish": "zgrabny",
+      "aiStatus": "complete",
+      "translationRu": "стройный, ловкий",
+      "synonym": "smukły",
+      "example": "Ma zgrabną figurę.",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "dostrzegamy-w-sobie-wady",
+      "polish": "dostrzegamy w sobie wady",
+      "aiStatus": "complete",
+      "translationRu": "мы замечаем в себе недостатки",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "kazdy-zasluguje-na-wszystko-czego-pragnie",
+      "polish": "każdy zasługuje na wszystko,\nczego pragnie",
+      "aiStatus": "complete",
+      "translationRu": "каждый заслуживает всего, чего желает",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "dobro-przeplata-sie-ze-zlem",
+      "polish": "dobro przeplata się ze złem",
+      "aiStatus": "complete",
+      "translationRu": "добро переплетается со злом",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "poczucie-wlasnej-wartosci",
+      "polish": "poczucie własnej wartości",
+      "aiStatus": "complete",
+      "translationRu": "чувство собственного достоинства",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "poniewaz-postrzegamy-druga-osobe-poprzez-pryzmat-mysli-o-sobie-samym",
+      "polish": "ponieważ postrzegamy drugą osobę poprzez pryzmat myśli o sobie samym",
+      "aiStatus": "complete",
+      "translationRu": "потому что мы воспринимаем другого человека через призму мыслей о самих себе",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "w-ten-sposob-pozornie-podnosimy-siebie",
+      "polish": "W ten sposób pozornie podnosimy siebie",
+      "aiStatus": "complete",
+      "translationRu": "таким образом мы мнимо возвышаем себя",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "sklaniamy-sie-do-uprzedzen-i-atakowania-drugiej-osoby",
+      "polish": "skłaniamy się do uprzedzeń i atakowania drugiej osoby",
+      "aiStatus": "complete",
+      "translationRu": "мы склоняемся к предубеждениям и нападкам на другого человека",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "niezbedne-wyposazenie",
+      "polish": "niezbędne wyposażenie",
+      "aiStatus": "complete",
+      "translationRu": "необходимое снаряжение",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "postrzeganie-wlasnej-osoby-juz-nas-odpowiednio-nastraja",
+      "polish": "postrzeganie własnej osoby już nas odpowiednio nastraja",
+      "aiStatus": "complete",
+      "translationRu": "восприятие самого себя уже соответствующим образом настраивает нас",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "osiagnac-wszystko-o-czym-marzymy",
+      "polish": "osiągnąć wszystko o czym marzymy",
+      "aiStatus": "complete",
+      "translationRu": "достичь всего, о чём мы мечтаем",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "potezna-energia",
+      "polish": "potężna energia",
+      "aiStatus": "complete",
+      "translationRu": "мощная энергия",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "zaufanie-we-wlasne-mozliwosci-owocuje-samodzielnoscia",
+      "polish": "Zaufanie we własne możliwości owocuje samodzielnością",
+      "aiStatus": "complete",
+      "translationRu": "доверие к собственным возможностям приносит плоды в виде самостоятельности",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "bez-wahania",
+      "polish": "Bez wahania",
+      "aiStatus": "complete",
+      "translationRu": "без колебаний",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "na-wszystkich-plaszczyznach",
+      "polish": "Na wszystkich płaszczyznach",
+      "aiStatus": "complete",
+      "translationRu": "на всех уровнях",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "jesli-stawiamy-sobie-niebotycznie-wysokie-poprzeczki-wowczas-nigdy-nie-bedziemy-szczesliwi",
+      "polish": "Jeśli stawiamy sobie niebotycznie wysokie poprzeczki, wówczas nigdy nie będziemy szczęśliwi",
+      "aiStatus": "complete",
+      "translationRu": "если мы ставим себе заоблачно высокую планку, тогда мы никогда не будем счастливы",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "byc-doskonalym",
+      "polish": "być doskonałym",
+      "aiStatus": "complete",
+      "translationRu": "быть совершенным",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "dostrzec-dobro",
+      "polish": "dostrzec dobro",
+      "aiStatus": "complete",
+      "translationRu": "разглядеть добро",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "poczucie-bezwartosciowosci-jest-przerazajaco-bolesne",
+      "polish": "Poczucie bezwartościowości jest przerażająco bolesne",
+      "aiStatus": "complete",
+      "translationRu": "чувство собственной никчёмности пугающе болезненно",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "jest-przyczyna-pierwotnego-leku-przed-odrzuceniem",
+      "polish": "Jest przyczyną pierwotnego lęku przed odrzuceniem",
+      "aiStatus": "complete",
+      "translationRu": "это причина изначального страха перед отвержением",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "pragnie-akceptacji-i-bycia-kochanym",
+      "polish": "pragnie akceptacji i bycia kochanym",
+      "aiStatus": "complete",
+      "translationRu": "жаждет принятия и того, чтобы быть любимым",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "wyciagamy-wnioski-ze-nie-zaslugujemy-na-milosc",
+      "polish": "wyciągamy wnioski, że nie zasługujemy na miłość",
+      "aiStatus": "complete",
+      "translationRu": "мы делаем вывод, что не заслуживаем любви",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "ma-prawo-podazac-swoja-droga-zgodnie-z-indywidualnymi-wyborami",
+      "polish": "ma prawo podążać swoją drogą zgodnie z indywidualnymi wyborami",
+      "aiStatus": "complete",
+      "translationRu": "имеет право идти своим путём в соответствии со своим индивидуальным выбором",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "postrzegamy-jako-porazke",
+      "polish": "postrzegamy jako porażkę",
+      "aiStatus": "complete",
+      "translationRu": "воспринимаем как поражение",
+      "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "udowodnic-2",
+      "polish": "udowodnić",
+      "aiStatus": "complete",
+      "translationRu": "доказать",
+      "synonym": "udowadniać",
+      "example": "Musisz udowodnić swoją niewinność.",
+      "firstSeenAt": "2026-07-17"
+    },
+    {
+      "id": "nie-jest-skutecznym-sposobem",
+      "polish": "nie jest skutecznym sposobem",
+      "aiStatus": "complete",
+      "translationRu": "не является эффективным способом",
+      "firstSeenAt": "2026-09-21"
     }
   ],
   "metadata": {
     "source": "google-sheets-csv",
-    "totalWords": 1148,
-    "validWords": 986,
+    "totalWords": 1188,
+    "validWords": 1026,
     "partialWords": 155,
     "uncertainWords": 7
   }

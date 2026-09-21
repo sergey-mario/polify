@@ -5900,5 +5900,156 @@
     "synonym": "jednak",
     "example": "Był zmęczony, wszelako postanowił dokończyć pracę.",
     "aiStatus": "complete"
+  },
+  "szlafrok": {
+    "translationRu": "халат (домашний)",
+    "synonym": "podomka",
+    "example": "Rano chodzę po domu w szlafroku.",
+    "aiStatus": "complete"
+  },
+  "wykreować": {
+    "translationRu": "создать, сотворить",
+    "synonym": "stworzyć",
+    "example": "Reżyser chciał wykreować niepowtarzalny nastrój filmu.",
+    "aiStatus": "complete"
+  },
+  "podświadomość": {
+    "translationRu": "подсознание",
+    "synonym": "nieświadomość",
+    "example": "Nasze lęki często rodzą się w podświadomości.",
+    "aiStatus": "complete"
+  },
+  "rozróżniania": {
+    "translationRu": "различения (р.п. от rozróżnianie)",
+    "synonym": "odróżniania",
+    "example": "Uczymy się rozróżniania dobra i zła.",
+    "aiStatus": "complete"
+  },
+  "zgrabny": {
+    "translationRu": "стройный, ловкий",
+    "synonym": "smukły",
+    "example": "Ma zgrabną figurę.",
+    "aiStatus": "complete"
+  },
+  "nawiedzony dom": {
+    "translationRu": "дом с привидениями",
+    "aiStatus": "complete"
+  },
+  "na strychu": {
+    "translationRu": "на чердаке",
+    "aiStatus": "complete"
+  },
+  "dotrwałam do świtu": {
+    "translationRu": "я продержалась / дожила до рассвета",
+    "aiStatus": "complete"
+  },
+  "trumna": {
+    "translationRu": "гроб",
+    "synonym": "kaseta pogrzebowa",
+    "aiStatus": "complete"
+  },
+  "domyśliłam się dalszego ciągu": {
+    "translationRu": "я догадалась, что будет дальше",
+    "aiStatus": "complete"
+  },
+  "zjawiska nadprzyrodzone": {
+    "translationRu": "сверхъестественные явления",
+    "aiStatus": "complete"
+  },
+  "dostrzegamy w sobie wady": {
+    "translationRu": "мы замечаем в себе недостатки",
+    "aiStatus": "complete"
+  },
+  "każdy zasługuje na wszystko,\nczego pragnie": {
+    "translationRu": "каждый заслуживает всего, чего желает",
+    "aiStatus": "complete"
+  },
+  "dobro przeplata się ze złem": {
+    "translationRu": "добро переплетается со злом",
+    "aiStatus": "complete"
+  },
+  "poczucie własnej wartości": {
+    "translationRu": "чувство собственного достоинства",
+    "aiStatus": "complete"
+  },
+  "ponieważ postrzegamy drugą osobę poprzez pryzmat myśli o sobie samym": {
+    "translationRu": "потому что мы воспринимаем другого человека через призму мыслей о самих себе",
+    "aiStatus": "complete"
+  },
+  "W ten sposób pozornie podnosimy siebie": {
+    "translationRu": "таким образом мы мнимо возвышаем себя",
+    "aiStatus": "complete"
+  },
+  "skłaniamy się do uprzedzeń i atakowania drugiej osoby": {
+    "translationRu": "мы склоняемся к предубеждениям и нападкам на другого человека",
+    "aiStatus": "complete"
+  },
+  "niezbędne wyposażenie": {
+    "translationRu": "необходимое снаряжение",
+    "aiStatus": "complete"
+  },
+  "postrzeganie własnej osoby już nas odpowiednio nastraja": {
+    "translationRu": "восприятие самого себя уже соответствующим образом настраивает нас",
+    "aiStatus": "complete"
+  },
+  "osiągnąć wszystko o czym marzymy": {
+    "translationRu": "достичь всего, о чём мы мечтаем",
+    "aiStatus": "complete"
+  },
+  "potężna energia": {
+    "translationRu": "мощная энергия",
+    "aiStatus": "complete"
+  },
+  "Zaufanie we własne możliwości owocuje samodzielnością": {
+    "translationRu": "доверие к собственным возможностям приносит плоды в виде самостоятельности",
+    "aiStatus": "complete"
+  },
+  "Bez wahania": {
+    "translationRu": "без колебаний",
+    "aiStatus": "complete"
+  },
+  "Na wszystkich płaszczyznach": {
+    "translationRu": "на всех уровнях",
+    "aiStatus": "complete"
+  },
+  "Jeśli stawiamy sobie niebotycznie wysokie poprzeczki, wówczas nigdy nie będziemy szczęśliwi": {
+    "translationRu": "если мы ставим себе заоблачно высокую планку, тогда мы никогда не будем счастливы",
+    "aiStatus": "complete"
+  },
+  "być doskonałym": {
+    "translationRu": "быть совершенным",
+    "aiStatus": "complete"
+  },
+  "dostrzec dobro": {
+    "translationRu": "разглядеть добро",
+    "aiStatus": "complete"
+  },
+  "Poczucie bezwartościowości jest przerażająco bolesne": {
+    "translationRu": "чувство собственной никчёмности пугающе болезненно",
+    "aiStatus": "complete"
+  },
+  "Jest przyczyną pierwotnego lęku przed odrzuceniem": {
+    "translationRu": "это причина изначального страха перед отвержением",
+    "aiStatus": "complete"
+  },
+  "pragnie akceptacji i bycia kochanym": {
+    "translationRu": "жаждет принятия и того, чтобы быть любимым",
+    "aiStatus": "complete"
+  },
+  "wyciągamy wnioski, że nie zasługujemy na miłość": {
+    "translationRu": "мы делаем вывод, что не заслуживаем любви",
+    "aiStatus": "complete"
+  },
+  "ma prawo podążać swoją drogą zgodnie z indywidualnymi wyborami": {
+    "translationRu": "имеет право идти своим путём в соответствии со своим индивидуальным выбором",
+    "aiStatus": "complete"
+  },
+  "postrzegamy jako porażkę": {
+    "translationRu": "воспринимаем как поражение",
+    "aiStatus": "complete"
+  },
+  "nie jest skutecznym sposobem": {
+    "translationRu": "не является эффективным способом",
+    "aiStatus": "complete"
   }
 }
