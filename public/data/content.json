@@ -1,105 +1,102 @@
 {
-  "generatedAt": "2026-09-21T18:45:17.422Z",
+  "generatedAt": "2026-09-22T08:59:00.521Z",
   "dailyPractice": {
-    "date": "2026-09-21",
+    "date": "2026-09-22",
     "words": [
       {
-        "id": "komentowac-w-niewybredny-sposob",
-        "polish": "komentować w niewybredny sposób",
+        "id": "wspinac-sie-4",
+        "polish": "wspinać się",
+        "aiStatus": "complete",
+        "translationRu": "взбираться, карабкаться",
+        "synonym": "piąć się",
+        "example": "Wspinamy się na szczyt.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "za-niedlugo",
+        "polish": "za niedługo",
+        "aiStatus": "complete",
+        "translationRu": "совсем скоро",
+        "synonym": "wkrótce",
+        "example": "Zobaczymy się za niedługo.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "dojsc-do-wniosku",
+        "polish": "dojść do wniosku",
+        "aiStatus": "complete",
+        "translationRu": "прийти к выводу",
+        "synonym": "uznać",
+        "example": "Doszedłem do wniosku, że mam rację.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "gadac",
+        "polish": "gadać",
+        "aiStatus": "complete",
+        "synonym": "głupia gadka",
+        "translationRu": "болтать, разговаривать",
+        "example": "Lubimy gadać do późna w nocy.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zarabiac-pieniadze-nie-zarabiac-pieniedzy",
+        "polish": "zarabiać pieniądze, nie ,,zarabiać pieniędzy''",
         "aiStatus": "partial",
-        "translationRu": "комментировать грубо, бестактно",
-        "example": "Zaczął komentować w niewybredny sposób jej wygląd.",
+        "translationRu": "зарабатывать деньги (винительный падеж «pieniądze», не родительный «pieniędzy»)",
+        "example": "Chcę zarabiać pieniądze, pracując zdalnie.",
+        "firstSeenAt": "2026-09-09"
+      },
+      {
+        "id": "slup",
+        "polish": "słup",
+        "aiStatus": "complete",
+        "translationRu": "столб",
+        "synonym": "słupek",
+        "example": "Samochód uderzył w słup.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "oplacac-sie",
+        "polish": "opłacać się",
+        "aiStatus": "complete",
+        "translationRu": "быть выгодным, окупаться",
+        "synonym": "być opłacalnym",
+        "example": "Nie opłaca się jechać tam samochodem.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "przekonanie",
-        "polish": "przekonanie",
+        "id": "blakac-sie",
+        "polish": "błąkać się",
         "aiStatus": "complete",
-        "translationRu": "убеждение",
-        "synonym": "pogląd",
-        "example": "Mam głębokie przekonanie, że to jest słuszne.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "glowny-cel-to",
-        "polish": "główny cel to",
-        "aiStatus": "partial",
-        "translationRu": "главная цель — это... (конструкция для определения цели)",
-        "example": "Główny cel to poprawa jakości życia mieszkańców.",
+        "translationRu": "блуждать, скитаться",
+        "synonym": "wędrować bez celu",
+        "example": "Błąkaliśmy się po lesie, szukając drogi.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "tesknic",
-        "polish": "tęsknić",
+        "id": "dmie",
+        "polish": "dmie",
         "aiStatus": "complete",
-        "synonym": "sumować",
-        "example": "tęsknił za swoją córką",
-        "translationRu": "скучать, тосковать",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "sciaga",
-        "polish": "ściąga",
-        "aiStatus": "complete",
-        "translationRu": "шпаргалка",
-        "synonym": "podpowiedź",
-        "example": "Nauczyciel zabrał mu ściągę na egzaminie.",
+        "translationRu": "дует (от dąć)",
+        "synonym": "wieje",
+        "example": "Wiatr dmie z północy.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "okolo-pieciu-siedmiu",
-        "polish": "około pięciu/siedmiu",
+        "id": "warunek",
+        "polish": "warunek",
         "aiStatus": "complete",
-        "translationRu": "около пяти / семи",
-        "synonym": "mniej więcej pięciu/siedmiu",
-        "example": "Przyjadę około piątej albo siódmej wieczorem.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zachwycac-sie-2",
-        "polish": "zachwycać się",
-        "aiStatus": "complete",
-        "translationRu": "восхищаться",
-        "synonym": "zachwycić się",
-        "example": "Zachwycałem się widokiem z góry.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "przytomnosc",
-        "polish": "przytomność",
-        "aiStatus": "complete",
-        "example": "straciła przytomność",
-        "translationRu": "сознание",
-        "synonym": "świadomość",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "walczyc",
-        "polish": "walczyć",
-        "aiStatus": "complete",
-        "translationRu": "бороться",
-        "synonym": "bić się",
-        "example": "Walczył o swoje prawa.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "patszac",
-        "polish": "patsząc",
-        "aiStatus": "complete",
-        "translationRu": "глядя, смотря (опечатка от patrząc)",
-        "synonym": "spoglądając",
-        "example": "Patrząc na to z boku, to był dobry wybór.",
+        "translationRu": "условие",
+        "synonym": "wymóg",
+        "example": "Podstawowym warunkiem jest znajomość języka.",
         "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
-      "title": "Czasowniki z narzędnikiem: tęsknić za, zachwycać się",
-      "explanation": "Niektóre czasowniki łączą się z narzędnikiem (kim? czym?), często razem z przyimkiem. Tęsknić za kimś/czymś opisuje tęsknotę, a zachwycać się kimś/czymś — zachwyt czymś. Zwróć uwagę, że zachwycać się jest zwrotne — bez się zmienia się jego znaczenie.",
-      "examples": [
-        "Tęsknię za rodziną, która mieszka daleko.",
-        "Zachwycała się widokiem gór o zachodzie słońca.",
-        "Walczyliśmy z przeciwnościami przez wiele miesięcy."
-      ]
+      "title": "Powtórka słownictwa",
+      "explanation": "Dziś koncentrujemy się na praktyce wybranych słów i wyrażeń w naturalnych zdaniach.",
+      "examples": []
     }
   },
   "allWords": [
