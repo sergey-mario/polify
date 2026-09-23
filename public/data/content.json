@@ -1,96 +1,96 @@
 {
-  "generatedAt": "2026-09-22T08:59:00.521Z",
+  "generatedAt": "2026-09-23T09:01:59.531Z",
   "dailyPractice": {
-    "date": "2026-09-22",
+    "date": "2026-09-23",
     "words": [
       {
-        "id": "wspinac-sie-4",
-        "polish": "wspinać się",
+        "id": "styl-literacki",
+        "polish": "styl literacki",
         "aiStatus": "complete",
-        "translationRu": "взбираться, карабкаться",
-        "synonym": "piąć się",
-        "example": "Wspinamy się na szczyt.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "za-niedlugo",
-        "polish": "za niedługo",
-        "aiStatus": "complete",
-        "translationRu": "совсем скоро",
-        "synonym": "wkrótce",
-        "example": "Zobaczymy się za niedługo.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "dojsc-do-wniosku",
-        "polish": "dojść do wniosku",
-        "aiStatus": "complete",
-        "translationRu": "прийти к выводу",
-        "synonym": "uznać",
-        "example": "Doszedłem do wniosku, że mam rację.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "gadac",
-        "polish": "gadać",
-        "aiStatus": "complete",
-        "synonym": "głupia gadka",
-        "translationRu": "болтать, разговаривать",
-        "example": "Lubimy gadać do późna w nocy.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zarabiac-pieniadze-nie-zarabiac-pieniedzy",
-        "polish": "zarabiać pieniądze, nie ,,zarabiać pieniędzy''",
-        "aiStatus": "partial",
-        "translationRu": "зарабатывать деньги (винительный падеж «pieniądze», не родительный «pieniędzy»)",
-        "example": "Chcę zarabiać pieniądze, pracując zdalnie.",
+        "translationRu": "литературный стиль",
+        "synonym": "styl pisarski",
+        "example": "Autor ma bardzo charakterystyczny styl literacki.",
         "firstSeenAt": "2026-09-09"
       },
       {
-        "id": "slup",
-        "polish": "słup",
+        "id": "bede-mial",
+        "polish": "będę miał",
         "aiStatus": "complete",
-        "translationRu": "столб",
-        "synonym": "słupek",
-        "example": "Samochód uderzył w słup.",
+        "translationRu": "у меня будет (м.р.)",
+        "example": "Będę miał czas w piątek.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "miec-na-celu",
+        "polish": "mieć na celu",
+        "aiStatus": "complete",
+        "translationRu": "иметь целью, ставить целью",
+        "synonym": "zmierzać do",
+        "example": "Ma na celu poprawę warunków.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "oplacac-sie",
-        "polish": "opłacać się",
+        "id": "punkt",
+        "polish": "punkt",
         "aiStatus": "complete",
-        "translationRu": "быть выгодным, окупаться",
-        "synonym": "być opłacalnym",
-        "example": "Nie opłaca się jechać tam samochodem.",
+        "translationRu": "пункт, точка",
+        "synonym": "miejsce",
+        "example": "To jest ważny punkt na mapie miasta.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "blakac-sie",
-        "polish": "błąkać się",
+        "id": "sprobowac",
+        "polish": "spróbować",
         "aiStatus": "complete",
-        "translationRu": "блуждать, скитаться",
-        "synonym": "wędrować bez celu",
-        "example": "Błąkaliśmy się po lesie, szukając drogi.",
+        "translationRu": "попробовать",
+        "synonym": "wypróbować",
+        "example": "Spróbuj jeszcze raz.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "odczuwac-skutki",
+        "polish": "odczuwać skutki",
+        "aiStatus": "complete",
+        "translationRu": "чувствовать, испытывать последствия",
+        "synonym": "doświadczać konsekwencji",
+        "example": "Firma odczuwa skutki kryzysu gospodarczego.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "dmie",
-        "polish": "dmie",
+        "id": "dotknac-sie",
+        "polish": "dotknąć się",
         "aiStatus": "complete",
-        "translationRu": "дует (от dąć)",
-        "synonym": "wieje",
-        "example": "Wiatr dmie z północy.",
+        "translationRu": "коснуться (себя)",
+        "synonym": "stykać się",
+        "example": "Dotknąłem się w czoło, sprawdzając czy mam gorączkę.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "ciemniec",
+        "polish": "ciemnieć",
+        "aiStatus": "complete",
+        "translationRu": "темнеть",
+        "synonym": "mrocznieć",
+        "example": "Niebo zaczęło ciemnieć.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "warunek",
-        "polish": "warunek",
+        "id": "wynajelam",
+        "polish": "wynajęłam",
         "aiStatus": "complete",
-        "translationRu": "условие",
-        "synonym": "wymóg",
-        "example": "Podstawowym warunkiem jest znajomość języka.",
+        "translationRu": "я сняла (жильё, ж.р.)",
+        "synonym": "wzięłam w najem",
+        "example": "Wynajęłam mieszkanie na rok.",
         "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "odlozone-pieniadze",
+        "polish": "odłożone pieniądze",
+        "aiStatus": "complete",
+        "translationRu": "отложенные деньги, сбережения",
+        "synonym": "oszczędności",
+        "example": "Wydał wszystkie odłożone pieniądze na remont.",
+        "firstSeenAt": "2026-08-22"
       }
     ],
     "grammarRule": {
