@@ -1,95 +1,94 @@
 {
-  "generatedAt": "2026-09-23T09:01:59.531Z",
+  "generatedAt": "2026-09-24T08:58:01.214Z",
   "dailyPractice": {
-    "date": "2026-09-23",
+    "date": "2026-09-24",
     "words": [
       {
-        "id": "styl-literacki",
-        "polish": "styl literacki",
+        "id": "spoleczenstwo",
+        "polish": "społeczeństwo",
         "aiStatus": "complete",
-        "translationRu": "литературный стиль",
-        "synonym": "styl pisarski",
-        "example": "Autor ma bardzo charakterystyczny styl literacki.",
-        "firstSeenAt": "2026-09-09"
-      },
-      {
-        "id": "bede-mial",
-        "polish": "będę miał",
-        "aiStatus": "complete",
-        "translationRu": "у меня будет (м.р.)",
-        "example": "Będę miał czas w piątek.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "miec-na-celu",
-        "polish": "mieć na celu",
-        "aiStatus": "complete",
-        "translationRu": "иметь целью, ставить целью",
-        "synonym": "zmierzać do",
-        "example": "Ma na celu poprawę warunków.",
+        "translationRu": "общество",
+        "synonym": "społeczność",
+        "example": "Społeczeństwo się starzeje.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "punkt",
-        "polish": "punkt",
+        "id": "klatka-w-klatce",
+        "polish": "klatka - w klatce",
         "aiStatus": "complete",
-        "translationRu": "пункт, точка",
-        "synonym": "miejsce",
-        "example": "To jest ważny punkt na mapie miasta.",
+        "translationRu": "клетка — в клетке",
+        "example": "Ptak siedział smutno w klatce.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "schodze",
+        "polish": "schodzę",
+        "aiStatus": "complete",
+        "translationRu": "я схожу, спускаюсь",
+        "synonym": "idę na dół",
+        "example": "Już schodzę, czekaj chwilę.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "przystowac-sie",
+        "polish": "przystować się",
+        "aiStatus": "partial",
+        "translationRu": "приспосабливаться (опечатка от przystosować się)",
+        "synonym": "dostosować się",
+        "example": "Trudno mi się przystosować do nowego miejsca.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "gatunek-2",
+        "polish": "gatunek",
+        "aiStatus": "complete",
+        "translationRu": "жанр; вид (биол.)",
+        "synonym": "rodzaj, typ",
+        "example": "Lubić ten gatunek muzyki",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "sztuka",
+        "polish": "sztuka",
+        "aiStatus": "complete",
+        "translationRu": "искусство; пьеса; штука",
+        "synonym": "dzieło",
+        "example": "Idziemy na sztukę do teatru.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "natrzec",
+        "polish": "natrzeć",
+        "aiStatus": "partial",
+        "translationRu": "натереть (например, кожу кремом)",
+        "synonym": "posmarować",
+        "example": "Trzeba natrzeć skórę kremem przed wyjściem na słońce.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "sprobowac",
-        "polish": "spróbować",
+        "id": "nietypowy",
+        "polish": "nietypowy",
         "aiStatus": "complete",
-        "translationRu": "попробовать",
-        "synonym": "wypróbować",
-        "example": "Spróbuj jeszcze raz.",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "нетипичный",
+        "synonym": "niezwykły",
+        "example": "Miał nietypowe podejście do problemu.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "odczuwac-skutki",
-        "polish": "odczuwać skutki",
+        "id": "zabrac",
+        "polish": "zabrać",
         "aiStatus": "complete",
-        "translationRu": "чувствовать, испытывать последствия",
-        "synonym": "doświadczać konsekwencji",
-        "example": "Firma odczuwa skutki kryzysu gospodarczego.",
+        "translationRu": "забрать, взять с собой",
+        "synonym": "wziąć",
+        "example": "Muszę zabrać parasol, bo pada deszcz.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "dotknac-sie",
-        "polish": "dotknąć się",
-        "aiStatus": "complete",
-        "translationRu": "коснуться (себя)",
-        "synonym": "stykać się",
-        "example": "Dotknąłem się w czoło, sprawdzając czy mam gorączkę.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "ciemniec",
-        "polish": "ciemnieć",
-        "aiStatus": "complete",
-        "translationRu": "темнеть",
-        "synonym": "mrocznieć",
-        "example": "Niebo zaczęło ciemnieć.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wynajelam",
-        "polish": "wynajęłam",
-        "aiStatus": "complete",
-        "translationRu": "я сняла (жильё, ж.р.)",
-        "synonym": "wzięłam w najem",
-        "example": "Wynajęłam mieszkanie na rok.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "odlozone-pieniadze",
-        "polish": "odłożone pieniądze",
-        "aiStatus": "complete",
-        "translationRu": "отложенные деньги, сбережения",
-        "synonym": "oszczędności",
-        "example": "Wydał wszystkie odłożone pieniądze na remont.",
+        "id": "kraj-on",
+        "polish": "kraj - on",
+        "aiStatus": "partial",
+        "translationRu": "страна, край — он (грамматическая пометка: мужской род слова 'kraj')",
+        "example": "Ten kraj ma bogatą historię.",
         "firstSeenAt": "2026-08-22"
       }
     ],
