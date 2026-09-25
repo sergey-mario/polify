@@ -1,95 +1,96 @@
 {
-  "generatedAt": "2026-09-24T08:58:01.214Z",
+  "generatedAt": "2026-09-25T09:20:21.462Z",
   "dailyPractice": {
-    "date": "2026-09-24",
+    "date": "2026-09-25",
     "words": [
       {
-        "id": "spoleczenstwo",
-        "polish": "społeczeństwo",
-        "aiStatus": "complete",
-        "translationRu": "общество",
-        "synonym": "społeczność",
-        "example": "Społeczeństwo się starzeje.",
+        "id": "organizm",
+        "polish": "orgAnizm",
+        "aiStatus": "partial",
+        "translationRu": "организм (опечатка регистра)",
+        "synonym": "ciało",
+        "example": "Regularny sport wzmacnia organizm.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "klatka-w-klatce",
-        "polish": "klatka - w klatce",
+        "id": "tlum",
+        "polish": "tłum",
         "aiStatus": "complete",
-        "translationRu": "клетка — в клетке",
-        "example": "Ptak siedział smutno w klatce.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "schodze",
-        "polish": "schodzę",
-        "aiStatus": "complete",
-        "translationRu": "я схожу, спускаюсь",
-        "synonym": "idę na dół",
-        "example": "Już schodzę, czekaj chwilę.",
+        "translationRu": "толпа",
+        "synonym": "mnóstwo ludzi",
+        "example": "Na placu zebrał się ogromny tłum.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "przystowac-sie",
-        "polish": "przystować się",
-        "aiStatus": "partial",
-        "translationRu": "приспосабливаться (опечатка от przystosować się)",
-        "synonym": "dostosować się",
-        "example": "Trudno mi się przystosować do nowego miejsca.",
+        "id": "on-nie-mogl",
+        "polish": "on - nie mógł",
+        "aiStatus": "complete",
+        "translationRu": "он не мог",
+        "example": "On nie mógł tego zrozumieć.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "gatunek-2",
-        "polish": "gatunek",
+        "id": "widzowie",
+        "polish": "widzowie",
         "aiStatus": "complete",
-        "translationRu": "жанр; вид (биол.)",
-        "synonym": "rodzaj, typ",
-        "example": "Lubić ten gatunek muzyki",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "зрители",
+        "synonym": "publiczność",
+        "example": "Widzowie oklaskiwali aktorów na stojąco.",
+        "firstSeenAt": "2026-09-09"
       },
       {
-        "id": "sztuka",
-        "polish": "sztuka",
+        "id": "okolicznosci",
+        "polish": "okoliczności",
         "aiStatus": "complete",
-        "translationRu": "искусство; пьеса; штука",
-        "synonym": "dzieło",
-        "example": "Idziemy na sztukę do teatru.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "natrzec",
-        "polish": "natrzeć",
-        "aiStatus": "partial",
-        "translationRu": "натереть (например, кожу кремом)",
-        "synonym": "posmarować",
-        "example": "Trzeba natrzeć skórę kremem przed wyjściem na słońce.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "nietypowy",
-        "polish": "nietypowy",
-        "aiStatus": "complete",
-        "translationRu": "нетипичный",
-        "synonym": "niezwykły",
-        "example": "Miał nietypowe podejście do problemu.",
+        "translationRu": "обстоятельства",
+        "synonym": "warunki",
+        "example": "W tych okolicznościach nie mogę pomóc.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zabrac",
-        "polish": "zabrać",
+        "id": "tlumaczyc-sie-2",
+        "polish": "tłumaczyć się",
         "aiStatus": "complete",
-        "translationRu": "забрать, взять с собой",
-        "synonym": "wziąć",
-        "example": "Muszę zabrać parasol, bo pada deszcz.",
+        "translationRu": "оправдываться",
+        "synonym": "usprawiedliwiać się",
+        "example": "Nie musisz mi się tłumaczyć.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "przestepstwo",
+        "polish": "przestępstwo",
+        "aiStatus": "complete",
+        "translationRu": "преступление",
+        "synonym": "zbrodnia",
+        "example": "Kradzież to przestępstwo karane przez prawo.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "kraj-on",
-        "polish": "kraj - on",
-        "aiStatus": "partial",
-        "translationRu": "страна, край — он (грамматическая пометка: мужской род слова 'kraj')",
-        "example": "Ten kraj ma bogatą historię.",
-        "firstSeenAt": "2026-08-22"
+        "id": "drogie",
+        "polish": "drogie",
+        "aiStatus": "complete",
+        "translationRu": "дорогие (мн.)",
+        "synonym": "kosztowne",
+        "example": "Te buty są bardzo drogie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "luz-luzik",
+        "polish": "luz/ luzik",
+        "aiStatus": "complete",
+        "synonym": "j. p",
+        "translationRu": "расслабленность, непринуждённость (сленг)",
+        "example": "Zachowaj luz, wszystko będzie dobrze.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "porownywac-2",
+        "polish": "porównywać",
+        "aiStatus": "complete",
+        "translationRu": "сравнивать",
+        "synonym": "zestawiać",
+        "example": "Nie lubię porównywać się z innymi.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
