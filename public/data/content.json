@@ -1,95 +1,94 @@
 {
-  "generatedAt": "2026-09-25T09:20:21.462Z",
+  "generatedAt": "2026-09-26T09:02:36.384Z",
   "dailyPractice": {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "words": [
       {
-        "id": "organizm",
-        "polish": "orgAnizm",
+        "id": "od-czasu-do-czasu",
+        "polish": "od czasu do czasu",
+        "aiStatus": "complete",
+        "translationRu": "время от времени",
+        "synonym": "sporadycznie",
+        "example": "Od czasu do czasu chodzimy do kina.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "fachowca-fachowiec",
+        "polish": "fachowca- Fachowiec",
         "aiStatus": "partial",
-        "translationRu": "организм (опечатка регистра)",
-        "synonym": "ciało",
-        "example": "Regularny sport wzmacnia organizm.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "tlum",
-        "polish": "tłum",
-        "aiStatus": "complete",
-        "translationRu": "толпа",
-        "synonym": "mnóstwo ludzi",
-        "example": "Na placu zebrał się ogromny tłum.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "on-nie-mogl",
-        "polish": "on - nie mógł",
-        "aiStatus": "complete",
-        "translationRu": "он не мог",
-        "example": "On nie mógł tego zrozumieć.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "widzowie",
-        "polish": "widzowie",
-        "aiStatus": "complete",
-        "translationRu": "зрители",
-        "synonym": "publiczność",
-        "example": "Widzowie oklaskiwali aktorów na stojąco.",
-        "firstSeenAt": "2026-09-09"
-      },
-      {
-        "id": "okolicznosci",
-        "polish": "okoliczności",
-        "aiStatus": "complete",
-        "translationRu": "обстоятельства",
-        "synonym": "warunki",
-        "example": "W tych okolicznościach nie mogę pomóc.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "tlumaczyc-sie-2",
-        "polish": "tłumaczyć się",
-        "aiStatus": "complete",
-        "translationRu": "оправдываться",
-        "synonym": "usprawiedliwiać się",
-        "example": "Nie musisz mi się tłumaczyć.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "przestepstwo",
-        "polish": "przestępstwo",
-        "aiStatus": "complete",
-        "translationRu": "преступление",
-        "synonym": "zbrodnia",
-        "example": "Kradzież to przestępstwo karane przez prawo.",
+        "translationRu": "специалист, мастер (fachowiec; fachowca — форма винительного падежа)",
+        "synonym": "specjalista",
+        "example": "Potrzebuję dobrego fachowca do naprawy pralki.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "drogie",
-        "polish": "drogie",
+        "id": "odwalic-kawal-dobrej-robot",
+        "polish": "Odwalić kawał dobrej robot",
+        "aiStatus": "partial",
+        "translationRu": "сделать большую, хорошую работу (разг. идиома; опечатка: должно быть roboty)",
+        "example": "Zespół odwalił kawał dobrej roboty przy tym projekcie.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "zdanie",
+        "polish": "zdanie",
         "aiStatus": "complete",
-        "translationRu": "дорогие (мн.)",
-        "synonym": "kosztowne",
-        "example": "Te buty są bardzo drogie.",
+        "synonym": "opinie",
+        "example": "Miała nadzieję, że zmieni zdanie",
+        "translationRu": "мнение; предложение (грам.)",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "luz-luzik",
-        "polish": "luz/ luzik",
-        "aiStatus": "complete",
-        "synonym": "j. p",
-        "translationRu": "расслабленность, непринуждённость (сленг)",
-        "example": "Zachowaj luz, wszystko będzie dobrze.",
-        "firstSeenAt": "2026-07-17"
+        "id": "ten-system",
+        "polish": "ten system",
+        "aiStatus": "partial",
+        "translationRu": "эта система (грам.)",
+        "example": "Ten system działa bardzo sprawnie.",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "porownywac-2",
-        "polish": "porównywać",
+        "id": "rasa",
+        "polish": "rasa",
         "aiStatus": "complete",
-        "translationRu": "сравнивать",
-        "synonym": "zestawiać",
-        "example": "Nie lubię porównywać się z innymi.",
+        "translationRu": "раса; порода (животных)",
+        "synonym": "gatunek",
+        "example": "Jaka to jest rasa psa?",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "prowadzic-samochod",
+        "polish": "prowadzić samochód",
+        "aiStatus": "complete",
+        "translationRu": "водить машину",
+        "synonym": "kierować samochodem",
+        "example": "Prowadzę samochód od dwudziestu lat.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "rolnicy",
+        "polish": "rolnicy",
+        "aiStatus": "complete",
+        "translationRu": "фермеры",
+        "synonym": "gospodarze",
+        "example": "Rolnicy protestowali przeciwko niskim cenom zboża.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "rozpowszechniony",
+        "polish": "rozpowszechniony",
+        "aiStatus": "complete",
+        "translationRu": "распространённый, широко известный",
+        "synonym": "powszechny",
+        "example": "To bardzo rozpowszechniony pogląd.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "wynajelam",
+        "polish": "wynajęłam",
+        "aiStatus": "complete",
+        "translationRu": "я сняла (жильё, ж.р.)",
+        "synonym": "wzięłam w najem",
+        "example": "Wynajęłam mieszkanie na rok.",
         "firstSeenAt": "2026-07-17"
       }
     ],
