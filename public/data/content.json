@@ -1,95 +1,96 @@
 {
-  "generatedAt": "2026-09-26T09:02:36.384Z",
+  "generatedAt": "2026-09-27T09:46:53.020Z",
   "dailyPractice": {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "words": [
       {
-        "id": "od-czasu-do-czasu",
-        "polish": "od czasu do czasu",
+        "id": "nie-do-zrozumienia-2",
+        "polish": "nie do zrozumienia",
         "aiStatus": "complete",
-        "translationRu": "время от времени",
-        "synonym": "sporadycznie",
-        "example": "Od czasu do czasu chodzimy do kina.",
+        "translationRu": "непонятно, непостижимо",
+        "synonym": "niezrozumiały",
+        "example": "Jego zachowanie było nie do zrozumienia.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "fachowca-fachowiec",
-        "polish": "fachowca- Fachowiec",
+        "id": "pozwalac",
+        "polish": "pozwalać",
+        "aiStatus": "complete",
+        "translationRu": "позволять, разрешать",
+        "synonym": "zezwalać",
+        "example": "Rodzice nie pozwalają mu palić.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "czuc",
+        "polish": "czuć",
+        "aiStatus": "complete",
+        "translationRu": "чувствовать",
+        "synonym": "odczuwać",
+        "example": "Czuję się dobrze.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "te",
+        "polish": "Te",
         "aiStatus": "partial",
-        "translationRu": "специалист, мастер (fachowiec; fachowca — форма винительного падежа)",
-        "synonym": "specjalista",
-        "example": "Potrzebuję dobrego fachowca do naprawy pralki.",
+        "translationRu": "эти (немужчины-лица, мн. ч.)",
+        "example": "Te kobiety pracują w szpitalu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "przeprowadac",
+        "polish": "przeprowadać",
+        "aiStatus": "partial",
+        "synonym": "przeprowadzić",
+        "translationRu": "проводить, осуществлять (опечатка от 'przeprowadzać')",
+        "example": "Trzeba przeprowadzać regularne kontrole.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "odwalic-kawal-dobrej-robot",
-        "polish": "Odwalić kawał dobrej robot",
-        "aiStatus": "partial",
-        "translationRu": "сделать большую, хорошую работу (разг. идиома; опечатка: должно быть roboty)",
-        "example": "Zespół odwalił kawał dobrej roboty przy tym projekcie.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "zdanie",
-        "polish": "zdanie",
+        "id": "zrodlo",
+        "polish": "zródło",
         "aiStatus": "complete",
-        "synonym": "opinie",
-        "example": "Miała nadzieję, że zmieni zdanie",
-        "translationRu": "мнение; предложение (грам.)",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "ten-system",
-        "polish": "ten system",
-        "aiStatus": "partial",
-        "translationRu": "эта система (грам.)",
-        "example": "Ten system działa bardzo sprawnie.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "rasa",
-        "polish": "rasa",
-        "aiStatus": "complete",
-        "translationRu": "раса; порода (животных)",
-        "synonym": "gatunek",
-        "example": "Jaka to jest rasa psa?",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "prowadzic-samochod",
-        "polish": "prowadzić samochód",
-        "aiStatus": "complete",
-        "translationRu": "водить машину",
-        "synonym": "kierować samochodem",
-        "example": "Prowadzę samochód od dwudziestu lat.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "rolnicy",
-        "polish": "rolnicy",
-        "aiStatus": "complete",
-        "translationRu": "фермеры",
-        "synonym": "gospodarze",
-        "example": "Rolnicy protestowali przeciwko niskim cenom zboża.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "rozpowszechniony",
-        "polish": "rozpowszechniony",
-        "aiStatus": "complete",
-        "translationRu": "распространённый, широко известный",
-        "synonym": "powszechny",
-        "example": "To bardzo rozpowszechniony pogląd.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "wynajelam",
-        "polish": "wynajęłam",
-        "aiStatus": "complete",
-        "translationRu": "я сняла (жильё, ж.р.)",
-        "synonym": "wzięłam w najem",
-        "example": "Wynajęłam mieszkanie na rok.",
+        "translationRu": "источник (опечатка от źródło)",
+        "synonym": "początek",
+        "example": "To jest wiarygodne źródło informacji.",
         "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "schudnac",
+        "polish": "schudnąć",
+        "aiStatus": "complete",
+        "translationRu": "похудеть",
+        "synonym": "zrzucić wagę",
+        "example": "Chcę schudnąć pięć kilo.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "niedysponowane",
+        "polish": "niedysponowane",
+        "aiStatus": "partial",
+        "translationRu": "нездоровые, не в форме (о людях, мн.ч.)",
+        "synonym": "chore",
+        "example": "Byłyśmy niedysponowane i zostałyśmy w domu.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "pobierac-pobrac-2",
+        "polish": "pobierać/ pobrać",
+        "aiStatus": "complete",
+        "translationRu": "скачивать / скачать",
+        "synonym": "ściągać",
+        "example": "Muszę pobrać ten plik.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zlapac-2",
+        "polish": "złapać",
+        "aiStatus": "complete",
+        "translationRu": "поймать, схватить",
+        "synonym": "schwytać",
+        "example": "Złapał piłkę w locie.",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
