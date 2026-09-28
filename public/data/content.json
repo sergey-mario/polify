@@ -1,95 +1,95 @@
 {
-  "generatedAt": "2026-09-27T09:46:53.020Z",
+  "generatedAt": "2026-09-28T10:29:16.077Z",
   "dailyPractice": {
-    "date": "2026-09-27",
+    "date": "2026-09-28",
     "words": [
       {
-        "id": "nie-do-zrozumienia-2",
-        "polish": "nie do zrozumienia",
+        "id": "kategoria",
+        "polish": "kategoria",
         "aiStatus": "complete",
-        "translationRu": "непонятно, непостижимо",
-        "synonym": "niezrozumiały",
-        "example": "Jego zachowanie było nie do zrozumienia.",
+        "translationRu": "категория",
+        "synonym": "grupa",
+        "example": "Ten produkt należy do innej kategorii.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "pozwalac",
-        "polish": "pozwalać",
+        "id": "cecha",
+        "polish": "cecha",
         "aiStatus": "complete",
-        "translationRu": "позволять, разрешать",
-        "synonym": "zezwalać",
-        "example": "Rodzice nie pozwalają mu palić.",
+        "translationRu": "черта, особенность",
+        "synonym": "właściwość",
+        "example": "Cierpliwość to ważna cecha charakteru.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "czuc",
-        "polish": "czuć",
+        "id": "wszelako",
+        "polish": "wszelako",
         "aiStatus": "complete",
-        "translationRu": "чувствовать",
-        "synonym": "odczuwać",
-        "example": "Czuję się dobrze.",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "однако, тем не менее (книжн.)",
+        "synonym": "jednak",
+        "example": "Był zmęczony, wszelako postanowił dokończyć pracę.",
+        "firstSeenAt": "2026-09-09"
       },
       {
-        "id": "te",
-        "polish": "Te",
-        "aiStatus": "partial",
-        "translationRu": "эти (немужчины-лица, мн. ч.)",
-        "example": "Te kobiety pracują w szpitalu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "przeprowadac",
-        "polish": "przeprowadać",
-        "aiStatus": "partial",
-        "synonym": "przeprowadzić",
-        "translationRu": "проводить, осуществлять (опечатка от 'przeprowadzać')",
-        "example": "Trzeba przeprowadzać regularne kontrole.",
+        "id": "w-porownaniu-do",
+        "polish": "w porównaniu do",
+        "aiStatus": "complete",
+        "translationRu": "по сравнению с",
+        "synonym": "w odniesieniu do",
+        "example": "W porównaniu do zeszłego roku, ceny wzrosły.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "zrodlo",
-        "polish": "zródło",
+        "id": "oszust",
+        "polish": "oszust",
         "aiStatus": "complete",
-        "translationRu": "источник (опечатка от źródło)",
-        "synonym": "początek",
-        "example": "To jest wiarygodne źródło informacji.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "schudnac",
-        "polish": "schudnąć",
-        "aiStatus": "complete",
-        "translationRu": "похудеть",
-        "synonym": "zrzucić wagę",
-        "example": "Chcę schudnąć pięć kilo.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "niedysponowane",
-        "polish": "niedysponowane",
-        "aiStatus": "partial",
-        "translationRu": "нездоровые, не в форме (о людях, мн.ч.)",
-        "synonym": "chore",
-        "example": "Byłyśmy niedysponowane i zostałyśmy w domu.",
+        "translationRu": "обманщик, мошенник",
+        "synonym": "kanciarz",
+        "example": "Uważaj, on jest znanym oszustem.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "pobierac-pobrac-2",
-        "polish": "pobierać/ pobrać",
+        "id": "nietypowe",
+        "polish": "nietypowe",
         "aiStatus": "complete",
-        "translationRu": "скачивать / скачать",
-        "synonym": "ściągać",
-        "example": "Muszę pobrać ten plik.",
+        "translationRu": "нетипичные",
+        "synonym": "niestandardowe",
+        "example": "To były nietypowe okoliczności.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zlapac-2",
-        "polish": "złapać",
+        "id": "po-co",
+        "polish": "po co",
         "aiStatus": "complete",
-        "translationRu": "поймать, схватить",
-        "synonym": "schwytać",
-        "example": "Złapał piłkę w locie.",
+        "translationRu": "зачем, для чего",
+        "example": "Po co mi to mówisz?",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "nie-opodwiada",
+        "polish": "nie opodwiada",
+        "aiStatus": "partial",
+        "translationRu": "не соответствует (опечатка: nie odpowiada)",
+        "synonym": "nie pasuje",
+        "example": "To rozwiązanie nie odpowiada naszym wymaganiom.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "pada",
+        "polish": "pada",
+        "aiStatus": "complete",
+        "translationRu": "идёт (о дожде/снеге); падает",
+        "synonym": "leje",
+        "example": "Dziś pada deszcz.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zwracac-sie",
+        "polish": "zwracać się",
+        "aiStatus": "complete",
+        "translationRu": "обращаться (к кому-то)",
+        "synonym": "kierować się (do kogoś)",
+        "example": "Zwracam się do Pana z prośbą.",
         "firstSeenAt": "2026-05-02"
       }
     ],
