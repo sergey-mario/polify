@@ -1,95 +1,95 @@
 {
-  "generatedAt": "2026-09-28T10:29:16.077Z",
+  "generatedAt": "2026-09-29T10:22:27.352Z",
   "dailyPractice": {
-    "date": "2026-09-28",
+    "date": "2026-09-29",
     "words": [
       {
-        "id": "kategoria",
-        "polish": "kategoria",
+        "id": "wyjatkowy",
+        "polish": "wyjątkowy",
         "aiStatus": "complete",
-        "translationRu": "категория",
-        "synonym": "grupa",
-        "example": "Ten produkt należy do innej kategorii.",
+        "translationRu": "исключительный",
+        "synonym": "niezwykły",
+        "example": "To był wyjątkowy dzień.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "cecha",
-        "polish": "cecha",
+        "id": "bez-konca",
+        "polish": "bez końca",
         "aiStatus": "complete",
-        "translationRu": "черта, особенность",
-        "synonym": "właściwość",
-        "example": "Cierpliwość to ważna cecha charakteru.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wszelako",
-        "polish": "wszelako",
-        "aiStatus": "complete",
-        "translationRu": "однако, тем не менее (книжн.)",
-        "synonym": "jednak",
-        "example": "Był zmęczony, wszelako postanowił dokończyć pracę.",
-        "firstSeenAt": "2026-09-09"
-      },
-      {
-        "id": "w-porownaniu-do",
-        "polish": "w porównaniu do",
-        "aiStatus": "complete",
-        "translationRu": "по сравнению с",
-        "synonym": "w odniesieniu do",
-        "example": "W porównaniu do zeszłego roku, ceny wzrosły.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "oszust",
-        "polish": "oszust",
-        "aiStatus": "complete",
-        "translationRu": "обманщик, мошенник",
-        "synonym": "kanciarz",
-        "example": "Uważaj, on jest znanym oszustem.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "nietypowe",
-        "polish": "nietypowe",
-        "aiStatus": "complete",
-        "translationRu": "нетипичные",
-        "synonym": "niestandardowe",
-        "example": "To były nietypowe okoliczności.",
+        "synonym": "bez przerwy",
+        "translationRu": "без конца, бесконечно",
+        "example": "Mówił bez końca.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "po-co",
-        "polish": "po co",
+        "id": "sciaga",
+        "polish": "ściąga",
         "aiStatus": "complete",
-        "translationRu": "зачем, для чего",
-        "example": "Po co mi to mówisz?",
-        "firstSeenAt": "2026-08-22"
+        "translationRu": "шпаргалка",
+        "synonym": "podpowiedź",
+        "example": "Nauczyciel zabrał mu ściągę na egzaminie.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "nie-opodwiada",
-        "polish": "nie opodwiada",
+        "id": "system-on",
+        "polish": "system - on",
         "aiStatus": "partial",
-        "translationRu": "не соответствует (опечатка: nie odpowiada)",
-        "synonym": "nie pasuje",
-        "example": "To rozwiązanie nie odpowiada naszym wymaganiom.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "pada",
-        "polish": "pada",
-        "aiStatus": "complete",
-        "translationRu": "идёт (о дожде/снеге); падает",
-        "synonym": "leje",
-        "example": "Dziś pada deszcz.",
+        "translationRu": "система (он, грам. род)",
+        "example": "System działa bez zarzutu.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zwracac-sie",
-        "polish": "zwracać się",
+        "id": "drogie",
+        "polish": "drogie",
         "aiStatus": "complete",
-        "translationRu": "обращаться (к кому-то)",
-        "synonym": "kierować się (do kogoś)",
-        "example": "Zwracam się do Pana z prośbą.",
+        "translationRu": "дорогие (мн.)",
+        "synonym": "kosztowne",
+        "example": "Te buty są bardzo drogie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zakwetorowac-sie",
+        "polish": "zakwetorować się",
+        "aiStatus": "partial",
+        "synonym": "wykwaterować się",
+        "translationRu": "поселиться, разместиться (опечатка от zakwaterować się)",
+        "example": "Musieliśmy się zakwaterować w hotelu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "klocic-sie-2",
+        "polish": "kłócić się",
+        "aiStatus": "complete",
+        "synonym": "kłótnia",
+        "translationRu": "ссориться",
+        "example": "Dzieci znowu się kłócą.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "regula",
+        "polish": "reguła",
+        "aiStatus": "complete",
+        "synonym": "ona",
+        "translationRu": "правило",
+        "example": "Jaka jest reguła w tej grze?",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "nieprzydzielona",
+        "polish": "nieprzydzielona",
+        "aiStatus": "complete",
+        "translationRu": "невыделенная",
+        "synonym": "niewyznaczona",
+        "example": "Ta sala jest nieprzydzielona żadnej grupie.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "dostszec",
+        "polish": "dostszeć",
+        "aiStatus": "partial",
+        "translationRu": "заметить (опечатка от dostrzec)",
+        "synonym": "zauważyć",
+        "example": "Dopiero teraz dostrzegłem swój błąd.",
         "firstSeenAt": "2026-05-02"
       }
     ],
