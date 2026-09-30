@@ -1,96 +1,94 @@
 {
-  "generatedAt": "2026-09-29T10:22:27.352Z",
+  "generatedAt": "2026-09-30T10:15:23.194Z",
   "dailyPractice": {
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "words": [
       {
-        "id": "wyjatkowy",
-        "polish": "wyjątkowy",
-        "aiStatus": "complete",
-        "translationRu": "исключительный",
-        "synonym": "niezwykły",
-        "example": "To był wyjątkowy dzień.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "bez-konca",
-        "polish": "bez końca",
-        "aiStatus": "complete",
-        "synonym": "bez przerwy",
-        "translationRu": "без конца, бесконечно",
-        "example": "Mówił bez końca.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "sciaga",
-        "polish": "ściąga",
-        "aiStatus": "complete",
-        "translationRu": "шпаргалка",
-        "synonym": "podpowiedź",
-        "example": "Nauczyciel zabrał mu ściągę na egzaminie.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "system-on",
-        "polish": "system - on",
+        "id": "one-psy",
+        "polish": "one - psy",
         "aiStatus": "partial",
-        "translationRu": "система (он, грам. род)",
-        "example": "System działa bez zarzutu.",
+        "translationRu": "они (собаки) — грам. род",
+        "example": "One są głodne — nakarm te psy.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "drogie",
-        "polish": "drogie",
+        "id": "przyjac-decycje",
+        "polish": "przyjąć decycję",
         "aiStatus": "complete",
-        "translationRu": "дорогие (мн.)",
-        "synonym": "kosztowne",
-        "example": "Te buty są bardzo drogie.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zakwetorowac-sie",
-        "polish": "zakwetorować się",
-        "aiStatus": "partial",
-        "synonym": "wykwaterować się",
-        "translationRu": "поселиться, разместиться (опечатка от zakwaterować się)",
-        "example": "Musieliśmy się zakwaterować w hotelu.",
+        "translationRu": "принять решение (опечатка от decyzję)",
+        "synonym": "podjąć decyzję",
+        "example": "Musimy przyjąć decyzję jak najszybciej.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "klocic-sie-2",
-        "polish": "kłócić się",
+        "id": "wyjac",
+        "polish": "wyjąć",
         "aiStatus": "complete",
-        "synonym": "kłótnia",
-        "translationRu": "ссориться",
-        "example": "Dzieci znowu się kłócą.",
+        "synonym": "wyciągnąć",
+        "example": "Wyjęła klucze z torebki",
+        "translationRu": "вынуть, достать",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "regula",
-        "polish": "reguła",
+        "id": "w-afryce",
+        "polish": "w Afryce",
         "aiStatus": "complete",
-        "synonym": "ona",
-        "translationRu": "правило",
-        "example": "Jaka jest reguła w tej grze?",
+        "translationRu": "в Африке",
+        "example": "Wielu turystów jeździ na safari w Afryce.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "wyzwanie",
+        "polish": "wyzwanie",
+        "aiStatus": "complete",
+        "translationRu": "вызов, испытание",
+        "synonym": "trudność",
+        "example": "To dla mnie nowe wyzwanie.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "nieprzydzielona",
-        "polish": "nieprzydzielona",
+        "id": "na-marsie",
+        "polish": "na Marsie",
         "aiStatus": "complete",
-        "translationRu": "невыделенная",
-        "synonym": "niewyznaczona",
-        "example": "Ta sala jest nieprzydzielona żadnej grupie.",
+        "translationRu": "на Марсе",
+        "synonym": "na czerwonej planecie",
+        "example": "Życie na Marsie? Może kiedyś.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "krok-etap-poziom",
+        "polish": "krok - etap - poziom",
+        "aiStatus": "complete",
+        "translationRu": "шаг — этап — уровень",
+        "synonym": "etap",
+        "example": "To pierwszy etap dużego projektu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zachowywac-sie-3",
+        "polish": "zachowywać się",
+        "aiStatus": "complete",
+        "translationRu": "вести себя",
+        "example": "Dziecko zachowuje się grzecznie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "biegle",
+        "polish": "biegle",
+        "aiStatus": "complete",
+        "translationRu": "бегло, свободно",
+        "synonym": "płynnie",
+        "example": "Mówi biegle po angielsku.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "dostszec",
-        "polish": "dostszeć",
-        "aiStatus": "partial",
-        "translationRu": "заметить (опечатка от dostrzec)",
-        "synonym": "zauważyć",
-        "example": "Dopiero teraz dostrzegłem swój błąd.",
-        "firstSeenAt": "2026-05-02"
+        "id": "bagatelizowanie",
+        "polish": "bagatelizowanie",
+        "aiStatus": "complete",
+        "translationRu": "приуменьшение значимости, обесценивание (проблемы)",
+        "synonym": "pomniejszanie",
+        "example": "Bagatelizowanie problemów zdrowotnych jest niebezpieczne.",
+        "firstSeenAt": "2026-08-22"
       }
     ],
     "grammarRule": {
