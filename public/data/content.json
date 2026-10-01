@@ -1,44 +1,54 @@
 {
-  "generatedAt": "2026-09-30T10:15:23.194Z",
+  "generatedAt": "2026-10-01T10:41:49.709Z",
   "dailyPractice": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "words": [
       {
-        "id": "one-psy",
-        "polish": "one - psy",
-        "aiStatus": "partial",
-        "translationRu": "они (собаки) — грам. род",
-        "example": "One są głodne — nakarm te psy.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "przyjac-decycje",
-        "polish": "przyjąć decycję",
+        "id": "wygodnie-2",
+        "polish": "wygodnie",
         "aiStatus": "complete",
-        "translationRu": "принять решение (опечатка от decyzję)",
-        "synonym": "podjąć decyzję",
-        "example": "Musimy przyjąć decyzję jak najszybciej.",
+        "translationRu": "удобно",
+        "synonym": "komfortowo",
+        "example": "Czuję się tutaj wygodnie.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wyjac",
-        "polish": "wyjąć",
+        "id": "uplyw",
+        "polish": "upływ",
         "aiStatus": "complete",
-        "synonym": "wyciągnąć",
-        "example": "Wyjęła klucze z torebki",
-        "translationRu": "вынуть, достать",
+        "translationRu": "истечение (срока), течение (времени)",
+        "synonym": "bieg (czasu)",
+        "example": "Z upływem czasu wszystko się zmienia.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "w-afryce",
-        "polish": "w Afryce",
+        "id": "respondent",
+        "polish": "respondent",
         "aiStatus": "complete",
-        "translationRu": "в Африке",
-        "example": "Wielu turystów jeździ na safari w Afryce.",
-        "firstSeenAt": "2026-08-22"
+        "translationRu": "респондент",
+        "synonym": "ankietowany",
+        "example": "Ankietę wypełniło stu respondentów.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wyzwanie",
+        "id": "zjawiska-nadprzyrodzone",
+        "polish": "zjawiska nadprzyrodzone",
+        "aiStatus": "complete",
+        "example": "сверхъестественные явления",
+        "translationRu": "сверхъестественные явления",
+        "firstSeenAt": "2026-09-21"
+      },
+      {
+        "id": "statek-pasazerski",
+        "polish": "statek pasażerski",
+        "aiStatus": "complete",
+        "synonym": "rejsowiec",
+        "translationRu": "пассажирское судно",
+        "example": "Statek pasażerski wypłynął z portu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "wyzwanie-2",
         "polish": "wyzwanie",
         "aiStatus": "complete",
         "translationRu": "вызов, испытание",
@@ -47,48 +57,40 @@
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "na-marsie",
-        "polish": "na Marsie",
+        "id": "zaledwie-garstka",
+        "polish": "Zaledwie garstka",
         "aiStatus": "complete",
-        "translationRu": "на Марсе",
-        "synonym": "na czerwonej planecie",
-        "example": "Życie na Marsie? Może kiedyś.",
+        "synonym": "niewielka liczba",
+        "example": "Zaledwie garstka ludzi przyszła na spotkanie",
+        "translationRu": "лишь горстка",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "krok-etap-poziom",
-        "polish": "krok - etap - poziom",
+        "id": "zwolennik-2",
+        "polish": "zwolennik",
         "aiStatus": "complete",
-        "translationRu": "шаг — этап — уровень",
-        "synonym": "etap",
-        "example": "To pierwszy etap dużego projektu.",
+        "translationRu": "сторонник",
+        "synonym": "osoba, która jest przekonana o słuszności jakiejś idei, koncepcji lub jakiegoś działania.",
+        "example": "Jest zagorzałym zwolennikiem tej reformy.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zachowywac-sie-3",
-        "polish": "zachowywać się",
+        "id": "nie-typowy",
+        "polish": "nie typowy",
         "aiStatus": "complete",
-        "translationRu": "вести себя",
-        "example": "Dziecko zachowuje się grzecznie.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "biegle",
-        "polish": "biegle",
-        "aiStatus": "complete",
-        "translationRu": "бегло, свободно",
-        "synonym": "płynnie",
-        "example": "Mówi biegle po angielsku.",
+        "translationRu": "нетипичный",
+        "synonym": "niezwykły",
+        "example": "To nietypowy przypadek.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "bagatelizowanie",
-        "polish": "bagatelizowanie",
+        "id": "nawet",
+        "polish": "nawet",
         "aiStatus": "complete",
-        "translationRu": "приуменьшение значимости, обесценивание (проблемы)",
-        "synonym": "pomniejszanie",
-        "example": "Bagatelizowanie problemów zdrowotnych jest niebezpieczne.",
-        "firstSeenAt": "2026-08-22"
+        "translationRu": "даже",
+        "synonym": "wręcz",
+        "example": "Nawet ja tego nie rozumiem.",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
