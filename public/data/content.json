@@ -1,96 +1,94 @@
 {
-  "generatedAt": "2026-10-01T10:41:49.709Z",
+  "generatedAt": "2026-10-02T10:16:49.311Z",
   "dailyPractice": {
-    "date": "2026-10-01",
+    "date": "2026-10-02",
     "words": [
       {
-        "id": "wygodnie-2",
-        "polish": "wygodnie",
+        "id": "zlapac-2",
+        "polish": "złapać",
         "aiStatus": "complete",
-        "translationRu": "удобно",
-        "synonym": "komfortowo",
-        "example": "Czuję się tutaj wygodnie.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "uplyw",
-        "polish": "upływ",
-        "aiStatus": "complete",
-        "translationRu": "истечение (срока), течение (времени)",
-        "synonym": "bieg (czasu)",
-        "example": "Z upływem czasu wszystko się zmienia.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "respondent",
-        "polish": "respondent",
-        "aiStatus": "complete",
-        "translationRu": "респондент",
-        "synonym": "ankietowany",
-        "example": "Ankietę wypełniło stu respondentów.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zjawiska-nadprzyrodzone",
-        "polish": "zjawiska nadprzyrodzone",
-        "aiStatus": "complete",
-        "example": "сверхъестественные явления",
-        "translationRu": "сверхъестественные явления",
-        "firstSeenAt": "2026-09-21"
-      },
-      {
-        "id": "statek-pasazerski",
-        "polish": "statek pasażerski",
-        "aiStatus": "complete",
-        "synonym": "rejsowiec",
-        "translationRu": "пассажирское судно",
-        "example": "Statek pasażerski wypłynął z portu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wyzwanie-2",
-        "polish": "wyzwanie",
-        "aiStatus": "complete",
-        "translationRu": "вызов, испытание",
-        "synonym": "trudność",
-        "example": "To dla mnie nowe wyzwanie.",
+        "translationRu": "поймать, схватить",
+        "synonym": "schwytać",
+        "example": "Złapał piłkę w locie.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zaledwie-garstka",
-        "polish": "Zaledwie garstka",
+        "id": "jest-zakaz",
+        "polish": "jest zakaz",
         "aiStatus": "complete",
-        "synonym": "niewielka liczba",
-        "example": "Zaledwie garstka ludzi przyszła na spotkanie",
-        "translationRu": "лишь горстка",
+        "translationRu": "есть запрет, запрещено",
+        "synonym": "jest zabronione",
+        "example": "Tu jest zakaz palenia.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zwolennik-2",
-        "polish": "zwolennik",
+        "id": "praza-sie-zmieni",
+        "polish": "praza się zmieni",
         "aiStatus": "complete",
-        "translationRu": "сторонник",
-        "synonym": "osoba, która jest przekonana o słuszności jakiejś idei, koncepcji lub jakiegoś działania.",
-        "example": "Jest zagorzałym zwolennikiem tej reformy.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "nie-typowy",
-        "polish": "nie typowy",
-        "aiStatus": "complete",
-        "translationRu": "нетипичный",
-        "synonym": "niezwykły",
-        "example": "To nietypowy przypadek.",
+        "translationRu": "работа изменится (опечатка от praca się zmieni)",
+        "example": "Wierzę, że praca się zmieni na lepsze.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "nawet",
-        "polish": "nawet",
+        "id": "on-robi",
+        "polish": "on robi",
         "aiStatus": "complete",
-        "translationRu": "даже",
-        "synonym": "wręcz",
-        "example": "Nawet ja tego nie rozumiem.",
+        "translationRu": "он делает",
+        "synonym": "on wykonuje",
+        "example": "On robi obiad dla całej rodziny.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "czuc",
+        "polish": "czuć",
+        "aiStatus": "complete",
+        "translationRu": "чувствовать",
+        "synonym": "odczuwać",
+        "example": "Czuję się dobrze.",
         "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "dopiero-2",
+        "polish": "dopiero",
+        "aiStatus": "complete",
+        "synonym": "Dopiero przyszłam do domu",
+        "translationRu": "только (что), лишь",
+        "example": "Dopiero wtedy zrozumiałem swój błąd.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "miejsce-docelowe",
+        "polish": "miejsce docelowe",
+        "aiStatus": "complete",
+        "translationRu": "место назначения",
+        "synonym": "cel podróży",
+        "example": "Nasze miejsce docelowe to Kraków.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "ja-nie-moglem",
+        "polish": "ja - nie mogłem",
+        "aiStatus": "complete",
+        "translationRu": "я не мог",
+        "example": "Ja nie mogłem przyjść wczoraj.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "im-tym-2",
+        "polish": "im///tym",
+        "aiStatus": "partial",
+        "translationRu": "чем ... тем (конструкция im ... tym)",
+        "example": "Im szybciej, tym lepiej.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "opanowac-przerazenie",
+        "polish": "opanować przerażenie",
+        "aiStatus": "complete",
+        "synonym": "opanować strach",
+        "example": "Próbowała opanować przerażenie i zachować spokój",
+        "translationRu": "справиться с ужасом",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
