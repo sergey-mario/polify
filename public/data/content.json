@@ -1,94 +1,96 @@
 {
-  "generatedAt": "2026-10-02T10:16:49.311Z",
+  "generatedAt": "2026-10-03T09:38:33.200Z",
   "dailyPractice": {
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "words": [
       {
-        "id": "zlapac-2",
-        "polish": "złapać",
+        "id": "statystyka",
+        "polish": "statystyka",
         "aiStatus": "complete",
-        "translationRu": "поймать, схватить",
-        "synonym": "schwytać",
-        "example": "Złapał piłkę w locie.",
+        "translationRu": "статистика",
+        "synonym": "dane statystyczne",
+        "example": "Według statystyk, Polacy żyją coraz dłużej.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "jest-zakaz",
-        "polish": "jest zakaz",
+        "id": "artysci",
+        "polish": "artyści",
         "aiStatus": "complete",
-        "translationRu": "есть запрет, запрещено",
-        "synonym": "jest zabronione",
-        "example": "Tu jest zakaz palenia.",
+        "translationRu": "артисты",
+        "synonym": "twórcy",
+        "example": "Artyści zaprezentowali swoje prace.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "sposob-sposoby",
+        "polish": "sposób - sposoby",
+        "aiStatus": "complete",
+        "synonym": "samochód - samochdy",
+        "translationRu": "способ - способы",
+        "example": "Są różne sposoby na rozwiązanie tego problemu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "podejmowac-decyzje-nie-przyjmowac",
+        "polish": "podejmować decyzję (nie przyjmować)",
+        "aiStatus": "complete",
+        "translationRu": "принимать решение ('decyzję' сочетается с 'podejmować', а не 'przyjmować')",
+        "synonym": "podjąć decyzję",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "kojarzyc",
+        "polish": "kojarzyć",
+        "aiStatus": "complete",
+        "translationRu": "ассоциировать, связывать (мысленно)",
+        "synonym": "łączyć mentalnie",
+        "example": "Z czym kojarzy ci się Polska?",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "praza-sie-zmieni",
-        "polish": "praza się zmieni",
+        "id": "nagi",
+        "polish": "nagi",
         "aiStatus": "complete",
-        "translationRu": "работа изменится (опечатка от praca się zmieni)",
-        "example": "Wierzę, że praca się zmieni na lepsze.",
+        "translationRu": "голый",
+        "synonym": "goły",
+        "example": "Chodził po plaży nagi.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "on-robi",
-        "polish": "on robi",
+        "id": "rozproszeni-po-swiecie",
+        "polish": "rozproszeni po świecie",
         "aiStatus": "complete",
-        "translationRu": "он делает",
-        "synonym": "on wykonuje",
-        "example": "On robi obiad dla całej rodziny.",
+        "translationRu": "рассеянные по миру",
+        "synonym": "rozsiani po świecie",
+        "example": "Jej krewni są rozproszeni po całym świecie.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "czuc",
-        "polish": "czuć",
+        "id": "rolnictwo",
+        "polish": "rolnictwo",
         "aiStatus": "complete",
-        "translationRu": "чувствовать",
-        "synonym": "odczuwać",
-        "example": "Czuję się dobrze.",
+        "translationRu": "сельское хозяйство",
+        "synonym": "gospodarka rolna",
+        "example": "Rolnictwo jest ważną branżą tego regionu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "popierac",
+        "polish": "popierać",
+        "aiStatus": "complete",
+        "translationRu": "поддерживать (мнение, кандидата)",
+        "synonym": "wspierać",
+        "example": "Popieram twój pomysł.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "dopiero-2",
-        "polish": "dopiero",
+        "id": "las",
+        "polish": "las",
         "aiStatus": "complete",
-        "synonym": "Dopiero przyszłam do domu",
-        "translationRu": "только (что), лишь",
-        "example": "Dopiero wtedy zrozumiałem swój błąd.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "miejsce-docelowe",
-        "polish": "miejsce docelowe",
-        "aiStatus": "complete",
-        "translationRu": "место назначения",
-        "synonym": "cel podróży",
-        "example": "Nasze miejsce docelowe to Kraków.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "ja-nie-moglem",
-        "polish": "ja - nie mogłem",
-        "aiStatus": "complete",
-        "translationRu": "я не мог",
-        "example": "Ja nie mogłem przyjść wczoraj.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "im-tym-2",
-        "polish": "im///tym",
-        "aiStatus": "partial",
-        "translationRu": "чем ... тем (конструкция im ... tym)",
-        "example": "Im szybciej, tym lepiej.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "opanowac-przerazenie",
-        "polish": "opanować przerażenie",
-        "aiStatus": "complete",
-        "synonym": "opanować strach",
-        "example": "Próbowała opanować przerażenie i zachować spokój",
-        "translationRu": "справиться с ужасом",
-        "firstSeenAt": "2026-07-17"
+        "synonym": "w lesie",
+        "translationRu": "лес",
+        "example": "W lesie jest dużo grzybów.",
+        "firstSeenAt": "2026-08-22"
       }
     ],
     "grammarRule": {
