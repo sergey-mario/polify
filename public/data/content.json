@@ -1,96 +1,94 @@
 {
-  "generatedAt": "2026-10-03T09:38:33.200Z",
+  "generatedAt": "2026-10-04T10:22:48.501Z",
   "dailyPractice": {
-    "date": "2026-10-03",
+    "date": "2026-10-04",
     "words": [
       {
-        "id": "statystyka",
-        "polish": "statystyka",
+        "id": "ujawnij-sie",
+        "polish": "ujawnij się",
         "aiStatus": "complete",
-        "translationRu": "статистика",
-        "synonym": "dane statystyczne",
-        "example": "Według statystyk, Polacy żyją coraz dłużej.",
+        "synonym": "wychodzić na jaw\ndać o sobie znać",
+        "translationRu": "выдай себя, раскройся (повелит.)",
+        "example": "Jeśli wiesz coś na ten temat, ujawnij się.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "artysci",
-        "polish": "artyści",
-        "aiStatus": "complete",
-        "translationRu": "артисты",
-        "synonym": "twórcy",
-        "example": "Artyści zaprezentowali swoje prace.",
-        "firstSeenAt": "2026-07-17"
+        "id": "te",
+        "polish": "Te",
+        "aiStatus": "partial",
+        "translationRu": "эти (немужчины-лица, мн. ч.)",
+        "example": "Te kobiety pracują w szpitalu.",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "sposob-sposoby",
-        "polish": "sposób - sposoby",
+        "id": "blakac-sie",
+        "polish": "błąkać się",
         "aiStatus": "complete",
-        "synonym": "samochód - samochdy",
-        "translationRu": "способ - способы",
-        "example": "Są różne sposoby na rozwiązanie tego problemu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "podejmowac-decyzje-nie-przyjmowac",
-        "polish": "podejmować decyzję (nie przyjmować)",
-        "aiStatus": "complete",
-        "translationRu": "принимать решение ('decyzję' сочетается с 'podejmować', а не 'przyjmować')",
-        "synonym": "podjąć decyzję",
+        "translationRu": "блуждать, скитаться",
+        "synonym": "wędrować bez celu",
+        "example": "Błąkaliśmy się po lesie, szukając drogi.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "kojarzyc",
-        "polish": "kojarzyć",
+        "id": "pragnac",
+        "polish": "pragnąć",
         "aiStatus": "complete",
-        "translationRu": "ассоциировать, связывать (мысленно)",
-        "synonym": "łączyć mentalnie",
-        "example": "Z czym kojarzy ci się Polska?",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "желать, жаждать",
+        "synonym": "chcieć",
+        "example": "Każdy pragnie być szczęśliwy.",
+        "firstSeenAt": "2026-09-09"
       },
       {
-        "id": "nagi",
-        "polish": "nagi",
+        "id": "zapas",
+        "polish": "zapas",
         "aiStatus": "complete",
-        "translationRu": "голый",
-        "synonym": "goły",
-        "example": "Chodził po plaży nagi.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "rozproszeni-po-swiecie",
-        "polish": "rozproszeni po świecie",
-        "aiStatus": "complete",
-        "translationRu": "рассеянные по миру",
-        "synonym": "rozsiani po świecie",
-        "example": "Jej krewni są rozproszeni po całym świecie.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "rolnictwo",
-        "polish": "rolnictwo",
-        "aiStatus": "complete",
-        "translationRu": "сельское хозяйство",
-        "synonym": "gospodarka rolna",
-        "example": "Rolnictwo jest ważną branżą tego regionu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "popierac",
-        "polish": "popierać",
-        "aiStatus": "complete",
-        "translationRu": "поддерживать (мнение, кандидата)",
-        "synonym": "wspierać",
-        "example": "Popieram twój pomysł.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "las",
-        "polish": "las",
-        "aiStatus": "complete",
-        "synonym": "w lesie",
-        "translationRu": "лес",
-        "example": "W lesie jest dużo grzybów.",
+        "translationRu": "запас",
+        "synonym": "rezerwa",
+        "example": "Mamy duży zapas jedzenia na zimę.",
         "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "panstwo-ono",
+        "polish": "państwo - ono",
+        "aiStatus": "partial",
+        "translationRu": "государство — оно (грамматическая пометка: слово 'państwo' согласуется как средний род)",
+        "example": "To państwo graniczy z trzema innymi krajami.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "wplywac",
+        "polish": "wpływać",
+        "aiStatus": "complete",
+        "translationRu": "влиять, воздействовать",
+        "synonym": "oddziaływać",
+        "example": "Pogoda wpływa na nastrój.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "miec-glowe-na-karku",
+        "polish": "Mieć głowę na karku",
+        "aiStatus": "complete",
+        "translationRu": "иметь голову на плечах, быть рассудительным (идиома)",
+        "example": "Ona ma głowę na karku i podejmuje dobre decyzje.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "kontywac",
+        "polish": "kontywać",
+        "aiStatus": "complete",
+        "translationRu": "продолжать (опечатка от kontynuować)",
+        "synonym": "prowadzić dalej",
+        "example": "Musimy kontynuować tę rozmowę później.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "dostszec",
+        "polish": "dostszeć",
+        "aiStatus": "partial",
+        "translationRu": "заметить (опечатка от dostrzec)",
+        "synonym": "zauważyć",
+        "example": "Dopiero teraz dostrzegłem swój błąd.",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
