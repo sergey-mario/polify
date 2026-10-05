@@ -1,93 +1,96 @@
 {
-  "generatedAt": "2026-10-04T10:22:48.501Z",
+  "generatedAt": "2026-10-05T11:08:28.033Z",
   "dailyPractice": {
-    "date": "2026-10-04",
+    "date": "2026-10-05",
     "words": [
       {
-        "id": "ujawnij-sie",
-        "polish": "ujawnij się",
-        "aiStatus": "complete",
-        "synonym": "wychodzić na jaw\ndać o sobie znać",
-        "translationRu": "выдай себя, раскройся (повелит.)",
-        "example": "Jeśli wiesz coś na ten temat, ujawnij się.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "te",
-        "polish": "Te",
+        "id": "watpic-sie",
+        "polish": "wątpić się",
         "aiStatus": "partial",
-        "translationRu": "эти (немужчины-лица, мн. ч.)",
-        "example": "Te kobiety pracują w szpitalu.",
+        "synonym": "nie być pewnym",
+        "example": "Wątpić w czyjeś słowa",
+        "translationRu": "сомневаться (нестанд.; обычно 'wątpić w coś')",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "blakac-sie",
-        "polish": "błąkać się",
+        "id": "kojarzyc-sie",
+        "polish": "kojarzyć się",
         "aiStatus": "complete",
-        "translationRu": "блуждать, скитаться",
-        "synonym": "wędrować bez celu",
-        "example": "Błąkaliśmy się po lesie, szukając drogi.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "pragnac",
-        "polish": "pragnąć",
-        "aiStatus": "complete",
-        "translationRu": "желать, жаждать",
-        "synonym": "chcieć",
-        "example": "Każdy pragnie być szczęśliwy.",
-        "firstSeenAt": "2026-09-09"
-      },
-      {
-        "id": "zapas",
-        "polish": "zapas",
-        "aiStatus": "complete",
-        "translationRu": "запас",
-        "synonym": "rezerwa",
-        "example": "Mamy duży zapas jedzenia na zimę.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "panstwo-ono",
-        "polish": "państwo - ono",
-        "aiStatus": "partial",
-        "translationRu": "государство — оно (грамматическая пометка: слово 'państwo' согласуется как средний род)",
-        "example": "To państwo graniczy z trzema innymi krajami.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "wplywac",
-        "polish": "wpływać",
-        "aiStatus": "complete",
-        "translationRu": "влиять, воздействовать",
-        "synonym": "oddziaływać",
-        "example": "Pogoda wpływa na nastrój.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "miec-glowe-na-karku",
-        "polish": "Mieć głowę na karku",
-        "aiStatus": "complete",
-        "translationRu": "иметь голову на плечах, быть рассудительным (идиома)",
-        "example": "Ona ma głowę na karku i podejmuje dobre decyzje.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "kontywac",
-        "polish": "kontywać",
-        "aiStatus": "complete",
-        "translationRu": "продолжать (опечатка от kontynuować)",
-        "synonym": "prowadzić dalej",
-        "example": "Musimy kontynuować tę rozmowę później.",
+        "synonym": "kojarzenie",
+        "translationRu": "ассоциироваться",
+        "example": "Ten kolor kojarzy się z latem.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "dostszec",
-        "polish": "dostszeć",
-        "aiStatus": "partial",
-        "translationRu": "заметить (опечатка от dostrzec)",
-        "synonym": "zauważyć",
-        "example": "Dopiero teraz dostrzegłem swój błąd.",
+        "id": "rada",
+        "polish": "rada",
+        "aiStatus": "complete",
+        "translationRu": "совет",
+        "synonym": "wskazówka",
+        "example": "Dał mi bardzo dobrą radę.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "olac",
+        "polish": "olać",
+        "aiStatus": "complete",
+        "synonym": "ignorowaċ",
+        "translationRu": "забить, наплевать (разг.)",
+        "example": "Olałem ten egzamin.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "otoczenie",
+        "polish": "otoczenie",
+        "aiStatus": "complete",
+        "translationRu": "окружение, среда",
+        "synonym": "środowisko",
+        "example": "Dzieci uczą się przez obserwację otoczenia.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "elitarny-sklad",
+        "polish": "elitarny skład",
+        "aiStatus": "complete",
+        "translationRu": "элитный состав",
+        "synonym": "wyborowy skład",
+        "example": "To elitarny skład zawodników z najwyższego poziomu.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "tani-produkt",
+        "polish": "tani produkt",
+        "aiStatus": "complete",
+        "translationRu": "дешёвый продукт",
+        "synonym": "niedrogi towar",
+        "example": "Kupiłem tani produkt, ale okazał się dobry.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "istniec-3",
+        "polish": "istnieć",
+        "aiStatus": "complete",
+        "translationRu": "существовать",
+        "synonym": "być",
+        "example": "Czy duchy naprawdę istnieją?",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "dobry",
+        "polish": "dobry",
+        "aiStatus": "complete",
+        "translationRu": "хороший",
+        "synonym": "świetny",
+        "example": "To jest naprawdę dobry pomysł.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "gatunek",
+        "polish": "gatunek",
+        "aiStatus": "complete",
+        "synonym": "rodzaj, typ",
+        "example": "Lubić ten gatunek muzyki",
+        "translationRu": "жанр; вид (биол.)",
         "firstSeenAt": "2026-05-02"
       }
     ],
