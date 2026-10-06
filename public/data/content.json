@@ -1,96 +1,95 @@
 {
-  "generatedAt": "2026-10-05T11:08:28.033Z",
+  "generatedAt": "2026-10-06T10:59:13.752Z",
   "dailyPractice": {
-    "date": "2026-10-05",
+    "date": "2026-10-06",
     "words": [
       {
-        "id": "watpic-sie",
-        "polish": "wątpić się",
-        "aiStatus": "partial",
-        "synonym": "nie być pewnym",
-        "example": "Wątpić w czyjeś słowa",
-        "translationRu": "сомневаться (нестанд.; обычно 'wątpić w coś')",
+        "id": "silna-wola",
+        "polish": "silna wola",
+        "aiStatus": "complete",
+        "translationRu": "сильная воля",
+        "synonym": "determinacja",
+        "example": "Ma silną wolę i osiągnie cel.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "kojarzyc-sie",
-        "polish": "kojarzyć się",
+        "id": "zapominam",
+        "polish": "zapominam",
         "aiStatus": "complete",
-        "synonym": "kojarzenie",
-        "translationRu": "ассоциироваться",
-        "example": "Ten kolor kojarzy się z latem.",
+        "translationRu": "я забываю",
+        "synonym": "nie pamiętam",
+        "example": "Zawsze zapominam parasola.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "rada",
-        "polish": "rada",
+        "id": "jesli",
+        "polish": "jeśli",
         "aiStatus": "complete",
-        "translationRu": "совет",
-        "synonym": "wskazówka",
-        "example": "Dał mi bardzo dobrą radę.",
-        "firstSeenAt": "2026-08-22"
+        "translationRu": "если",
+        "synonym": "o ile",
+        "example": "Jeśli będzie padać, zostaniemy w domu.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "olac",
-        "polish": "olać",
+        "id": "nie-do-zrozumienia-2",
+        "polish": "nie do zrozumienia",
         "aiStatus": "complete",
-        "synonym": "ignorowaċ",
-        "translationRu": "забить, наплевать (разг.)",
-        "example": "Olałem ten egzamin.",
+        "translationRu": "непонятно, непостижимо",
+        "synonym": "niezrozumiały",
+        "example": "Jego zachowanie było nie do zrozumienia.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "czujniki-2",
+        "polish": "czujniki",
+        "aiStatus": "complete",
+        "translationRu": "датчики",
+        "synonym": "detektory",
+        "example": "Dom jest wyposażony w czujniki dymu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "on-ona-musi",
+        "polish": "on / ona musi",
+        "aiStatus": "complete",
+        "translationRu": "он / она должен / должна",
+        "example": "On musi iść do pracy.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "sprzet",
+        "polish": "sprzęt",
+        "aiStatus": "complete",
+        "translationRu": "оборудование, техника",
+        "synonym": "urządzenie",
+        "example": "Sprzęt sportowy jest drogi.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "otoczenie",
-        "polish": "otoczenie",
+        "id": "zostawic-kogos-na-lodzie",
+        "polish": "zostawić kogoś na lodzie",
         "aiStatus": "complete",
-        "translationRu": "окружение, среда",
-        "synonym": "środowisko",
-        "example": "Dzieci uczą się przez obserwację otoczenia.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "elitarny-sklad",
-        "polish": "elitarny skład",
-        "aiStatus": "complete",
-        "translationRu": "элитный состав",
-        "synonym": "wyborowy skład",
-        "example": "To elitarny skład zawodników z najwyższego poziomu.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "tani-produkt",
-        "polish": "tani produkt",
-        "aiStatus": "complete",
-        "translationRu": "дешёвый продукт",
-        "synonym": "niedrogi towar",
-        "example": "Kupiłem tani produkt, ale okazał się dobry.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "istniec-3",
-        "polish": "istnieć",
-        "aiStatus": "complete",
-        "translationRu": "существовать",
-        "synonym": "być",
-        "example": "Czy duchy naprawdę istnieją?",
+        "synonym": "zostawić bez pomocy",
+        "translationRu": "бросить кого-то в беде (идиома)",
+        "example": "Obiecał pomoc, ale w ostatniej chwili zostawił mnie na lodzie.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "dobry",
-        "polish": "dobry",
+        "id": "mrowisko",
+        "polish": "mrowisko",
         "aiStatus": "complete",
-        "translationRu": "хороший",
-        "synonym": "świetny",
-        "example": "To jest naprawdę dobry pomysł.",
-        "firstSeenAt": "2026-05-02"
+        "synonym": "mieszkanie mrówek",
+        "translationRu": "муравейник",
+        "example": "W lesie natknęliśmy się na duże mrowisko.",
+        "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "gatunek",
-        "polish": "gatunek",
+        "id": "mamy-wiele-wspolnego",
+        "polish": "mamy wiele wspólnego",
         "aiStatus": "complete",
-        "synonym": "rodzaj, typ",
-        "example": "Lubić ten gatunek muzyki",
-        "translationRu": "жанр; вид (биол.)",
+        "translationRu": "у нас много общего",
+        "synonym": "jesteśmy do siebie podobni",
+        "example": "Mamy wiele wspólnego, dlatego dobrze się dogadujemy.",
         "firstSeenAt": "2026-05-02"
       }
     ],
