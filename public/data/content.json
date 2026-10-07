@@ -1,95 +1,94 @@
 {
-  "generatedAt": "2026-10-06T10:59:13.752Z",
+  "generatedAt": "2026-10-07T10:49:13.638Z",
   "dailyPractice": {
-    "date": "2026-10-06",
+    "date": "2026-10-07",
     "words": [
       {
-        "id": "silna-wola",
-        "polish": "silna wola",
+        "id": "wydarzenie-2",
+        "polish": "wydarzenie",
         "aiStatus": "complete",
-        "translationRu": "сильная воля",
-        "synonym": "determinacja",
-        "example": "Ma silną wolę i osiągnie cel.",
+        "translationRu": "событие",
+        "synonym": "zdarzenie",
+        "example": "To było ważne wydarzenie kulturalne.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "nawet",
+        "polish": "nawet",
+        "aiStatus": "complete",
+        "translationRu": "даже",
+        "synonym": "wręcz",
+        "example": "Nawet ja tego nie rozumiem.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zapominam",
-        "polish": "zapominam",
+        "id": "mocny-sklad",
+        "polish": "mocny skład",
         "aiStatus": "complete",
-        "translationRu": "я забываю",
-        "synonym": "nie pamiętam",
-        "example": "Zawsze zapominam parasola.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "jesli",
-        "polish": "jeśli",
-        "aiStatus": "complete",
-        "translationRu": "если",
-        "synonym": "o ile",
-        "example": "Jeśli będzie padać, zostaniemy w domu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "nie-do-zrozumienia-2",
-        "polish": "nie do zrozumienia",
-        "aiStatus": "complete",
-        "translationRu": "непонятно, непостижимо",
-        "synonym": "niezrozumiały",
-        "example": "Jego zachowanie było nie do zrozumienia.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "czujniki-2",
-        "polish": "czujniki",
-        "aiStatus": "complete",
-        "translationRu": "датчики",
-        "synonym": "detektory",
-        "example": "Dom jest wyposażony w czujniki dymu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "on-ona-musi",
-        "polish": "on / ona musi",
-        "aiStatus": "complete",
-        "translationRu": "он / она должен / должна",
-        "example": "On musi iść do pracy.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "sprzet",
-        "polish": "sprzęt",
-        "aiStatus": "complete",
-        "translationRu": "оборудование, техника",
-        "synonym": "urządzenie",
-        "example": "Sprzęt sportowy jest drogi.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zostawic-kogos-na-lodzie",
-        "polish": "zostawić kogoś na lodzie",
-        "aiStatus": "complete",
-        "synonym": "zostawić bez pomocy",
-        "translationRu": "бросить кого-то в беде (идиома)",
-        "example": "Obiecał pomoc, ale w ostatniej chwili zostawił mnie na lodzie.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "mrowisko",
-        "polish": "mrowisko",
-        "aiStatus": "complete",
-        "synonym": "mieszkanie mrówek",
-        "translationRu": "муравейник",
-        "example": "W lesie natknęliśmy się na duże mrowisko.",
+        "translationRu": "сильный состав (команды)",
+        "synonym": "silny skład",
+        "example": "Reprezentacja ma bardzo mocny skład na te mistrzostwa.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "mamy-wiele-wspolnego",
-        "polish": "mamy wiele wspólnego",
+        "id": "piegi",
+        "polish": "piegi",
         "aiStatus": "complete",
-        "translationRu": "у нас много общего",
-        "synonym": "jesteśmy do siebie podobni",
-        "example": "Mamy wiele wspólnego, dlatego dobrze się dogadujemy.",
+        "translationRu": "веснушки",
+        "example": "Ma piegi na nosie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wbrew-pozorom",
+        "polish": "wbrew pozorom",
+        "aiStatus": "complete",
+        "translationRu": "несмотря на видимость, на самом деле",
+        "synonym": "w rzeczywistości",
+        "example": "Wbrew pozorom, to nie było trudne.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "bardzo-mi-przykro-2",
+        "polish": "bardzo mi przykro",
+        "aiStatus": "complete",
+        "translationRu": "мне очень жаль",
+        "synonym": "przepraszam",
+        "example": "Bardzo mi przykro z powodu twojej straty.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "byc-na-czasie",
+        "polish": "być na czasie",
+        "aiStatus": "complete",
+        "translationRu": "быть в тренде, идти в ногу со временем",
+        "synonym": "być modnym",
+        "example": "Ona zawsze jest na czasie, jeśli chodzi o modę.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "sposoby",
+        "polish": "sposoby",
+        "aiStatus": "complete",
+        "translationRu": "способы (мн.)",
+        "synonym": "metody",
+        "example": "Istnieje wiele sposobów na rozwiązanie tego problemu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zadnego",
+        "polish": "żadnego",
+        "aiStatus": "partial",
+        "translationRu": "никакого (род. падеж от żaden)",
+        "example": "Nie mam żadnego pomysłu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "puchar-swiata",
+        "polish": "Puchar Świata",
+        "aiStatus": "complete",
+        "translationRu": "Кубок мира",
+        "synonym": "Mundial",
+        "example": "Polacy zdobyli Puchar Świata.",
         "firstSeenAt": "2026-05-02"
       }
     ],
