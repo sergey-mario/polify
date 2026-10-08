@@ -1,95 +1,93 @@
 {
-  "generatedAt": "2026-10-07T10:49:13.638Z",
+  "generatedAt": "2026-10-08T11:07:07.122Z",
   "dailyPractice": {
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "words": [
       {
-        "id": "wydarzenie-2",
-        "polish": "wydarzenie",
+        "id": "otwarci-ludzie",
+        "polish": "otwarci ludzie",
         "aiStatus": "complete",
-        "translationRu": "событие",
-        "synonym": "zdarzenie",
-        "example": "To było ważne wydarzenie kulturalne.",
+        "translationRu": "открытые люди",
+        "synonym": "ludzie tolerancyjni",
+        "example": "W tym mieście żyją otwarci ludzie.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "nawet",
-        "polish": "nawet",
+        "id": "wygodnie",
+        "polish": "wygodnie",
         "aiStatus": "complete",
-        "translationRu": "даже",
-        "synonym": "wręcz",
-        "example": "Nawet ja tego nie rozumiem.",
+        "translationRu": "удобно",
+        "synonym": "komfortowo",
+        "example": "Czuję się tutaj wygodnie.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "do-niego",
+        "polish": "do niego",
+        "aiStatus": "complete",
+        "translationRu": "к нему",
+        "example": "Podszedłem do niego i się przywitałem.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "pilot",
+        "polish": "pilot",
+        "aiStatus": "complete",
+        "translationRu": "пульт; пилот",
+        "synonym": "zdalne sterowanie",
+        "example": "Gdzie jest pilot od telewizora?",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "mocny-sklad",
-        "polish": "mocny skład",
+        "id": "wyslac",
+        "polish": "wysłać",
         "aiStatus": "complete",
-        "translationRu": "сильный состав (команды)",
-        "synonym": "silny skład",
-        "example": "Reprezentacja ma bardzo mocny skład na te mistrzostwa.",
+        "translationRu": "отправить",
+        "synonym": "przesłać",
+        "example": "Wysłałem list wczoraj.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "prawdziwa",
+        "polish": "prawdziwa",
+        "aiStatus": "complete",
+        "translationRu": "настоящая, истинная",
+        "synonym": "autentyczna",
+        "example": "To jest prawdziwa historia.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "jaka-podekscytowana-byla-pelagia",
+        "polish": "jaka podekscytowana była Pelagia",
+        "aiStatus": "complete",
+        "translationRu": "какой взволнованной была Пелагия",
+        "example": "Jaka podekscytowana była Pelagia, gdy usłyszała tę wiadomość!",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "stwierdzenie",
+        "polish": "stwierdzenie",
+        "aiStatus": "complete",
+        "translationRu": "утверждение, констатация",
+        "synonym": "twierdzenie",
+        "example": "To było odważne stwierdzenie.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "piegi",
-        "polish": "piegi",
+        "id": "sa-rozni-autorzy-i-autorki",
+        "polish": "są różni autorzy i autorki",
         "aiStatus": "complete",
-        "translationRu": "веснушки",
-        "example": "Ma piegi na nosie.",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "есть разные авторы и авторши (мужского и женского рода)",
+        "example": "W tej antologii są różni autorzy i autorki.",
+        "firstSeenAt": "2026-09-09"
       },
       {
-        "id": "wbrew-pozorom",
-        "polish": "wbrew pozorom",
+        "id": "on-nie-mogl",
+        "polish": "on - nie mógł",
         "aiStatus": "complete",
-        "translationRu": "несмотря на видимость, на самом деле",
-        "synonym": "w rzeczywistości",
-        "example": "Wbrew pozorom, to nie było trudne.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "bardzo-mi-przykro-2",
-        "polish": "bardzo mi przykro",
-        "aiStatus": "complete",
-        "translationRu": "мне очень жаль",
-        "synonym": "przepraszam",
-        "example": "Bardzo mi przykro z powodu twojej straty.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "byc-na-czasie",
-        "polish": "być na czasie",
-        "aiStatus": "complete",
-        "translationRu": "быть в тренде, идти в ногу со временем",
-        "synonym": "być modnym",
-        "example": "Ona zawsze jest na czasie, jeśli chodzi o modę.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "sposoby",
-        "polish": "sposoby",
-        "aiStatus": "complete",
-        "translationRu": "способы (мн.)",
-        "synonym": "metody",
-        "example": "Istnieje wiele sposobów na rozwiązanie tego problemu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zadnego",
-        "polish": "żadnego",
-        "aiStatus": "partial",
-        "translationRu": "никакого (род. падеж от żaden)",
-        "example": "Nie mam żadnego pomysłu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "puchar-swiata",
-        "polish": "Puchar Świata",
-        "aiStatus": "complete",
-        "translationRu": "Кубок мира",
-        "synonym": "Mundial",
-        "example": "Polacy zdobyli Puchar Świata.",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "он не мог",
+        "example": "On nie mógł tego zrozumieć.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
