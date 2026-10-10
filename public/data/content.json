@@ -1,95 +1,96 @@
 {
-  "generatedAt": "2026-10-09T11:06:01.221Z",
+  "generatedAt": "2026-10-10T10:23:51.922Z",
   "dailyPractice": {
-    "date": "2026-10-09",
+    "date": "2026-10-10",
     "words": [
       {
-        "id": "dowpcip",
-        "polish": "dowpcip",
+        "id": "w-polsce-jest-duzo-imigrantow-nie-w-polsce-sa-duzo-imigrantow",
+        "polish": "w Polsce jest dużo imigrantów - nie ,, w Polsce są dużo imigrantów''",
         "aiStatus": "partial",
-        "translationRu": "анекдот, шутка (опечатка от dowcip)",
-        "synonym": "żart",
-        "example": "Opowiedział świetny dowcip na imprezie.",
+        "translationRu": "в Польше много иммигрантов (с «dużo» используется «jest», а не «są»)",
+        "example": "W Polsce jest dużo imigrantów z Ukrainy.",
+        "firstSeenAt": "2026-09-09"
+      },
+      {
+        "id": "nie-fer",
+        "polish": "nie fer",
+        "aiStatus": "complete",
+        "synonym": "coś jest nieuczciwe, niesprawiedliwe lub niezgodne z zasadami",
+        "translationRu": "нечестно (англицизм от 'not fair')",
+        "example": "To nie fer, że on dostał więcej niż ja.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wszedzie",
-        "polish": "wszędzie",
+        "id": "ranking",
+        "polish": "ranking",
         "aiStatus": "complete",
-        "translationRu": "везде, всюду",
-        "synonym": "na każdym kroku",
-        "example": "Szukałem cię wszędzie.",
+        "translationRu": "рейтинг",
+        "synonym": "klasyfikacja",
+        "example": "Ta uczelnia zajęła wysokie miejsce w rankingu.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "bardziej",
-        "polish": "bardziej",
+        "id": "przystawki",
+        "polish": "przystawki",
         "aiStatus": "complete",
-        "synonym": "lepiej",
-        "translationRu": "более, больше (сравнительная степень)",
-        "example": "To jest bardziej skomplikowane, niż myślałem.",
+        "translationRu": "закуски",
+        "synonym": "zakąski",
+        "example": "Zamówiliśmy kilka przystawek na początek.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "wyksztalcenie",
+        "polish": "wykształcenie",
+        "aiStatus": "complete",
+        "translationRu": "образование",
+        "synonym": "edukacja",
+        "example": "Ukończył wykształcenie wyższe.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "podjac-decyzje-podejmowac",
-        "polish": "podjąć decyzję/ podejmować",
+        "id": "zlecenie",
+        "polish": "zlecenie",
         "aiStatus": "complete",
-        "translationRu": "принять / принимать решение",
-        "synonym": "zdecydować się",
-        "example": "Musimy podjąć decyzję jeszcze dziś.",
+        "translationRu": "заказ, поручение",
+        "synonym": "zadanie",
+        "example": "Pracuję na zlecenie.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zdziwiony-2",
-        "polish": "zdziwiony",
+        "id": "chronic",
+        "polish": "chronić",
         "aiStatus": "complete",
-        "synonym": "zaskoczony",
-        "translationRu": "удивлённый",
-        "example": "Był bardzo zdziwiony jej decyzją.",
+        "translationRu": "защищать, оберегать",
+        "synonym": "ochraniać",
+        "example": "Krem chroni przed słońcem.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "nagi-2",
-        "polish": "nagi",
+        "id": "dotknac-sie",
+        "polish": "dotknąć się",
         "aiStatus": "complete",
-        "synonym": "goły, obnażony",
-        "example": "Dziecko biegało nago po plaży",
-        "translationRu": "голый",
+        "translationRu": "коснуться (себя)",
+        "synonym": "stykać się",
+        "example": "Dotknąłem się w czoło, sprawdzając czy mam gorączkę.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "rozproszeni-po-swiecie",
+        "polish": "rozproszeni po świecie",
+        "aiStatus": "complete",
+        "translationRu": "рассеянные по миру",
+        "synonym": "rozsiani po świecie",
+        "example": "Jej krewni są rozproszeni po całym świecie.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "dalibysmy",
-        "polish": "dalibyśmy",
+        "id": "wobec",
+        "polish": "wobec",
         "aiStatus": "complete",
-        "translationRu": "мы бы дали",
-        "synonym": "oddalibyśmy",
-        "example": "Dalibyśmy więcej, gdybyśmy mieli.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "kraj-on",
-        "polish": "kraj - on",
-        "aiStatus": "partial",
-        "translationRu": "страна, край — он (грамматическая пометка: мужской род слова 'kraj')",
-        "example": "Ten kraj ma bogatą historię.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "wiecej-czasu",
-        "polish": "więcej czasu",
-        "aiStatus": "complete",
-        "translationRu": "больше времени",
-        "synonym": "dodatkowy czas",
-        "example": "Potrzebuję więcej czasu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "o-filmie",
-        "polish": "o filmie",
-        "aiStatus": "complete",
-        "translationRu": "о фильме",
-        "example": "Rozmawialiśmy o filmie, który widzieliśmy.",
-        "firstSeenAt": "2026-07-17"
+        "translationRu": "по отношению к, перед (предлог)",
+        "synonym": "w stosunku do",
+        "example": "Mam wobec niego dług wdzięczności.",
+        "firstSeenAt": "2026-09-09"
       }
     ],
     "grammarRule": {
