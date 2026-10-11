@@ -1,96 +1,95 @@
 {
-  "generatedAt": "2026-10-10T10:23:51.922Z",
+  "generatedAt": "2026-10-11T10:33:18.308Z",
   "dailyPractice": {
-    "date": "2026-10-10",
+    "date": "2026-10-11",
     "words": [
       {
-        "id": "w-polsce-jest-duzo-imigrantow-nie-w-polsce-sa-duzo-imigrantow",
-        "polish": "w Polsce jest dużo imigrantów - nie ,, w Polsce są dużo imigrantów''",
-        "aiStatus": "partial",
-        "translationRu": "в Польше много иммигрантов (с «dużo» используется «jest», а не «są»)",
-        "example": "W Polsce jest dużo imigrantów z Ukrainy.",
-        "firstSeenAt": "2026-09-09"
-      },
-      {
-        "id": "nie-fer",
-        "polish": "nie fer",
+        "id": "nie-wszystkie-pary-a-nie-nie-wszyscy-pary",
+        "polish": "nie wszystkie pary ( a nie, nie wszyscy pary )",
         "aiStatus": "complete",
-        "synonym": "coś jest nieuczciwe, niesprawiedliwe lub niezgodne z zasadami",
-        "translationRu": "нечестно (англицизм от 'not fair')",
-        "example": "To nie fer, że on dostał więcej niż ja.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "ranking",
-        "polish": "ranking",
-        "aiStatus": "complete",
-        "translationRu": "рейтинг",
-        "synonym": "klasyfikacja",
-        "example": "Ta uczelnia zajęła wysokie miejsce w rankingu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "przystawki",
-        "polish": "przystawki",
-        "aiStatus": "complete",
-        "translationRu": "закуски",
-        "synonym": "zakąski",
-        "example": "Zamówiliśmy kilka przystawek na początek.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wyksztalcenie",
-        "polish": "wykształcenie",
-        "aiStatus": "complete",
-        "translationRu": "образование",
-        "synonym": "edukacja",
-        "example": "Ukończył wykształcenie wyższe.",
+        "translationRu": "не все пары (а не 'nie wszyscy pary' — 'wszyscy' используется для людей м.р., а 'pary' требует 'wszystkie')",
+        "example": "Nie wszystkie pary decydują się na dzieci.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "zlecenie",
-        "polish": "zlecenie",
+        "id": "dyspozycja",
+        "polish": "dyspozycja",
         "aiStatus": "complete",
-        "translationRu": "заказ, поручение",
-        "synonym": "zadanie",
-        "example": "Pracuję na zlecenie.",
+        "example": "Masz do dyspozycji trzy pokoje",
+        "translationRu": "распоряжение, диспозиция",
+        "synonym": "polecenie",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "chronic",
-        "polish": "chronić",
+        "id": "zdanie",
+        "polish": "zdanie",
         "aiStatus": "complete",
-        "translationRu": "защищать, оберегать",
-        "synonym": "ochraniać",
-        "example": "Krem chroni przed słońcem.",
+        "synonym": "opinie",
+        "example": "Miała nadzieję, że zmieni zdanie",
+        "translationRu": "мнение; предложение (грам.)",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "dotknac-sie",
-        "polish": "dotknąć się",
+        "id": "bac-sie-2",
+        "polish": "bać się",
         "aiStatus": "complete",
-        "translationRu": "коснуться (себя)",
-        "synonym": "stykać się",
-        "example": "Dotknąłem się w czoło, sprawdzając czy mam gorączkę.",
+        "translationRu": "бояться",
+        "synonym": "obawiać się",
+        "example": "Boję się ciemności.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "rozproszeni-po-swiecie",
-        "polish": "rozproszeni po świecie",
+        "id": "to-glowny-problem-nie-to-najglowniejszy-problem",
+        "polish": "to główny problem - nie ,, to najgłówniejszy problem ''",
+        "aiStatus": "partial",
+        "translationRu": "это главная проблема (не «najgłówniejszy» — превосходная степень от «główny» не образуется)",
+        "example": "To główny problem naszej firmy.",
+        "firstSeenAt": "2026-09-09"
+      },
+      {
+        "id": "znany",
+        "polish": "znany",
         "aiStatus": "complete",
-        "translationRu": "рассеянные по миру",
-        "synonym": "rozsiani po świecie",
-        "example": "Jej krewni są rozproszeni po całym świecie.",
+        "translationRu": "известный",
+        "synonym": "sławny",
+        "example": "To znany aktor.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "dodawalbym",
+        "polish": "dodawałbym",
+        "aiStatus": "complete",
+        "translationRu": "я бы добавлял",
+        "synonym": "dokładałbym",
+        "example": "Dodawałbym więcej cukru do herbaty.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wobec",
-        "polish": "wobec",
+        "id": "pogotowie",
+        "polish": "pogotowie",
         "aiStatus": "complete",
-        "translationRu": "по отношению к, перед (предлог)",
-        "synonym": "w stosunku do",
-        "example": "Mam wobec niego dług wdzięczności.",
-        "firstSeenAt": "2026-09-09"
+        "synonym": "karetka, ambulans",
+        "example": "Wezwać pogotowie",
+        "translationRu": "скорая помощь",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "tlum",
+        "polish": "tłum",
+        "aiStatus": "complete",
+        "translationRu": "толпа",
+        "synonym": "mnóstwo ludzi",
+        "example": "Na placu zebrał się ogromny tłum.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "jezyk-hebrajski",
+        "polish": "język hebrajski",
+        "aiStatus": "complete",
+        "translationRu": "иврит",
+        "synonym": "hebrajski",
+        "example": "Uczy się języka hebrajskiego od roku.",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
