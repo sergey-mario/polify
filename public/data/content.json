@@ -1,94 +1,95 @@
 {
-  "generatedAt": "2026-10-11T10:33:18.308Z",
+  "generatedAt": "2026-10-12T11:37:20.229Z",
   "dailyPractice": {
-    "date": "2026-10-11",
+    "date": "2026-10-12",
     "words": [
       {
-        "id": "nie-wszystkie-pary-a-nie-nie-wszyscy-pary",
-        "polish": "nie wszystkie pary ( a nie, nie wszyscy pary )",
+        "id": "na-dachu",
+        "polish": "na dachu",
         "aiStatus": "complete",
-        "translationRu": "не все пары (а не 'nie wszyscy pary' — 'wszyscy' используется для людей м.р., а 'pary' требует 'wszystkie')",
-        "example": "Nie wszystkie pary decydują się na dzieci.",
+        "translationRu": "на крыше",
+        "example": "Kot siedzi na dachu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "ksztalt",
+        "polish": "ksztalt",
+        "aiStatus": "partial",
+        "translationRu": "форма (опечатка от kształt)",
+        "synonym": "forma",
+        "example": "Ten stół ma nietypowy kształt.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wizjer",
+        "polish": "wizjer",
+        "aiStatus": "complete",
+        "example": "Spojrzałem przez wizjer (Дверной глазок)",
+        "translationRu": "глазок (в двери)",
+        "synonym": "judasz",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "istnieje",
+        "polish": "istnieje",
+        "aiStatus": "complete",
+        "translationRu": "существует (он/она/оно, от 'istnieć')",
+        "synonym": "występuje",
+        "example": "Istnieje wiele sposobów na rozwiązanie tego problemu.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "dyspozycja",
-        "polish": "dyspozycja",
+        "id": "prawdziwy",
+        "polish": "prawdziwy",
         "aiStatus": "complete",
-        "example": "Masz do dyspozycji trzy pokoje",
-        "translationRu": "распоряжение, диспозиция",
-        "synonym": "polecenie",
+        "translationRu": "настоящий, подлинный",
+        "synonym": "autentyczny",
+        "example": "To prawdziwy diament.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zdanie",
-        "polish": "zdanie",
+        "id": "nie-plynnie",
+        "polish": "nie płynnie",
         "aiStatus": "complete",
-        "synonym": "opinie",
-        "example": "Miała nadzieję, że zmieni zdanie",
-        "translationRu": "мнение; предложение (грам.)",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "не бегло",
+        "synonym": "z trudem",
+        "example": "Mówię po polsku, ale nie płynnie.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "bac-sie-2",
-        "polish": "bać się",
-        "aiStatus": "complete",
-        "translationRu": "бояться",
-        "synonym": "obawiać się",
-        "example": "Boję się ciemności.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "to-glowny-problem-nie-to-najglowniejszy-problem",
-        "polish": "to główny problem - nie ,, to najgłówniejszy problem ''",
+        "id": "zbalansowane-odzywanie",
+        "polish": "zbalansowane odzywanie",
         "aiStatus": "partial",
-        "translationRu": "это главная проблема (не «najgłówniejszy» — превосходная степень от «główny» не образуется)",
-        "example": "To główny problem naszej firmy.",
-        "firstSeenAt": "2026-09-09"
+        "translationRu": "сбалансированное питание (опечатка: zbalansowane odżywianie)",
+        "synonym": "zdrowa dieta",
+        "example": "Zbalansowane odżywianie jest ważne dla zdrowia.",
+        "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "znany",
-        "polish": "znany",
+        "id": "socjalizaja",
+        "polish": "socjalizaja",
         "aiStatus": "complete",
-        "translationRu": "известный",
-        "synonym": "sławny",
-        "example": "To znany aktor.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "dodawalbym",
-        "polish": "dodawałbym",
-        "aiStatus": "complete",
-        "translationRu": "я бы добавлял",
-        "synonym": "dokładałbym",
-        "example": "Dodawałbym więcej cukru do herbaty.",
+        "translationRu": "социализация (опечатка от socjalizacja)",
+        "synonym": "integracja społeczna",
+        "example": "Socjalizacja dzieci zaczyna się w przedszkolu.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "pogotowie",
-        "polish": "pogotowie",
+        "id": "odprawa",
+        "polish": "odprawa",
         "aiStatus": "complete",
-        "synonym": "karetka, ambulans",
-        "example": "Wezwać pogotowie",
-        "translationRu": "скорая помощь",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "tlum",
-        "polish": "tłum",
-        "aiStatus": "complete",
-        "translationRu": "толпа",
-        "synonym": "mnóstwo ludzi",
-        "example": "Na placu zebrał się ogromny tłum.",
+        "translationRu": "регистрация (на рейс), инструктаж",
+        "synonym": "rejestracja",
+        "example": "Odprawa na lotnisku trwała godzinę.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "jezyk-hebrajski",
-        "polish": "język hebrajski",
+        "id": "tesknic",
+        "polish": "tęsknić",
         "aiStatus": "complete",
-        "translationRu": "иврит",
-        "synonym": "hebrajski",
-        "example": "Uczy się języka hebrajskiego od roku.",
+        "synonym": "sumować",
+        "example": "tęsknił za swoją córką",
+        "translationRu": "скучать, тосковать",
         "firstSeenAt": "2026-05-02"
       }
     ],
