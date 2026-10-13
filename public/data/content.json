@@ -1,95 +1,94 @@
 {
-  "generatedAt": "2026-10-12T11:37:20.229Z",
+  "generatedAt": "2026-10-13T11:22:25.107Z",
   "dailyPractice": {
-    "date": "2026-10-12",
+    "date": "2026-10-13",
     "words": [
       {
-        "id": "na-dachu",
-        "polish": "na dachu",
+        "id": "zdziwiony-2",
+        "polish": "zdziwiony",
         "aiStatus": "complete",
-        "translationRu": "на крыше",
-        "example": "Kot siedzi na dachu.",
+        "synonym": "zaskoczony",
+        "translationRu": "удивлённый",
+        "example": "Był bardzo zdziwiony jej decyzją.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "ksztalt",
-        "polish": "ksztalt",
-        "aiStatus": "partial",
-        "translationRu": "форма (опечатка от kształt)",
-        "synonym": "forma",
-        "example": "Ten stół ma nietypowy kształt.",
+        "id": "juz",
+        "polish": "już",
+        "aiStatus": "complete",
+        "translationRu": "уже",
+        "example": "Już skończyłem.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "przesada",
+        "polish": "przesada",
+        "aiStatus": "complete",
+        "synonym": "mieć już dojśc",
+        "translationRu": "преувеличение, перебор",
+        "example": "To już jest przesada!",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wizjer",
-        "polish": "wizjer",
+        "id": "nowoczesny-2",
+        "polish": "nowoczesny",
         "aiStatus": "complete",
-        "example": "Spojrzałem przez wizjer (Дверной глазок)",
-        "translationRu": "глазок (в двери)",
-        "synonym": "judasz",
+        "translationRu": "современный",
+        "synonym": "współczesny",
+        "example": "To jest bardzo nowoczesny dom.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "istnieje",
-        "polish": "istnieje",
+        "id": "przedluzac-2",
+        "polish": "przedłużać",
         "aiStatus": "complete",
-        "translationRu": "существует (он/она/оно, от 'istnieć')",
-        "synonym": "występuje",
-        "example": "Istnieje wiele sposobów na rozwiązanie tego problemu.",
+        "translationRu": "продлевать",
+        "synonym": "przeciągać",
+        "example": "Muszę przedłużyć paszport.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wyrazisty",
+        "polish": "wyrazisty",
+        "aiStatus": "complete",
+        "translationRu": "выразительный",
+        "synonym": "ekspresyjny",
+        "example": "Miała wyrazisty głos, który trudno było zapomnieć.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wszystko-na-nic",
+        "polish": "Wszystko na nic",
+        "aiStatus": "complete",
+        "synonym": "bez efektu",
+        "translationRu": "Всё впустую, всё зря",
+        "example": "Ćwiczyłem cały miesiąc, ale wszystko na nic — i tak przegrałem.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wystarczajacy",
+        "polish": "wystarczający",
+        "aiStatus": "complete",
+        "translationRu": "достаточный (м. р.)",
+        "example": "To wystarczający powód, aby zostać.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "prawdziwy",
-        "polish": "prawdziwy",
+        "id": "prog",
+        "polish": "próg",
         "aiStatus": "complete",
-        "translationRu": "настоящий, подлинный",
-        "synonym": "autentyczny",
-        "example": "To prawdziwy diament.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "nie-plynnie",
-        "polish": "nie płynnie",
-        "aiStatus": "complete",
-        "translationRu": "не бегло",
-        "synonym": "z trudem",
-        "example": "Mówię po polsku, ale nie płynnie.",
+        "translationRu": "порог",
+        "synonym": "granica",
+        "example": "Nie mogę przekroczyć tego progu.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zbalansowane-odzywanie",
-        "polish": "zbalansowane odzywanie",
-        "aiStatus": "partial",
-        "translationRu": "сбалансированное питание (опечатка: zbalansowane odżywianie)",
-        "synonym": "zdrowa dieta",
-        "example": "Zbalansowane odżywianie jest ważne dla zdrowia.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "socjalizaja",
-        "polish": "socjalizaja",
+        "id": "przeciwienstwo",
+        "polish": "przeciwieństwo",
         "aiStatus": "complete",
-        "translationRu": "социализация (опечатка от socjalizacja)",
-        "synonym": "integracja społeczna",
-        "example": "Socjalizacja dzieci zaczyna się w przedszkolu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "odprawa",
-        "polish": "odprawa",
-        "aiStatus": "complete",
-        "translationRu": "регистрация (на рейс), инструктаж",
-        "synonym": "rejestracja",
-        "example": "Odprawa na lotnisku trwała godzinę.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "tesknic",
-        "polish": "tęsknić",
-        "aiStatus": "complete",
-        "synonym": "sumować",
-        "example": "tęsknił za swoją córką",
-        "translationRu": "скучать, тосковать",
+        "synonym": "osoba, rzecz lub zjawisko całkowicie różne od innego, stanowiące jego kontrast, odwrotność lub sprzeczność (antonim)",
+        "translationRu": "противоположность",
+        "example": "Miłość to przeciwieństwo nienawiści.",
         "firstSeenAt": "2026-05-02"
       }
     ],
