@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-13T11:22:25.107Z",
+  "generatedAt": "2026-10-14T09:15:04.206Z",
   "dailyPractice": {
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "words": [
       {
-        "id": "zdziwiony-2",
-        "polish": "zdziwiony",
+        "id": "obchodzic",
+        "polish": "obchodzić",
         "aiStatus": "complete",
-        "synonym": "zaskoczony",
-        "translationRu": "удивлённый",
-        "example": "Był bardzo zdziwiony jej decyzją.",
+        "translationRu": "праздновать; интересовать ('me obchodzi')",
+        "synonym": "świętować",
+        "example": "Obchodzimy urodziny w sobotę.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "juz",
-        "polish": "już",
+        "id": "zakupy-impulsywne",
+        "polish": "zakupy impulsywne",
         "aiStatus": "complete",
-        "translationRu": "уже",
-        "example": "Już skończyłem.",
+        "translationRu": "импульсивные покупки",
+        "synonym": "nieprzemyślane zakupy",
+        "example": "Zakupy impulsywne często prowadzą do niepotrzebnych wydatków.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "znani",
+        "polish": "znani",
+        "aiStatus": "complete",
+        "translationRu": "известные",
+        "synonym": "sławni",
+        "example": "To są znani aktorzy.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "przesada",
-        "polish": "przesada",
+        "id": "przeprowadzalismy",
+        "polish": "przeprowadzaliśmy",
         "aiStatus": "complete",
-        "synonym": "mieć już dojśc",
-        "translationRu": "преувеличение, перебор",
-        "example": "To już jest przesada!",
+        "translationRu": "мы проводили (исследование, разговор) — несоверш.",
+        "synonym": "prowadziliśmy",
+        "example": "Przeprowadzaliśmy wywiady z klientami przez cały tydzień.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "nowoczesny-2",
-        "polish": "nowoczesny",
+        "id": "kleszcz",
+        "polish": "kleszcz",
         "aiStatus": "complete",
-        "translationRu": "современный",
-        "synonym": "współczesny",
-        "example": "To jest bardzo nowoczesny dom.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "przedluzac-2",
-        "polish": "przedłużać",
-        "aiStatus": "complete",
-        "translationRu": "продлевать",
-        "synonym": "przeciągać",
-        "example": "Muszę przedłużyć paszport.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wyrazisty",
-        "polish": "wyrazisty",
-        "aiStatus": "complete",
-        "translationRu": "выразительный",
-        "synonym": "ekspresyjny",
-        "example": "Miała wyrazisty głos, który trudno było zapomnieć.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wszystko-na-nic",
-        "polish": "Wszystko na nic",
-        "aiStatus": "complete",
-        "synonym": "bez efektu",
-        "translationRu": "Всё впустую, всё зря",
-        "example": "Ćwiczyłem cały miesiąc, ale wszystko na nic — i tak przegrałem.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wystarczajacy",
-        "polish": "wystarczający",
-        "aiStatus": "complete",
-        "translationRu": "достаточный (м. р.)",
-        "example": "To wystarczający powód, aby zostać.",
+        "translationRu": "клещ",
+        "example": "Po powrocie z lasu trzeba sprawdzić, czy nie ma kleszcza.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "prog",
-        "polish": "próg",
+        "id": "zdala-sobie-sprawe-ze",
+        "polish": "zdała sobie sprawę (że …)",
         "aiStatus": "complete",
-        "translationRu": "порог",
-        "synonym": "granica",
-        "example": "Nie mogę przekroczyć tego progu.",
+        "synonym": "zorientować się\nzrozumieć\nskapnąć się (разговорное) - допереть",
+        "example": "Nagle zdałem sobie sprawę, że nie mam telefonu",
+        "translationRu": "осознала (что …)",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "samotnosc-samotny",
+        "polish": "samotność, samotny",
+        "aiStatus": "complete",
+        "synonym": "izolacja",
+        "example": "Czuje samotność po przeprowadzce do innego miasta",
+        "translationRu": "одиночество, одинокий",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "przeciwienstwo",
-        "polish": "przeciwieństwo",
+        "id": "wplyw-wplywac",
+        "polish": "wpływ- wpływać",
         "aiStatus": "complete",
-        "synonym": "osoba, rzecz lub zjawisko całkowicie różne od innego, stanowiące jego kontrast, odwrotność lub sprzeczność (antonim)",
-        "translationRu": "противоположность",
-        "example": "Miłość to przeciwieństwo nienawiści.",
+        "translationRu": "влияние - влиять",
+        "synonym": "oddziaływać",
+        "example": "Muzyka wpływa na nasz nastrój.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "chronic",
+        "polish": "chronić",
+        "aiStatus": "complete",
+        "translationRu": "защищать, оберегать",
+        "synonym": "ochraniać",
+        "example": "Krem chroni przed słońcem.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "duzo-malo",
+        "polish": "dużo/ mało /",
+        "aiStatus": "partial",
+        "translationRu": "много / мало",
+        "example": "W lodówce jest dużo jedzenia, ale mało napojów.",
         "firstSeenAt": "2026-05-02"
       }
     ],
