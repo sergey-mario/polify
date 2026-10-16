@@ -1,95 +1,94 @@
 {
-  "generatedAt": "2026-10-15T08:47:44.485Z",
+  "generatedAt": "2026-10-16T08:42:51.754Z",
   "dailyPractice": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "words": [
       {
-        "id": "dobre-wyniki",
-        "polish": "dobre wyniki",
+        "id": "zarzadzac-3",
+        "polish": "zarządzać",
         "aiStatus": "complete",
-        "translationRu": "хорошие результаты",
-        "synonym": "dobre rezultaty",
-        "example": "Uczniowie osiągnęli dobre wyniki na egzaminie.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "nie-bac-sie",
-        "polish": "nie bać się",
-        "aiStatus": "complete",
-        "synonym": "nie bałem się",
-        "translationRu": "не бояться",
-        "example": "Nie bój się, wszystko będzie dobrze.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "zaslaniac",
-        "polish": "zasłaniać",
-        "aiStatus": "complete",
-        "translationRu": "закрывать, заслонять (несов. вид)",
-        "synonym": "przesłaniać",
-        "example": "Nie zasłaniaj mi widoku.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "kozacka-kozacki",
-        "polish": "kozacka/ kozacki",
-        "aiStatus": "complete",
-        "translationRu": "крутой, классный (разг.); казацкий",
-        "synonym": "super, świetny",
-        "example": "To była kozacka impreza!",
+        "translationRu": "управлять, руководить",
+        "synonym": "kierować",
+        "example": "Zarządza dużym zespołem.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "uwazac-zeby-nie-popelnic-bledu",
-        "polish": "uważać, żeby nie popełnić błędu",
+        "id": "powie-nie-powiedzie",
+        "polish": "powie (nie powiedzie)",
         "aiStatus": "complete",
-        "translationRu": "следить/быть внимательным, чтобы не совершить ошибку",
-        "example": "Uważaj, żeby nie popełnić błędu podczas egzaminu.",
+        "translationRu": "скажет (правильно: 'powie' от 'powiedzieć', не 'powiedzie')",
+        "example": "On mi powie prawdę.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "obawiac-sie",
-        "polish": "obawiać się",
+        "id": "zniechecic-sie",
+        "polish": "zniechęcić się",
         "aiStatus": "complete",
-        "translationRu": "опасаться",
-        "synonym": "bać się",
-        "example": "Obawiam się, że się spóźnię.",
+        "translationRu": "разочароваться, потерять мотивацию",
+        "synonym": "zwątpić",
+        "example": "Nie chcę się zniechęcić po pierwszej porażce.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "gasienica",
+        "polish": "gąsienica",
+        "aiStatus": "complete",
+        "translationRu": "гусеница",
+        "example": "Gąsienica zmienia się w motyla.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "sposob-sposoby",
+        "polish": "sposób - sposoby",
+        "aiStatus": "complete",
+        "synonym": "samochód - samochdy",
+        "translationRu": "способ - способы",
+        "example": "Są różne sposoby na rozwiązanie tego problemu.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "od-a-do-z",
-        "polish": "od A do Z",
+        "id": "wyemitowac",
+        "polish": "wyemitować",
         "aiStatus": "complete",
-        "translationRu": "от А до Я",
-        "synonym": "całkowicie",
-        "example": "Znam ten temat od A do Z.",
+        "synonym": "stworzyć i wypuścić",
+        "example": "wyemitować nowe banknoty",
+        "translationRu": "выпустить в эфир, эмитировать",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "przeciwienstwo",
-        "polish": "przeciwieństwo",
-        "aiStatus": "complete",
-        "synonym": "osoba, rzecz lub zjawisko całkowicie różne od innego, stanowiące jego kontrast, odwrotność lub sprzeczność (antonim)",
-        "translationRu": "противоположность",
-        "example": "Miłość to przeciwieństwo nienawiści.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "w-poblizu",
-        "polish": "w pobliżu",
-        "aiStatus": "complete",
-        "synonym": "opodal",
-        "translationRu": "поблизости",
-        "example": "Mieszkam w pobliżu parku.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "trudnie",
+        "id": "trudnie-2",
         "polish": "trudnie",
         "aiStatus": "partial",
-        "synonym": "jak?",
         "translationRu": "трудно (опечатка/нестанд., правильно 'trudno')",
+        "synonym": "jak?",
         "example": "Trudno mi to teraz wytłumaczyć.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "lizus",
+        "polish": "lizus",
+        "aiStatus": "complete",
+        "synonym": "podlizywacz",
+        "example": "Sandra i Beata śmiały się głośno i nazywały go lizusem",
+        "translationRu": "подлиза",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "przetrwac",
+        "polish": "przetrwać",
+        "aiStatus": "complete",
+        "synonym": "przeżyć",
+        "translationRu": "выжить, пережить",
+        "example": "Udało im się przetrwać zimę.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "jajko-jajka",
+        "polish": "jajko - jajka",
+        "aiStatus": "complete",
+        "translationRu": "яйцо — яйца",
+        "synonym": "jajo",
+        "example": "Kupiłem tuzin jajek.",
         "firstSeenAt": "2026-05-02"
       }
     ],
