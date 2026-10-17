@@ -1,94 +1,95 @@
 {
-  "generatedAt": "2026-10-16T08:42:51.754Z",
+  "generatedAt": "2026-10-17T08:13:52.341Z",
   "dailyPractice": {
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "words": [
       {
-        "id": "zarzadzac-3",
-        "polish": "zarządzać",
+        "id": "dobry-przyklad",
+        "polish": "dobry przykład",
         "aiStatus": "complete",
-        "translationRu": "управлять, руководить",
-        "synonym": "kierować",
-        "example": "Zarządza dużym zespołem.",
+        "translationRu": "хороший пример",
+        "synonym": "wzór",
+        "example": "To jest dobry przykład na to, o czym mówię.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "podac-przyklad",
+        "polish": "podać przykład",
+        "aiStatus": "complete",
+        "translationRu": "привести пример",
+        "synonym": "przytoczyć przykład",
+        "example": "Czy możesz podać przykład tego zjawiska?",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "powie-nie-powiedzie",
-        "polish": "powie (nie powiedzie)",
+        "id": "skok-ze-spadochronem",
+        "polish": "skok ze spadochronem",
         "aiStatus": "complete",
-        "translationRu": "скажет (правильно: 'powie' от 'powiedzieć', не 'powiedzie')",
-        "example": "On mi powie prawdę.",
-        "firstSeenAt": "2026-08-22"
+        "translationRu": "прыжок с парашютом",
+        "synonym": "skok spadochronowy",
+        "example": "Zawsze marzył o skoku ze spadochronem.",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zniechecic-sie",
-        "polish": "zniechęcić się",
+        "id": "udawac",
+        "polish": "udawać",
         "aiStatus": "complete",
-        "translationRu": "разочароваться, потерять мотивацию",
-        "synonym": "zwątpić",
-        "example": "Nie chcę się zniechęcić po pierwszej porażce.",
-        "firstSeenAt": "2026-08-22"
+        "synonym": "symulować",
+        "example": "Darek udawał, że nic nie rozumie",
+        "translationRu": "притворяться",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "gasienica",
-        "polish": "gąsienica",
+        "id": "producent",
+        "polish": "producent",
         "aiStatus": "complete",
-        "translationRu": "гусеница",
-        "example": "Gąsienica zmienia się w motyla.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "sposob-sposoby",
-        "polish": "sposób - sposoby",
-        "aiStatus": "complete",
-        "synonym": "samochód - samochdy",
-        "translationRu": "способ - способы",
-        "example": "Są różne sposoby na rozwiązanie tego problemu.",
+        "synonym": "producenci",
+        "translationRu": "производитель",
+        "example": "Firma jest producentem samochodów.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wyemitowac",
-        "polish": "wyemitować",
-        "aiStatus": "complete",
-        "synonym": "stworzyć i wypuścić",
-        "example": "wyemitować nowe banknoty",
-        "translationRu": "выпустить в эфир, эмитировать",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "trudnie-2",
-        "polish": "trudnie",
+        "id": "osoba-nie-musi-nie-powinna-roznica",
+        "polish": "osoba nie musi / nie powinna - różnica",
         "aiStatus": "partial",
-        "translationRu": "трудно (опечатка/нестанд., правильно 'trudno')",
-        "synonym": "jak?",
-        "example": "Trudno mi to teraz wytłumaczyć.",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "человек не обязан / не должен — разница в значении (musi = обязан, powinna = следует)",
+        "example": "Osoba nie musi się zgadzać, ale nie powinna być niegrzeczna.",
+        "firstSeenAt": "2026-09-09"
       },
       {
-        "id": "lizus",
-        "polish": "lizus",
+        "id": "wywierac-wplyw",
+        "polish": "wywierać wpływ",
         "aiStatus": "complete",
-        "synonym": "podlizywacz",
-        "example": "Sandra i Beata śmiały się głośno i nazywały go lizusem",
-        "translationRu": "подлиза",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "przetrwac",
-        "polish": "przetrwać",
-        "aiStatus": "complete",
-        "synonym": "przeżyć",
-        "translationRu": "выжить, пережить",
-        "example": "Udało im się przetrwać zimę.",
+        "synonym": "dawać wynik/ oddziaływać",
+        "translationRu": "оказывать влияние",
+        "example": "Rodzice wywierają duży wpływ na dzieci.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "jajko-jajka",
-        "polish": "jajko - jajka",
+        "id": "czynnik-2",
+        "polish": "czynnik",
         "aiStatus": "complete",
-        "translationRu": "яйцо — яйца",
-        "synonym": "jajo",
-        "example": "Kupiłem tuzin jajek.",
+        "translationRu": "фактор",
+        "synonym": "element",
+        "example": "To ważny czynnik sukcesu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "nie-moge-sie-doczekac",
+        "polish": "Nie mogę się doczekać",
+        "aiStatus": "complete",
+        "translationRu": "Не могу дождаться",
+        "synonym": "z niecierpliwością czekam",
+        "example": "Nie mogę się doczekać wakacji.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "irytowac-3",
+        "polish": "irytować",
+        "aiStatus": "complete",
+        "translationRu": "раздражать",
+        "synonym": "denerwować",
+        "example": "Ten dźwięk mnie irytuje.",
         "firstSeenAt": "2026-05-02"
       }
     ],
