@@ -1,95 +1,94 @@
 {
-  "generatedAt": "2026-10-17T08:13:52.341Z",
+  "generatedAt": "2026-10-18T08:30:55.355Z",
   "dailyPractice": {
-    "date": "2026-10-17",
+    "date": "2026-10-18",
     "words": [
       {
-        "id": "dobry-przyklad",
-        "polish": "dobry przykład",
+        "id": "bardzo-mi-przykro",
+        "polish": "Bardzo mi przykro",
         "aiStatus": "complete",
-        "translationRu": "хороший пример",
-        "synonym": "wzór",
-        "example": "To jest dobry przykład na to, o czym mówię.",
+        "synonym": "szkoda, niestety",
+        "example": "Bardzo mi przykro, że nie możesz przyjść",
+        "translationRu": "Мне очень жаль",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "odwiedzic-odwiedzac",
+        "polish": "odwiedzić/ odwiedzać",
+        "aiStatus": "complete",
+        "translationRu": "посетить / посещать (кого-то)",
+        "synonym": "wpaść do kogoś",
+        "example": "Odwiedzę babcię w niedzielę.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "lasuch",
+        "polish": "łasuch",
+        "aiStatus": "complete",
+        "translationRu": "лакомка, сладкоежка",
+        "synonym": "smakosz",
+        "example": "Mój brat to prawdziwy łasuch, uwielbia czekoladę.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "ja-moglem",
+        "polish": "ja mogłem",
+        "aiStatus": "complete",
+        "translationRu": "я мог",
+        "example": "Ja mogłem to zrobić lepiej.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "podac-przyklad",
-        "polish": "podać przykład",
+        "id": "przesada",
+        "polish": "przesada",
         "aiStatus": "complete",
-        "translationRu": "привести пример",
-        "synonym": "przytoczyć przykład",
-        "example": "Czy możesz podać przykład tego zjawiska?",
+        "synonym": "mieć już dojśc",
+        "translationRu": "преувеличение, перебор",
+        "example": "To już jest przesada!",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "skok-ze-spadochronem",
-        "polish": "skok ze spadochronem",
+        "id": "szczyt-formy",
+        "polish": "szczyt formy",
         "aiStatus": "complete",
-        "translationRu": "прыжок с парашютом",
-        "synonym": "skok spadochronowy",
-        "example": "Zawsze marzył o skoku ze spadochronem.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "udawac",
-        "polish": "udawać",
-        "aiStatus": "complete",
-        "synonym": "symulować",
-        "example": "Darek udawał, że nic nie rozumie",
-        "translationRu": "притворяться",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "producent",
-        "polish": "producent",
-        "aiStatus": "complete",
-        "synonym": "producenci",
-        "translationRu": "производитель",
-        "example": "Firma jest producentem samochodów.",
+        "synonym": "najlepsza forma",
+        "example": "Sportowiec był u szczytu formy podczas mistrzostw",
+        "translationRu": "пик формы",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "osoba-nie-musi-nie-powinna-roznica",
-        "polish": "osoba nie musi / nie powinna - różnica",
+        "id": "zrezygnowac",
+        "polish": "zrezygnować",
+        "aiStatus": "complete",
+        "translationRu": "отказаться (соверш. вид)",
+        "synonym": "poddać się",
+        "example": "Postanowił zrezygnować z pracy.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zmiana-ona",
+        "polish": "zmiana - ona",
         "aiStatus": "partial",
-        "translationRu": "человек не обязан / не должен — разница в значении (musi = обязан, powinna = следует)",
-        "example": "Osoba nie musi się zgadzać, ale nie powinna być niegrzeczna.",
-        "firstSeenAt": "2026-09-09"
+        "translationRu": "смена, изменение - она (существительное женского рода)",
+        "example": "Ta zmiana zaskoczyła wszystkich.",
+        "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "wywierac-wplyw",
-        "polish": "wywierać wpływ",
+        "id": "wech",
+        "polish": "węch",
         "aiStatus": "complete",
-        "synonym": "dawać wynik/ oddziaływać",
-        "translationRu": "оказывать влияние",
-        "example": "Rodzice wywierają duży wpływ na dzieci.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "czynnik-2",
-        "polish": "czynnik",
-        "aiStatus": "complete",
-        "translationRu": "фактор",
-        "synonym": "element",
-        "example": "To ważny czynnik sukcesu.",
+        "example": "Mam dobry węch / mieć dobry węch do czegoś",
+        "translationRu": "обоняние",
+        "synonym": "zmysł powonienia",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "nie-moge-sie-doczekac",
-        "polish": "Nie mogę się doczekać",
+        "id": "miasto",
+        "polish": "miasto",
         "aiStatus": "complete",
-        "translationRu": "Не могу дождаться",
-        "synonym": "z niecierpliwością czekam",
-        "example": "Nie mogę się doczekać wakacji.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "irytowac-3",
-        "polish": "irytować",
-        "aiStatus": "complete",
-        "translationRu": "раздражать",
-        "synonym": "denerwować",
-        "example": "Ten dźwięk mnie irytuje.",
+        "translationRu": "город",
+        "synonym": "miejscowość",
+        "example": "Warszawa to duże miasto.",
         "firstSeenAt": "2026-05-02"
       }
     ],
