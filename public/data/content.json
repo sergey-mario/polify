@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-18T08:30:55.355Z",
+  "generatedAt": "2026-10-19T09:32:46.987Z",
   "dailyPractice": {
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "words": [
       {
-        "id": "bardzo-mi-przykro",
-        "polish": "Bardzo mi przykro",
+        "id": "udowodnic-udowadniac",
+        "polish": "udowodnić/ udowadniać",
         "aiStatus": "complete",
-        "synonym": "szkoda, niestety",
-        "example": "Bardzo mi przykro, że nie możesz przyjść",
-        "translationRu": "Мне очень жаль",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "доказать / доказывать",
+        "synonym": "wykazać",
+        "example": "Musisz to udowodnić w sądzie.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "odwiedzic-odwiedzac",
-        "polish": "odwiedzić/ odwiedzać",
+        "id": "zwracac",
+        "polish": "zwracać",
         "aiStatus": "complete",
-        "translationRu": "посетить / посещать (кого-то)",
-        "synonym": "wpaść do kogoś",
-        "example": "Odwiedzę babcię w niedzielę.",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "возвращать",
+        "synonym": "oddawać",
+        "example": "Musisz zwrócić tę książkę do biblioteki.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "lasuch",
-        "polish": "łasuch",
+        "id": "zgniatac",
+        "polish": "zgniatać",
         "aiStatus": "complete",
-        "translationRu": "лакомка, сладкоежка",
-        "synonym": "smakosz",
-        "example": "Mój brat to prawdziwy łasuch, uwielbia czekoladę.",
+        "translationRu": "сминать, сжимать, давить",
+        "synonym": "gnieść",
+        "example": "Nie zgniataj papieru, może się jeszcze przydać.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "ja-moglem",
-        "polish": "ja mogłem",
+        "id": "okrywac",
+        "polish": "okrywać",
         "aiStatus": "complete",
-        "translationRu": "я мог",
-        "example": "Ja mogłem to zrobić lepiej.",
+        "translationRu": "укрывать, покрывать",
+        "synonym": "przykrywać",
+        "example": "Mama okryła dziecko kocem.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "przesada",
-        "polish": "przesada",
+        "id": "nawiedzony-dom",
+        "polish": "nawiedzony dom",
         "aiStatus": "complete",
-        "synonym": "mieć już dojśc",
-        "translationRu": "преувеличение, перебор",
-        "example": "To już jest przesada!",
-        "firstSeenAt": "2026-05-02"
+        "example": "дом с привидениями",
+        "translationRu": "дом с привидениями",
+        "firstSeenAt": "2026-09-21"
       },
       {
-        "id": "szczyt-formy",
-        "polish": "szczyt formy",
-        "aiStatus": "complete",
-        "synonym": "najlepsza forma",
-        "example": "Sportowiec był u szczytu formy podczas mistrzostw",
-        "translationRu": "пик формы",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zrezygnowac",
-        "polish": "zrezygnować",
-        "aiStatus": "complete",
-        "translationRu": "отказаться (соверш. вид)",
-        "synonym": "poddać się",
-        "example": "Postanowił zrezygnować z pracy.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zmiana-ona",
-        "polish": "zmiana - ona",
+        "id": "codzienne-jakie",
+        "polish": "codzienne - jakie",
         "aiStatus": "partial",
-        "translationRu": "смена, изменение - она (существительное женского рода)",
-        "example": "Ta zmiana zaskoczyła wszystkich.",
-        "firstSeenAt": "2026-08-22"
+        "translationRu": "ежедневные - какие (обрывок фразы)",
+        "example": "Jakie masz codzienne obowiązki?",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wech",
-        "polish": "węch",
-        "aiStatus": "complete",
-        "example": "Mam dobry węch / mieć dobry węch do czegoś",
-        "translationRu": "обоняние",
-        "synonym": "zmysł powonienia",
+        "id": "objawy-objawa",
+        "polish": "objawy/objawa",
+        "aiStatus": "partial",
+        "translationRu": "симптомы (форма objawa нестандарт., обычно objaw)",
+        "synonym": "symptomy",
+        "example": "Objawy grypy to gorączka i kaszel.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "miasto",
-        "polish": "miasto",
+        "id": "ilosc",
+        "polish": "ilośc",
+        "aiStatus": "partial",
+        "translationRu": "количество (опечатка: ilość)",
+        "synonym": "liczba",
+        "example": "Ilość jedzenia była ogromna.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "trudnie-2",
+        "polish": "trudnie",
+        "aiStatus": "partial",
+        "translationRu": "трудно (опечатка/нестанд., правильно 'trudno')",
+        "synonym": "jak?",
+        "example": "Trudno mi to teraz wytłumaczyć.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "sprawny",
+        "polish": "sprawny",
         "aiStatus": "complete",
-        "translationRu": "город",
-        "synonym": "miejscowość",
-        "example": "Warszawa to duże miasto.",
+        "translationRu": "исправный; ловкий, проворный",
+        "synonym": "działający",
+        "example": "Mój samochód jest jeszcze sprawny.",
         "firstSeenAt": "2026-05-02"
       }
     ],
