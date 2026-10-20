@@ -1,94 +1,95 @@
 {
-  "generatedAt": "2026-10-19T09:32:46.987Z",
+  "generatedAt": "2026-10-20T09:05:19.110Z",
   "dailyPractice": {
-    "date": "2026-10-19",
+    "date": "2026-10-20",
     "words": [
       {
-        "id": "udowodnic-udowadniac",
-        "polish": "udowodnić/ udowadniać",
+        "id": "zdanie",
+        "polish": "zdanie",
         "aiStatus": "complete",
-        "translationRu": "доказать / доказывать",
-        "synonym": "wykazać",
-        "example": "Musisz to udowodnić w sądzie.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zwracac",
-        "polish": "zwracać",
-        "aiStatus": "complete",
-        "translationRu": "возвращать",
-        "synonym": "oddawać",
-        "example": "Musisz zwrócić tę książkę do biblioteki.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zgniatac",
-        "polish": "zgniatać",
-        "aiStatus": "complete",
-        "translationRu": "сминать, сжимать, давить",
-        "synonym": "gnieść",
-        "example": "Nie zgniataj papieru, może się jeszcze przydać.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "okrywac",
-        "polish": "okrywać",
-        "aiStatus": "complete",
-        "translationRu": "укрывать, покрывать",
-        "synonym": "przykrywać",
-        "example": "Mama okryła dziecko kocem.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "nawiedzony-dom",
-        "polish": "nawiedzony dom",
-        "aiStatus": "complete",
-        "example": "дом с привидениями",
-        "translationRu": "дом с привидениями",
-        "firstSeenAt": "2026-09-21"
-      },
-      {
-        "id": "codzienne-jakie",
-        "polish": "codzienne - jakie",
-        "aiStatus": "partial",
-        "translationRu": "ежедневные - какие (обрывок фразы)",
-        "example": "Jakie masz codzienne obowiązki?",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "objawy-objawa",
-        "polish": "objawy/objawa",
-        "aiStatus": "partial",
-        "translationRu": "симптомы (форма objawa нестандарт., обычно objaw)",
-        "synonym": "symptomy",
-        "example": "Objawy grypy to gorączka i kaszel.",
+        "synonym": "opinie",
+        "example": "Miała nadzieję, że zmieni zdanie",
+        "translationRu": "мнение; предложение (грам.)",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "ilosc",
-        "polish": "ilośc",
-        "aiStatus": "partial",
-        "translationRu": "количество (опечатка: ilość)",
-        "synonym": "liczba",
-        "example": "Ilość jedzenia była ogromna.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "trudnie-2",
-        "polish": "trudnie",
-        "aiStatus": "partial",
-        "translationRu": "трудно (опечатка/нестанд., правильно 'trudno')",
-        "synonym": "jak?",
-        "example": "Trudno mi to teraz wytłumaczyć.",
+        "id": "pilot",
+        "polish": "pilot",
+        "aiStatus": "complete",
+        "translationRu": "пульт; пилот",
+        "synonym": "zdalne sterowanie",
+        "example": "Gdzie jest pilot od telewizora?",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "sprawny",
-        "polish": "sprawny",
+        "id": "rekreacja-2",
+        "polish": "rekreacja",
         "aiStatus": "complete",
-        "translationRu": "исправный; ловкий, проворный",
-        "synonym": "działający",
-        "example": "Mój samochód jest jeszcze sprawny.",
+        "translationRu": "отдых, рекреация",
+        "synonym": "wypoczynek",
+        "example": "W parku jest strefa rekreacji.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "uderzyc",
+        "polish": "uderzyć",
+        "aiStatus": "complete",
+        "synonym": "najechać na",
+        "example": "uderzyć w kogoś",
+        "translationRu": "ударить",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "od-a-do-z",
+        "polish": "od A do Z",
+        "aiStatus": "complete",
+        "translationRu": "от А до Я",
+        "synonym": "całkowicie",
+        "example": "Znam ten temat od A do Z.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "lot-z",
+        "polish": "lot z",
+        "aiStatus": "partial",
+        "translationRu": "рейс из (фрагмент)",
+        "example": "Lot z Warszawy do Londynu trwa dwie godziny.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "chronic",
+        "polish": "chronić",
+        "aiStatus": "complete",
+        "translationRu": "защищать, оберегать",
+        "synonym": "ochraniać",
+        "example": "Krem chroni przed słońcem.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zszedl",
+        "polish": "zszedł",
+        "aiStatus": "complete",
+        "translationRu": "сошёл, спустился",
+        "synonym": "zstąpił",
+        "example": "Zszedł ze schodów bardzo szybko.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zlekcewazyc",
+        "polish": "zlekceważyć",
+        "aiStatus": "complete",
+        "synonym": "celowo nie zauważyć czegoś",
+        "translationRu": "пренебречь, проигнорировать",
+        "example": "Nie wolno lekceważyć objawów choroby.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "irytujacy",
+        "polish": "irytujący",
+        "aiStatus": "complete",
+        "synonym": "denerwujący",
+        "example": "To być bardzo irytujący klient",
+        "translationRu": "раздражающий",
         "firstSeenAt": "2026-05-02"
       }
     ],
