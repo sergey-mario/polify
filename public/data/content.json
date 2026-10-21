@@ -1,96 +1,95 @@
 {
-  "generatedAt": "2026-10-20T09:05:19.110Z",
+  "generatedAt": "2026-10-21T09:05:07.768Z",
   "dailyPractice": {
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "words": [
       {
-        "id": "zdanie",
-        "polish": "zdanie",
+        "id": "jelito",
+        "polish": "jelito",
         "aiStatus": "complete",
-        "synonym": "opinie",
-        "example": "Miała nadzieję, że zmieni zdanie",
-        "translationRu": "мнение; предложение (грам.)",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "кишка, кишечник",
+        "example": "Jelito grube pełni ważną funkcję w trawieniu.",
+        "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "pilot",
-        "polish": "pilot",
-        "aiStatus": "complete",
-        "translationRu": "пульт; пилот",
-        "synonym": "zdalne sterowanie",
-        "example": "Gdzie jest pilot od telewizora?",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "rekreacja-2",
-        "polish": "rekreacja",
-        "aiStatus": "complete",
-        "translationRu": "отдых, рекреация",
-        "synonym": "wypoczynek",
-        "example": "W parku jest strefa rekreacji.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "uderzyc",
-        "polish": "uderzyć",
-        "aiStatus": "complete",
-        "synonym": "najechać na",
-        "example": "uderzyć w kogoś",
-        "translationRu": "ударить",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "od-a-do-z",
-        "polish": "od A do Z",
-        "aiStatus": "complete",
-        "translationRu": "от А до Я",
-        "synonym": "całkowicie",
-        "example": "Znam ten temat od A do Z.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "lot-z",
-        "polish": "lot z",
+        "id": "procesy-one",
+        "polish": "procesy - one",
         "aiStatus": "partial",
-        "translationRu": "рейс из (фрагмент)",
-        "example": "Lot z Warszawy do Londynu trwa dwie godziny.",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "процессы — они (грамматическая пометка: местоимение 'one' для неличных сущ. во мн. ч.)",
+        "example": "Te procesy trwają zwykle kilka miesięcy.",
+        "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "chronic",
-        "polish": "chronić",
+        "id": "polepszyc",
+        "polish": "polepszyć",
         "aiStatus": "complete",
-        "translationRu": "защищать, оберегать",
-        "synonym": "ochraniać",
-        "example": "Krem chroni przed słońcem.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zszedl",
-        "polish": "zszedł",
-        "aiStatus": "complete",
-        "translationRu": "сошёл, спустился",
-        "synonym": "zstąpił",
-        "example": "Zszedł ze schodów bardzo szybko.",
+        "translationRu": "улучшить, сделать лучше",
+        "synonym": "poprawić",
+        "example": "To powinno polepszyć sytuację.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zlekcewazyc",
-        "polish": "zlekceważyć",
+        "id": "porownywac-2",
+        "polish": "porównywać",
         "aiStatus": "complete",
-        "synonym": "celowo nie zauważyć czegoś",
-        "translationRu": "пренебречь, проигнорировать",
-        "example": "Nie wolno lekceważyć objawów choroby.",
+        "translationRu": "сравнивать",
+        "synonym": "zestawiać",
+        "example": "Nie lubię porównywać się z innymi.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "balet-byl-konkretny",
+        "polish": "balet był konkretny",
+        "aiStatus": "partial",
+        "synonym": "niesamowita impreza",
+        "example": "Wczoraj był konkretny balet",
+        "translationRu": "балет был впечатляющим (обрывок фразы, сленговое \"konkretny\")",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "co-zobaczyc-zwiedzic",
+        "polish": "co zobaczyć/ zwiedzić",
+        "aiStatus": "complete",
+        "translationRu": "что посмотреть / посетить",
+        "synonym": "co obejrzeć",
+        "example": "Podpowiedz mi, co zobaczyć w tym mieście.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "irytujacy",
-        "polish": "irytujący",
+        "id": "wynajmowac",
+        "polish": "wynajmować",
         "aiStatus": "complete",
-        "synonym": "denerwujący",
-        "example": "To być bardzo irytujący klient",
-        "translationRu": "раздражающий",
+        "synonym": "wynająć",
+        "translationRu": "снимать (квартиру)",
+        "example": "Wynajmuję mieszkanie w centrum.",
         "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "nie-fer",
+        "polish": "nie fer",
+        "aiStatus": "complete",
+        "synonym": "coś jest nieuczciwe, niesprawiedliwe lub niezgodne z zasadami",
+        "translationRu": "нечестно (англицизм от 'not fair')",
+        "example": "To nie fer, że on dostał więcej niż ja.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "obserwowac",
+        "polish": "obserwować",
+        "aiStatus": "complete",
+        "translationRu": "наблюдать",
+        "synonym": "śledzić",
+        "example": "Obserwuję ptaki w parku.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "istnieje",
+        "polish": "istnieje",
+        "aiStatus": "complete",
+        "translationRu": "существует (он/она/оно, от 'istnieć')",
+        "synonym": "występuje",
+        "example": "Istnieje wiele sposobów na rozwiązanie tego problemu.",
+        "firstSeenAt": "2026-08-22"
       }
     ],
     "grammarRule": {
