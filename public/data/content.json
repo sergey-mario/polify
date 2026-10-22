@@ -1,95 +1,95 @@
 {
-  "generatedAt": "2026-10-21T09:05:07.768Z",
+  "generatedAt": "2026-10-22T09:07:20.738Z",
   "dailyPractice": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "words": [
       {
-        "id": "jelito",
-        "polish": "jelito",
+        "id": "powolanie-do-wojska",
+        "polish": "powołanie do wojska",
         "aiStatus": "complete",
-        "translationRu": "кишка, кишечник",
-        "example": "Jelito grube pełni ważną funkcję w trawieniu.",
+        "translationRu": "призыв в армию",
+        "synonym": "pobór do wojska",
+        "example": "Otrzymał powołanie do wojska tuż po studiach.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "procesy-one",
-        "polish": "procesy - one",
+        "id": "zbalansowane-odzywanie",
+        "polish": "zbalansowane odzywanie",
         "aiStatus": "partial",
-        "translationRu": "процессы — они (грамматическая пометка: местоимение 'one' для неличных сущ. во мн. ч.)",
-        "example": "Te procesy trwają zwykle kilka miesięcy.",
+        "translationRu": "сбалансированное питание (опечатка: zbalansowane odżywianie)",
+        "synonym": "zdrowa dieta",
+        "example": "Zbalansowane odżywianie jest ważne dla zdrowia.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "polepszyc",
-        "polish": "polepszyć",
+        "id": "uzyteczny-2",
+        "polish": "użyteczny",
         "aiStatus": "complete",
-        "translationRu": "улучшить, сделать лучше",
-        "synonym": "poprawić",
-        "example": "To powinno polepszyć sytuację.",
+        "translationRu": "полезный",
+        "synonym": "przydatny",
+        "example": "To bardzo użyteczne narzędzie.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "porownywac-2",
-        "polish": "porównywać",
+        "id": "zarowka",
+        "polish": "żarówka",
         "aiStatus": "complete",
-        "translationRu": "сравнивать",
-        "synonym": "zestawiać",
-        "example": "Nie lubię porównywać się z innymi.",
+        "translationRu": "лампочка",
+        "synonym": "lampka",
+        "example": "Trzeba zmienić żarówkę w kuchni.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "balet-byl-konkretny",
-        "polish": "balet był konkretny",
+        "id": "ciapaty",
+        "polish": "Ciapaty",
+        "aiStatus": "complete",
+        "synonym": "arab/hindus/pakistańczyk",
+        "translationRu": "уничижительное прозвище для выходцев из Южной Азии (сленг)",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zaczela",
+        "polish": "zaczęła",
+        "aiStatus": "complete",
+        "translationRu": "начала (прош. вр. глагола zacząć, ж.р.)",
+        "example": "Zaczęła nową pracę w zeszłym tygodniu.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "nie-dawaj-za-wygrana",
+        "polish": "nie dawaj za wygraną",
+        "aiStatus": "complete",
+        "translationRu": "не сдавайся",
+        "synonym": "nie poddawaj się",
+        "example": "Nie dawaj za wygraną, jeszcze możesz wygrać.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "za-pomoca-3",
+        "polish": "za pomocą",
+        "aiStatus": "complete",
+        "translationRu": "с помощью",
+        "synonym": "przy użyciu",
+        "example": "Otworzył drzwi za pomocą klucza.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "natychmiast-2",
+        "polish": "natychmiast",
+        "aiStatus": "complete",
+        "translationRu": "немедленно, сразу",
+        "synonym": "od razu",
+        "example": "natychmiast wstali z kanapy",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "system-on-2",
+        "polish": "system - on",
         "aiStatus": "partial",
-        "synonym": "niesamowita impreza",
-        "example": "Wczoraj był konkretny balet",
-        "translationRu": "балет был впечатляющим (обрывок фразы, сленговое \"konkretny\")",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "co-zobaczyc-zwiedzic",
-        "polish": "co zobaczyć/ zwiedzić",
-        "aiStatus": "complete",
-        "translationRu": "что посмотреть / посетить",
-        "synonym": "co obejrzeć",
-        "example": "Podpowiedz mi, co zobaczyć w tym mieście.",
+        "synonym": "fajny system",
+        "translationRu": "система (он, грам. род)",
+        "example": "System działa bez zarzutu.",
         "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wynajmowac",
-        "polish": "wynajmować",
-        "aiStatus": "complete",
-        "synonym": "wynająć",
-        "translationRu": "снимать (квартиру)",
-        "example": "Wynajmuję mieszkanie w centrum.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "nie-fer",
-        "polish": "nie fer",
-        "aiStatus": "complete",
-        "synonym": "coś jest nieuczciwe, niesprawiedliwe lub niezgodne z zasadami",
-        "translationRu": "нечестно (англицизм от 'not fair')",
-        "example": "To nie fer, że on dostał więcej niż ja.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "obserwowac",
-        "polish": "obserwować",
-        "aiStatus": "complete",
-        "translationRu": "наблюдать",
-        "synonym": "śledzić",
-        "example": "Obserwuję ptaki w parku.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "istnieje",
-        "polish": "istnieje",
-        "aiStatus": "complete",
-        "translationRu": "существует (он/она/оно, от 'istnieć')",
-        "synonym": "występuje",
-        "example": "Istnieje wiele sposobów na rozwiązanie tego problemu.",
-        "firstSeenAt": "2026-08-22"
       }
     ],
     "grammarRule": {
