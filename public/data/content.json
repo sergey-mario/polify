@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-10-22T09:07:20.738Z",
+  "generatedAt": "2026-10-23T09:03:20.981Z",
   "dailyPractice": {
-    "date": "2026-10-22",
+    "date": "2026-10-23",
     "words": [
       {
-        "id": "powolanie-do-wojska",
-        "polish": "powołanie do wojska",
+        "id": "dotrzec-do-dzieci",
+        "polish": "dotrzeć do dzieci,",
         "aiStatus": "complete",
-        "translationRu": "призыв в армию",
-        "synonym": "pobór do wojska",
-        "example": "Otrzymał powołanie do wojska tuż po studiach.",
-        "firstSeenAt": "2026-08-22"
+        "translationRu": "достучаться до детей, донести до детей",
+        "synonym": "dogadać się z dziećmi",
+        "example": "Trudno jest dotrzeć do dzieci z ważnym przekazem.",
+        "firstSeenAt": "2026-09-09"
       },
       {
-        "id": "zbalansowane-odzywanie",
-        "polish": "zbalansowane odzywanie",
-        "aiStatus": "partial",
-        "translationRu": "сбалансированное питание (опечатка: zbalansowane odżywianie)",
-        "synonym": "zdrowa dieta",
-        "example": "Zbalansowane odżywianie jest ważne dla zdrowia.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "uzyteczny-2",
-        "polish": "użyteczny",
+        "id": "piegi",
+        "polish": "piegi",
         "aiStatus": "complete",
-        "translationRu": "полезный",
-        "synonym": "przydatny",
-        "example": "To bardzo użyteczne narzędzie.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zarowka",
-        "polish": "żarówka",
-        "aiStatus": "complete",
-        "translationRu": "лампочка",
-        "synonym": "lampka",
-        "example": "Trzeba zmienić żarówkę w kuchni.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "ciapaty",
-        "polish": "Ciapaty",
-        "aiStatus": "complete",
-        "synonym": "arab/hindus/pakistańczyk",
-        "translationRu": "уничижительное прозвище для выходцев из Южной Азии (сленг)",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zaczela",
-        "polish": "zaczęła",
-        "aiStatus": "complete",
-        "translationRu": "начала (прош. вр. глагола zacząć, ж.р.)",
-        "example": "Zaczęła nową pracę w zeszłym tygodniu.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "nie-dawaj-za-wygrana",
-        "polish": "nie dawaj za wygraną",
-        "aiStatus": "complete",
-        "translationRu": "не сдавайся",
-        "synonym": "nie poddawaj się",
-        "example": "Nie dawaj za wygraną, jeszcze możesz wygrać.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "za-pomoca-3",
-        "polish": "za pomocą",
-        "aiStatus": "complete",
-        "translationRu": "с помощью",
-        "synonym": "przy użyciu",
-        "example": "Otworzył drzwi za pomocą klucza.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "natychmiast-2",
-        "polish": "natychmiast",
-        "aiStatus": "complete",
-        "translationRu": "немедленно, сразу",
-        "synonym": "od razu",
-        "example": "natychmiast wstali z kanapy",
+        "translationRu": "веснушки",
+        "example": "Ma piegi na nosie.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "system-on-2",
-        "polish": "system - on",
-        "aiStatus": "partial",
-        "synonym": "fajny system",
-        "translationRu": "система (он, грам. род)",
-        "example": "System działa bez zarzutu.",
+        "id": "metropolia",
+        "polish": "metropolia",
+        "aiStatus": "complete",
+        "synonym": "duże, dominujące miasto lub zespół miejski",
+        "translationRu": "мегаполис",
+        "example": "Warszawa jest metropolią.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "miec-glowe-na-karku",
+        "polish": "Mieć głowę na karku",
+        "aiStatus": "complete",
+        "translationRu": "иметь голову на плечах, быть рассудительным (идиома)",
+        "example": "Ona ma głowę na karku i podejmuje dobre decyzje.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "tylko",
+        "polish": "tylko",
+        "aiStatus": "complete",
+        "synonym": "Mam tyko 10 złotych",
+        "translationRu": "только",
+        "example": "Mam tylko dziesięć minut.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "nowoczesny",
+        "polish": "nowoczesny",
+        "aiStatus": "complete",
+        "translationRu": "современный",
+        "synonym": "współczesny",
+        "example": "To jest bardzo nowoczesny dom.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wesprzec",
+        "polish": "wesprzeć",
+        "aiStatus": "complete",
+        "translationRu": "поддержать (сов. вид)",
+        "synonym": "pomóc",
+        "example": "Chcę wesprzeć cię w trudnej chwili.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "wyzwanie",
+        "polish": "wyzwanie",
+        "aiStatus": "complete",
+        "translationRu": "вызов, испытание",
+        "synonym": "trudność",
+        "example": "To dla mnie nowe wyzwanie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "miejsce-docelowe",
+        "polish": "miejsce docelowe",
+        "aiStatus": "complete",
+        "translationRu": "место назначения",
+        "synonym": "cel podróży",
+        "example": "Nasze miejsce docelowe to Kraków.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "wsciekly-2",
+        "polish": "wściekły",
+        "aiStatus": "complete",
+        "example": "яростный",
+        "translationRu": "разъярённый, взбешённый",
+        "synonym": "zdenerwowana",
         "firstSeenAt": "2026-05-02"
       }
     ],
