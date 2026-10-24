@@ -1,95 +1,92 @@
 {
-  "generatedAt": "2026-10-23T09:03:20.981Z",
+  "generatedAt": "2026-10-24T08:35:53.656Z",
   "dailyPractice": {
-    "date": "2026-10-23",
+    "date": "2026-10-24",
     "words": [
       {
-        "id": "dotrzec-do-dzieci",
-        "polish": "dotrzeć do dzieci,",
+        "id": "przystosowanie",
+        "polish": "przystosowanie",
         "aiStatus": "complete",
-        "translationRu": "достучаться до детей, донести до детей",
-        "synonym": "dogadać się z dziećmi",
-        "example": "Trudno jest dotrzeć do dzieci z ważnym przekazem.",
+        "translationRu": "приспособление",
+        "synonym": "adaptacja",
+        "example": "Przystosowanie do nowej kultury zajęło mi rok.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "ludzie-nie-moga-zalozyc-konta-nie-konto",
+        "polish": "ludzie nie mogą założyć konta - nie konto",
+        "aiStatus": "partial",
+        "translationRu": "люди не могут открыть счёт (не «konto» без правильного падежа)",
+        "example": "Ludzie nie mogą założyć konta bez dokumentu tożsamości.",
         "firstSeenAt": "2026-09-09"
       },
       {
-        "id": "piegi",
-        "polish": "piegi",
+        "id": "fala-2",
+        "polish": "fala",
         "aiStatus": "complete",
-        "translationRu": "веснушки",
-        "example": "Ma piegi na nosie.",
+        "translationRu": "волна",
+        "example": "Wysokie fale uderzały o brzeg.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "metropolia",
-        "polish": "metropolia",
+        "id": "oszusta",
+        "polish": "oszusta",
+        "aiStatus": "partial",
+        "translationRu": "мошенника (вин./род. от oszust)",
+        "synonym": "kanciarz",
+        "example": "Policja zatrzymała oszusta, który okradał starsze osoby.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "pilnie",
+        "polish": "pilnie",
         "aiStatus": "complete",
-        "synonym": "duże, dominujące miasto lub zespół miejski",
-        "translationRu": "мегаполис",
-        "example": "Warszawa jest metropolią.",
+        "translationRu": "срочно; прилежно",
+        "synonym": "natychmiast",
+        "example": "Pilnie potrzebuję pomocy.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "sciagac",
+        "polish": "ściągać",
+        "aiStatus": "complete",
+        "translationRu": "стягивать; скачивать; списывать (на экзамене)",
+        "synonym": "pobierać",
+        "example": "Ściągam film z internetu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "otwarte-kraje",
+        "polish": "otwarte kraje",
+        "aiStatus": "complete",
+        "translationRu": "открытые страны",
+        "example": "Szwecja to jeden z bardziej otwartych krajów.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "miec-glowe-na-karku",
-        "polish": "Mieć głowę na karku",
+        "id": "praza-sie-zmieni",
+        "polish": "praza się zmieni",
         "aiStatus": "complete",
-        "translationRu": "иметь голову на плечах, быть рассудительным (идиома)",
-        "example": "Ona ma głowę na karku i podejmuje dobre decyzje.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "tylko",
-        "polish": "tylko",
-        "aiStatus": "complete",
-        "synonym": "Mam tyko 10 złotych",
-        "translationRu": "только",
-        "example": "Mam tylko dziesięć minut.",
+        "translationRu": "работа изменится (опечатка от praca się zmieni)",
+        "example": "Wierzę, że praca się zmieni na lepsze.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "nowoczesny",
-        "polish": "nowoczesny",
+        "id": "dopiero",
+        "polish": "Dopiero",
         "aiStatus": "complete",
-        "translationRu": "современный",
-        "synonym": "współczesny",
-        "example": "To jest bardzo nowoczesny dom.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wesprzec",
-        "polish": "wesprzeć",
-        "aiStatus": "complete",
-        "translationRu": "поддержать (сов. вид)",
-        "synonym": "pomóc",
-        "example": "Chcę wesprzeć cię w trudnej chwili.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "wyzwanie",
-        "polish": "wyzwanie",
-        "aiStatus": "complete",
-        "translationRu": "вызов, испытание",
-        "synonym": "trudność",
-        "example": "To dla mnie nowe wyzwanie.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "miejsce-docelowe",
-        "polish": "miejsce docelowe",
-        "aiStatus": "complete",
-        "translationRu": "место назначения",
-        "synonym": "cel podróży",
-        "example": "Nasze miejsce docelowe to Kraków.",
+        "synonym": "tylko",
+        "example": "Dopiero kiedy Gabriela skończyła cztery lata",
+        "translationRu": "только (что), лишь",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wsciekly-2",
-        "polish": "wściekły",
-        "aiStatus": "complete",
-        "example": "яростный",
-        "translationRu": "разъярённый, взбешённый",
-        "synonym": "zdenerwowana",
-        "firstSeenAt": "2026-05-02"
+        "id": "w-przyszlym",
+        "polish": "w przyszłym",
+        "aiStatus": "partial",
+        "translationRu": "в будущем (обрывок, напр. w przyszłym roku)",
+        "example": "W przyszłym roku planujemy ślub.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
