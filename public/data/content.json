@@ -1,97 +1,96 @@
 {
-  "generatedAt": "2026-10-25T08:55:06.327Z",
+  "generatedAt": "2026-10-26T09:37:52.751Z",
   "dailyPractice": {
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "words": [
       {
-        "id": "wstydzic-sie",
-        "polish": "wstydzić się",
+        "id": "jej-maz-nadal-zyl",
+        "polish": "jej mąż nadal żył",
         "aiStatus": "complete",
-        "synonym": "czuć wstyd",
-        "example": "jak bardzo się za niego wstydzi",
-        "translationRu": "стыдиться",
+        "synonym": "wciąż",
+        "example": "Jej mąż wciąż żył.",
+        "translationRu": "её муж всё ещё был жив",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "udowodnic-2",
+        "polish": "udowodnić",
+        "aiStatus": "complete",
+        "translationRu": "доказать",
+        "synonym": "udowadniać",
+        "example": "Musisz udowodnić swoją niewinność.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "poprzedzac",
+        "polish": "poprzedzać",
+        "aiStatus": "complete",
+        "synonym": "być przed czymś",
+        "example": "Burza poprzedzać silny wiatr",
+        "translationRu": "предшествовать",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wbrew-oczekiewaniom",
-        "polish": "wbrew oczekiewaniom",
-        "aiStatus": "complete",
-        "translationRu": "вопреки ожиданиям (опечатка от oczekiwaniom)",
-        "synonym": "wbrew przewidywaniom",
-        "example": "Wbrew oczekiwaniom, wygraliśmy ten mecz.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "rekreacja-2",
-        "polish": "rekreacja",
-        "aiStatus": "complete",
-        "translationRu": "отдых, рекреация",
-        "synonym": "wypoczynek",
-        "example": "W parku jest strefa rekreacji.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "oni-byli-zaskoczeni",
-        "polish": "oni byli zaskoczeni",
-        "aiStatus": "complete",
-        "translationRu": "они были удивлены",
-        "synonym": "byli zdziwieni",
-        "example": "Oni byli zaskoczeni wynikiem meczu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "w-obiegu-byc-w-obiegu",
-        "polish": "w obiegu / być w obiegu",
-        "aiStatus": "complete",
-        "synonym": "być używany / obrót",
-        "example": "banknot w obiegu / obieg dokumentów",
-        "translationRu": "в обращении / быть в обращении",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "odnosnie-tego",
-        "polish": "odnośnie tego",
-        "aiStatus": "complete",
-        "translationRu": "относительно этого",
-        "synonym": "co do tego",
-        "example": "Odnośnie tego pytania, nie mam jeszcze odpowiedzi.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "cofnac-sie",
-        "polish": "cofnąc się",
+        "id": "przeprowadac",
+        "polish": "przeprowadać",
         "aiStatus": "partial",
-        "translationRu": "отступить, попятиться (опечатка от cofnąć)",
-        "synonym": "wycofać się",
-        "example": "Musiał się cofnąć, gdy zobaczył niebezpieczeństwo.",
-        "firstSeenAt": "2026-05-02"
+        "synonym": "przeprowadzić",
+        "translationRu": "проводить, осуществлять (опечатка от 'przeprowadzać')",
+        "example": "Trzeba przeprowadzać regularne kontrole.",
+        "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "zszedl",
-        "polish": "zszedł",
+        "id": "doprowadzic",
+        "polish": "doprowadzić",
         "aiStatus": "complete",
-        "translationRu": "сошёл, спустился",
-        "synonym": "zstąpił",
-        "example": "Zszedł ze schodów bardzo szybko.",
+        "translationRu": "довести, привести",
+        "synonym": "spowodować",
+        "example": "To doprowadziło do konfliktu.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "przedstawic",
-        "polish": "przedstawić",
+        "id": "uwazac-zeby-nie-popelnic-bledu",
+        "polish": "uważać, żeby nie popełnić błędu",
         "aiStatus": "complete",
-        "synonym": "zaprezentować",
-        "translationRu": "представить (кого-то/что-то)",
-        "example": "Przedstawiam ci moją siostrę.",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "следить/быть внимательным, чтобы не совершить ошибку",
+        "example": "Uważaj, żeby nie popełnić błędu podczas egzaminu.",
+        "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "osiagnac-5",
-        "polish": "osiągnąć",
+        "id": "zgasilo-sie",
+        "polish": "zgasiło się",
         "aiStatus": "complete",
-        "translationRu": "достичь (цели, результата)",
-        "synonym": "zdobyć",
-        "example": "Osiągnął swój cel.",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "погасло (об экране, свете)",
+        "synonym": "wyłączyło się",
+        "example": "Zgasiło się światło w całym budynku.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "przydatny",
+        "polish": "przydatny",
+        "aiStatus": "complete",
+        "translationRu": "полезный",
+        "synonym": "użyteczny",
+        "example": "To bardzo przydatna informacja.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "przykro",
+        "polish": "przykro",
+        "aiStatus": "complete",
+        "translationRu": "жаль, неприятно",
+        "synonym": "niemiło",
+        "example": "Przykro mi, że musisz jechać sam.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "ruszac-sie",
+        "polish": "ruszać się",
+        "aiStatus": "complete",
+        "translationRu": "двигаться, шевелиться",
+        "synonym": "kręcić się",
+        "example": "Nie ruszaj się, zrobię zdjęcie.",
+        "firstSeenAt": "2026-08-22"
       }
     ],
     "grammarRule": {
