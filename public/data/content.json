@@ -1,97 +1,96 @@
 {
-  "generatedAt": "2026-10-27T09:33:24.342Z",
+  "generatedAt": "2026-10-28T10:17:48.276Z",
   "dailyPractice": {
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "words": [
       {
-        "id": "zbalansowane-odzywanie",
-        "polish": "zbalansowane odzywanie",
-        "aiStatus": "partial",
-        "translationRu": "сбалансированное питание (опечатка: zbalansowane odżywianie)",
-        "synonym": "zdrowa dieta",
-        "example": "Zbalansowane odżywianie jest ważne dla zdrowia.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "fachowca-fachowiec",
-        "polish": "fachowca- Fachowiec",
-        "aiStatus": "partial",
-        "translationRu": "специалист, мастер (fachowiec; fachowca — форма винительного падежа)",
-        "synonym": "specjalista",
-        "example": "Potrzebuję dobrego fachowca do naprawy pralki.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "zachwyt",
-        "polish": "zachwyt",
+        "id": "harmonogram",
+        "polish": "harmonogram",
         "aiStatus": "complete",
-        "translationRu": "восхищение",
-        "synonym": "podziw",
-        "example": "Wystawa wzbudziła powszechny zachwyt.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "relaksowac",
-        "polish": "relaksować",
-        "aiStatus": "complete",
-        "synonym": "odprężyć się/ regenerować siły",
-        "translationRu": "расслаблять(ся)",
-        "example": "Muzyka pomaga mi się relaksować.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wzruszyc-ramionami",
-        "polish": "wzruszyć ramionami",
-        "aiStatus": "complete",
-        "synonym": "podnieść ramiona / nie wiedzieć, co powiedzieć",
-        "example": "Na pytanie tylko wzruszyć ramionami",
-        "translationRu": "пожать плечами",
+        "translationRu": "расписание, график",
+        "synonym": "plan",
+        "example": "Mam napięty harmonogram.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "porownywac",
-        "polish": "porównywać",
+        "id": "wystarczajacy",
+        "polish": "wystarczający",
         "aiStatus": "complete",
-        "translationRu": "сравнивать",
-        "synonym": "zestawiać",
-        "example": "Nie lubię porównywać się z innymi.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "opinia-ona",
-        "polish": "opinia - ona",
-        "aiStatus": "partial",
-        "translationRu": "мнение (она, грам. род)",
-        "synonym": "zdanie",
-        "example": "Jego opinia zawsze się liczy.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zadawolenie",
-        "polish": "zadawolenie",
-        "aiStatus": "partial",
-        "translationRu": "удовлетворение, удовольствие (опечатка от 'zadowolenie')",
-        "synonym": "satysfakcja",
-        "example": "Praca daje mu wiele zadowolenia.",
+        "translationRu": "достаточный (м. р.)",
+        "example": "To wystarczający powód, aby zostać.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "niedolestwo",
-        "polish": "niedołęstwo",
-        "aiStatus": "complete",
-        "translationRu": "немощность, беспомощность, дряхлость",
-        "synonym": "bezradność",
-        "example": "Starość często kojarzy się z niedołęstwem.",
-        "firstSeenAt": "2026-09-09"
+        "id": "objawy-objawa",
+        "polish": "objawy/objawa",
+        "aiStatus": "partial",
+        "translationRu": "симптомы (форма objawa нестандарт., обычно objaw)",
+        "synonym": "symptomy",
+        "example": "Objawy grypy to gorączka i kaszel.",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "obok-najwyzszych-kwalifikacji-fachowych",
-        "polish": "Obok najwyższych kwalifikacji fachowych",
+        "id": "zaskoczony",
+        "polish": "zaskoczony",
         "aiStatus": "complete",
-        "synonym": "oprócz",
-        "translationRu": "Помимо высших профессиональных квалификаций",
-        "example": "Obok najwyższych kwalifikacji fachowych liczy się także doświadczenie życiowe.",
+        "synonym": "zdziwieny",
+        "example": "Byli zaskoczeni nagłą wiadomością",
+        "translationRu": "удивлённый, застигнутый врасплох",
         "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "pobierac-pobrac",
+        "polish": "pobierać / pobrać",
+        "aiStatus": "complete",
+        "translationRu": "скачивать / скачать; получать / получить",
+        "synonym": "ściągać / ściągnąć",
+        "example": "Pobrałem aplikację z internetu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zaslaniac",
+        "polish": "zasłaniać",
+        "aiStatus": "complete",
+        "translationRu": "закрывать, заслонять (несов. вид)",
+        "synonym": "przesłaniać",
+        "example": "Nie zasłaniaj mi widoku.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "czujniki",
+        "polish": "czujniki",
+        "aiStatus": "complete",
+        "translationRu": "датчики",
+        "synonym": "detektory",
+        "example": "Dom jest wyposażony w czujniki dymu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "szczyt",
+        "polish": "szczyt",
+        "aiStatus": "complete",
+        "translationRu": "вершина, пик",
+        "synonym": "wierzchołek",
+        "example": "Dotarliśmy na szczyt góry.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "media-spolecznosciowe",
+        "polish": "media społecznosciowe",
+        "aiStatus": "complete",
+        "translationRu": "социальные сети",
+        "synonym": "social media",
+        "example": "Spędza codziennie kilka godzin na mediach społecznościowych.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "ogolnie-mowiac",
+        "polish": "ogólnie mówiąc",
+        "aiStatus": "complete",
+        "translationRu": "вообще говоря",
+        "synonym": "generalnie",
+        "example": "Ogólnie mówiąc, jestem zadowolony.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
