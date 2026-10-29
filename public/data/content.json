@@ -1,96 +1,95 @@
 {
-  "generatedAt": "2026-10-28T10:17:48.276Z",
+  "generatedAt": "2026-10-29T10:41:24.274Z",
   "dailyPractice": {
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "words": [
       {
-        "id": "harmonogram",
-        "polish": "harmonogram",
+        "id": "relacje",
+        "polish": "relację",
         "aiStatus": "complete",
-        "translationRu": "расписание, график",
-        "synonym": "plan",
-        "example": "Mam napięty harmonogram.",
+        "translationRu": "отношения (вин. падеж от relacja)",
+        "synonym": "związek",
+        "example": "Opisz swoją relację z rodzicami.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wystarczajacy",
-        "polish": "wystarczający",
-        "aiStatus": "complete",
-        "translationRu": "достаточный (м. р.)",
-        "example": "To wystarczający powód, aby zostać.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "objawy-objawa",
-        "polish": "objawy/objawa",
+        "id": "walizka-ona",
+        "polish": "walizka - ona",
         "aiStatus": "partial",
-        "translationRu": "симптомы (форма objawa нестандарт., обычно objaw)",
-        "synonym": "symptomy",
-        "example": "Objawy grypy to gorączka i kaszel.",
+        "translationRu": "чемодан (она, грам. род)",
+        "example": "Walizka była tak ciężka, że ledwo ją uniosłem.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zaskoczony",
-        "polish": "zaskoczony",
+        "id": "dac",
+        "polish": "dąć",
         "aiStatus": "complete",
-        "synonym": "zdziwieny",
-        "example": "Byli zaskoczeni nagłą wiadomością",
-        "translationRu": "удивлённый, застигнутый врасплох",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "дуть",
+        "synonym": "wiać",
+        "example": "Wiatr zaczął dąć coraz silniej.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "pobierac-pobrac",
-        "polish": "pobierać / pobrać",
+        "id": "przydatne",
+        "polish": "przydatne",
         "aiStatus": "complete",
-        "translationRu": "скачивать / скачать; получать / получить",
-        "synonym": "ściągać / ściągnąć",
-        "example": "Pobrałem aplikację z internetu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zaslaniac",
-        "polish": "zasłaniać",
-        "aiStatus": "complete",
-        "translationRu": "закрывать, заслонять (несов. вид)",
-        "synonym": "przesłaniać",
-        "example": "Nie zasłaniaj mi widoku.",
+        "translationRu": "полезные, пригодные",
+        "synonym": "użyteczne",
+        "example": "Te informacje są bardzo przydatne.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "czujniki",
-        "polish": "czujniki",
+        "id": "istniec",
+        "polish": "istnieć",
         "aiStatus": "complete",
-        "translationRu": "датчики",
-        "synonym": "detektory",
-        "example": "Dom jest wyposażony w czujniki dymu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "szczyt",
-        "polish": "szczyt",
-        "aiStatus": "complete",
-        "translationRu": "вершина, пик",
-        "synonym": "wierzchołek",
-        "example": "Dotarliśmy na szczyt góry.",
+        "translationRu": "существовать",
+        "synonym": "być",
+        "example": "Czy duchy naprawdę istnieją?",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "media-spolecznosciowe",
-        "polish": "media społecznosciowe",
+        "id": "dojazd-2",
+        "polish": "dojazd",
         "aiStatus": "complete",
-        "translationRu": "социальные сети",
-        "synonym": "social media",
-        "example": "Spędza codziennie kilka godzin na mediach społecznościowych.",
+        "translationRu": "подъезд, доступ (транспортом)",
+        "synonym": "dotarcie",
+        "example": "Dojazd do centrum zajmuje pół godziny.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "dowcip",
+        "polish": "dowcip",
+        "aiStatus": "complete",
+        "synonym": "żart, anegdota",
+        "example": "Śmiać się z dowcipu",
+        "translationRu": "шутка, анекдот",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "biedronka",
+        "polish": "biedronka",
+        "aiStatus": "complete",
+        "translationRu": "божья коровка",
+        "example": "Biedronka usiadła na liściu.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "natychmiast-2",
+        "polish": "natychmiast",
+        "aiStatus": "complete",
+        "translationRu": "немедленно, сразу",
+        "synonym": "od razu",
+        "example": "natychmiast wstali z kanapy",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "ogolnie-mowiac",
-        "polish": "ogólnie mówiąc",
+        "id": "brzydzic-sie",
+        "polish": "brzydzić się",
         "aiStatus": "complete",
-        "translationRu": "вообще говоря",
-        "synonym": "generalnie",
-        "example": "Ogólnie mówiąc, jestem zadowolony.",
-        "firstSeenAt": "2026-07-17"
+        "translationRu": "испытывать отвращение, гнушаться",
+        "synonym": "czuć wstręt",
+        "example": "Brzydzę się pająkami.",
+        "firstSeenAt": "2026-08-22"
       }
     ],
     "grammarRule": {
