@@ -1,95 +1,97 @@
 {
-  "generatedAt": "2026-10-29T10:41:24.274Z",
+  "generatedAt": "2026-10-30T10:41:28.389Z",
   "dailyPractice": {
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "words": [
       {
-        "id": "relacje",
-        "polish": "relację",
+        "id": "rekreacja",
+        "polish": "rekreacja",
         "aiStatus": "complete",
-        "translationRu": "отношения (вин. падеж от relacja)",
-        "synonym": "związek",
-        "example": "Opisz swoją relację z rodzicami.",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "отдых, рекреация",
+        "synonym": "wypoczynek",
+        "example": "W parku jest strefa rekreacji.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "walizka-ona",
-        "polish": "walizka - ona",
+        "id": "zakasowac",
+        "polish": "zakasować",
+        "aiStatus": "complete",
+        "translationRu": "превзойти, затмить (кого-то)",
+        "synonym": "przewyższyć",
+        "example": "Młody zawodnik zakasował wszystkich rywali.",
+        "firstSeenAt": "2026-09-09"
+      },
+      {
+        "id": "rozpowszechniony",
+        "polish": "rozpowszechniony",
+        "aiStatus": "complete",
+        "translationRu": "распространённый, широко известный",
+        "synonym": "powszechny",
+        "example": "To bardzo rozpowszechniony pogląd.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "sposob-sposoby-2",
+        "polish": "sposób - sposoby",
+        "aiStatus": "complete",
+        "synonym": "warianty",
+        "translationRu": "способ - способы",
+        "example": "Są różne sposoby na rozwiązanie tego problemu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zadawolenie",
+        "polish": "zadawolenie",
         "aiStatus": "partial",
-        "translationRu": "чемодан (она, грам. род)",
-        "example": "Walizka była tak ciężka, że ledwo ją uniosłem.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "dac",
-        "polish": "dąć",
-        "aiStatus": "complete",
-        "translationRu": "дуть",
-        "synonym": "wiać",
-        "example": "Wiatr zaczął dąć coraz silniej.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "przydatne",
-        "polish": "przydatne",
-        "aiStatus": "complete",
-        "translationRu": "полезные, пригодные",
-        "synonym": "użyteczne",
-        "example": "Te informacje są bardzo przydatne.",
+        "translationRu": "удовлетворение, удовольствие (опечатка от 'zadowolenie')",
+        "synonym": "satysfakcja",
+        "example": "Praca daje mu wiele zadowolenia.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "istniec",
-        "polish": "istnieć",
+        "id": "dopiero-2",
+        "polish": "dopiero",
         "aiStatus": "complete",
-        "translationRu": "существовать",
-        "synonym": "być",
-        "example": "Czy duchy naprawdę istnieją?",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "dojazd-2",
-        "polish": "dojazd",
-        "aiStatus": "complete",
-        "translationRu": "подъезд, доступ (транспортом)",
-        "synonym": "dotarcie",
-        "example": "Dojazd do centrum zajmuje pół godziny.",
+        "synonym": "Dopiero przyszłam do domu",
+        "translationRu": "только (что), лишь",
+        "example": "Dopiero wtedy zrozumiałem swój błąd.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "dowcip",
-        "polish": "dowcip",
+        "id": "wyjac",
+        "polish": "wyjąć",
         "aiStatus": "complete",
-        "synonym": "żart, anegdota",
-        "example": "Śmiać się z dowcipu",
-        "translationRu": "шутка, анекдот",
+        "synonym": "wyciągnąć",
+        "example": "Wyjęła klucze z torebki",
+        "translationRu": "вынуть, достать",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "biedronka",
-        "polish": "biedronka",
+        "id": "schudnac",
+        "polish": "schudnąć",
         "aiStatus": "complete",
-        "translationRu": "божья коровка",
-        "example": "Biedronka usiadła na liściu.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "natychmiast-2",
-        "polish": "natychmiast",
-        "aiStatus": "complete",
-        "translationRu": "немедленно, сразу",
-        "synonym": "od razu",
-        "example": "natychmiast wstali z kanapy",
+        "translationRu": "похудеть",
+        "synonym": "zrzucić wagę",
+        "example": "Chcę schudnąć pięć kilo.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "brzydzic-sie",
-        "polish": "brzydzić się",
+        "id": "wyjatkowy",
+        "polish": "wyjątkowy",
         "aiStatus": "complete",
-        "translationRu": "испытывать отвращение, гнушаться",
-        "synonym": "czuć wstręt",
-        "example": "Brzydzę się pająkami.",
-        "firstSeenAt": "2026-08-22"
+        "translationRu": "исключительный",
+        "synonym": "niezwykły",
+        "example": "To był wyjątkowy dzień.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "glupio",
+        "polish": "głupio",
+        "aiStatus": "complete",
+        "translationRu": "глупо",
+        "synonym": "niemądrze",
+        "example": "Czuję się głupio po tej pomyłce.",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
