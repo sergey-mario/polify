@@ -1,96 +1,94 @@
 {
-  "generatedAt": "2026-10-30T10:41:28.389Z",
+  "generatedAt": "2026-10-31T10:09:43.258Z",
   "dailyPractice": {
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "words": [
       {
-        "id": "rekreacja",
-        "polish": "rekreacja",
+        "id": "osiagnac-5",
+        "polish": "osiągnąć",
         "aiStatus": "complete",
-        "translationRu": "отдых, рекреация",
-        "synonym": "wypoczynek",
-        "example": "W parku jest strefa rekreacji.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zakasowac",
-        "polish": "zakasować",
-        "aiStatus": "complete",
-        "translationRu": "превзойти, затмить (кого-то)",
-        "synonym": "przewyższyć",
-        "example": "Młody zawodnik zakasował wszystkich rywali.",
-        "firstSeenAt": "2026-09-09"
-      },
-      {
-        "id": "rozpowszechniony",
-        "polish": "rozpowszechniony",
-        "aiStatus": "complete",
-        "translationRu": "распространённый, широко известный",
-        "synonym": "powszechny",
-        "example": "To bardzo rozpowszechniony pogląd.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "sposob-sposoby-2",
-        "polish": "sposób - sposoby",
-        "aiStatus": "complete",
-        "synonym": "warianty",
-        "translationRu": "способ - способы",
-        "example": "Są różne sposoby na rozwiązanie tego problemu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zadawolenie",
-        "polish": "zadawolenie",
-        "aiStatus": "partial",
-        "translationRu": "удовлетворение, удовольствие (опечатка от 'zadowolenie')",
-        "synonym": "satysfakcja",
-        "example": "Praca daje mu wiele zadowolenia.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "dopiero-2",
-        "polish": "dopiero",
-        "aiStatus": "complete",
-        "synonym": "Dopiero przyszłam do domu",
-        "translationRu": "только (что), лишь",
-        "example": "Dopiero wtedy zrozumiałem swój błąd.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wyjac",
-        "polish": "wyjąć",
-        "aiStatus": "complete",
-        "synonym": "wyciągnąć",
-        "example": "Wyjęła klucze z torebki",
-        "translationRu": "вынуть, достать",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "schudnac",
-        "polish": "schudnąć",
-        "aiStatus": "complete",
-        "translationRu": "похудеть",
-        "synonym": "zrzucić wagę",
-        "example": "Chcę schudnąć pięć kilo.",
+        "translationRu": "достичь (цели, результата)",
+        "synonym": "zdobyć",
+        "example": "Osiągnął swój cel.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wyjatkowy",
-        "polish": "wyjątkowy",
+        "id": "w-polsce-jest-duzo-imigrantow-nie-w-polsce-sa-duzo-imigrantow",
+        "polish": "w Polsce jest dużo imigrantów - nie ,, w Polsce są dużo imigrantów''",
+        "aiStatus": "partial",
+        "translationRu": "в Польше много иммигрантов (с «dużo» используется «jest», а не «są»)",
+        "example": "W Polsce jest dużo imigrantów z Ukrainy.",
+        "firstSeenAt": "2026-09-09"
+      },
+      {
+        "id": "miasto",
+        "polish": "miasto",
         "aiStatus": "complete",
-        "translationRu": "исключительный",
-        "synonym": "niezwykły",
-        "example": "To był wyjątkowy dzień.",
+        "translationRu": "город",
+        "synonym": "miejscowość",
+        "example": "Warszawa to duże miasto.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "dane-osobowe",
+        "polish": "dane osobowe",
+        "aiStatus": "complete",
+        "translationRu": "личные данные",
+        "synonym": "informacje osobiste",
+        "example": "Firma chroni nasze dane osobowe.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "przeprowadzic-sie",
+        "polish": "przeprowadzić się",
+        "aiStatus": "complete",
+        "translationRu": "переехать",
+        "synonym": "przenieść się",
+        "example": "Przeprowadziliśmy się do Warszawy.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "glupio",
-        "polish": "głupio",
+        "id": "tlumaczyc-sie-2",
+        "polish": "tłumaczyć się",
         "aiStatus": "complete",
-        "translationRu": "глупо",
-        "synonym": "niemądrze",
-        "example": "Czuję się głupio po tej pomyłce.",
+        "translationRu": "оправдываться",
+        "synonym": "usprawiedliwiać się",
+        "example": "Nie musisz mi się tłumaczyć.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "duzo-malo-wiekszosc-mniejszosc",
+        "polish": "dużo/mało/ większość/ mniejszość",
+        "aiStatus": "complete",
+        "translationRu": "много/мало/большинство/меньшинство",
+        "example": "Dużo osób poparło projekt, mało było przeciw.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "podejsc",
+        "polish": "podejść",
+        "aiStatus": "complete",
+        "translationRu": "подойти",
+        "synonym": "zbliżyć się",
+        "example": "Podeszłam do niego i się przywitałam.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "zaburzenie-psychologiczne",
+        "polish": "zaburzenie psychologiczne",
+        "aiStatus": "complete",
+        "translationRu": "психологическое расстройство",
+        "synonym": "zaburzenie psychiczne",
+        "example": "Depresja to zaburzenie psychologiczne.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "spedzilbym",
+        "polish": "spędziłbym",
+        "aiStatus": "complete",
+        "translationRu": "я бы провёл (время) — условное наклонение",
+        "synonym": "poświęciłbym czas",
+        "example": "Spędziłbym cały dzień na czytaniu książek.",
         "firstSeenAt": "2026-05-02"
       }
     ],
