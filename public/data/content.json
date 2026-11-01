@@ -1,95 +1,96 @@
 {
-  "generatedAt": "2026-10-31T10:09:43.258Z",
+  "generatedAt": "2026-11-01T10:59:47.291Z",
   "dailyPractice": {
-    "date": "2026-10-31",
+    "date": "2026-11-01",
     "words": [
       {
-        "id": "osiagnac-5",
-        "polish": "osiągnąć",
+        "id": "rolnictwo",
+        "polish": "rolnictwo",
         "aiStatus": "complete",
-        "translationRu": "достичь (цели, результата)",
-        "synonym": "zdobyć",
-        "example": "Osiągnął swój cel.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "w-polsce-jest-duzo-imigrantow-nie-w-polsce-sa-duzo-imigrantow",
-        "polish": "w Polsce jest dużo imigrantów - nie ,, w Polsce są dużo imigrantów''",
-        "aiStatus": "partial",
-        "translationRu": "в Польше много иммигрантов (с «dużo» используется «jest», а не «są»)",
-        "example": "W Polsce jest dużo imigrantów z Ukrainy.",
-        "firstSeenAt": "2026-09-09"
-      },
-      {
-        "id": "miasto",
-        "polish": "miasto",
-        "aiStatus": "complete",
-        "translationRu": "город",
-        "synonym": "miejscowość",
-        "example": "Warszawa to duże miasto.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "dane-osobowe",
-        "polish": "dane osobowe",
-        "aiStatus": "complete",
-        "translationRu": "личные данные",
-        "synonym": "informacje osobiste",
-        "example": "Firma chroni nasze dane osobowe.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "przeprowadzic-sie",
-        "polish": "przeprowadzić się",
-        "aiStatus": "complete",
-        "translationRu": "переехать",
-        "synonym": "przenieść się",
-        "example": "Przeprowadziliśmy się do Warszawy.",
+        "translationRu": "сельское хозяйство",
+        "synonym": "gospodarka rolna",
+        "example": "Rolnictwo jest ważną branżą tego regionu.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "tlumaczyc-sie-2",
-        "polish": "tłumaczyć się",
+        "id": "on-ona-musi",
+        "polish": "on / ona musi",
         "aiStatus": "complete",
-        "translationRu": "оправдываться",
-        "synonym": "usprawiedliwiać się",
-        "example": "Nie musisz mi się tłumaczyć.",
+        "translationRu": "он / она должен / должна",
+        "example": "On musi iść do pracy.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "mlodziez",
+        "polish": "młodzież",
+        "aiStatus": "complete",
+        "translationRu": "молодёжь",
+        "synonym": "młodzi ludzie",
+        "example": "Współczesna młodzież dużo siedzi w telefonach.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "duzo-malo-wiekszosc-mniejszosc",
-        "polish": "dużo/mało/ większość/ mniejszość",
+        "id": "zasadniczo",
+        "polish": "zasadniczo",
         "aiStatus": "complete",
-        "translationRu": "много/мало/большинство/меньшинство",
-        "example": "Dużo osób poparło projekt, mało było przeciw.",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "в принципе, по сути",
+        "synonym": "generalnie",
+        "example": "Zasadniczo zgadzam się z tobą.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "podejsc",
-        "polish": "podejść",
+        "id": "czujemy-sie-skrepowani",
+        "polish": "czujemy się\nskrępowani",
         "aiStatus": "complete",
-        "translationRu": "подойти",
-        "synonym": "zbliżyć się",
-        "example": "Podeszłam do niego i się przywitałam.",
+        "translationRu": "мы чувствуем себя неловко, стеснённо",
+        "synonym": "zawstydzeni",
+        "example": "Czujemy się skrępowani w nowej sytuacji.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "zaburzenie-psychologiczne",
-        "polish": "zaburzenie psychologiczne",
+        "id": "zaslaniac",
+        "polish": "zasłaniać",
         "aiStatus": "complete",
-        "translationRu": "психологическое расстройство",
-        "synonym": "zaburzenie psychiczne",
-        "example": "Depresja to zaburzenie psychologiczne.",
+        "translationRu": "закрывать, заслонять (несов. вид)",
+        "synonym": "przesłaniać",
+        "example": "Nie zasłaniaj mi widoku.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "harmonogram-2",
+        "polish": "harmonogram",
+        "aiStatus": "complete",
+        "translationRu": "расписание, график",
+        "synonym": "plan",
+        "example": "Mam napięty harmonogram.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "od-czasu-do-czasu",
+        "polish": "od czasu do czasu",
+        "aiStatus": "complete",
+        "translationRu": "время от времени",
+        "synonym": "sporadycznie",
+        "example": "Od czasu do czasu chodzimy do kina.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "spedzilbym",
-        "polish": "spędziłbym",
+        "id": "przytyla-kilka-kilo",
+        "polish": "Przytyła kilka kilo",
         "aiStatus": "complete",
-        "translationRu": "я бы провёл (время) — условное наклонение",
-        "synonym": "poświęciłbym czas",
-        "example": "Spędziłbym cały dzień na czytaniu książek.",
+        "translationRu": "Она поправилась на несколько кило",
+        "synonym": "Utyła kilka kilo",
+        "example": "Po świętach przytyła kilka kilo.",
         "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "udar-sloneczny",
+        "polish": "udar słoneczny",
+        "aiStatus": "complete",
+        "translationRu": "солнечный удар",
+        "synonym": "przegrzanie",
+        "example": "Dostał udaru słonecznego na plaży.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
