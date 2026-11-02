@@ -1,95 +1,95 @@
 {
-  "generatedAt": "2026-11-01T10:59:47.291Z",
+  "generatedAt": "2026-11-02T11:58:10.816Z",
   "dailyPractice": {
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "words": [
       {
-        "id": "rolnictwo",
-        "polish": "rolnictwo",
+        "id": "rasa",
+        "polish": "rasa",
         "aiStatus": "complete",
-        "translationRu": "сельское хозяйство",
-        "synonym": "gospodarka rolna",
-        "example": "Rolnictwo jest ważną branżą tego regionu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "on-ona-musi",
-        "polish": "on / ona musi",
-        "aiStatus": "complete",
-        "translationRu": "он / она должен / должна",
-        "example": "On musi iść do pracy.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "mlodziez",
-        "polish": "młodzież",
-        "aiStatus": "complete",
-        "translationRu": "молодёжь",
-        "synonym": "młodzi ludzie",
-        "example": "Współczesna młodzież dużo siedzi w telefonach.",
+        "translationRu": "раса; порода (животных)",
+        "synonym": "gatunek",
+        "example": "Jaka to jest rasa psa?",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zasadniczo",
-        "polish": "zasadniczo",
+        "id": "grafik",
+        "polish": "grafik",
         "aiStatus": "complete",
-        "translationRu": "в принципе, по сути",
-        "synonym": "generalnie",
-        "example": "Zasadniczo zgadzam się z tobą.",
-        "firstSeenAt": "2026-07-17"
+        "translationRu": "график (работ, дежурств); график-художник",
+        "synonym": "harmonogram",
+        "example": "Sprawdź grafik dyżurów w tym tygodniu.",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "czujemy-sie-skrepowani",
-        "polish": "czujemy się\nskrępowani",
+        "id": "poddawac-sie-2",
+        "polish": "poddawać się",
         "aiStatus": "complete",
-        "translationRu": "мы чувствуем себя неловко, стеснённо",
-        "synonym": "zawstydzeni",
-        "example": "Czujemy się skrępowani w nowej sytuacji.",
+        "synonym": "rezygnować, kapitulować",
+        "example": "Warto walczyć i nie poddawać się",
+        "translationRu": "сдаваться",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "miec-glowe-na-karku",
+        "polish": "Mieć głowę na karku",
+        "aiStatus": "complete",
+        "translationRu": "иметь голову на плечах, быть рассудительным (идиома)",
+        "example": "Ona ma głowę na karku i podejmuje dobre decyzje.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "zaslaniac",
-        "polish": "zasłaniać",
+        "id": "zaklad",
+        "polish": "zakład",
         "aiStatus": "complete",
-        "translationRu": "закрывать, заслонять (несов. вид)",
-        "synonym": "przesłaniać",
-        "example": "Nie zasłaniaj mi widoku.",
-        "firstSeenAt": "2026-08-22"
+        "translationRu": "предприятие, завод, заведение; также «спор, пари» (омоним)",
+        "synonym": "przedsiębiorstwo",
+        "example": "Mój ojciec pracuje w zakładzie produkcyjnym.",
+        "firstSeenAt": "2026-09-09"
       },
       {
-        "id": "harmonogram-2",
-        "polish": "harmonogram",
+        "id": "trudno",
+        "polish": "trudno",
         "aiStatus": "complete",
-        "translationRu": "расписание, график",
-        "synonym": "plan",
-        "example": "Mam napięty harmonogram.",
+        "translationRu": "трудно, тяжело",
+        "synonym": "ciężko",
+        "example": "Trudno mi to zrozumieć.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "od-czasu-do-czasu",
-        "polish": "od czasu do czasu",
+        "id": "przyzwyczajenie",
+        "polish": "przyzwyczajenie",
         "aiStatus": "complete",
-        "translationRu": "время от времени",
-        "synonym": "sporadycznie",
-        "example": "Od czasu do czasu chodzimy do kina.",
+        "synonym": "nawyk, zwyczaj, maniera",
+        "translationRu": "привычка",
+        "example": "To tylko siła przyzwyczajenia.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "podac-przyklad",
+        "polish": "podać przykład",
+        "aiStatus": "complete",
+        "translationRu": "привести пример",
+        "synonym": "przytoczyć przykład",
+        "example": "Czy możesz podać przykład tego zjawiska?",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "choroba-zakazna",
+        "polish": "choroba zakaźna",
+        "aiStatus": "complete",
+        "synonym": "choroba infekcyjna/ choroba zaraźliwa",
+        "translationRu": "инфекционная болезнь",
+        "example": "Grypa jest chorobą zakaźną.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "przytyla-kilka-kilo",
-        "polish": "Przytyła kilka kilo",
+        "id": "zyskowac-zysk",
+        "polish": "zyskować - zysk",
         "aiStatus": "complete",
-        "translationRu": "Она поправилась на несколько кило",
-        "synonym": "Utyła kilka kilo",
-        "example": "Po świętach przytyła kilka kilo.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "udar-sloneczny",
-        "polish": "udar słoneczny",
-        "aiStatus": "complete",
-        "translationRu": "солнечный удар",
-        "synonym": "przegrzanie",
-        "example": "Dostał udaru słonecznego na plaży.",
+        "translationRu": "выигрывать, приобретать - выгода",
+        "synonym": "korzystać",
+        "example": "Firma zyskuje na tej inwestycji.",
         "firstSeenAt": "2026-07-17"
       }
     ],
