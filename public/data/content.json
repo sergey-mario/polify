@@ -1,96 +1,97 @@
 {
-  "generatedAt": "2026-11-02T11:58:10.816Z",
+  "generatedAt": "2026-11-03T11:34:41.556Z",
   "dailyPractice": {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "words": [
       {
-        "id": "rasa",
-        "polish": "rasa",
+        "id": "oczekiwac",
+        "polish": "oczekiwać",
         "aiStatus": "complete",
-        "translationRu": "раса; порода (животных)",
-        "synonym": "gatunek",
-        "example": "Jaka to jest rasa psa?",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "grafik",
-        "polish": "grafik",
-        "aiStatus": "complete",
-        "translationRu": "график (работ, дежурств); график-художник",
-        "synonym": "harmonogram",
-        "example": "Sprawdź grafik dyżurów w tym tygodniu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "poddawac-sie-2",
-        "polish": "poddawać się",
-        "aiStatus": "complete",
-        "synonym": "rezygnować, kapitulować",
-        "example": "Warto walczyć i nie poddawać się",
-        "translationRu": "сдаваться",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "miec-glowe-na-karku",
-        "polish": "Mieć głowę na karku",
-        "aiStatus": "complete",
-        "translationRu": "иметь голову на плечах, быть рассудительным (идиома)",
-        "example": "Ona ma głowę na karku i podejmuje dobre decyzje.",
+        "translationRu": "ожидать",
+        "synonym": "czekać na",
+        "example": "Oczekujemy dobrych wyników.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "zaklad",
-        "polish": "zakład",
+        "id": "irytowac",
+        "polish": "irytować",
         "aiStatus": "complete",
-        "translationRu": "предприятие, завод, заведение; также «спор, пари» (омоним)",
-        "synonym": "przedsiębiorstwo",
-        "example": "Mój ojciec pracuje w zakładzie produkcyjnym.",
+        "translationRu": "раздражать",
+        "synonym": "denerwować",
+        "example": "Ten dźwięk mnie irytuje.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wspierac",
+        "polish": "wspierać",
+        "aiStatus": "complete",
+        "translationRu": "поддерживать",
+        "synonym": "pomagać",
+        "example": "Rodzice mnie wspierają.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "rozpraszac-sie",
+        "polish": "rozpraszać się",
+        "aiStatus": "complete",
+        "synonym": "dekoncentrować się",
+        "translationRu": "отвлекаться, рассеиваться",
+        "example": "Łatwo się rozpraszam podczas pracy.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "rezerwat",
+        "polish": "rezerwat",
+        "aiStatus": "complete",
+        "translationRu": "заповедник",
+        "synonym": "obszar chroniony",
+        "example": "W rezerwacie żyją rzadkie gatunki zwierząt.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zwariowac",
+        "polish": "zwariować",
+        "aiStatus": "complete",
+        "synonym": "powariować, oszaleć, zbzikować",
+        "translationRu": "сойти с ума",
+        "example": "Chyba zwariowałem z tym stresem.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "handlowac",
+        "polish": "handlować",
+        "aiStatus": "complete",
+        "translationRu": "торговать",
+        "synonym": "sprzedawać",
+        "example": "Handluje starociami na targu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "otylosc",
+        "polish": "otyłość",
+        "aiStatus": "complete",
+        "translationRu": "ожирение",
+        "synonym": "nadwaga",
+        "example": "Otyłość jest coraz większym problemem zdrowotnym.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "w-lesie",
+        "polish": "w lesie",
+        "aiStatus": "complete",
+        "synonym": "w lasie",
+        "translationRu": "в лесу",
+        "example": "Spaceruję w lesie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "popis",
+        "polish": "popis",
+        "aiStatus": "complete",
+        "translationRu": "показное выступление, демонстрация мастерства",
+        "synonym": "pokaz",
+        "example": "To był prawdziwy popis jego umiejętności aktorskich.",
         "firstSeenAt": "2026-09-09"
-      },
-      {
-        "id": "trudno",
-        "polish": "trudno",
-        "aiStatus": "complete",
-        "translationRu": "трудно, тяжело",
-        "synonym": "ciężko",
-        "example": "Trudno mi to zrozumieć.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "przyzwyczajenie",
-        "polish": "przyzwyczajenie",
-        "aiStatus": "complete",
-        "synonym": "nawyk, zwyczaj, maniera",
-        "translationRu": "привычка",
-        "example": "To tylko siła przyzwyczajenia.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "podac-przyklad",
-        "polish": "podać przykład",
-        "aiStatus": "complete",
-        "translationRu": "привести пример",
-        "synonym": "przytoczyć przykład",
-        "example": "Czy możesz podać przykład tego zjawiska?",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "choroba-zakazna",
-        "polish": "choroba zakaźna",
-        "aiStatus": "complete",
-        "synonym": "choroba infekcyjna/ choroba zaraźliwa",
-        "translationRu": "инфекционная болезнь",
-        "example": "Grypa jest chorobą zakaźną.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zyskowac-zysk",
-        "polish": "zyskować - zysk",
-        "aiStatus": "complete",
-        "translationRu": "выигрывать, приобретать - выгода",
-        "synonym": "korzystać",
-        "example": "Firma zyskuje na tej inwestycji.",
-        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
