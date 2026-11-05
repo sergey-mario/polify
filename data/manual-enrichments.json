@@ -2427,7 +2427,8 @@
   "ja mogłem": {
     "translationRu": "я мог (муж. род, прош. вр.)",
     "aiStatus": "partial",
-    "example": "Ja mogłem to zrobić lepiej."
+    "example": "Ja mogłem pójść z wami, ale zostałem w domu.",
+    "synonym": "mogłem"
   },
   "ja zapomniałem": {
     "translationRu": "я забыл",
@@ -5937,7 +5938,9 @@
   },
   "na strychu": {
     "translationRu": "на чердаке",
-    "aiStatus": "complete"
+    "aiStatus": "complete",
+    "synonym": "na poddaszu",
+    "example": "Stare zabawki leżą na strychu."
   },
   "dotrwałam do świtu": {
     "translationRu": "я продержалась / дожила до рассвета",
@@ -6050,6 +6053,89 @@
   },
   "nie jest skutecznym sposobem": {
     "translationRu": "не является эффективным способом",
+    "aiStatus": "complete"
+  },
+  "zalążek wyobrażenia": {
+    "translationRu": "зачаток представления",
+    "synonym": "początek pomysłu",
+    "example": "W jego głowie pojawił się zalążek wyobrażenia o nowym projekcie.",
+    "aiStatus": "complete"
+  },
+  "zwiastować koniec świata": {
+    "translationRu": "предвещать конец света",
+    "synonym": "zapowiadać",
+    "example": "Niektórzy uważali, że kometa zwiastuje koniec świata.",
+    "aiStatus": "complete"
+  },
+  "zawieranie": {
+    "translationRu": "заключение (договора), включение",
+    "synonym": "zawarcie",
+    "example": "Zawieranie umów wymaga uwagi.",
+    "aiStatus": "complete"
+  },
+  "streść": {
+    "translationRu": "перескажи, изложи вкратце (повелит. от streścić)",
+    "synonym": "opowiedz krótko",
+    "example": "Streść mi ten film w dwóch zdaniach.",
+    "aiStatus": "complete"
+  },
+  "W ten punkt już trafiono": {
+    "translationRu": "В эту точку уже попали (фрагмент фразы)",
+    "aiStatus": "partial"
+  },
+  "buchalter???": {
+    "translationRu": "бухгалтер (устар./разг.; сомнительная запись)",
+    "synonym": "księgowy",
+    "aiStatus": "partial"
+  },
+  "zarobki w mowie będącego „kawalera” w żaden sposób nie mogą wystarczyć na opędzenie potrzeb domowych": {
+    "translationRu": "заработка упомянутого «холостяка» никак не может хватить на покрытие домашних нужд (обрывок цитаты)",
+    "aiStatus": "partial"
+  },
+  "Jest niewątpliwym faktem": {
+    "translationRu": "Это несомненный факт (обрывок фразы)",
+    "aiStatus": "partial"
+  },
+  "Oni są tak zuchwali, że sięgają wzrokiem o kilka lat w przyszłość": {
+    "translationRu": "Они так дерзки, что заглядывают взглядом на несколько лет вперёд",
+    "aiStatus": "complete"
+  },
+  "zatarg": {
+    "translationRu": "столкновение, ссора, конфликт",
+    "synonym": "spór",
+    "example": "Między sąsiadami doszło do zatargu o płot.",
+    "aiStatus": "complete"
+  },
+  "posag": {
+    "translationRu": "приданое",
+    "synonym": "wiano",
+    "example": "Panna młoda dostała od rodziców bogaty posag.",
+    "aiStatus": "complete"
+  },
+  "popęd": {
+    "translationRu": "влечение, инстинкт, побуждение",
+    "synonym": "instynkt",
+    "example": "Popęd płciowy jest naturalną potrzebą.",
+    "aiStatus": "complete"
+  },
+  "wyrobnik": {
+    "translationRu": "поденщик",
+    "synonym": "robotnik dniówkowy",
+    "example": "Dawniej wyrobnicy pracowali za grosze.",
+    "aiStatus": "complete"
+  },
+  "opędzenie": {
+    "translationRu": "покрытие (расходов), удовлетворение (нужд)",
+    "synonym": "pokrycie",
+    "example": "Pensja ledwo wystarcza na opędzenie podstawowych wydatków.",
+    "aiStatus": "complete"
+  },
+  "z czasem osiągnąć poziom mistrzostwa, zwłaszcza w zakresie potraw wykwintnych": {
+    "translationRu": "со временем достичь мастерского уровня, особенно в области изысканных блюд",
+    "aiStatus": "complete"
+  },
+  "ogranicza się do dreptaniny pomiędzy pralnią i garnkami kuchni": {
+    "translationRu": "ограничивается топтанием между прачечной и кухонными кастрюлями",
     "aiStatus": "complete"
   }
 }

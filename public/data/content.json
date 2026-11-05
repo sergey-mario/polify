@@ -1,100 +1,107 @@
 {
-  "generatedAt": "2026-11-04T11:49:19.326Z",
+  "generatedAt": "2026-11-05T07:11:59.282Z",
   "dailyPractice": {
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "words": [
       {
-        "id": "istotniejszy",
-        "polish": "istotniejszy",
-        "aiStatus": "complete",
-        "translationRu": "более важный, более существенный (сравнит. степень от 'istotny')",
-        "synonym": "ważniejszy",
-        "example": "To jest istotniejszy problem niż sądziliśmy.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "prawie",
-        "polish": "prawie",
-        "aiStatus": "complete",
-        "translationRu": "почти",
-        "synonym": "niemal",
-        "example": "Prawie zapomniałem.",
+        "id": "wyobrazic-2",
+        "polish": "wyobrażić",
+        "aiStatus": "partial",
+        "synonym": "ujawnić",
+        "translationRu": "представить (опечатка от wyobrazić)",
+        "example": "Nie potrafię sobie wyobrazić życia bez internetu.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "programista-programisci",
-        "polish": "programista - programisci",
+        "id": "dowcip",
+        "polish": "dowcip",
         "aiStatus": "complete",
-        "translationRu": "программист — программисты",
-        "synonym": "deweloper",
-        "example": "Programiści pracują nad nową aplikacją.",
+        "synonym": "żart, anegdota",
+        "example": "Śmiać się z dowcipu",
+        "translationRu": "шутка, анекдот",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "na-tyle-2",
+        "polish": "na tyle",
+        "aiStatus": "complete",
+        "translationRu": "настолько, в такой степени",
+        "synonym": "tak bardzo",
+        "example": "Na tyle dobrze, żeby zrozumieć.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "auto-auta-l-m",
-        "polish": "auto- auta l/m",
-        "aiStatus": "partial",
-        "translationRu": "авто - автомобили (ед./мн. ч.)",
-        "example": "Mam jedno auto, a moi sąsiedzi mają dwa auta.",
+        "id": "pineska",
+        "polish": "pineska",
+        "aiStatus": "complete",
+        "translationRu": "канцелярская кнопка",
+        "synonym": "pinezka",
+        "example": "Przypiąłem kartkę pineską do tablicy.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "doprowadzic-do",
+        "polish": "doprowadzić do",
+        "aiStatus": "complete",
+        "translationRu": "привести к",
+        "synonym": "prowadzić do",
+        "example": "To może doprowadzić do poważnych problemów.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "na-uniwersytecie",
-        "polish": "na uniwersytecie",
-        "aiStatus": "complete",
-        "translationRu": "в университете",
-        "example": "Studiuję na uniwersytecie w Warszawie.",
+        "id": "zalet",
+        "polish": "zalet",
+        "aiStatus": "partial",
+        "translationRu": "достоинств, преимуществ (род. п. мн. ч. от zaleta)",
+        "example": "To urządzenie ma wiele zalet.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "w-rzeczywistosci",
-        "polish": "w rzeczywistości",
+        "id": "gatunek",
+        "polish": "gatunek",
         "aiStatus": "complete",
-        "translationRu": "на самом деле",
-        "synonym": "faktycznie",
-        "example": "W rzeczywistości sytuacja jest inna.",
-        "firstSeenAt": "2026-07-17"
+        "synonym": "rodzaj, typ",
+        "example": "Lubić ten gatunek muzyki",
+        "translationRu": "жанр; вид (биол.)",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "walczyc-2",
-        "polish": "walczyć",
+        "id": "mrowisko",
+        "polish": "mrowisko",
         "aiStatus": "complete",
-        "translationRu": "бороться",
-        "synonym": "bić się",
-        "example": "Walczył o swoje prawa.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "biegle",
-        "polish": "biegle",
-        "aiStatus": "complete",
-        "translationRu": "бегло, свободно",
-        "synonym": "płynnie",
-        "example": "Mówi biegle po angielsku.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "nie-zlozyla",
-        "polish": "nie złożyła",
-        "aiStatus": "partial",
-        "translationRu": "не подала, не сложила (прош. вр. глагола złożyć, ж.р.)",
-        "example": "Nie złożyła jeszcze dokumentów do urzędu.",
+        "synonym": "mieszkanie mrówek",
+        "translationRu": "муравейник",
+        "example": "W lesie natknęliśmy się na duże mrowisko.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "grupa-docelowa",
-        "polish": "grupa docelowa",
+        "id": "wydarzenie-2",
+        "polish": "wydarzenie",
         "aiStatus": "complete",
-        "translationRu": "целевая группа",
-        "synonym": "adresaci",
-        "example": "Młodzież jest naszą grupą docelową.",
+        "translationRu": "событие",
+        "synonym": "zdarzenie",
+        "example": "To było ważne wydarzenie kulturalne.",
         "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zawolac-2",
+        "polish": "zawolać",
+        "aiStatus": "partial",
+        "translationRu": "позвать, крикнуть (опечатка: правильно zawołać)",
+        "synonym": "krzyknąć",
+        "example": "Zawołał ją z drugiego pokoju.",
+        "firstSeenAt": "2026-08-22"
       }
     ],
     "grammarRule": {
-      "title": "Powtórka słownictwa",
-      "explanation": "Dziś koncentrujemy się na praktyce wybranych słów i wyrażeń w naturalnych zdaniach.",
-      "examples": []
+      "title": "Doprowadzić do + dopełniacz",
+      "explanation": "Czasownik „doprowadzić do” łączy się z dopełniaczem i wskazuje skutek, np. „doprowadzić do kłótni”. Podobnie „wyobrazić sobie” wymaga zaimka zwrotnego „sobie” i biernika.",
+      "examples": [
+        "Jego dowcip doprowadził do wybuchu śmiechu.",
+        "To nieporozumienie doprowadziło do kłótni.",
+        "Nie mogę sobie wyobrazić tego mrowiska.",
+        "Ten wypadek był ważnym wydarzeniem, które doprowadziło do zmian."
+      ]
     }
   },
   "allWords": [
@@ -4159,6 +4166,7 @@
       "polish": "ja mogłem",
       "aiStatus": "complete",
       "translationRu": "я мог",
+      "synonym": "mogłem",
       "example": "Ja mogłem to zrobić lepiej.",
       "firstSeenAt": "2026-07-17"
     },
@@ -10240,6 +10248,7 @@
       "aiStatus": "complete",
       "example": "на чердаке",
       "translationRu": "на чердаке",
+      "synonym": "na poddaszu",
       "firstSeenAt": "2026-09-21"
     },
     {
@@ -10505,13 +10514,144 @@
       "aiStatus": "complete",
       "translationRu": "не является эффективным способом",
       "firstSeenAt": "2026-09-21"
+    },
+    {
+      "id": "zalazek-wyobrazenia",
+      "polish": "zalążek wyobrażenia",
+      "aiStatus": "complete",
+      "translationRu": "зачаток представления",
+      "synonym": "początek pomysłu",
+      "example": "W jego głowie pojawił się zalążek wyobrażenia o nowym projekcie.",
+      "firstSeenAt": "2026-11-05"
+    },
+    {
+      "id": "zwiastowac-koniec-swiata",
+      "polish": "zwiastować koniec świata",
+      "aiStatus": "complete",
+      "translationRu": "предвещать конец света",
+      "synonym": "zapowiadać",
+      "example": "Niektórzy uważali, że kometa zwiastuje koniec świata.",
+      "firstSeenAt": "2026-11-05"
+    },
+    {
+      "id": "zawieranie",
+      "polish": "zawieranie",
+      "aiStatus": "complete",
+      "translationRu": "заключение (договора), включение",
+      "synonym": "zawarcie",
+      "example": "Zawieranie umów wymaga uwagi.",
+      "firstSeenAt": "2026-11-05"
+    },
+    {
+      "id": "stresc",
+      "polish": "streść",
+      "aiStatus": "complete",
+      "translationRu": "перескажи, изложи вкратце (повелит. от streścić)",
+      "synonym": "opowiedz krótko",
+      "example": "Streść mi ten film w dwóch zdaniach.",
+      "firstSeenAt": "2026-11-05"
+    },
+    {
+      "id": "w-ten-punkt-juz-trafiono",
+      "polish": "W ten punkt już trafiono",
+      "aiStatus": "partial",
+      "translationRu": "В эту точку уже попали (фрагмент фразы)",
+      "firstSeenAt": "2026-11-05"
+    },
+    {
+      "id": "buchalter",
+      "polish": "buchalter???",
+      "aiStatus": "partial",
+      "translationRu": "бухгалтер (устар./разг.; сомнительная запись)",
+      "synonym": "księgowy",
+      "firstSeenAt": "2026-11-05"
+    },
+    {
+      "id": "zarobki-w-mowie-bedacego-kawalera-w-zaden-sposob-nie-moga-wystarczyc-na-opedzenie-potrzeb-domowych",
+      "polish": "zarobki w mowie będącego „kawalera” w żaden sposób nie mogą wystarczyć na opędzenie potrzeb domowych",
+      "aiStatus": "partial",
+      "translationRu": "заработка упомянутого «холостяка» никак не может хватить на покрытие домашних нужд (обрывок цитаты)",
+      "firstSeenAt": "2026-11-05"
+    },
+    {
+      "id": "jest-niewatpliwym-faktem",
+      "polish": "Jest niewątpliwym faktem",
+      "aiStatus": "partial",
+      "translationRu": "Это несомненный факт (обрывок фразы)",
+      "firstSeenAt": "2026-11-05"
+    },
+    {
+      "id": "oni-sa-tak-zuchwali-ze-siegaja-wzrokiem-o-kilka-lat-w-przyszlosc",
+      "polish": "Oni są tak zuchwali, że sięgają wzrokiem o kilka lat w przyszłość",
+      "aiStatus": "complete",
+      "translationRu": "Они так дерзки, что заглядывают взглядом на несколько лет вперёд",
+      "firstSeenAt": "2026-11-05"
+    },
+    {
+      "id": "zatarg",
+      "polish": "zatarg",
+      "aiStatus": "complete",
+      "translationRu": "столкновение, ссора, конфликт",
+      "synonym": "spór",
+      "example": "Między sąsiadami doszło do zatargu o płot.",
+      "firstSeenAt": "2026-11-05"
+    },
+    {
+      "id": "posag",
+      "polish": "posag",
+      "aiStatus": "complete",
+      "translationRu": "приданое",
+      "synonym": "wiano",
+      "example": "Panna młoda dostała od rodziców bogaty posag.",
+      "firstSeenAt": "2026-11-05"
+    },
+    {
+      "id": "poped",
+      "polish": "popęd",
+      "aiStatus": "complete",
+      "translationRu": "влечение, инстинкт, побуждение",
+      "synonym": "instynkt",
+      "example": "Popęd płciowy jest naturalną potrzebą.",
+      "firstSeenAt": "2026-11-05"
+    },
+    {
+      "id": "wyrobnik",
+      "polish": "wyrobnik",
+      "aiStatus": "complete",
+      "translationRu": "поденщик",
+      "synonym": "robotnik dniówkowy",
+      "example": "Dawniej wyrobnicy pracowali za grosze.",
+      "firstSeenAt": "2026-11-05"
+    },
+    {
+      "id": "opedzenie",
+      "polish": "opędzenie",
+      "aiStatus": "complete",
+      "translationRu": "покрытие (расходов), удовлетворение (нужд)",
+      "synonym": "pokrycie",
+      "example": "Pensja ledwo wystarcza na opędzenie podstawowych wydatków.",
+      "firstSeenAt": "2026-11-05"
+    },
+    {
+      "id": "z-czasem-osiagnac-poziom-mistrzostwa-zwlaszcza-w-zakresie-potraw-wykwintnych",
+      "polish": "z czasem osiągnąć poziom mistrzostwa, zwłaszcza w zakresie potraw wykwintnych",
+      "aiStatus": "complete",
+      "translationRu": "со временем достичь мастерского уровня, особенно в области изысканных блюд",
+      "firstSeenAt": "2026-11-05"
+    },
+    {
+      "id": "ogranicza-sie-do-dreptaniny-pomiedzy-pralnia-i-garnkami-kuchni",
+      "polish": "ogranicza się do dreptaniny pomiędzy pralnią i garnkami kuchni",
+      "aiStatus": "complete",
+      "translationRu": "ограничивается топтанием между прачечной и кухонными кастрюлями",
+      "firstSeenAt": "2026-11-05"
     }
   ],
   "metadata": {
     "source": "google-sheets-csv",
-    "totalWords": 1188,
-    "validWords": 1026,
-    "partialWords": 155,
+    "totalWords": 1204,
+    "validWords": 1038,
+    "partialWords": 159,
     "uncertainWords": 7
   }
 }
