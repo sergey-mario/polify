@@ -1,107 +1,99 @@
 {
-  "generatedAt": "2026-11-05T07:11:59.282Z",
+  "generatedAt": "2026-11-05T11:50:00.607Z",
   "dailyPractice": {
     "date": "2026-11-05",
     "words": [
       {
-        "id": "wyobrazic-2",
-        "polish": "wyobrażić",
+        "id": "procesy-one",
+        "polish": "procesy - one",
         "aiStatus": "partial",
-        "synonym": "ujawnić",
-        "translationRu": "представить (опечатка от wyobrazić)",
-        "example": "Nie potrafię sobie wyobrazić życia bez internetu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "dowcip",
-        "polish": "dowcip",
-        "aiStatus": "complete",
-        "synonym": "żart, anegdota",
-        "example": "Śmiać się z dowcipu",
-        "translationRu": "шутка, анекдот",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "na-tyle-2",
-        "polish": "na tyle",
-        "aiStatus": "complete",
-        "translationRu": "настолько, в такой степени",
-        "synonym": "tak bardzo",
-        "example": "Na tyle dobrze, żeby zrozumieć.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "pineska",
-        "polish": "pineska",
-        "aiStatus": "complete",
-        "translationRu": "канцелярская кнопка",
-        "synonym": "pinezka",
-        "example": "Przypiąłem kartkę pineską do tablicy.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "doprowadzic-do",
-        "polish": "doprowadzić do",
-        "aiStatus": "complete",
-        "translationRu": "привести к",
-        "synonym": "prowadzić do",
-        "example": "To może doprowadzić do poważnych problemów.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zalet",
-        "polish": "zalet",
-        "aiStatus": "partial",
-        "translationRu": "достоинств, преимуществ (род. п. мн. ч. от zaleta)",
-        "example": "To urządzenie ma wiele zalet.",
+        "translationRu": "процессы — они (грамматическая пометка: местоимение 'one' для неличных сущ. во мн. ч.)",
+        "example": "Te procesy trwają zwykle kilka miesięcy.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "gatunek",
-        "polish": "gatunek",
+        "id": "wszystkie-stoliki",
+        "polish": "wszystkie stoliki",
         "aiStatus": "complete",
-        "synonym": "rodzaj, typ",
-        "example": "Lubić ten gatunek muzyki",
-        "translationRu": "жанр; вид (биол.)",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "mrowisko",
-        "polish": "mrowisko",
-        "aiStatus": "complete",
-        "synonym": "mieszkanie mrówek",
-        "translationRu": "муравейник",
-        "example": "W lesie natknęliśmy się na duże mrowisko.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "wydarzenie-2",
-        "polish": "wydarzenie",
-        "aiStatus": "complete",
-        "translationRu": "событие",
-        "synonym": "zdarzenie",
-        "example": "To było ważne wydarzenie kulturalne.",
+        "translationRu": "все столики",
+        "example": "Wszystkie stoliki w restauracji były zajęte.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zawolac-2",
-        "polish": "zawolać",
+        "id": "jest",
+        "polish": "jest",
         "aiStatus": "partial",
-        "translationRu": "позвать, крикнуть (опечатка: правильно zawołać)",
-        "synonym": "krzyknąć",
-        "example": "Zawołał ją z drugiego pokoju.",
-        "firstSeenAt": "2026-08-22"
+        "translationRu": "есть, является (3 л. ед.)",
+        "example": "On jest lekarzem.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "udowodnic-2",
+        "polish": "udowodnić",
+        "aiStatus": "complete",
+        "translationRu": "доказать",
+        "synonym": "udowadniać",
+        "example": "Musisz udowodnić swoją niewinność.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "nauczycielka-stala-nie-nauczycielka-stajala",
+        "polish": "nauczycielka stała - nie ,,nauczycielka ,,stajała''",
+        "aiStatus": "partial",
+        "translationRu": "учительница стояла (не «stajała» — ошибочная форма, правильно «stała»)",
+        "example": "Nauczycielka stała przy tablicy.",
+        "firstSeenAt": "2026-09-09"
+      },
+      {
+        "id": "dyspozycja",
+        "polish": "dyspozycja",
+        "aiStatus": "complete",
+        "example": "Masz do dyspozycji trzy pokoje",
+        "translationRu": "распоряжение, диспозиция",
+        "synonym": "polecenie",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "szczyt",
+        "polish": "szczyt",
+        "aiStatus": "complete",
+        "translationRu": "вершина, пик",
+        "synonym": "wierzchołek",
+        "example": "Dotarliśmy na szczyt góry.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wyzwanie-3",
+        "polish": "wyzwanie",
+        "aiStatus": "complete",
+        "translationRu": "вызов, испытание",
+        "synonym": "trudność",
+        "example": "To dla mnie nowe wyzwanie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "waska",
+        "polish": "wąska",
+        "aiStatus": "complete",
+        "translationRu": "узкая",
+        "synonym": "ciasna",
+        "example": "To bardzo wąska ulica.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "grafik",
+        "polish": "grafik",
+        "aiStatus": "complete",
+        "translationRu": "график (работ, дежурств); график-художник",
+        "synonym": "harmonogram",
+        "example": "Sprawdź grafik dyżurów w tym tygodniu.",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
-      "title": "Doprowadzić do + dopełniacz",
-      "explanation": "Czasownik „doprowadzić do” łączy się z dopełniaczem i wskazuje skutek, np. „doprowadzić do kłótni”. Podobnie „wyobrazić sobie” wymaga zaimka zwrotnego „sobie” i biernika.",
-      "examples": [
-        "Jego dowcip doprowadził do wybuchu śmiechu.",
-        "To nieporozumienie doprowadziło do kłótni.",
-        "Nie mogę sobie wyobrazić tego mrowiska.",
-        "Ten wypadek był ważnym wydarzeniem, które doprowadziło do zmian."
-      ]
+      "title": "Powtórka słownictwa",
+      "explanation": "Dziś koncentrujemy się na praktyce wybranych słów i wyrażeń w naturalnych zdaniach.",
+      "examples": []
     }
   },
   "allWords": [
