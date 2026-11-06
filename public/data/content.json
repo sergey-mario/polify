@@ -1,92 +1,94 @@
 {
-  "generatedAt": "2026-11-05T11:50:00.607Z",
+  "generatedAt": "2026-11-06T11:45:37.633Z",
   "dailyPractice": {
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "words": [
       {
-        "id": "procesy-one",
-        "polish": "procesy - one",
+        "id": "watpic-sie",
+        "polish": "wątpić się",
         "aiStatus": "partial",
-        "translationRu": "процессы — они (грамматическая пометка: местоимение 'one' для неличных сущ. во мн. ч.)",
-        "example": "Te procesy trwają zwykle kilka miesięcy.",
+        "synonym": "nie być pewnym",
+        "example": "Wątpić w czyjeś słowa",
+        "translationRu": "сомневаться (нестанд.; обычно 'wątpić w coś')",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "porzadek",
+        "polish": "porządek",
+        "aiStatus": "complete",
+        "translationRu": "порядок",
+        "synonym": "ład",
+        "example": "Muszę zrobić porządek w swoim pokoju.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "wszystkie-stoliki",
-        "polish": "wszystkie stoliki",
+        "id": "rozpowszechniony",
+        "polish": "rozpowszechniony",
         "aiStatus": "complete",
-        "translationRu": "все столики",
-        "example": "Wszystkie stoliki w restauracji były zajęte.",
-        "firstSeenAt": "2026-07-17"
+        "translationRu": "распространённый, широко известный",
+        "synonym": "powszechny",
+        "example": "To bardzo rozpowszechniony pogląd.",
+        "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "jest",
-        "polish": "jest",
+        "id": "wiem-ze",
+        "polish": "wiem - że",
         "aiStatus": "partial",
-        "translationRu": "есть, является (3 л. ед.)",
-        "example": "On jest lekarzem.",
+        "translationRu": "знаю — что (фрагмент)",
+        "example": "Wiem, że to prawda.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "udowodnic-2",
-        "polish": "udowodnić",
-        "aiStatus": "complete",
-        "translationRu": "доказать",
-        "synonym": "udowadniać",
-        "example": "Musisz udowodnić swoją niewinność.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "nauczycielka-stala-nie-nauczycielka-stajala",
-        "polish": "nauczycielka stała - nie ,,nauczycielka ,,stajała''",
+        "id": "zadnego",
+        "polish": "żadnego",
         "aiStatus": "partial",
-        "translationRu": "учительница стояла (не «stajała» — ошибочная форма, правильно «stała»)",
-        "example": "Nauczycielka stała przy tablicy.",
-        "firstSeenAt": "2026-09-09"
-      },
-      {
-        "id": "dyspozycja",
-        "polish": "dyspozycja",
-        "aiStatus": "complete",
-        "example": "Masz do dyspozycji trzy pokoje",
-        "translationRu": "распоряжение, диспозиция",
-        "synonym": "polecenie",
+        "translationRu": "никакого (род. падеж от żaden)",
+        "example": "Nie mam żadnego pomysłu.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "szczyt",
-        "polish": "szczyt",
+        "id": "pulapka",
+        "polish": "pułapka",
         "aiStatus": "complete",
-        "translationRu": "вершина, пик",
-        "synonym": "wierzchołek",
-        "example": "Dotarliśmy na szczyt góry.",
+        "translationRu": "ловушка",
+        "synonym": "sidła",
+        "example": "Wpadłem w pułapkę.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wyzwanie-3",
-        "polish": "wyzwanie",
+        "id": "na-obrzezu",
+        "polish": "na obrzeżu",
         "aiStatus": "complete",
-        "translationRu": "вызов, испытание",
-        "synonym": "trudność",
-        "example": "To dla mnie nowe wyzwanie.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "waska",
-        "polish": "wąska",
-        "aiStatus": "complete",
-        "translationRu": "узкая",
-        "synonym": "ciasna",
-        "example": "To bardzo wąska ulica.",
+        "synonym": "za miastem",
+        "translationRu": "на окраине",
+        "example": "Mieszkają na obrzeżu miasta.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "grafik",
-        "polish": "grafik",
+        "id": "promocja",
+        "polish": "promocja",
         "aiStatus": "complete",
-        "translationRu": "график (работ, дежурств); график-художник",
-        "synonym": "harmonogram",
-        "example": "Sprawdź grafik dyżurów w tym tygodniu.",
+        "translationRu": "акция, скидка; продвижение",
+        "synonym": "zniżka",
+        "example": "Te buty są na promocji.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "producent",
+        "polish": "producent",
+        "aiStatus": "complete",
+        "synonym": "producenci",
+        "translationRu": "производитель",
+        "example": "Firma jest producentem samochodów.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "na-marsie",
+        "polish": "na Marsie",
+        "aiStatus": "complete",
+        "translationRu": "на Марсе",
+        "synonym": "na czerwonej planecie",
+        "example": "Życie na Marsie? Może kiedyś.",
         "firstSeenAt": "2026-05-02"
       }
     ],
