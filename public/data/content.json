@@ -1,95 +1,97 @@
 {
-  "generatedAt": "2026-11-06T11:45:37.633Z",
+  "generatedAt": "2026-11-07T10:51:31.815Z",
   "dailyPractice": {
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "words": [
       {
-        "id": "watpic-sie",
-        "polish": "wątpić się",
-        "aiStatus": "partial",
-        "synonym": "nie być pewnym",
-        "example": "Wątpić w czyjeś słowa",
-        "translationRu": "сомневаться (нестанд.; обычно 'wątpić w coś')",
+        "id": "wstydzic-sie",
+        "polish": "wstydzić się",
+        "aiStatus": "complete",
+        "synonym": "czuć wstyd",
+        "example": "jak bardzo się za niego wstydzi",
+        "translationRu": "стыдиться",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "porzadek",
-        "polish": "porządek",
+        "id": "widok-2",
+        "polish": "widok",
         "aiStatus": "complete",
-        "translationRu": "порядок",
-        "synonym": "ład",
-        "example": "Muszę zrobić porządek w swoim pokoju.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "rozpowszechniony",
-        "polish": "rozpowszechniony",
-        "aiStatus": "complete",
-        "translationRu": "распространённый, широко известный",
-        "synonym": "powszechny",
-        "example": "To bardzo rozpowszechniony pogląd.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "wiem-ze",
-        "polish": "wiem - że",
-        "aiStatus": "partial",
-        "translationRu": "знаю — что (фрагмент)",
-        "example": "Wiem, że to prawda.",
+        "translationRu": "вид (пейзаж, на что-то)",
+        "synonym": "krajobraz",
+        "example": "Z balkonu jest piękny widok.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zadnego",
-        "polish": "żadnego",
-        "aiStatus": "partial",
-        "translationRu": "никакого (род. падеж от żaden)",
-        "example": "Nie mam żadnego pomysłu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "pulapka",
-        "polish": "pułapka",
+        "id": "dostac-sie",
+        "polish": "dostać się",
         "aiStatus": "complete",
-        "translationRu": "ловушка",
-        "synonym": "sidła",
-        "example": "Wpadłem w pułapkę.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "na-obrzezu",
-        "polish": "na obrzeżu",
-        "aiStatus": "complete",
-        "synonym": "za miastem",
-        "translationRu": "на окраине",
-        "example": "Mieszkają na obrzeżu miasta.",
+        "translationRu": "попасть (куда-то)",
+        "synonym": "dotrzeć",
+        "example": "Trudno dostać się do centrum bez samochodu.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "promocja",
-        "polish": "promocja",
+        "id": "odmow",
+        "polish": "odmów",
         "aiStatus": "complete",
-        "translationRu": "акция, скидка; продвижение",
-        "synonym": "zniżka",
-        "example": "Te buty są na promocji.",
+        "translationRu": "откажи (повелит.)",
+        "synonym": "odrzuć",
+        "example": "Jeśli nie masz czasu, po prostu odmów.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "producent",
-        "polish": "producent",
+        "id": "oburzeni",
+        "polish": "oburzeni",
         "aiStatus": "complete",
-        "synonym": "producenci",
-        "translationRu": "производитель",
-        "example": "Firma jest producentem samochodów.",
+        "translationRu": "возмущённые",
+        "synonym": "wściekli",
+        "example": "Byli oburzeni tą decyzją.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "na-marsie",
-        "polish": "na Marsie",
+        "id": "ukrasc",
+        "polish": "ukraść",
         "aiStatus": "complete",
-        "translationRu": "на Марсе",
-        "synonym": "na czerwonej planecie",
-        "example": "Życie na Marsie? Może kiedyś.",
+        "translationRu": "украсть",
+        "synonym": "skraść",
+        "example": "Ktoś ukradł mi rower.",
         "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "pobor-do-wojska",
+        "polish": "pobór do wojska",
+        "aiStatus": "complete",
+        "translationRu": "призыв на военную службу, набор в армию",
+        "synonym": "powołanie do wojska",
+        "example": "Pobór do wojska w tym kraju jest obowiązkowy dla mężczyzn.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "kombinowac",
+        "polish": "kombinować",
+        "aiStatus": "complete",
+        "translationRu": "комбинировать; мудрить, выкручиваться",
+        "synonym": "wymyślać sposoby",
+        "example": "Zawsze coś kombinuje, żeby zaoszczędzić pieniądze.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "blakac-sie",
+        "polish": "błąkać się",
+        "aiStatus": "complete",
+        "translationRu": "блуждать, скитаться",
+        "synonym": "wędrować bez celu",
+        "example": "Błąkaliśmy się po lesie, szukając drogi.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "odnosic-siebie-do",
+        "polish": "odnosić siebie do",
+        "aiStatus": "partial",
+        "translationRu": "относиться к, иметь отношение к (правильная форма: odnosić się do)",
+        "synonym": "dotyczyć",
+        "example": "To pytanie odnosi się do poprzedniego tematu.",
+        "firstSeenAt": "2026-08-22"
       }
     ],
     "grammarRule": {
