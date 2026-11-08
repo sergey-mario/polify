@@ -1,97 +1,97 @@
 {
-  "generatedAt": "2026-11-07T10:51:31.815Z",
+  "generatedAt": "2026-11-08T11:00:22.427Z",
   "dailyPractice": {
-    "date": "2026-11-07",
+    "date": "2026-11-08",
     "words": [
       {
-        "id": "wstydzic-sie",
-        "polish": "wstydzić się",
+        "id": "zastanawiac-sie",
+        "polish": "zastanawiać się",
         "aiStatus": "complete",
-        "synonym": "czuć wstyd",
-        "example": "jak bardzo się za niego wstydzi",
-        "translationRu": "стыдиться",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "widok-2",
-        "polish": "widok",
-        "aiStatus": "complete",
-        "translationRu": "вид (пейзаж, на что-то)",
-        "synonym": "krajobraz",
-        "example": "Z balkonu jest piękny widok.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "dostac-sie",
-        "polish": "dostać się",
-        "aiStatus": "complete",
-        "translationRu": "попасть (куда-то)",
-        "synonym": "dotrzeć",
-        "example": "Trudno dostać się do centrum bez samochodu.",
+        "translationRu": "задумываться",
+        "synonym": "rozmyślać",
+        "example": "Zastanawiam się, co robić dalej.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "odmow",
-        "polish": "odmów",
+        "id": "opedzenie",
+        "polish": "opędzenie",
         "aiStatus": "complete",
-        "translationRu": "откажи (повелит.)",
-        "synonym": "odrzuć",
-        "example": "Jeśli nie masz czasu, po prostu odmów.",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "покрытие (расходов), удовлетворение (нужд)",
+        "synonym": "pokrycie",
+        "example": "Pensja ledwo wystarcza na opędzenie podstawowych wydatków.",
+        "firstSeenAt": "2026-11-05"
       },
       {
-        "id": "oburzeni",
-        "polish": "oburzeni",
-        "aiStatus": "complete",
-        "translationRu": "возмущённые",
-        "synonym": "wściekli",
-        "example": "Byli oburzeni tą decyzją.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "ukrasc",
-        "polish": "ukraść",
-        "aiStatus": "complete",
-        "translationRu": "украсть",
-        "synonym": "skraść",
-        "example": "Ktoś ukradł mi rower.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "pobor-do-wojska",
-        "polish": "pobór do wojska",
-        "aiStatus": "complete",
-        "translationRu": "призыв на военную службу, набор в армию",
-        "synonym": "powołanie do wojska",
-        "example": "Pobór do wojska w tym kraju jest obowiązkowy dla mężczyzn.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "kombinowac",
-        "polish": "kombinować",
-        "aiStatus": "complete",
-        "translationRu": "комбинировать; мудрить, выкручиваться",
-        "synonym": "wymyślać sposoby",
-        "example": "Zawsze coś kombinuje, żeby zaoszczędzić pieniądze.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "blakac-sie",
-        "polish": "błąkać się",
-        "aiStatus": "complete",
-        "translationRu": "блуждать, скитаться",
-        "synonym": "wędrować bez celu",
-        "example": "Błąkaliśmy się po lesie, szukając drogi.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "odnosic-siebie-do",
-        "polish": "odnosić siebie do",
+        "id": "chronisko",
+        "polish": "chronisko",
         "aiStatus": "partial",
-        "translationRu": "относиться к, иметь отношение к (правильная форма: odnosić się do)",
-        "synonym": "dotyczyć",
-        "example": "To pytanie odnosi się do poprzedniego tematu.",
+        "translationRu": "приют (для бездомных, животных) — опечатка от schronisko",
+        "synonym": "przytułek",
+        "example": "Adoptowaliśmy psa ze schroniska.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "przewidywac",
+        "polish": "przewidywać",
+        "aiStatus": "complete",
+        "translationRu": "предвидеть, прогнозировать",
+        "synonym": "prognozować",
+        "example": "Trudno przewidywać pogodę na tak długi okres.",
+        "firstSeenAt": "2026-09-09"
+      },
+      {
+        "id": "wykreowac",
+        "polish": "wykreować",
+        "aiStatus": "complete",
+        "translationRu": "создать, сотворить",
+        "synonym": "stworzyć",
+        "example": "Reżyser chciał wykreować niepowtarzalny nastrój filmu.",
+        "firstSeenAt": "2026-09-21"
+      },
+      {
+        "id": "skuteczny",
+        "polish": "skuteczny",
+        "aiStatus": "complete",
+        "synonym": "efektywny",
+        "translationRu": "эффективный, результативный",
+        "example": "To bardzo skuteczny sposób na naukę języka.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "mit",
+        "polish": "mit",
+        "aiStatus": "complete",
+        "translationRu": "миф",
+        "synonym": "legenda",
+        "example": "To tylko mit, nie prawda.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "mocny-sklad",
+        "polish": "mocny skład",
+        "aiStatus": "complete",
+        "translationRu": "сильный состав (команды)",
+        "synonym": "silny skład",
+        "example": "Reprezentacja ma bardzo mocny skład na te mistrzostwa.",
         "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "ilosc",
+        "polish": "ilośc",
+        "aiStatus": "partial",
+        "translationRu": "количество (опечатка: ilość)",
+        "synonym": "liczba",
+        "example": "Ilość jedzenia była ogromna.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "na-lonie-natury",
+        "polish": "na łonie natury",
+        "aiStatus": "complete",
+        "translationRu": "на лоне природы",
+        "synonym": "na świeżym powietrzu",
+        "example": "Spędziliśmy weekend na łonie natury.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
