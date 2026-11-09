@@ -1,96 +1,95 @@
 {
-  "generatedAt": "2026-11-08T11:00:22.427Z",
+  "generatedAt": "2026-11-09T12:29:06.742Z",
   "dailyPractice": {
-    "date": "2026-11-08",
+    "date": "2026-11-09",
     "words": [
       {
-        "id": "zastanawiac-sie",
-        "polish": "zastanawiać się",
+        "id": "dac-zezwolenie",
+        "polish": "dać zezwolenie",
         "aiStatus": "complete",
-        "translationRu": "задумываться",
-        "synonym": "rozmyślać",
-        "example": "Zastanawiam się, co robić dalej.",
+        "translationRu": "дать разрешение",
+        "synonym": "udzielić pozwolenia",
+        "example": "Urząd dał nam zezwolenie na budowę.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "opedzenie",
-        "polish": "opędzenie",
+        "id": "wyszedl",
+        "polish": "wyszedł",
         "aiStatus": "complete",
-        "translationRu": "покрытие (расходов), удовлетворение (нужд)",
-        "synonym": "pokrycie",
-        "example": "Pensja ledwo wystarcza na opędzenie podstawowych wydatków.",
-        "firstSeenAt": "2026-11-05"
-      },
-      {
-        "id": "chronisko",
-        "polish": "chronisko",
-        "aiStatus": "partial",
-        "translationRu": "приют (для бездомных, животных) — опечатка от schronisko",
-        "synonym": "przytułek",
-        "example": "Adoptowaliśmy psa ze schroniska.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "przewidywac",
-        "polish": "przewidywać",
-        "aiStatus": "complete",
-        "translationRu": "предвидеть, прогнозировать",
-        "synonym": "prognozować",
-        "example": "Trudno przewidywać pogodę na tak długi okres.",
-        "firstSeenAt": "2026-09-09"
-      },
-      {
-        "id": "wykreowac",
-        "polish": "wykreować",
-        "aiStatus": "complete",
-        "translationRu": "создать, сотворить",
-        "synonym": "stworzyć",
-        "example": "Reżyser chciał wykreować niepowtarzalny nastrój filmu.",
-        "firstSeenAt": "2026-09-21"
-      },
-      {
-        "id": "skuteczny",
-        "polish": "skuteczny",
-        "aiStatus": "complete",
-        "synonym": "efektywny",
-        "translationRu": "эффективный, результативный",
-        "example": "To bardzo skuteczny sposób na naukę języka.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "mit",
-        "polish": "mit",
-        "aiStatus": "complete",
-        "translationRu": "миф",
-        "synonym": "legenda",
-        "example": "To tylko mit, nie prawda.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "mocny-sklad",
-        "polish": "mocny skład",
-        "aiStatus": "complete",
-        "translationRu": "сильный состав (команды)",
-        "synonym": "silny skład",
-        "example": "Reprezentacja ma bardzo mocny skład na te mistrzostwa.",
+        "translationRu": "он вышел (сов. вид от 'wyjść')",
+        "synonym": "opuścił pomieszczenie",
+        "example": "Wyszedł z domu bardzo wcześnie.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "ilosc",
-        "polish": "ilośc",
-        "aiStatus": "partial",
-        "translationRu": "количество (опечатка: ilość)",
-        "synonym": "liczba",
-        "example": "Ilość jedzenia była ogromna.",
+        "id": "program",
+        "polish": "program",
+        "aiStatus": "complete",
+        "translationRu": "программа",
+        "synonym": "plan",
+        "example": "Co oglądasz w telewizji? — Mój ulubiony program.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "unikamy-tematu",
+        "polish": "unikamy tematu",
+        "aiStatus": "complete",
+        "translationRu": "мы избегаем темы",
+        "synonym": "omijamy temat",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "na-lonie-natury",
-        "polish": "na łonie natury",
+        "id": "samopoczucie",
+        "polish": "samopoczucie",
         "aiStatus": "complete",
-        "translationRu": "на лоне природы",
-        "synonym": "na świeżym powietrzu",
-        "example": "Spędziliśmy weekend na łonie natury.",
+        "translationRu": "самочувствие",
+        "synonym": "kondycja psychiczna",
+        "example": "Moje samopoczucie się poprawiło.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "glusza",
+        "polish": "głusza",
+        "aiStatus": "complete",
+        "translationRu": "глушь",
+        "synonym": "pustkowie",
+        "example": "Ich dom stoi na zupełnej głuszy.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "wyzwanie-3",
+        "polish": "wyzwanie",
+        "aiStatus": "complete",
+        "translationRu": "вызов, испытание",
+        "synonym": "trudność",
+        "example": "To dla mnie nowe wyzwanie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "nasi",
+        "polish": "nasi",
+        "aiStatus": "complete",
+        "translationRu": "наши (мужчины-лица, мн.)",
+        "synonym": "swoi",
+        "example": "Nasi wygrali dzisiaj mecz.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wsciekly-2",
+        "polish": "wściekły",
+        "aiStatus": "complete",
+        "example": "яростный",
+        "translationRu": "разъярённый, взбешённый",
+        "synonym": "zdenerwowana",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "polegac-na",
+        "polish": "polegać na",
+        "aiStatus": "complete",
+        "translationRu": "полагаться на",
+        "synonym": "ufać",
+        "example": "Możesz na mnie polegać.",
         "firstSeenAt": "2026-07-17"
       }
     ],
