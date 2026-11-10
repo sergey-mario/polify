@@ -1,95 +1,96 @@
 {
-  "generatedAt": "2026-11-09T12:29:06.742Z",
+  "generatedAt": "2026-11-10T12:03:17.855Z",
   "dailyPractice": {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "words": [
       {
-        "id": "dac-zezwolenie",
-        "polish": "dać zezwolenie",
+        "id": "pamiatka",
+        "polish": "pamiątka",
         "aiStatus": "complete",
-        "translationRu": "дать разрешение",
-        "synonym": "udzielić pozwolenia",
-        "example": "Urząd dał nam zezwolenie na budowę.",
+        "translationRu": "сувенир, память (на память)",
+        "synonym": "upominek",
+        "example": "Kupiłem pamiątkę z Krakowa.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "nie-plynnie",
+        "polish": "nie płynnie",
+        "aiStatus": "complete",
+        "translationRu": "не бегло",
+        "synonym": "z trudem",
+        "example": "Mówię po polsku, ale nie płynnie.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wyszedl",
-        "polish": "wyszedł",
+        "id": "przydatny",
+        "polish": "przydatny",
         "aiStatus": "complete",
-        "translationRu": "он вышел (сов. вид от 'wyjść')",
-        "synonym": "opuścił pomieszczenie",
-        "example": "Wyszedł z domu bardzo wcześnie.",
+        "translationRu": "полезный",
+        "synonym": "użyteczny",
+        "example": "To bardzo przydatna informacja.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "oszusta",
+        "polish": "oszusta",
+        "aiStatus": "partial",
+        "translationRu": "мошенника (вин./род. от oszust)",
+        "synonym": "kanciarz",
+        "example": "Policja zatrzymała oszusta, który okradał starsze osoby.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "przystowac-sie",
+        "polish": "przystować się",
+        "aiStatus": "partial",
+        "translationRu": "приспосабливаться (опечатка от przystosować się)",
+        "synonym": "dostosować się",
+        "example": "Trudno mi się przystosować do nowego miejsca.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "skupiac-sie",
+        "polish": "skupiać się",
+        "aiStatus": "complete",
+        "translationRu": "сосредотачиваться",
+        "synonym": "koncentrować się",
+        "example": "Trudno mi się skupiać w hałasie.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "wsparcie",
+        "polish": "wsparcie",
+        "aiStatus": "complete",
+        "translationRu": "поддержка",
+        "synonym": "pomoc",
+        "example": "Dziękuję za wsparcie w trudnym czasie.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "program",
-        "polish": "program",
+        "id": "wynajac",
+        "polish": "wynająć",
         "aiStatus": "complete",
-        "translationRu": "программа",
-        "synonym": "plan",
-        "example": "Co oglądasz w telewizji? — Mój ulubiony program.",
-        "firstSeenAt": "2026-05-02"
+        "synonym": "wynajmować",
+        "translationRu": "снять, арендовать",
+        "example": "Wynajęliśmy pokój na wakacje.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "unikamy-tematu",
-        "polish": "unikamy tematu",
+        "id": "transformacja",
+        "polish": "transformacja",
         "aiStatus": "complete",
-        "translationRu": "мы избегаем темы",
-        "synonym": "omijamy temat",
+        "translationRu": "трансформация, преобразование",
+        "synonym": "przemiana",
+        "example": "Kraj przeszedł wielką transformację gospodarczą.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "samopoczucie",
-        "polish": "samopoczucie",
+        "id": "chcialbym",
+        "polish": "chciałbym",
         "aiStatus": "complete",
-        "translationRu": "самочувствие",
-        "synonym": "kondycja psychiczna",
-        "example": "Moje samopoczucie się poprawiło.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "glusza",
-        "polish": "głusza",
-        "aiStatus": "complete",
-        "translationRu": "глушь",
-        "synonym": "pustkowie",
-        "example": "Ich dom stoi na zupełnej głuszy.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wyzwanie-3",
-        "polish": "wyzwanie",
-        "aiStatus": "complete",
-        "translationRu": "вызов, испытание",
-        "synonym": "trudność",
-        "example": "To dla mnie nowe wyzwanie.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "nasi",
-        "polish": "nasi",
-        "aiStatus": "complete",
-        "translationRu": "наши (мужчины-лица, мн.)",
-        "synonym": "swoi",
-        "example": "Nasi wygrali dzisiaj mecz.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wsciekly-2",
-        "polish": "wściekły",
-        "aiStatus": "complete",
-        "example": "яростный",
-        "translationRu": "разъярённый, взбешённый",
-        "synonym": "zdenerwowana",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "polegac-na",
-        "polish": "polegać na",
-        "aiStatus": "complete",
-        "translationRu": "полагаться на",
-        "synonym": "ufać",
-        "example": "Możesz na mnie polegać.",
+        "translationRu": "я хотел бы",
+        "synonym": "miałbym ochotę",
+        "example": "Chciałbym kawę, proszę.",
         "firstSeenAt": "2026-07-17"
       }
     ],
