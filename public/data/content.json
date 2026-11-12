@@ -1,96 +1,94 @@
 {
-  "generatedAt": "2026-11-11T11:39:36.597Z",
+  "generatedAt": "2026-11-12T12:07:47.871Z",
   "dailyPractice": {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "words": [
       {
-        "id": "za-pomoca",
-        "polish": "za pomocą",
+        "id": "jest-zakaz",
+        "polish": "jest zakaz",
         "aiStatus": "complete",
-        "translationRu": "с помощью",
-        "synonym": "przy użyciu",
-        "example": "Otworzył drzwi za pomocą klucza.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "nowoczesny-2",
-        "polish": "nowoczesny",
-        "aiStatus": "complete",
-        "translationRu": "современный",
-        "synonym": "współczesny",
-        "example": "To jest bardzo nowoczesny dom.",
+        "translationRu": "есть запрет, запрещено",
+        "synonym": "jest zabronione",
+        "example": "Tu jest zakaz palenia.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "ja-nie-moglem",
-        "polish": "ja - nie mogłem",
+        "id": "poprzedzac",
+        "polish": "poprzedzać",
         "aiStatus": "complete",
-        "translationRu": "я не мог",
-        "example": "Ja nie mogłem przyjść wczoraj.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "rozpraszac-sie",
-        "polish": "rozpraszać się",
-        "aiStatus": "complete",
-        "synonym": "dekoncentrować się",
-        "translationRu": "отвлекаться, рассеиваться",
-        "example": "Łatwo się rozpraszam podczas pracy.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "zlecenie",
-        "polish": "zlecenie",
-        "aiStatus": "complete",
-        "translationRu": "заказ, поручение",
-        "synonym": "zadanie",
-        "example": "Pracuję na zlecenie.",
+        "synonym": "być przed czymś",
+        "example": "Burza poprzedzać silny wiatr",
+        "translationRu": "предшествовать",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "postrzegac",
-        "polish": "postrzegać",
+        "id": "sie-nie-udalo",
+        "polish": "się nie udało",
         "aiStatus": "complete",
-        "translationRu": "воспринимать",
-        "synonym": "widzieć",
-        "example": "Ludzie postrzegają go jako lidera.",
+        "translationRu": "не получилось",
+        "synonym": "nie wyszło",
+        "example": "Plan się nie udał.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "dotrzec-do-dzieci",
-        "polish": "dotrzeć do dzieci,",
+        "id": "rodzice-nie-rodzicy",
+        "polish": "rodzice (nie rodzicy)",
         "aiStatus": "complete",
-        "translationRu": "достучаться до детей, донести до детей",
-        "synonym": "dogadać się z dziećmi",
-        "example": "Trudno jest dotrzeć do dzieci z ważnym przekazem.",
-        "firstSeenAt": "2026-09-09"
+        "translationRu": "родители (правильная форма мн.ч. — 'rodzice', не 'rodzicy')",
+        "example": "Moi rodzice mieszkają w Warszawie.",
+        "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "od-a-do-z",
-        "polish": "od A do Z",
+        "id": "mrowisko",
+        "polish": "mrowisko",
         "aiStatus": "complete",
-        "translationRu": "от А до Я",
-        "synonym": "całkowicie",
-        "example": "Znam ten temat od A do Z.",
-        "firstSeenAt": "2026-07-17"
+        "synonym": "mieszkanie mrówek",
+        "translationRu": "муравейник",
+        "example": "W lesie natknęliśmy się na duże mrowisko.",
+        "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "wyjatkowy",
-        "polish": "wyjątkowy",
+        "id": "bardzo-dobra-reklama",
+        "polish": "bardzo dobra reklama",
         "aiStatus": "complete",
-        "translationRu": "исключительный",
-        "synonym": "niezwykły",
-        "example": "To był wyjątkowy dzień.",
-        "firstSeenAt": "2026-07-17"
+        "translationRu": "очень хорошая реклама",
+        "example": "To była bardzo dobra reklama nowego produktu.",
+        "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "we-wloszech",
-        "polish": "we Włoszech",
+        "id": "krok-etap-poziom",
+        "polish": "krok - etap - poziom",
         "aiStatus": "complete",
-        "translationRu": "в Италии",
-        "synonym": "na terenie Włoch",
-        "example": "Spędziłem wakacje we Włoszech.",
+        "translationRu": "шаг — этап — уровень",
+        "synonym": "etap",
+        "example": "To pierwszy etap dużego projektu.",
         "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wywrzec",
+        "polish": "wywrzeć",
+        "aiStatus": "complete",
+        "synonym": "wpłynąć, mieć wpływ",
+        "example": "wywrzeć na nas jakiś wpływ",
+        "translationRu": "оказать (влияние, давление)",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zapomnialem",
+        "polish": "zapomniałem",
+        "aiStatus": "complete",
+        "translationRu": "я забыл (м.р.)",
+        "synonym": "wyleciało mi z głowy",
+        "example": "Zapomniałem klucze w domu.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "bac",
+        "polish": "bać",
+        "aiStatus": "partial",
+        "translationRu": "бояться (обычно используется с 'się' — bać się)",
+        "example": "Nie musisz się bać egzaminu.",
+        "firstSeenAt": "2026-08-22"
       }
     ],
     "grammarRule": {
