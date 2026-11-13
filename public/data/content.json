@@ -1,94 +1,97 @@
 {
-  "generatedAt": "2026-11-12T12:07:47.871Z",
+  "generatedAt": "2026-11-13T11:49:54.282Z",
   "dailyPractice": {
-    "date": "2026-11-12",
+    "date": "2026-11-13",
     "words": [
       {
-        "id": "jest-zakaz",
-        "polish": "jest zakaz",
+        "id": "odprawa",
+        "polish": "odprawa",
         "aiStatus": "complete",
-        "translationRu": "есть запрет, запрещено",
-        "synonym": "jest zabronione",
-        "example": "Tu jest zakaz palenia.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "poprzedzac",
-        "polish": "poprzedzać",
-        "aiStatus": "complete",
-        "synonym": "być przed czymś",
-        "example": "Burza poprzedzać silny wiatr",
-        "translationRu": "предшествовать",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "sie-nie-udalo",
-        "polish": "się nie udało",
-        "aiStatus": "complete",
-        "translationRu": "не получилось",
-        "synonym": "nie wyszło",
-        "example": "Plan się nie udał.",
+        "translationRu": "регистрация (на рейс), инструктаж",
+        "synonym": "rejestracja",
+        "example": "Odprawa na lotnisku trwała godzinę.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "rodzice-nie-rodzicy",
-        "polish": "rodzice (nie rodzicy)",
+        "id": "wspierac-2",
+        "polish": "wspierać",
         "aiStatus": "complete",
-        "translationRu": "родители (правильная форма мн.ч. — 'rodzice', не 'rodzicy')",
-        "example": "Moi rodzice mieszkają w Warszawie.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "mrowisko",
-        "polish": "mrowisko",
-        "aiStatus": "complete",
-        "synonym": "mieszkanie mrówek",
-        "translationRu": "муравейник",
-        "example": "W lesie natknęliśmy się na duże mrowisko.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "bardzo-dobra-reklama",
-        "polish": "bardzo dobra reklama",
-        "aiStatus": "complete",
-        "translationRu": "очень хорошая реклама",
-        "example": "To była bardzo dobra reklama nowego produktu.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "krok-etap-poziom",
-        "polish": "krok - etap - poziom",
-        "aiStatus": "complete",
-        "translationRu": "шаг — этап — уровень",
-        "synonym": "etap",
-        "example": "To pierwszy etap dużego projektu.",
+        "translationRu": "поддерживать",
+        "synonym": "pomagać",
+        "example": "Rodzice mnie wspierają.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wywrzec",
-        "polish": "wywrzeć",
-        "aiStatus": "complete",
-        "synonym": "wpłynąć, mieć wpływ",
-        "example": "wywrzeć na nas jakiś wpływ",
-        "translationRu": "оказать (влияние, давление)",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zapomnialem",
-        "polish": "zapomniałem",
-        "aiStatus": "complete",
-        "translationRu": "я забыл (м.р.)",
-        "synonym": "wyleciało mi z głowy",
-        "example": "Zapomniałem klucze w domu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "bac",
-        "polish": "bać",
+        "id": "nie-opodwiada",
+        "polish": "nie opodwiada",
         "aiStatus": "partial",
-        "translationRu": "бояться (обычно используется с 'się' — bać się)",
-        "example": "Nie musisz się bać egzaminu.",
+        "translationRu": "не соответствует (опечатка: nie odpowiada)",
+        "synonym": "nie pasuje",
+        "example": "To rozwiązanie nie odpowiada naszym wymaganiom.",
         "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "wplywac",
+        "polish": "wpływać",
+        "aiStatus": "complete",
+        "translationRu": "влиять, воздействовать",
+        "synonym": "oddziaływać",
+        "example": "Pogoda wpływa na nastrój.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "poddawac-sie-2",
+        "polish": "poddawać się",
+        "aiStatus": "complete",
+        "synonym": "rezygnować, kapitulować",
+        "example": "Warto walczyć i nie poddawać się",
+        "translationRu": "сдаваться",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "natychmiast",
+        "polish": "natychmiast",
+        "aiStatus": "complete",
+        "synonym": "od razu",
+        "example": "natychmiast wstali z kanapy",
+        "translationRu": "немедленно, сразу",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "z-rzedu",
+        "polish": "z rzędu",
+        "aiStatus": "complete",
+        "translationRu": "подряд",
+        "synonym": "pod rząd",
+        "example": "Wygrał trzy razy z rzędu.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "nie-wabi",
+        "polish": "nie wabi",
+        "aiStatus": "partial",
+        "translationRu": "не привлекает, не манит (обрывок фразы)",
+        "synonym": "nie kusi",
+        "example": "Ta oferta mnie nie wabi.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "luz-luzik",
+        "polish": "luz/ luzik",
+        "aiStatus": "complete",
+        "synonym": "j. p",
+        "translationRu": "расслабленность, непринуждённость (сленг)",
+        "example": "Zachowaj luz, wszystko będzie dobrze.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zrobilbym",
+        "polish": "zrobiłbym",
+        "aiStatus": "complete",
+        "translationRu": "я бы сделал",
+        "synonym": "wykonałbym",
+        "example": "Zrobiłbym to inaczej.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
