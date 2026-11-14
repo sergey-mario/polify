@@ -1,96 +1,93 @@
 {
-  "generatedAt": "2026-11-13T11:49:54.282Z",
+  "generatedAt": "2026-11-14T11:10:48.707Z",
   "dailyPractice": {
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "words": [
       {
-        "id": "odprawa",
-        "polish": "odprawa",
+        "id": "swiadczy",
+        "polish": "świadczy",
         "aiStatus": "complete",
-        "translationRu": "регистрация (на рейс), инструктаж",
-        "synonym": "rejestracja",
-        "example": "Odprawa na lotnisku trwała godzinę.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "wspierac-2",
-        "polish": "wspierać",
-        "aiStatus": "complete",
-        "translationRu": "поддерживать",
-        "synonym": "pomagać",
-        "example": "Rodzice mnie wspierają.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "nie-opodwiada",
-        "polish": "nie opodwiada",
-        "aiStatus": "partial",
-        "translationRu": "не соответствует (опечатка: nie odpowiada)",
-        "synonym": "nie pasuje",
-        "example": "To rozwiązanie nie odpowiada naszym wymaganiom.",
+        "translationRu": "свидетельствует (о чём-л.)",
+        "synonym": "dowodzi",
+        "example": "To świadczy o jego dobrych intencjach.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "wplywac",
-        "polish": "wpływać",
+        "id": "zwariowac",
+        "polish": "zwariować",
         "aiStatus": "complete",
-        "translationRu": "влиять, воздействовать",
-        "synonym": "oddziaływać",
-        "example": "Pogoda wpływa na nastrój.",
+        "synonym": "powariować, oszaleć, zbzikować",
+        "translationRu": "сойти с ума",
+        "example": "Chyba zwariowałem z tym stresem.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "dach",
+        "polish": "dach",
+        "aiStatus": "complete",
+        "translationRu": "крыша",
+        "example": "Naprawiamy dach domu.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "poddawac-sie-2",
-        "polish": "poddawać się",
-        "aiStatus": "complete",
-        "synonym": "rezygnować, kapitulować",
-        "example": "Warto walczyć i nie poddawać się",
-        "translationRu": "сдаваться",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "natychmiast",
-        "polish": "natychmiast",
-        "aiStatus": "complete",
-        "synonym": "od razu",
-        "example": "natychmiast wstali z kanapy",
-        "translationRu": "немедленно, сразу",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "z-rzedu",
-        "polish": "z rzędu",
-        "aiStatus": "complete",
-        "translationRu": "подряд",
-        "synonym": "pod rząd",
-        "example": "Wygrał trzy razy z rzędu.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "nie-wabi",
-        "polish": "nie wabi",
+        "id": "one-psy",
+        "polish": "one - psy",
         "aiStatus": "partial",
-        "translationRu": "не привлекает, не манит (обрывок фразы)",
-        "synonym": "nie kusi",
-        "example": "Ta oferta mnie nie wabi.",
+        "translationRu": "они (собаки) — грам. род",
+        "example": "One są głodne — nakarm te psy.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "opedzenie",
+        "polish": "opędzenie",
+        "aiStatus": "complete",
+        "translationRu": "покрытие (расходов), удовлетворение (нужд)",
+        "synonym": "pokrycie",
+        "example": "Pensja ledwo wystarcza na opędzenie podstawowych wydatków.",
+        "firstSeenAt": "2026-11-05"
+      },
+      {
+        "id": "do-niego",
+        "polish": "do niego",
+        "aiStatus": "complete",
+        "translationRu": "к нему",
+        "example": "Podszedłem do niego i się przywitałem.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "luz-luzik",
-        "polish": "luz/ luzik",
+        "id": "zmarznac-2",
+        "polish": "zmarznąć",
         "aiStatus": "complete",
-        "synonym": "j. p",
-        "translationRu": "расслабленность, непринуждённость (сленг)",
-        "example": "Zachowaj luz, wszystko będzie dobrze.",
-        "firstSeenAt": "2026-07-17"
+        "translationRu": "замёрзнуть",
+        "synonym": "odczuwać mróz",
+        "example": "Chyba bardzo zmarzliście!",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zrobilbym",
-        "polish": "zrobiłbym",
+        "id": "sztuka",
+        "polish": "sztuka",
         "aiStatus": "complete",
-        "translationRu": "я бы сделал",
-        "synonym": "wykonałbym",
-        "example": "Zrobiłbym to inaczej.",
+        "translationRu": "искусство; пьеса; штука",
+        "synonym": "dzieło",
+        "example": "Idziemy na sztukę do teatru.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "jednoczesnie-2",
+        "polish": "jednocześnie",
+        "aiStatus": "complete",
+        "translationRu": "одновременно",
+        "synonym": "równocześnie",
+        "example": "Nie mogę robić dwóch rzeczy jednocześnie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wygodnie-2",
+        "polish": "wygodnie",
+        "aiStatus": "complete",
+        "translationRu": "удобно",
+        "synonym": "komfortowo",
+        "example": "Czuję się tutaj wygodnie.",
         "firstSeenAt": "2026-07-17"
       }
     ],
