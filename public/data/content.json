@@ -1,94 +1,94 @@
 {
-  "generatedAt": "2026-11-14T11:10:48.707Z",
+  "generatedAt": "2026-11-15T11:43:57.139Z",
   "dailyPractice": {
-    "date": "2026-11-14",
+    "date": "2026-11-15",
     "words": [
       {
-        "id": "swiadczy",
-        "polish": "świadczy",
+        "id": "do-jednej-kawiarni",
+        "polish": "do jednej kawiarni",
+        "aiStatus": "partial",
+        "translationRu": "в одно кафе (фрагмент)",
+        "example": "Poszliśmy do jednej kawiarni na rogu ulicy.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "rezerwat",
+        "polish": "rezerwat",
         "aiStatus": "complete",
-        "translationRu": "свидетельствует (о чём-л.)",
-        "synonym": "dowodzi",
-        "example": "To świadczy o jego dobrych intencjach.",
+        "translationRu": "заповедник",
+        "synonym": "obszar chroniony",
+        "example": "W rezerwacie żyją rzadkie gatunki zwierząt.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "wypowiedziec",
+        "polish": "wypowiedzieć",
+        "aiStatus": "complete",
+        "synonym": "rozwiązaċ",
+        "example": "wypowiedzieć umowę",
+        "translationRu": "высказать; расторгнуть (договор)",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "slad",
+        "polish": "ślad",
+        "aiStatus": "complete",
+        "translationRu": "след",
+        "synonym": "trop",
+        "example": "Zostawiłeś ślady na podłodze.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "dalecy-krewni",
+        "polish": "dalecy krewni",
+        "aiStatus": "complete",
+        "translationRu": "дальние родственники",
+        "synonym": "daleka rodzina",
+        "example": "Mam dalekich krewnych w Ameryce.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "zwariowac",
-        "polish": "zwariować",
-        "aiStatus": "complete",
-        "synonym": "powariować, oszaleć, zbzikować",
-        "translationRu": "сойти с ума",
-        "example": "Chyba zwariowałem z tym stresem.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "dach",
-        "polish": "dach",
-        "aiStatus": "complete",
-        "translationRu": "крыша",
-        "example": "Naprawiamy dach domu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "one-psy",
-        "polish": "one - psy",
+        "id": "tak-nie-musi-byc-tak-nie-powinno-byc-tak-nie-moze-powiem",
+        "polish": "tak nie musi być ( tak nie powinno być, tak nie może powiem)",
         "aiStatus": "partial",
-        "translationRu": "они (собаки) — грам. род",
-        "example": "One są głodne — nakarm te psy.",
+        "translationRu": "так не обязательно должно быть (варианты: «tak nie powinno być» — так не должно быть)",
+        "example": "Tak nie musi być, można to zmienić.",
+        "firstSeenAt": "2026-09-09"
+      },
+      {
+        "id": "dobra",
+        "polish": "dobra",
+        "aiStatus": "complete",
+        "translationRu": "хорошая; ладно (разг.)",
+        "synonym": "okej (разг.)",
+        "example": "Dobra, zrobię to jutro.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "opedzenie",
-        "polish": "opędzenie",
-        "aiStatus": "complete",
-        "translationRu": "покрытие (расходов), удовлетворение (нужд)",
-        "synonym": "pokrycie",
-        "example": "Pensja ledwo wystarcza na opędzenie podstawowych wydatków.",
-        "firstSeenAt": "2026-11-05"
+        "id": "bochater",
+        "polish": "bochater",
+        "aiStatus": "partial",
+        "translationRu": "герой (опечатка от bohater)",
+        "synonym": "postać główna",
+        "example": "Był prawdziwym bohaterem tamtej wojny.",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "do-niego",
-        "polish": "do niego",
+        "id": "bez-konca",
+        "polish": "bez końca",
         "aiStatus": "complete",
-        "translationRu": "к нему",
-        "example": "Podszedłem do niego i się przywitałem.",
+        "synonym": "bez przerwy",
+        "translationRu": "без конца, бесконечно",
+        "example": "Mówił bez końca.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "zmarznac-2",
-        "polish": "zmarznąć",
+        "id": "jaka-podekscytowana-byla-pelagia",
+        "polish": "jaka podekscytowana była Pelagia",
         "aiStatus": "complete",
-        "translationRu": "замёрзнуть",
-        "synonym": "odczuwać mróz",
-        "example": "Chyba bardzo zmarzliście!",
+        "translationRu": "какой взволнованной была Пелагия",
+        "example": "Jaka podekscytowana była Pelagia, gdy usłyszała tę wiadomość!",
         "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "sztuka",
-        "polish": "sztuka",
-        "aiStatus": "complete",
-        "translationRu": "искусство; пьеса; штука",
-        "synonym": "dzieło",
-        "example": "Idziemy na sztukę do teatru.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "jednoczesnie-2",
-        "polish": "jednocześnie",
-        "aiStatus": "complete",
-        "translationRu": "одновременно",
-        "synonym": "równocześnie",
-        "example": "Nie mogę robić dwóch rzeczy jednocześnie.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wygodnie-2",
-        "polish": "wygodnie",
-        "aiStatus": "complete",
-        "translationRu": "удобно",
-        "synonym": "komfortowo",
-        "example": "Czuję się tutaj wygodnie.",
-        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
