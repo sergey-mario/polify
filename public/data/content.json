@@ -1,93 +1,96 @@
 {
-  "generatedAt": "2026-11-15T11:43:57.139Z",
+  "generatedAt": "2026-11-16T12:23:49.763Z",
   "dailyPractice": {
-    "date": "2026-11-15",
+    "date": "2026-11-16",
     "words": [
       {
-        "id": "do-jednej-kawiarni",
-        "polish": "do jednej kawiarni",
-        "aiStatus": "partial",
-        "translationRu": "в одно кафе (фрагмент)",
-        "example": "Poszliśmy do jednej kawiarni na rogu ulicy.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "rezerwat",
-        "polish": "rezerwat",
+        "id": "oburzeni",
+        "polish": "oburzeni",
         "aiStatus": "complete",
-        "translationRu": "заповедник",
-        "synonym": "obszar chroniony",
-        "example": "W rezerwacie żyją rzadkie gatunki zwierząt.",
+        "translationRu": "возмущённые",
+        "synonym": "wściekli",
+        "example": "Byli oburzeni tą decyzją.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wypowiedziec",
-        "polish": "wypowiedzieć",
+        "id": "spolecznosc",
+        "polish": "społeczność",
         "aiStatus": "complete",
-        "synonym": "rozwiązaċ",
-        "example": "wypowiedzieć umowę",
-        "translationRu": "высказать; расторгнуть (договор)",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "сообщество",
+        "synonym": "wspólnota",
+        "example": "To silna lokalna społeczność.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "slad",
-        "polish": "ślad",
+        "id": "wiedziec-o-czyms",
+        "polish": "wiedzieć o czymś",
         "aiStatus": "complete",
-        "translationRu": "след",
-        "synonym": "trop",
-        "example": "Zostawiłeś ślady na podłodze.",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "знать о чём-то",
+        "synonym": "mieć pojęcie o czymś",
+        "example": "Nie wiedziałem o tym spotkaniu.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "dalecy-krewni",
-        "polish": "dalecy krewni",
+        "id": "wypoczynek",
+        "polish": "wypoczynek",
         "aiStatus": "complete",
-        "translationRu": "дальние родственники",
-        "synonym": "daleka rodzina",
-        "example": "Mam dalekich krewnych w Ameryce.",
+        "synonym": "odpoczynek",
+        "translationRu": "отдых",
+        "example": "Potrzebuję trochę wypoczynku po pracy.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "tak-nie-musi-byc-tak-nie-powinno-byc-tak-nie-moze-powiem",
-        "polish": "tak nie musi być ( tak nie powinno być, tak nie może powiem)",
-        "aiStatus": "partial",
-        "translationRu": "так не обязательно должно быть (варианты: «tak nie powinno być» — так не должно быть)",
-        "example": "Tak nie musi być, można to zmienić.",
-        "firstSeenAt": "2026-09-09"
-      },
-      {
-        "id": "dobra",
-        "polish": "dobra",
+        "id": "niewatpliwy",
+        "polish": "niewątpliwy",
         "aiStatus": "complete",
-        "translationRu": "хорошая; ладно (разг.)",
-        "synonym": "okej (разг.)",
-        "example": "Dobra, zrobię to jutro.",
+        "synonym": "oczywisty, pewny",
+        "example": "ma wiele niewątpliwych zalet",
+        "translationRu": "несомненный",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "bochater",
-        "polish": "bochater",
-        "aiStatus": "partial",
-        "translationRu": "герой (опечатка от bohater)",
-        "synonym": "postać główna",
-        "example": "Był prawdziwym bohaterem tamtej wojny.",
+        "id": "spotkac-2",
+        "polish": "spotkać",
+        "aiStatus": "complete",
+        "synonym": "spotykać",
+        "translationRu": "встретить",
+        "example": "Spotkałem go wczoraj.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "bez-konca",
-        "polish": "bez końca",
+        "id": "czasami-3",
+        "polish": "czasami",
         "aiStatus": "complete",
-        "synonym": "bez przerwy",
-        "translationRu": "без конца, бесконечно",
-        "example": "Mówił bez końca.",
+        "synonym": "nierazem",
+        "translationRu": "иногда",
+        "example": "Czasami chodzę na siłownię.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "jaka-podekscytowana-byla-pelagia",
-        "polish": "jaka podekscytowana była Pelagia",
+        "id": "pogotowie",
+        "polish": "pogotowie",
         "aiStatus": "complete",
-        "translationRu": "какой взволнованной была Пелагия",
-        "example": "Jaka podekscytowana była Pelagia, gdy usłyszała tę wiadomość!",
+        "synonym": "karetka, ambulans",
+        "example": "Wezwać pogotowie",
+        "translationRu": "скорая помощь",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "znani",
+        "polish": "znani",
+        "aiStatus": "complete",
+        "translationRu": "известные",
+        "synonym": "sławni",
+        "example": "To są znani aktorzy.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "na-wszelki-wypadek",
+        "polish": "na wszelki wypadek",
+        "aiStatus": "complete",
+        "translationRu": "на всякий случай",
+        "synonym": "dla bezpieczeństwa",
+        "example": "Wezmę parasol na wszelki wypadek.",
         "firstSeenAt": "2026-05-02"
       }
     ],
