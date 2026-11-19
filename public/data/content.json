@@ -1,95 +1,94 @@
 {
-  "generatedAt": "2026-11-18T12:36:09.441Z",
+  "generatedAt": "2026-11-19T12:26:52.487Z",
   "dailyPractice": {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "words": [
       {
-        "id": "kanar",
-        "polish": "kanar",
+        "id": "wszystkie-2",
+        "polish": "wszystkie",
         "aiStatus": "complete",
-        "synonym": "kontroler biletów",
-        "example": "Kanar złapał mnie bez biletu",
-        "translationRu": "контролёр (в транспорте, разг.)",
+        "translationRu": "все (немужчины-лица)",
+        "example": "Zjadłem wszystkie jabłka z koszyka.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wojewodztwo",
-        "polish": "województwo",
+        "id": "czynnik-2",
+        "polish": "czynnik",
         "aiStatus": "complete",
-        "translationRu": "воеводство (административная единица в Польше)",
-        "example": "Mieszkam w województwie mazowieckim.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "pojsc-z-torbami",
-        "polish": "pójść z torbami",
-        "aiStatus": "complete",
-        "synonym": "stracić wszystko",
-        "example": "Prowadzić firmę źle i szybko pójść z torbami",
-        "translationRu": "разориться (идиома, букв. 'уйти с сумками')",
+        "translationRu": "фактор",
+        "synonym": "element",
+        "example": "To ważny czynnik sukcesu.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wynajelismy-3",
-        "polish": "wynajęliśmy",
+        "id": "silna-wola",
+        "polish": "silna wola",
         "aiStatus": "complete",
-        "translationRu": "мы сняли, арендовали",
-        "synonym": "wynajmowaliśmy",
-        "example": "Wynajęliśmy samochód na tydzień.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "skwalifikowac",
-        "polish": "skwalifikować",
-        "aiStatus": "partial",
-        "translationRu": "квалифицировать, отобрать (вероятно опечатка: zakwalifikować)",
-        "synonym": "wyselekcjonować",
-        "example": "Trener musi zakwalifikować zawodników do finału.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "zatarg",
-        "polish": "zatarg",
-        "aiStatus": "complete",
-        "translationRu": "столкновение, ссора, конфликт",
-        "synonym": "spór",
-        "example": "Między sąsiadami doszło do zatargu o płot.",
-        "firstSeenAt": "2026-11-05"
-      },
-      {
-        "id": "jednoczesnie",
-        "polish": "jednocześnie",
-        "aiStatus": "complete",
-        "translationRu": "одновременно",
-        "synonym": "równocześnie",
-        "example": "Nie mogę robić dwóch rzeczy jednocześnie.",
+        "translationRu": "сильная воля",
+        "synonym": "determinacja",
+        "example": "Ma silną wolę i osiągnie cel.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "mgla",
-        "polish": "mgła",
+        "id": "zdziwiony-2",
+        "polish": "zdziwiony",
         "aiStatus": "complete",
-        "translationRu": "туман",
-        "synonym": "zamglenie",
-        "example": "Rano była gęsta mgła.",
+        "synonym": "zaskoczony",
+        "translationRu": "удивлённый",
+        "example": "Był bardzo zdziwiony jej decyzją.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "ciapaty",
+        "polish": "Ciapaty",
+        "aiStatus": "complete",
+        "synonym": "arab/hindus/pakistańczyk",
+        "translationRu": "уничижительное прозвище для выходцев из Южной Азии (сленг)",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "wytracic",
-        "polish": "wytracić",
+        "id": "przeprowadzic-sie",
+        "polish": "przeprowadzić się",
         "aiStatus": "complete",
-        "translationRu": "утратить, потерять (скорость)",
-        "synonym": "utracić",
-        "example": "Samochód wytracił prędkość na zakręcie.",
+        "translationRu": "переехать",
+        "synonym": "przenieść się",
+        "example": "Przeprowadziliśmy się do Warszawy.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "przeprowadzilismy",
-        "polish": "przeprowadziliśmy",
+        "id": "po-koncercie-koncert",
+        "polish": "po koncercie (koncert)",
         "aiStatus": "complete",
-        "translationRu": "мы провели — соверш. вид",
-        "synonym": "zrealizowaliśmy",
-        "example": "Przeprowadziliśmy remont mieszkania w zeszłym roku.",
+        "translationRu": "после концерта (концерт)",
+        "synonym": "po występie",
+        "example": "Po koncercie poszliśmy na kolację.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "od-a-do-z",
+        "polish": "od A do Z",
+        "aiStatus": "complete",
+        "translationRu": "от А до Я",
+        "synonym": "całkowicie",
+        "example": "Znam ten temat od A do Z.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "znamy-sie",
+        "polish": "znamy się",
+        "aiStatus": "complete",
+        "translationRu": "мы знакомы",
+        "synonym": "znamy się nawzajem",
+        "example": "Znamy się od dzieciństwa.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "grafik",
+        "polish": "grafik",
+        "aiStatus": "complete",
+        "translationRu": "график (работ, дежурств); график-художник",
+        "synonym": "harmonogram",
+        "example": "Sprawdź grafik dyżurów w tym tygodniu.",
         "firstSeenAt": "2026-05-02"
       }
     ],
