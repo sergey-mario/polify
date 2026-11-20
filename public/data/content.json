@@ -1,95 +1,94 @@
 {
-  "generatedAt": "2026-11-19T12:26:52.487Z",
+  "generatedAt": "2026-11-20T12:27:34.910Z",
   "dailyPractice": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "words": [
       {
-        "id": "wszystkie-2",
-        "polish": "wszystkie",
+        "id": "polecenie",
+        "polish": "polecenie",
         "aiStatus": "complete",
-        "translationRu": "все (немужчины-лица)",
-        "example": "Zjadłem wszystkie jabłka z koszyka.",
+        "translationRu": "поручение, распоряжение; рекомендация",
+        "synonym": "zalecenie",
+        "example": "Szef dał mi nowe polecenie do wykonania.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "wyksztalcenie",
+        "polish": "wykształcenie",
+        "aiStatus": "complete",
+        "translationRu": "образование",
+        "synonym": "edukacja",
+        "example": "Ukończył wykształcenie wyższe.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "bylam-wsciekla",
+        "polish": "byłam wściekła",
+        "aiStatus": "complete",
+        "translationRu": "я была в бешенстве, взбешена (о женщине)",
+        "synonym": "byłam rozzłoszczona",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "dokonywac-aborcji-nie-robic-aborcje",
+        "polish": "dokonywać aborcji ( nie robić aborcję )",
+        "aiStatus": "complete",
+        "translationRu": "делать аборт (правильно: 'dokonywać aborcji', а не 'robić aborcję')",
+        "example": "Zdecydowała się dokonać aborcji po konsultacji z lekarzem.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "trzymac-kciuki",
+        "polish": "Trzymać kciuki",
+        "aiStatus": "complete",
+        "translationRu": "держать кулачки, желать удачи (идиома)",
+        "example": "Będę trzymać kciuki za twój egzamin.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "wspinac-sie-3",
+        "polish": "wspinać się",
+        "aiStatus": "complete",
+        "translationRu": "взбираться, карабкаться",
+        "synonym": "piąć się",
+        "example": "Wspinamy się na szczyt.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "czynnik-2",
-        "polish": "czynnik",
+        "id": "wynajelismy-3",
+        "polish": "wynajęliśmy",
         "aiStatus": "complete",
-        "translationRu": "фактор",
-        "synonym": "element",
-        "example": "To ważny czynnik sukcesu.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "silna-wola",
-        "polish": "silna wola",
-        "aiStatus": "complete",
-        "translationRu": "сильная воля",
-        "synonym": "determinacja",
-        "example": "Ma silną wolę i osiągnie cel.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zdziwiony-2",
-        "polish": "zdziwiony",
-        "aiStatus": "complete",
-        "synonym": "zaskoczony",
-        "translationRu": "удивлённый",
-        "example": "Był bardzo zdziwiony jej decyzją.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "ciapaty",
-        "polish": "Ciapaty",
-        "aiStatus": "complete",
-        "synonym": "arab/hindus/pakistańczyk",
-        "translationRu": "уничижительное прозвище для выходцев из Южной Азии (сленг)",
+        "translationRu": "мы сняли, арендовали",
+        "synonym": "wynajmowaliśmy",
+        "example": "Wynajęliśmy samochód na tydzień.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "przeprowadzic-sie",
-        "polish": "przeprowadzić się",
+        "id": "kuzyn",
+        "polish": "kuzyn",
         "aiStatus": "complete",
-        "translationRu": "переехать",
-        "synonym": "przenieść się",
-        "example": "Przeprowadziliśmy się do Warszawy.",
-        "firstSeenAt": "2026-07-17"
+        "translationRu": "кузен, двоюродный брат",
+        "synonym": "brat cioteczny",
+        "example": "Mój kuzyn przyjechał z zagranicy.",
+        "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "po-koncercie-koncert",
-        "polish": "po koncercie (koncert)",
+        "id": "publikowac",
+        "polish": "publikować",
         "aiStatus": "complete",
-        "translationRu": "после концерта (концерт)",
-        "synonym": "po występie",
-        "example": "Po koncercie poszliśmy na kolację.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "od-a-do-z",
-        "polish": "od A do Z",
-        "aiStatus": "complete",
-        "translationRu": "от А до Я",
-        "synonym": "całkowicie",
-        "example": "Znam ten temat od A do Z.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "znamy-sie",
-        "polish": "znamy się",
-        "aiStatus": "complete",
-        "translationRu": "мы знакомы",
-        "synonym": "znamy się nawzajem",
-        "example": "Znamy się od dzieciństwa.",
+        "translationRu": "публиковать",
+        "synonym": "wydawać",
+        "example": "Ona regularnie publikuje artykuły w internecie.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "grafik",
-        "polish": "grafik",
-        "aiStatus": "complete",
-        "translationRu": "график (работ, дежурств); график-художник",
-        "synonym": "harmonogram",
-        "example": "Sprawdź grafik dyżurów w tym tygodniu.",
-        "firstSeenAt": "2026-05-02"
+        "id": "unikatiwy",
+        "polish": "unikatiwy",
+        "aiStatus": "partial",
+        "translationRu": "уникальный (опечатка: unikatowy)",
+        "synonym": "niepowtarzalny",
+        "example": "To bardzo unikatowy przedmiot.",
+        "firstSeenAt": "2026-08-22"
       }
     ],
     "grammarRule": {
