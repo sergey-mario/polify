@@ -1,94 +1,92 @@
 {
-  "generatedAt": "2026-11-20T12:27:34.910Z",
+  "generatedAt": "2026-11-21T12:01:57.081Z",
   "dailyPractice": {
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "words": [
       {
-        "id": "polecenie",
-        "polish": "polecenie",
+        "id": "dodawalbym",
+        "polish": "dodawałbym",
         "aiStatus": "complete",
-        "translationRu": "поручение, распоряжение; рекомендация",
-        "synonym": "zalecenie",
-        "example": "Szef dał mi nowe polecenie do wykonania.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "wyksztalcenie",
-        "polish": "wykształcenie",
-        "aiStatus": "complete",
-        "translationRu": "образование",
-        "synonym": "edukacja",
-        "example": "Ukończył wykształcenie wyższe.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "bylam-wsciekla",
-        "polish": "byłam wściekła",
-        "aiStatus": "complete",
-        "translationRu": "я была в бешенстве, взбешена (о женщине)",
-        "synonym": "byłam rozzłoszczona",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "dokonywac-aborcji-nie-robic-aborcje",
-        "polish": "dokonywać aborcji ( nie robić aborcję )",
-        "aiStatus": "complete",
-        "translationRu": "делать аборт (правильно: 'dokonywać aborcji', а не 'robić aborcję')",
-        "example": "Zdecydowała się dokonać aborcji po konsultacji z lekarzem.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "trzymac-kciuki",
-        "polish": "Trzymać kciuki",
-        "aiStatus": "complete",
-        "translationRu": "держать кулачки, желать удачи (идиома)",
-        "example": "Będę trzymać kciuki za twój egzamin.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "wspinac-sie-3",
-        "polish": "wspinać się",
-        "aiStatus": "complete",
-        "translationRu": "взбираться, карабкаться",
-        "synonym": "piąć się",
-        "example": "Wspinamy się na szczyt.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "wynajelismy-3",
-        "polish": "wynajęliśmy",
-        "aiStatus": "complete",
-        "translationRu": "мы сняли, арендовали",
-        "synonym": "wynajmowaliśmy",
-        "example": "Wynajęliśmy samochód na tydzień.",
+        "translationRu": "я бы добавлял",
+        "synonym": "dokładałbym",
+        "example": "Dodawałbym więcej cukru do herbaty.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "kuzyn",
-        "polish": "kuzyn",
+        "id": "zoltek",
+        "polish": "Żółtek",
         "aiStatus": "complete",
-        "translationRu": "кузен, двоюродный брат",
-        "synonym": "brat cioteczny",
-        "example": "Mój kuzyn przyjechał z zagranicy.",
+        "synonym": "azjata / chińczyk",
+        "translationRu": "уничижительное прозвище для азиата, букв. \"желтоватый\" (сленг)",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "podobne-podobnie",
+        "polish": "podobne/ podobnie",
+        "aiStatus": "partial",
+        "translationRu": "похожий/похожая (прил.) / похоже (нареч.) — пометка о разнице прилагательного и наречия",
+        "example": "Te dwa obrazy są podobne, wyglądają podobnie.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "publikowac",
-        "polish": "publikować",
+        "id": "nie-dawaj-wszystkich-do-jednego-worka",
+        "polish": "nie dawaj wszystkich do jednego worka",
         "aiStatus": "complete",
-        "translationRu": "публиковать",
-        "synonym": "wydawać",
-        "example": "Ona regularnie publikuje artykuły w internecie.",
+        "translationRu": "не суй всех в один мешок (= не стриги под одну гребёнку)",
+        "synonym": "nie generalizuj",
+        "example": "Nie dawaj wszystkich do jednego worka, każdy jest inny.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "unikatiwy",
-        "polish": "unikatiwy",
-        "aiStatus": "partial",
-        "translationRu": "уникальный (опечатка: unikatowy)",
-        "synonym": "niepowtarzalny",
-        "example": "To bardzo unikatowy przedmiot.",
+        "id": "obejrzalem-nie-obejrzylem",
+        "polish": "obejrzałem (nie obejrzyłem)",
+        "aiStatus": "complete",
+        "translationRu": "я посмотрел (правильно: 'obejrzałem'; 'obejrzyłem' — ошибочная форма)",
+        "example": "Wczoraj obejrzałem interesujący film.",
         "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "na-tyle",
+        "polish": "na tyle",
+        "aiStatus": "complete",
+        "translationRu": "настолько, в такой степени",
+        "synonym": "tak bardzo",
+        "example": "Na tyle dobrze, żeby zrozumieć.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "prowadzic",
+        "polish": "prowadzić",
+        "aiStatus": "complete",
+        "translationRu": "вести",
+        "synonym": "kierować",
+        "example": "Ona prowadzi własną firmę.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "nie-chodzi-o-elaboraty",
+        "polish": "nie chodzi o elaboraty",
+        "aiStatus": "partial",
+        "translationRu": "речь не о пространных/занудных объяснениях",
+        "example": "Nie chodzi o elaboraty, tylko o konkretne fakty.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "piegi",
+        "polish": "piegi",
+        "aiStatus": "complete",
+        "translationRu": "веснушки",
+        "example": "Ma piegi na nosie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "popierac-2",
+        "polish": "popierać",
+        "aiStatus": "complete",
+        "translationRu": "поддерживать (мнение, кандидата)",
+        "synonym": "wspierać",
+        "example": "Popieram twój pomysł.",
+        "firstSeenAt": "2026-05-02"
       }
     ],
     "grammarRule": {
