@@ -1,91 +1,96 @@
 {
-  "generatedAt": "2026-11-21T12:01:57.081Z",
+  "generatedAt": "2026-11-22T12:15:19.288Z",
   "dailyPractice": {
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "words": [
       {
-        "id": "dodawalbym",
-        "polish": "dodawałbym",
+        "id": "stresc",
+        "polish": "streść",
         "aiStatus": "complete",
-        "translationRu": "я бы добавлял",
-        "synonym": "dokładałbym",
-        "example": "Dodawałbym więcej cukru do herbaty.",
-        "firstSeenAt": "2026-07-17"
+        "translationRu": "перескажи, изложи вкратце (повелит. от streścić)",
+        "synonym": "opowiedz krótko",
+        "example": "Streść mi ten film w dwóch zdaniach.",
+        "firstSeenAt": "2026-11-05"
       },
       {
-        "id": "zoltek",
-        "polish": "Żółtek",
+        "id": "poprawka",
+        "polish": "poprawka",
         "aiStatus": "complete",
-        "synonym": "azjata / chińczyk",
-        "translationRu": "уничижительное прозвище для азиата, букв. \"желтоватый\" (сленг)",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "podobne-podobnie",
-        "polish": "podobne/ podobnie",
-        "aiStatus": "partial",
-        "translationRu": "похожий/похожая (прил.) / похоже (нареч.) — пометка о разнице прилагательного и наречия",
-        "example": "Te dwa obrazy są podobne, wyglądają podobnie.",
+        "translationRu": "исправление, поправка; переэкзаменовка",
+        "synonym": "korekta",
+        "example": "Musiałem zdawać poprawkę z matematyki.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "nie-dawaj-wszystkich-do-jednego-worka",
-        "polish": "nie dawaj wszystkich do jednego worka",
+        "id": "publikowac",
+        "polish": "publikować",
         "aiStatus": "complete",
-        "translationRu": "не суй всех в один мешок (= не стриги под одну гребёнку)",
-        "synonym": "nie generalizuj",
-        "example": "Nie dawaj wszystkich do jednego worka, każdy jest inny.",
+        "translationRu": "публиковать",
+        "synonym": "wydawać",
+        "example": "Ona regularnie publikuje artykuły w internecie.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "obejrzalem-nie-obejrzylem",
-        "polish": "obejrzałem (nie obejrzyłem)",
+        "id": "takie-same-zdanie",
+        "polish": "takie same zdanie",
         "aiStatus": "complete",
-        "translationRu": "я посмотрел (правильно: 'obejrzałem'; 'obejrzyłem' — ошибочная форма)",
-        "example": "Wczoraj obejrzałem interesujący film.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "na-tyle",
-        "polish": "na tyle",
-        "aiStatus": "complete",
-        "translationRu": "настолько, в такой степени",
-        "synonym": "tak bardzo",
-        "example": "Na tyle dobrze, żeby zrozumieć.",
+        "translationRu": "такое же мнение / то же предложение",
+        "synonym": "ta sama opinia",
+        "example": "Mamy takie same zdanie na ten temat.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "prowadzic",
-        "polish": "prowadzić",
+        "id": "zlecenie",
+        "polish": "zlecenie",
         "aiStatus": "complete",
-        "translationRu": "вести",
-        "synonym": "kierować",
-        "example": "Ona prowadzi własną firmę.",
+        "translationRu": "заказ, поручение",
+        "synonym": "zadanie",
+        "example": "Pracuję na zlecenie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "zatrzymac-sie",
+        "polish": "zatrzymać się",
+        "aiStatus": "complete",
+        "synonym": "zatrzymywać się",
+        "translationRu": "остановиться",
+        "example": "Samochód zatrzymał się przed skrzyżowaniem.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "nie-chodzi-o-elaboraty",
-        "polish": "nie chodzi o elaboraty",
-        "aiStatus": "partial",
-        "translationRu": "речь не о пространных/занудных объяснениях",
-        "example": "Nie chodzi o elaboraty, tylko o konkretne fakty.",
+        "id": "deponent",
+        "polish": "deponent",
+        "aiStatus": "complete",
+        "translationRu": "вкладчик (банк.)",
+        "synonym": "wkładca",
+        "example": "Deponent otrzymał odsetki od swojego depozytu.",
+        "firstSeenAt": "2026-09-09"
+      },
+      {
+        "id": "pobor-do-wojska",
+        "polish": "pobór do wojska",
+        "aiStatus": "complete",
+        "translationRu": "призыв на военную службу, набор в армию",
+        "synonym": "powołanie do wojska",
+        "example": "Pobór do wojska w tym kraju jest obowiązkowy dla mężczyzn.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "piegi",
-        "polish": "piegi",
+        "id": "grafik",
+        "polish": "grafik",
         "aiStatus": "complete",
-        "translationRu": "веснушки",
-        "example": "Ma piegi na nosie.",
+        "translationRu": "график (работ, дежурств); график-художник",
+        "synonym": "harmonogram",
+        "example": "Sprawdź grafik dyżurów w tym tygodniu.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "popierac-2",
-        "polish": "popierać",
+        "id": "czynnik-4",
+        "polish": "czynnik",
         "aiStatus": "complete",
-        "translationRu": "поддерживать (мнение, кандидата)",
-        "synonym": "wspierać",
-        "example": "Popieram twój pomysł.",
+        "translationRu": "фактор",
+        "synonym": "element",
+        "example": "To ważny czynnik sukcesu.",
         "firstSeenAt": "2026-05-02"
       }
     ],
