@@ -1,96 +1,94 @@
 {
-  "generatedAt": "2026-11-22T12:15:19.288Z",
+  "generatedAt": "2026-11-23T13:58:44.825Z",
   "dailyPractice": {
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "words": [
       {
-        "id": "stresc",
-        "polish": "streść",
-        "aiStatus": "complete",
-        "translationRu": "перескажи, изложи вкратце (повелит. от streścić)",
-        "synonym": "opowiedz krótko",
-        "example": "Streść mi ten film w dwóch zdaniach.",
-        "firstSeenAt": "2026-11-05"
+        "id": "wapienie",
+        "polish": "wąpienie",
+        "aiStatus": "partial",
+        "translationRu": "сомнение (опечатка от wątpienie)",
+        "synonym": "niepewność",
+        "example": "Ogarnęło mnie wątpienie, czy podjąłem dobrą decyzję.",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "poprawka",
-        "polish": "poprawka",
+        "id": "rolnicy",
+        "polish": "rolnicy",
         "aiStatus": "complete",
-        "translationRu": "исправление, поправка; переэкзаменовка",
-        "synonym": "korekta",
-        "example": "Musiałem zdawać poprawkę z matematyki.",
+        "translationRu": "фермеры",
+        "synonym": "gospodarze",
+        "example": "Rolnicy protestowali przeciwko niskim cenom zboża.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "nie-wszystkie-pary-a-nie-nie-wszyscy-pary",
+        "polish": "nie wszystkie pary ( a nie, nie wszyscy pary )",
+        "aiStatus": "complete",
+        "translationRu": "не все пары (а не 'nie wszyscy pary' — 'wszyscy' используется для людей м.р., а 'pary' требует 'wszystkie')",
+        "example": "Nie wszystkie pary decydują się na dzieci.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "publikowac",
-        "polish": "publikować",
-        "aiStatus": "complete",
-        "translationRu": "публиковать",
-        "synonym": "wydawać",
-        "example": "Ona regularnie publikuje artykuły w internecie.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "takie-same-zdanie",
-        "polish": "takie same zdanie",
-        "aiStatus": "complete",
-        "translationRu": "такое же мнение / то же предложение",
-        "synonym": "ta sama opinia",
-        "example": "Mamy takie same zdanie na ten temat.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zlecenie",
-        "polish": "zlecenie",
-        "aiStatus": "complete",
-        "translationRu": "заказ, поручение",
-        "synonym": "zadanie",
-        "example": "Pracuję na zlecenie.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zatrzymac-sie",
-        "polish": "zatrzymać się",
-        "aiStatus": "complete",
-        "synonym": "zatrzymywać się",
-        "translationRu": "остановиться",
-        "example": "Samochód zatrzymał się przed skrzyżowaniem.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "deponent",
-        "polish": "deponent",
-        "aiStatus": "complete",
-        "translationRu": "вкладчик (банк.)",
-        "synonym": "wkładca",
-        "example": "Deponent otrzymał odsetki od swojego depozytu.",
+        "id": "zarabiac-pieniadze-nie-zarabiac-pieniedzy",
+        "polish": "zarabiać pieniądze, nie ,,zarabiać pieniędzy''",
+        "aiStatus": "partial",
+        "translationRu": "зарабатывать деньги (винительный падеж «pieniądze», не родительный «pieniędzy»)",
+        "example": "Chcę zarabiać pieniądze, pracując zdalnie.",
         "firstSeenAt": "2026-09-09"
       },
       {
-        "id": "pobor-do-wojska",
-        "polish": "pobór do wojska",
+        "id": "wyjatkowy",
+        "polish": "wyjątkowy",
         "aiStatus": "complete",
-        "translationRu": "призыв на военную службу, набор в армию",
-        "synonym": "powołanie do wojska",
-        "example": "Pobór do wojska w tym kraju jest obowiązkowy dla mężczyzn.",
-        "firstSeenAt": "2026-08-22"
+        "translationRu": "исключительный",
+        "synonym": "niezwykły",
+        "example": "To był wyjątkowy dzień.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "grafik",
-        "polish": "grafik",
+        "id": "zastanawiac-sie",
+        "polish": "zastanawiać się",
         "aiStatus": "complete",
-        "translationRu": "график (работ, дежурств); график-художник",
-        "synonym": "harmonogram",
-        "example": "Sprawdź grafik dyżurów w tym tygodniu.",
+        "translationRu": "задумываться",
+        "synonym": "rozmyślać",
+        "example": "Zastanawiam się, co robić dalej.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "trudnie-2",
+        "polish": "trudnie",
+        "aiStatus": "partial",
+        "translationRu": "трудно (опечатка/нестанд., правильно 'trudno')",
+        "synonym": "jak?",
+        "example": "Trudno mi to teraz wytłumaczyć.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "czynnik-4",
-        "polish": "czynnik",
+        "id": "niektorzy",
+        "polish": "niektórzy",
         "aiStatus": "complete",
-        "translationRu": "фактор",
-        "synonym": "element",
-        "example": "To ważny czynnik sukcesu.",
+        "translationRu": "некоторые (о людях, муж.)",
+        "synonym": "część ludzi",
+        "example": "Niektórzy wolą pracować zdalnie.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "wplywac",
+        "polish": "wpływać",
+        "aiStatus": "complete",
+        "translationRu": "влиять, воздействовать",
+        "synonym": "oddziaływać",
+        "example": "Pogoda wpływa na nastrój.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "przerazony",
+        "polish": "przerażony",
+        "aiStatus": "complete",
+        "synonym": "zszokowany",
+        "example": "Być przerażony wiadomością",
+        "translationRu": "испуганный, в ужасе",
         "firstSeenAt": "2026-05-02"
       }
     ],
