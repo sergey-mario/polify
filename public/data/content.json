@@ -1,95 +1,93 @@
 {
-  "generatedAt": "2026-11-23T13:58:44.825Z",
+  "generatedAt": "2026-11-24T14:30:07.443Z",
   "dailyPractice": {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "words": [
       {
-        "id": "wapienie",
-        "polish": "wąpienie",
-        "aiStatus": "partial",
-        "translationRu": "сомнение (опечатка от wątpienie)",
-        "synonym": "niepewność",
-        "example": "Ogarnęło mnie wątpienie, czy podjąłem dobrą decyzję.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "rolnicy",
-        "polish": "rolnicy",
+        "id": "znac-jezyk",
+        "polish": "znac język",
         "aiStatus": "complete",
-        "translationRu": "фермеры",
-        "synonym": "gospodarze",
-        "example": "Rolnicy protestowali przeciwko niskim cenom zboża.",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "знать язык (опечатка от znać)",
+        "synonym": "posługiwać się językiem",
+        "example": "Warto znać przynajmniej jeden język obcy.",
+        "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "nie-wszystkie-pary-a-nie-nie-wszyscy-pary",
-        "polish": "nie wszystkie pary ( a nie, nie wszyscy pary )",
-        "aiStatus": "complete",
-        "translationRu": "не все пары (а не 'nie wszyscy pary' — 'wszyscy' используется для людей м.р., а 'pary' требует 'wszystkie')",
-        "example": "Nie wszystkie pary decydują się na dzieci.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "zarabiac-pieniadze-nie-zarabiac-pieniedzy",
-        "polish": "zarabiać pieniądze, nie ,,zarabiać pieniędzy''",
+        "id": "dwa-rozne-wyznania-nie-dwa-roznych-wyznania",
+        "polish": "dwa różne wyznania - nie ,,dwa różnych wyznania''",
         "aiStatus": "partial",
-        "translationRu": "зарабатывать деньги (винительный падеж «pieniądze», не родительный «pieniędzy»)",
-        "example": "Chcę zarabiać pieniądze, pracując zdalnie.",
+        "translationRu": "два разных вероисповедания (не «dwa różnych wyznania» — ошибка согласования числительного)",
+        "example": "Rodzice mają dwa różne wyznania.",
         "firstSeenAt": "2026-09-09"
       },
       {
-        "id": "wyjatkowy",
-        "polish": "wyjątkowy",
+        "id": "podejsc",
+        "polish": "podejść",
         "aiStatus": "complete",
-        "translationRu": "исключительный",
-        "synonym": "niezwykły",
-        "example": "To był wyjątkowy dzień.",
-        "firstSeenAt": "2026-07-17"
+        "translationRu": "подойти",
+        "synonym": "zbliżyć się",
+        "example": "Podeszłam do niego i się przywitałam.",
+        "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "zastanawiac-sie",
-        "polish": "zastanawiać się",
-        "aiStatus": "complete",
-        "translationRu": "задумываться",
-        "synonym": "rozmyślać",
-        "example": "Zastanawiam się, co robić dalej.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "trudnie-2",
-        "polish": "trudnie",
+        "id": "cel-on-3",
+        "polish": "cel - on",
         "aiStatus": "partial",
-        "translationRu": "трудно (опечатка/нестанд., правильно 'trudno')",
-        "synonym": "jak?",
-        "example": "Trudno mi to teraz wytłumaczyć.",
+        "translationRu": "цель (он, грам. род)",
+        "example": "Nasz cel jest jasno określony.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "niektorzy",
-        "polish": "niektórzy",
+        "id": "zmiana-ona",
+        "polish": "zmiana - ona",
+        "aiStatus": "partial",
+        "translationRu": "смена, изменение - она (существительное женского рода)",
+        "example": "Ta zmiana zaskoczyła wszystkich.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "zalozyc",
+        "polish": "założyć",
         "aiStatus": "complete",
-        "translationRu": "некоторые (о людях, муж.)",
-        "synonym": "część ludzi",
-        "example": "Niektórzy wolą pracować zdalnie.",
+        "translationRu": "основать, надеть, предположить",
+        "synonym": "utworzyć",
+        "example": "Założyli firmę dziesięć lat temu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "pod-katem",
+        "polish": "pod kątem",
+        "aiStatus": "complete",
+        "translationRu": "с точки зрения, в аспекте",
+        "synonym": "z punktu widzenia",
+        "example": "Przeanalizujmy to pod kątem kosztów.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "wprowadzic",
+        "polish": "wprowadzić",
+        "aiStatus": "complete",
+        "translationRu": "ввести, внедрить",
+        "synonym": "wdrożyć",
+        "example": "Firma wprowadziła nowe zasady.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "niezbedne",
+        "polish": "niezbędne",
+        "aiStatus": "complete",
+        "translationRu": "необходимые, незаменимые",
+        "synonym": "konieczne",
+        "example": "Woda jest niezbędna do życia.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "wplywac",
-        "polish": "wpływać",
-        "aiStatus": "complete",
-        "translationRu": "влиять, воздействовать",
-        "synonym": "oddziaływać",
-        "example": "Pogoda wpływa na nastrój.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "przerazony",
-        "polish": "przerażony",
-        "aiStatus": "complete",
-        "synonym": "zszokowany",
-        "example": "Być przerażony wiadomością",
-        "translationRu": "испуганный, в ужасе",
-        "firstSeenAt": "2026-05-02"
+        "id": "zabiora",
+        "polish": "zabiorą",
+        "aiStatus": "partial",
+        "translationRu": "(они) забéрут — форма будущего времени глагола zabrać",
+        "example": "Zabiorą wszystkie rzeczy z magazynu.",
+        "firstSeenAt": "2026-08-22"
       }
     ],
     "grammarRule": {
