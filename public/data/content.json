@@ -1,93 +1,95 @@
 {
-  "generatedAt": "2026-11-24T14:30:07.443Z",
+  "generatedAt": "2026-11-25T13:51:22.291Z",
   "dailyPractice": {
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "words": [
       {
-        "id": "znac-jezyk",
-        "polish": "znac język",
+        "id": "postrzegac",
+        "polish": "postrzegać",
         "aiStatus": "complete",
-        "translationRu": "знать язык (опечатка от znać)",
-        "synonym": "posługiwać się językiem",
-        "example": "Warto znać przynajmniej jeden język obcy.",
+        "translationRu": "воспринимать",
+        "synonym": "widzieć",
+        "example": "Ludzie postrzegają go jako lidera.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "dwa-rozne-wyznania-nie-dwa-roznych-wyznania",
-        "polish": "dwa różne wyznania - nie ,,dwa różnych wyznania''",
-        "aiStatus": "partial",
-        "translationRu": "два разных вероисповедания (не «dwa różnych wyznania» — ошибка согласования числительного)",
-        "example": "Rodzice mają dwa różne wyznania.",
-        "firstSeenAt": "2026-09-09"
-      },
-      {
-        "id": "podejsc",
-        "polish": "podejść",
+        "id": "obok-najwyzszych-kwalifikacji-fachowych",
+        "polish": "Obok najwyższych kwalifikacji fachowych",
         "aiStatus": "complete",
-        "translationRu": "подойти",
-        "synonym": "zbliżyć się",
-        "example": "Podeszłam do niego i się przywitałam.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "cel-on-3",
-        "polish": "cel - on",
-        "aiStatus": "partial",
-        "translationRu": "цель (он, грам. род)",
-        "example": "Nasz cel jest jasno określony.",
+        "synonym": "oprócz",
+        "translationRu": "Помимо высших профессиональных квалификаций",
+        "example": "Obok najwyższych kwalifikacji fachowych liczy się także doświadczenie życiowe.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zmiana-ona",
-        "polish": "zmiana - ona",
+        "id": "pustkowie-2",
+        "polish": "pustkowie",
+        "aiStatus": "complete",
+        "translationRu": "пустошь, безлюдная местность",
+        "synonym": "odludzie",
+        "example": "Zostawili samochód na pustkowiu.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "rada",
+        "polish": "rada",
+        "aiStatus": "complete",
+        "translationRu": "совет",
+        "synonym": "wskazówka",
+        "example": "Dał mi bardzo dobrą radę.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "szczerze-mowiac",
+        "polish": "szczerze mówiąc",
+        "aiStatus": "complete",
+        "translationRu": "честно говоря",
+        "synonym": "prawdę mówiąc",
+        "example": "Szczerze mówiąc, nie podoba mi się to.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "on-ona-musi",
+        "polish": "on / ona musi",
+        "aiStatus": "complete",
+        "translationRu": "он / она должен / должна",
+        "example": "On musi iść do pracy.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "po-co",
+        "polish": "po co",
+        "aiStatus": "complete",
+        "translationRu": "зачем, для чего",
+        "example": "Po co mi to mówisz?",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "walczyc",
+        "polish": "walczyć",
+        "aiStatus": "complete",
+        "translationRu": "бороться",
+        "synonym": "bić się",
+        "example": "Walczył o swoje prawa.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "boisko",
+        "polish": "boisko",
+        "aiStatus": "complete",
+        "translationRu": "спортивная площадка, стадион",
+        "synonym": "stadion",
+        "example": "Dzieci grały w piłkę na boisku.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "system-on-2",
+        "polish": "system - on",
         "aiStatus": "partial",
-        "translationRu": "смена, изменение - она (существительное женского рода)",
-        "example": "Ta zmiana zaskoczyła wszystkich.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "zalozyc",
-        "polish": "założyć",
-        "aiStatus": "complete",
-        "translationRu": "основать, надеть, предположить",
-        "synonym": "utworzyć",
-        "example": "Założyli firmę dziesięć lat temu.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "pod-katem",
-        "polish": "pod kątem",
-        "aiStatus": "complete",
-        "translationRu": "с точки зрения, в аспекте",
-        "synonym": "z punktu widzenia",
-        "example": "Przeanalizujmy to pod kątem kosztów.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "wprowadzic",
-        "polish": "wprowadzić",
-        "aiStatus": "complete",
-        "translationRu": "ввести, внедрить",
-        "synonym": "wdrożyć",
-        "example": "Firma wprowadziła nowe zasady.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "niezbedne",
-        "polish": "niezbędne",
-        "aiStatus": "complete",
-        "translationRu": "необходимые, незаменимые",
-        "synonym": "konieczne",
-        "example": "Woda jest niezbędna do życia.",
+        "synonym": "fajny system",
+        "translationRu": "система (он, грам. род)",
+        "example": "System działa bez zarzutu.",
         "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zabiora",
-        "polish": "zabiorą",
-        "aiStatus": "partial",
-        "translationRu": "(они) забéрут — форма будущего времени глагола zabrać",
-        "example": "Zabiorą wszystkie rzeczy z magazynu.",
-        "firstSeenAt": "2026-08-22"
       }
     ],
     "grammarRule": {
