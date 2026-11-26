@@ -1,94 +1,95 @@
 {
-  "generatedAt": "2026-11-25T13:51:22.291Z",
+  "generatedAt": "2026-11-26T13:30:05.153Z",
   "dailyPractice": {
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "words": [
       {
-        "id": "postrzegac",
-        "polish": "postrzegać",
+        "id": "sprobowac-2",
+        "polish": "spróbować",
         "aiStatus": "complete",
-        "translationRu": "воспринимать",
-        "synonym": "widzieć",
-        "example": "Ludzie postrzegają go jako lidera.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "obok-najwyzszych-kwalifikacji-fachowych",
-        "polish": "Obok najwyższych kwalifikacji fachowych",
-        "aiStatus": "complete",
-        "synonym": "oprócz",
-        "translationRu": "Помимо высших профессиональных квалификаций",
-        "example": "Obok najwyższych kwalifikacji fachowych liczy się także doświadczenie życiowe.",
+        "translationRu": "попробовать",
+        "synonym": "wypróbować",
+        "example": "Spróbuj jeszcze raz.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "pustkowie-2",
-        "polish": "pustkowie",
+        "id": "okropni-ludzie",
+        "polish": "okropni ludzie",
         "aiStatus": "complete",
-        "translationRu": "пустошь, безлюдная местность",
-        "synonym": "odludzie",
-        "example": "Zostawili samochód na pustkowiu.",
-        "firstSeenAt": "2026-07-17"
+        "translationRu": "ужасные люди",
+        "synonym": "straszni ludzie",
+        "example": "Spotkałem dziś kilku okropnych ludzi w urzędzie.",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "rada",
-        "polish": "rada",
+        "id": "zaczela",
+        "polish": "zaczęła",
         "aiStatus": "complete",
-        "translationRu": "совет",
-        "synonym": "wskazówka",
-        "example": "Dał mi bardzo dobrą radę.",
+        "translationRu": "начала (прош. вр. глагола zacząć, ж.р.)",
+        "example": "Zaczęła nową pracę w zeszłym tygodniu.",
         "firstSeenAt": "2026-08-22"
       },
       {
-        "id": "szczerze-mowiac",
-        "polish": "szczerze mówiąc",
-        "aiStatus": "complete",
-        "translationRu": "честно говоря",
-        "synonym": "prawdę mówiąc",
-        "example": "Szczerze mówiąc, nie podoba mi się to.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "on-ona-musi",
-        "polish": "on / ona musi",
-        "aiStatus": "complete",
-        "translationRu": "он / она должен / должна",
-        "example": "On musi iść do pracy.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "po-co",
-        "polish": "po co",
-        "aiStatus": "complete",
-        "translationRu": "зачем, для чего",
-        "example": "Po co mi to mówisz?",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "walczyc",
-        "polish": "walczyć",
-        "aiStatus": "complete",
-        "translationRu": "бороться",
-        "synonym": "bić się",
-        "example": "Walczył o swoje prawa.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "boisko",
-        "polish": "boisko",
-        "aiStatus": "complete",
-        "translationRu": "спортивная площадка, стадион",
-        "synonym": "stadion",
-        "example": "Dzieci grały w piłkę na boisku.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "system-on-2",
-        "polish": "system - on",
+        "id": "nie-wabi",
+        "polish": "nie wabi",
         "aiStatus": "partial",
-        "synonym": "fajny system",
-        "translationRu": "система (он, грам. род)",
-        "example": "System działa bez zarzutu.",
+        "translationRu": "не привлекает, не манит (обрывок фразы)",
+        "synonym": "nie kusi",
+        "example": "Ta oferta mnie nie wabi.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "przeprowadzic-sie",
+        "polish": "przeprowadzić się",
+        "aiStatus": "complete",
+        "translationRu": "переехать",
+        "synonym": "przenieść się",
+        "example": "Przeprowadziliśmy się do Warszawy.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zlew",
+        "polish": "zlew",
+        "aiStatus": "complete",
+        "synonym": "zmywak",
+        "translationRu": "раковина",
+        "example": "Naczynia leżały w zlewie.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "swieto",
+        "polish": "swięto",
+        "aiStatus": "partial",
+        "translationRu": "праздник (опечатка от święto)",
+        "synonym": "uroczystość",
+        "example": "W niedzielę mamy święto państwowe.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "jednakowe",
+        "polish": "jednakowe",
+        "aiStatus": "complete",
+        "translationRu": "одинаковые",
+        "synonym": "takie same",
+        "example": "Te dwa pudełka są jednakowe.",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "dyzur",
+        "polish": "dyżur",
+        "aiStatus": "complete",
+        "translationRu": "дежурство, смена",
+        "synonym": "zmiana",
+        "example": "Mam dzisiaj dyżur w szpitalu.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "wsciekly",
+        "polish": "wściekły",
+        "aiStatus": "complete",
+        "synonym": "zdenerwowana",
+        "example": "Jestem wściekły, bo znowu się spóźniłeś",
+        "translationRu": "разъярённый, взбешённый",
         "firstSeenAt": "2026-05-02"
       }
     ],
