@@ -1,96 +1,95 @@
 {
-  "generatedAt": "2026-11-26T13:30:05.153Z",
+  "generatedAt": "2026-11-27T13:26:53.926Z",
   "dailyPractice": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "words": [
       {
-        "id": "sprobowac-2",
-        "polish": "spróbować",
+        "id": "czy-to-sie-oplaca",
+        "polish": "czy to się opłaca",
         "aiStatus": "complete",
-        "translationRu": "попробовать",
-        "synonym": "wypróbować",
-        "example": "Spróbuj jeszcze raz.",
+        "translationRu": "стоит ли это того / выгодно ли это",
+        "synonym": "czy warto",
+        "example": "Zastanawiam się, czy to się opłaca.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "okropni-ludzie",
-        "polish": "okropni ludzie",
-        "aiStatus": "complete",
-        "translationRu": "ужасные люди",
-        "synonym": "straszni ludzie",
-        "example": "Spotkałem dziś kilku okropnych ludzi w urzędzie.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zaczela",
-        "polish": "zaczęła",
-        "aiStatus": "complete",
-        "translationRu": "начала (прош. вр. глагола zacząć, ж.р.)",
-        "example": "Zaczęła nową pracę w zeszłym tygodniu.",
-        "firstSeenAt": "2026-08-22"
-      },
-      {
-        "id": "nie-wabi",
-        "polish": "nie wabi",
+        "id": "w-zeszlym",
+        "polish": "w zeszłym",
         "aiStatus": "partial",
-        "translationRu": "не привлекает, не манит (обрывок фразы)",
-        "synonym": "nie kusi",
-        "example": "Ta oferta mnie nie wabi.",
+        "translationRu": "в прошлом (обрывок, напр. w zeszłym roku)",
+        "example": "W zeszłym roku byliśmy w Grecji.",
         "firstSeenAt": "2026-07-17"
       },
       {
-        "id": "przeprowadzic-sie",
-        "polish": "przeprowadzić się",
+        "id": "przytomnosc",
+        "polish": "przytomność",
         "aiStatus": "complete",
-        "translationRu": "переехать",
-        "synonym": "przenieść się",
-        "example": "Przeprowadziliśmy się do Warszawy.",
-        "firstSeenAt": "2026-07-17"
+        "example": "straciła przytomność",
+        "translationRu": "сознание",
+        "synonym": "świadomość",
+        "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "zlew",
-        "polish": "zlew",
-        "aiStatus": "complete",
-        "synonym": "zmywak",
-        "translationRu": "раковина",
-        "example": "Naczynia leżały w zlewie.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "swieto",
-        "polish": "swięto",
+        "id": "cel-on",
+        "polish": "cel - on",
         "aiStatus": "partial",
-        "translationRu": "праздник (опечатка от święto)",
-        "synonym": "uroczystość",
-        "example": "W niedzielę mamy święto państwowe.",
+        "translationRu": "цель (он, грам. род)",
+        "example": "Nasz cel jest jasno określony.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "jednakowe",
-        "polish": "jednakowe",
+        "id": "intensywny",
+        "polish": "intensywny",
         "aiStatus": "complete",
-        "translationRu": "одинаковые",
-        "synonym": "takie same",
-        "example": "Te dwa pudełka są jednakowe.",
+        "translationRu": "интенсивный",
+        "synonym": "silny",
+        "example": "Mieliśmy intensywny tydzień pracy.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "dzieki",
+        "polish": "dzięki",
+        "aiStatus": "complete",
+        "translationRu": "благодаря",
+        "synonym": "za sprawą",
+        "example": "Dzięki tobie zdałem egzamin.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "spotkac-2",
+        "polish": "spotkać",
+        "aiStatus": "complete",
+        "synonym": "spotykać",
+        "translationRu": "встретить",
+        "example": "Spotkałem go wczoraj.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "dyzur",
-        "polish": "dyżur",
+        "id": "zalazek-wyobrazenia",
+        "polish": "zalążek wyobrażenia",
         "aiStatus": "complete",
-        "translationRu": "дежурство, смена",
-        "synonym": "zmiana",
-        "example": "Mam dzisiaj dyżur w szpitalu.",
-        "firstSeenAt": "2026-08-22"
+        "translationRu": "зачаток представления",
+        "synonym": "początek pomysłu",
+        "example": "W jego głowie pojawił się zalążek wyobrażenia o nowym projekcie.",
+        "firstSeenAt": "2026-11-05"
       },
       {
-        "id": "wsciekly",
-        "polish": "wściekły",
+        "id": "nic-specjalnego",
+        "polish": "nic specjalnego",
         "aiStatus": "complete",
-        "synonym": "zdenerwowana",
-        "example": "Jestem wściekły, bo znowu się spóźniłeś",
-        "translationRu": "разъярённый, взбешённый",
-        "firstSeenAt": "2026-05-02"
+        "translationRu": "ничего особенного",
+        "synonym": "nic nadzwyczajnego",
+        "example": "Nic specjalnego się nie stało.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "dotrzec-2",
+        "polish": "dotrzeć",
+        "aiStatus": "complete",
+        "translationRu": "добраться",
+        "synonym": "dojechać",
+        "example": "Trudno tam dotrzeć bez samochodu.",
+        "firstSeenAt": "2026-07-17"
       }
     ],
     "grammarRule": {
