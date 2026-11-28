@@ -1,95 +1,96 @@
 {
-  "generatedAt": "2026-11-27T13:26:53.926Z",
+  "generatedAt": "2026-11-28T12:40:07.061Z",
   "dailyPractice": {
-    "date": "2026-11-27",
+    "date": "2026-11-28",
     "words": [
       {
-        "id": "czy-to-sie-oplaca",
-        "polish": "czy to się opłaca",
+        "id": "dobrze",
+        "polish": "dobrze",
         "aiStatus": "complete",
-        "translationRu": "стоит ли это того / выгодно ли это",
-        "synonym": "czy warto",
-        "example": "Zastanawiam się, czy to się opłaca.",
+        "translationRu": "хорошо",
+        "synonym": "świetnie",
+        "example": "Wszystko poszło dobrze.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "w-zeszlym",
-        "polish": "w zeszłym",
+        "id": "dmie",
+        "polish": "dmie",
+        "aiStatus": "complete",
+        "translationRu": "дует (от dąć)",
+        "synonym": "wieje",
+        "example": "Wiatr dmie z północy.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "dojsc-do-wniosku",
+        "polish": "dojść do wniosku",
+        "aiStatus": "complete",
+        "translationRu": "прийти к выводу",
+        "synonym": "uznać",
+        "example": "Doszedłem do wniosku, że mam rację.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "zobaczyc",
+        "polish": "zobaczyć",
+        "aiStatus": "complete",
+        "translationRu": "увидеть",
+        "synonym": "ujrzeć",
+        "example": "Chcę zobaczyć ten film.",
+        "firstSeenAt": "2026-08-22"
+      },
+      {
+        "id": "zwierzchnik",
+        "polish": "zwierzchnik",
+        "aiStatus": "complete",
+        "translationRu": "начальник, руководитель",
+        "synonym": "przełożony",
+        "example": "Mój zwierzchnik pochwalił mnie za dobrze wykonaną pracę.",
+        "firstSeenAt": "2026-09-09"
+      },
+      {
+        "id": "git",
+        "polish": "git",
+        "aiStatus": "complete",
+        "synonym": "j/p",
+        "translationRu": "классно, ок (сленг)",
+        "example": "Wszystko git, nie martw się.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "pojechalismy",
+        "polish": "pojechAliśmy",
+        "aiStatus": "complete",
+        "translationRu": "мы поехали",
+        "synonym": "wyruszyliśmy",
+        "example": "Pojechaliśmy nad morze na wakacje.",
+        "firstSeenAt": "2026-07-17"
+      },
+      {
+        "id": "pojsc-z-torbami",
+        "polish": "pójść z torbami",
+        "aiStatus": "complete",
+        "synonym": "stracić wszystko",
+        "example": "Prowadzić firmę źle i szybko pójść z torbami",
+        "translationRu": "разориться (идиома, букв. 'уйти с сумками')",
+        "firstSeenAt": "2026-05-02"
+      },
+      {
+        "id": "lot-z",
+        "polish": "lot z",
         "aiStatus": "partial",
-        "translationRu": "в прошлом (обрывок, напр. w zeszłym roku)",
-        "example": "W zeszłym roku byliśmy w Grecji.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "przytomnosc",
-        "polish": "przytomność",
-        "aiStatus": "complete",
-        "example": "straciła przytomność",
-        "translationRu": "сознание",
-        "synonym": "świadomość",
+        "translationRu": "рейс из (фрагмент)",
+        "example": "Lot z Warszawy do Londynu trwa dwie godziny.",
         "firstSeenAt": "2026-05-02"
       },
       {
-        "id": "cel-on",
-        "polish": "cel - on",
+        "id": "natrzec",
+        "polish": "natrzeć",
         "aiStatus": "partial",
-        "translationRu": "цель (он, грам. род)",
-        "example": "Nasz cel jest jasno określony.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "intensywny",
-        "polish": "intensywny",
-        "aiStatus": "complete",
-        "translationRu": "интенсивный",
-        "synonym": "silny",
-        "example": "Mieliśmy intensywny tydzień pracy.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "dzieki",
-        "polish": "dzięki",
-        "aiStatus": "complete",
-        "translationRu": "благодаря",
-        "synonym": "za sprawą",
-        "example": "Dzięki tobie zdałem egzamin.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "spotkac-2",
-        "polish": "spotkać",
-        "aiStatus": "complete",
-        "synonym": "spotykać",
-        "translationRu": "встретить",
-        "example": "Spotkałem go wczoraj.",
-        "firstSeenAt": "2026-05-02"
-      },
-      {
-        "id": "zalazek-wyobrazenia",
-        "polish": "zalążek wyobrażenia",
-        "aiStatus": "complete",
-        "translationRu": "зачаток представления",
-        "synonym": "początek pomysłu",
-        "example": "W jego głowie pojawił się zalążek wyobrażenia o nowym projekcie.",
-        "firstSeenAt": "2026-11-05"
-      },
-      {
-        "id": "nic-specjalnego",
-        "polish": "nic specjalnego",
-        "aiStatus": "complete",
-        "translationRu": "ничего особенного",
-        "synonym": "nic nadzwyczajnego",
-        "example": "Nic specjalnego się nie stało.",
-        "firstSeenAt": "2026-07-17"
-      },
-      {
-        "id": "dotrzec-2",
-        "polish": "dotrzeć",
-        "aiStatus": "complete",
-        "translationRu": "добраться",
-        "synonym": "dojechać",
-        "example": "Trudno tam dotrzeć bez samochodu.",
-        "firstSeenAt": "2026-07-17"
+        "translationRu": "натереть (например, кожу кремом)",
+        "synonym": "posmarować",
+        "example": "Trzeba natrzeć skórę kremem przed wyjściem na słońce.",
+        "firstSeenAt": "2026-08-22"
       }
     ],
     "grammarRule": {
